@@ -1,0 +1,6 @@
+app.version=26.3x87
+app.buildNumber=87
+app.buildName=26.3x87
+os=Windows/64 10.0  
+locale=en_US
+gpuAccelType=1813

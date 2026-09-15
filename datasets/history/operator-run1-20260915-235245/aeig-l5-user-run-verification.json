@@ -1,0 +1,46 @@
+{
+  "receipt_analysis": {
+    "exit": 3,
+    "stdout": "rows=1 checks=0 matched=0 mismatched=0 passes=[] counts={}\nwrote D:\\Developer\\After Effects Internals Guide\\datasets\\exp-cache-002-receipt-matrix.csv\nwrote D:\\Developer\\After Effects Internals Guide\\experiments\\observatory\\runs\\EXP-CACHE-002\\analysis-summary.md\n",
+    "stderr": ""
+  },
+  "plugin_analysis": {
+    "exit": 0,
+    "stdout": "rows=1536 success=147 unexpected=9 published_failed=3 missing_labels=0\nwrote D:\\Developer\\After Effects Internals Guide\\datasets\\exp-plugin-001-suite-acquisition.csv\nwrote D:\\Developer\\After Effects Internals Guide\\experiments\\observatory\\runs\\EXP-PLUGIN-001\\analysis-summary.md\nexpected_attempts 1536 missing_attempts 0\n",
+    "stderr": ""
+  },
+  "rg_analysis": {
+    "exit": 2,
+    "stdout": "trace missing D:\\Developer\\After Effects Internals Guide\\experiments\\observatory\\runs\\EXP-RG-001\\host-trace.log\n",
+    "stderr": ""
+  },
+  "script_analysis": {
+    "exit": 0,
+    "stdout": "runtime_rows 496 compared_rows 380\nwrote D:\\Developer\\After Effects Internals Guide\\datasets\\exp-script-001-runtime-reflection.csv\nwrote D:\\Developer\\After Effects Internals Guide\\experiments\\observatory\\runs\\EXP-SCRIPT-001\\analysis-summary.md\n",
+    "stderr": ""
+  },
+  "aex": {
+    "exists": true,
+    "sha256": "9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98",
+    "matches_expected": true
+  },
+  "output_A": {
+    "exists": true,
+    "size": 19528,
+    "sha256": "3210306763C5AD9F51B960704979AE64D84AEE3E05037B363CDC21E8EC11BCB4"
+  },
+  "output_B": {
+    "exists": false,
+    "size": 0,
+    "sha256": ""
+  },
+  "outputs_differ": false,
+  "fixture": {
+    "exists": true,
+    "pass_a": true,
+    "mutation": false,
+    "pass_b": false,
+    "script_exit": true
+  },
+  "all_required_checks_passed": false
+}

@@ -1,0 +1,4 @@
+pass,sample_rows,sample_min_us,sample_max_us,render_begin_us,render_end_us,render_duration_us,sampler_overlaps_render,gap_sample_end_to_render_begin_us
+A,102163,53072,5046857,12363571.3,12419571.3,56000.0,False,7316714.3
+B,101597,55443,4998506,12660036.7,12714036.7,54000.0,False,7661530.7
+C,102163,54301,5015450,13171804.7,13223804.7,52000.0,False,8156354.7

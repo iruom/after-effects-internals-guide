@@ -1,0 +1,77 @@
+{
+  "experiment_id": "EXP-CORE-001",
+  "title": "Deterministic temporal output after a keyframed effect-state mutation",
+  "status": "observed",
+  "domains": ["evaluation", "state-identity", "cache"],
+  "question": "Does repeating the same 120-frame evaluation preserve byte-identical output, and does changing only the midpoint Gaussian Blur keyframe alter output across the interpolated temporal interval?",
+  "source_note": "Existing AE 26.3 run preserved in runs/EXP-CORE-001. CPU RIP sampling is retained but excluded from render-internal conclusions because its five-second windows ended before each render pass began.",
+  "environment": {
+    "ae_version": "26.3",
+    "os": "Microsoft Windows 10 Home 10.0.19045",
+    "hardware": "Intel Core i9-10900",
+    "gpu": "NVIDIA GeForce RTX 2070 SUPER; Parsec Virtual Display Adapter",
+    "notes": "Environment was reconstructed from the installed AfterFX binary and raw sample module paths; see environment.txt."
+  },
+  "hypotheses": [
+    {
+      "id": "H1",
+      "prediction": "Two evaluations of unchanged project state produce byte-identical PNG output for every sampled frame.",
+      "falsified_by": "Any A/B frame SHA-256 mismatch."
+    },
+    {
+      "id": "H2",
+      "prediction": "Changing only the middle Blur keyframe from 60 to 110 changes frames whose interpolated blur value depends on that keyframe while leaving the unchanged t=0 endpoint identical.",
+      "falsified_by": "C remains byte-identical to B across the sequence, or frame 0 changes despite its unchanged endpoint value."
+    }
+  ],
+  "factors": [
+    "same-state pass A vs B",
+    "Gaussian Blur middle keyframe: 60 -> 110 before pass C",
+    "120 frames at 24 fps over 5 seconds",
+    "three foreground layers with animated transforms and blur"
+  ],
+  "captures": [
+    "runs/EXP-CORE-001/setup.jsx",
+    "runs/EXP-CORE-001/setup.txt",
+    "runs/EXP-CORE-001/pass-A.txt",
+    "runs/EXP-CORE-001/pass-B.txt",
+    "runs/EXP-CORE-001/mutate.txt",
+    "runs/EXP-CORE-001/pass-C.txt",
+    "runs/EXP-CORE-001/png-A/",
+    "runs/EXP-CORE-001/png-B/",
+    "runs/EXP-CORE-001/png-C/",
+    "runs/EXP-CORE-001/samples-A.tsv",
+    "runs/EXP-CORE-001/samples-B.tsv",
+    "runs/EXP-CORE-001/samples-C.tsv",
+    "runs/EXP-CORE-001/environment.txt",
+    "runs/EXP-CORE-001/sha256.txt",
+    "../../datasets/exp-core-001-frame-diff.csv",
+    "../../datasets/exp-core-001-sampler-audit.csv"
+  ],
+  "procedure": [
+    "Create the deterministic 512x512 five-second fixture with three animated foreground layers and Gaussian Blur keyed 5/60/5.",
+    "Evaluate all 120 frame times to PNG as pass A.",
+    "Evaluate the unchanged state again as pass B.",
+    "Change only each foreground layer's middle Blur keyframe from 60 to 110.",
+    "Evaluate all 120 frame times again as pass C and compare SHA-256 per frame."
+  ],
+  "result": {
+    "conclusion": "Observed: pass A and B were SHA-256 identical for all 120 frames. After changing only the midpoint Blur keyframe, pass C retained equality only at f000 and differed for f001-f119. This directly validates deterministic same-state output and temporal propagation of the keyframed state mutation across sampled interpolation times. It does not by itself identify the internal GUID or cache mechanism responsible.",
+    "surviving_hypotheses": ["H1", "H2"],
+    "raw_outputs": [
+      "pass-A.txt",
+      "pass-B.txt",
+      "mutate.txt",
+      "pass-C.txt",
+      "png-A/",
+      "png-B/",
+      "png-C/"
+    ],
+    "hashes": {
+      "png-A aggregate": "39A1A7400036E3568C15BB6338C6EBC1A2DEDC833A2D130A4A5AF1E469C5EF25",
+      "png-B aggregate": "39A1A7400036E3568C15BB6338C6EBC1A2DEDC833A2D130A4A5AF1E469C5EF25",
+      "png-C aggregate": "508D3751B79CEBDD1AEF6355F7BFE17AC6840FF2BF2E886DE3F103C3BCBA3F8E"
+    },
+    "notes": "The RIP sampler does not overlap render execution: A ended 7.32 s, B 7.66 s, and C 8.16 s before the corresponding render begin timestamps. samples-A/B/C.tsv are therefore pre-render baseline captures only and are excluded from render-internal interpretation."
+  }
+}

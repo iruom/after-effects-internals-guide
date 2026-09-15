@@ -1,0 +1,441 @@
+﻿path,line,score,text
+Headers\AEConfig.h,61,4,"Older SDKs ( before TV, WATCH ) do not have TARGET_OS_IOS defined."
+Headers\AEGP_SuiteHandler.h,252,7,private methods
+Headers\AE_CacheOnLoadSuite.h,26,4,"*	CacheOnLoadSuite, used to signal whether or not the plugin needs to load from"
+Headers\PrSDKAcceleratedRenderInvocationSuite.h,115,6,*	@param inRendererID - GUID as returned from arSelector_Startup
+Headers\PrSDKAcceleratedRenderInvocationSuite.h,70,6,*	@param inRendererID - GUID as returned from arSelector_Startup
+Headers\PrSDKAcceleratedRenderInvocationSuite.h,61,6,*	@param outRendererID - GUID as returned from arSelector_Startup
+Headers\PrSDKAESupport.h,1609,5,Legacy function tables
+Headers\PrSDKAsyncImporter.h,58,11,"*		time, the standard importer creates the private data for the async"
+Headers\PrSDKAsyncImporter.h,59,10,*		importer. The async importer MUST NOT contain a link to the standard
+Headers\PrSDKAsyncImporter.h,61,7,*		must contain copies of all relevant private data from the creator
+Headers\PrSDKAsyncImporter.h,108,4,Async Importer results
+Headers\PrSDKAsyncImporter.h,94,4,Async Importer Selectors
+Headers\PrSDKAsyncImporter.h,66,4,"*		whenever the app loses focus, or when the async importer is no longer"
+Headers\PrSDKAsyncImporter.h,65,4,"*	4.) The host closes the async importer, forgetting about it. This will happen"
+Headers\PrSDKAsyncImporter.h,64,4,*	3.)	The host uses the async importer to perform i/o.
+Headers\PrSDKAsyncImporter.h,63,4,*		during the lifetime of the async importer.
+Headers\PrSDKAsyncImporter.h,60,4,"*		importer, as their lifetimes are now decoupled. The async importer, therefore,"
+Headers\PrSDKAsyncImporter.h,57,4,*	2.) The host calls imCreateAsyncImporter on the standard importer. At this
+Headers\PrSDKAsyncImporter.h,54,4,*	Here is an overview of the lifetime of an Async Importer:
+Headers\PrSDKAsyncImporter.h,49,4,"*	All calls to AsyncImporterEntry are reentrant, except for the close"
+Headers\PrSDKAsyncImporter.h,45,4,*	input from a file in an asynchronous manner. It is a separate entry point
+Headers\PrSDKAsyncImporter.h,44,4,*	An async importer is a mechanism (new in Pro 2.0) for the host to perform
+Headers\PrSDKCaptioningSuite.h,229,7,*	DEPRECATED after CS6
+Headers\PrSDKCaptioningSuite.h,76,7,*		Deprecated after CS6
+Headers\PrSDKCaptioningSuite.h,81,4,"*	to cache (or fetch) the previous data, and clock it out appropriately."
+Headers\PrSDKClipRenderSuite.h,174,4,"*	disk for new raw data, so it will fail if the required data is not in the cache."
+Headers\PrSDKClipRenderSuite.h,173,4,*	ask the importer to decode one out of cached raw data. It will not access the
+Headers\PrSDKClipRenderSuite.h,171,4,*	Find a frame of a specific format in the cache. This function will first look
+Headers\PrSDKClipRenderSuite.h,158,4,*	Cancel an asynchronous read for the specified frame. Note that you cannot specify
+Headers\PrSDKClipRenderSuite.h,144,4,*	Initiate an asynchronous read for the specified frame. Note that you cannot specify
+Headers\PrSDKClipRenderSuite.h,79,4,*												Pass nil if you do not need this information.
+Headers\PrSDKClipRenderSuite.h,78,4,*												however it is still legal to call InitiateAsyncRead.
+Headers\PrSDKClipRenderSuite.h,77,4,"*												If false, the clip does not directly support asynchronous IO,"
+Headers\PrSDKClipRenderSuite.h,76,4,"*	@param	outAsyncIOSupported					If true, the clip supports asynchronous IO."
+Headers\PrSDKExport.h,377,12,"(""xExport"" was used by some legacy Premiere plug-ins, and is a deprecated named entry point)"
+Headers\PrSDKExport.h,412,5,TODO -- most of these are copies from compiler header
+Headers\PrSDKExportControllerSuite.h,81,4,*									the module instance. Do not modify this value.
+Headers\PrSDKExportControllerSuite.h,66,4,*									the module instance. Do not modify this value.
+Headers\PrSDKExporterUtilitySuite.h,63,5,TODO - we need to add a function to the PPixSuite for adding a ref to a PPixHand.
+Headers\PrSDKExporterUtilitySuite.h,49,5,"TODO - do we need more, or is this it?"
+Headers\PrSDKExportProgressSuite.h,96,4,*	Only use this function if you do not call the sequence render suite.
+Headers\PrSDKGPUDeviceSuite.h,116,4,*	These calls do not need to be made in that case.
+Headers\PrSDKGPUDeviceSuite.h,65,4,*	All GPU frames may have outstanding asynchronous operations on the compute stream.
+Headers\PrSDKGPUFilter.h,189,5,*	Will only be called if PrGPUDependency_Precompute was returned from GetFrameDependencies.
+Headers\PrSDKGPUFilter.h,178,5,"*	Return dependency information about a render, or nothing if"
+Headers\PrSDKGPUFilter.h,148,5,PrGPUDependency_TransitionInputFrame:
+Headers\PrSDKGPUFilter.h,144,5,PrGPUDependency_FieldSeparation:
+Headers\PrSDKGPUFilter.h,134,5,PrGPUDependency_Precompute:
+Headers\PrSDKGPUFilter.h,129,5,PrGPUDependency_InputFrame:
+Headers\PrSDKGPUFilter.h,126,5,The dependency type
+Headers\PrSDKImport.h,650,7,--- Deprecated ---
+Headers\PrSDKImport.h,543,7,Deprecated in Pro 2.0
+Headers\PrSDKImport.h,533,7,private data. The data is at the end of the public struct.
+Headers\PrSDKImport.h,964,4,struct passed during imCompleteAsyncClosedCaptionScan
+Headers\PrSDKImport.h,900,4,struct passed during imInitiateAsyncClosedCaptionScan
+Headers\PrSDKImport.h,792,4,struct passed during imCreateAsyncImporter call
+Headers\PrSDKImport.h,524,4,Simply do not alter this field if the alpha bounds match the dest bounds.
+Headers\PrSDKImporterFileManagerSuite.h,72,7,</PREMIERE_PRIVATE>
+Headers\PrSDKImporterFileManagerSuite.h,52,4,*	Asynchronously refreshes any media associated with inFilePath
+Headers\PrSDKLegacySuite.h,83,5,*	@return						kLegacyResult_Success or kLegacyResult_InvalidVideoRate
+Headers\PrSDKLegacySuite.h,63,5,*	@return						kLegacyResult_Success or kLegacyResult_InvalidVideoRate
+Headers\PrSDKLegacySuite.h,47,5,*	Legacy overview:
+Headers\PrSDKLegacySuite.h,78,4,*	do not match a valid video frame rate.
+Headers\PrSDKLegacySuite.h,58,4,*	do not match a valid video frame rate.
+Headers\PrSDKMALErrors.h,195,7,*	</private>
+Headers\PrSDKMALErrors.h,193,7,<private>
+Headers\PrSDKMALErrors.h,181,7,*	</private>
+Headers\PrSDKMALErrors.h,179,7,<private>
+Headers\PrSDKMALErrors.h,171,7,*	</private>
+Headers\PrSDKMALErrors.h,169,7,<private>
+Headers\PrSDKMALErrors.h,160,7,*	</private>
+Headers\PrSDKMALErrors.h,158,7,<private>
+Headers\PrSDKMALErrors.h,120,7,*	</private>
+Headers\PrSDKMALErrors.h,118,7,<private>
+Headers\PrSDKMALErrors.h,103,7,*	</private>
+Headers\PrSDKMALErrors.h,101,7,<private>
+Headers\PrSDKMALErrors.h,88,7,*	</private>
+Headers\PrSDKMALErrors.h,86,7,<private>
+Headers\PrSDKMALErrors.h,63,7,*	</private>
+Headers\PrSDKMALErrors.h,56,7,<private>
+Headers\PrSDKMALErrors.h,170,5,*	LegacySuite ErrorCategory == 5
+Headers\PrSDKMALErrors.h,166,5,*	LegacySuite results
+Headers\PrSDKMALErrors.h,134,4,compiler is cacheable.
+Headers\PrSDKMarkerSuite.h,87,6,Obsoleted 20080514 due to disuse and complication in making it work. It would not be hard to
+Headers\PrSDKMarkerSuite.h,76,6,Obsoleted 20080514 in favor of PRT_MARKER_DURATION64. Use that instead
+Headers\PrSDKMarkerSuite.h,73,6,Obsoleted 20080514 in favor of PRT_MARKER_VALUE64. Use that instead
+Headers\PrSDKMediaAcceleratorSuite.h,121,6,*	@param	inContentState		the GUID content state
+Headers\PrSDKMediaAcceleratorSuite.h,120,6,*	@param	inDocumentID		the GUID document ID
+Headers\PrSDKMediaAcceleratorSuite.h,105,6,*	@param	inContentState		the GUID content state
+Headers\PrSDKMediaAcceleratorSuite.h,104,6,*	@param	inDocumentID		the GUID document ID
+Headers\PrSDKMediaAcceleratorSuite.h,86,6,*	@param	inContentState		the GUID content state
+Headers\PrSDKMediaAcceleratorSuite.h,85,6,*	@param	inDocumentID		the GUID document ID
+Headers\PrSDKMediaAcceleratorSuite.h,74,6,*	@param	outContentState		The Content State as a GUID.
+Headers\PrSDKMediaAcceleratorSuite.h,73,6,*	@param	outDocumentID		The Document ID GUID as a string
+Headers\PrSDKMediaAcceleratorSuite.h,66,6,"*	For a given original path, get the Document ID and Content State GUID"
+Headers\PrSDKMemoryManagerSuite.h,171,4,*	You can manually expire an item from the cache with this function. Note that the purge function
+Headers\PrSDKMemoryManagerSuite.h,163,4,"*	priority up in the cache, making a purge less likely."
+Headers\PrSDKMemoryManagerSuite.h,147,4,"*	in any of the suite cache, and it must be purgeable. The purge function you pass in"
+Headers\PrSDKMemoryManagerSuite.h,138,4,*	Get the current size of the media cache in this process.
+Headers\PrSDKOpaqueEffectDataSuite.h,42,13,*	This suite provides effects a means to share unflattened sequence data between its instances.
+Headers\PrSDKOpaqueEffectDataSuite.h,114,8,*  If the internal reference count goes to 0 any calls made to AcquireOpaqueEffectData
+Headers\PrSDKOpaqueEffectDataSuite.h,112,8,*  If the internal reference count goes to 0 outDisposeOpaqueEffectDataPP is set
+Headers\PrSDKOpaqueEffectDataSuite.h,111,8,*	Release opaque effect data.  This decrements the internal reference count.
+Headers\PrSDKOpaqueEffectDataSuite.h,65,8,"*  Similarly, RegisterOpaqueEffectData always increments the internal reference count."
+Headers\PrSDKOpaqueEffectDataSuite.h,43,6,*  The data is opaque to the host and effects are responsible for maintaining thread safety
+Headers\PrSDKPiPL.r,28,8,"PrImporter, PrCompile, PrRecord, PrPlay, AdapterVersion, InternalName."
+Headers\PrSDKPlayModule.h,117,11,"DO NOT USE, deprecated in CS5! playmod_OverlayDone    = 15,       // (Not an error) return value used in playmod_PutFrame"
+Headers\PrSDKPlayModule.h,810,5,new to CC13.0 (TODO: Do we neede this?)
+Headers\PrSDKPlayModuleAudioSuite.h,326,6,"*							inTimerCallback. This should be used as a guide only, and may"
+Headers\PrSDKPlayModuleAudioSuite.h,167,6,"*							inTimerCallback. This should be used as a guide only, and may"
+Headers\PrSDKPlayModuleOverlaySuite.h,153,4,"*		If a PPix is created, it will be cached under the key retrieved from GetIdentifier."
+Headers\PrSDKPlayModuleOverlaySuite.h,60,4,"*		If a PPix is created, it will be cached under the key retrieved from GetIdentifier."
+Headers\PrSDKPlugTimeline.h,112,7,*	The functions that have been deprecated and are not supported are:
+Headers\PrSDKPPixCacheSuite.h,128,10,*	This function allows you to cache a PPix using a GUID as an identifier.
+Headers\PrSDKPPixCacheSuite.h,444,9,"*	This function registers a dependency on a PPix. If a frame with these settings is in the cache now,"
+Headers\PrSDKPPixCacheSuite.h,410,9,"*	This function registers a dependency on a PPix. If a frame with these settings is in the cache now,"
+Headers\PrSDKPPixCacheSuite.h,377,9,"*	This function registers a dependency on a PPix. If a frame with these settings is in the cache now,"
+Headers\PrSDKPPixCacheSuite.h,354,9,"*	This function registers a dependency on a PPix. If a frame with these settings is in the cache now,"
+Headers\PrSDKPPixCacheSuite.h,172,9,"*  This function attempts to flush a frame from the cache. If the frame has a registered dependency, then the"
+Headers\PrSDKPPixCacheSuite.h,152,9,"*	This function registers a dependency on a PPix. If a frame with that identifier is in the cache now,"
+Headers\PrSDKPPixCacheSuite.h,131,6,"*								The GUID can be anything, but must be unique."
+Headers\PrSDKPPixCacheSuite.h,446,5,*	dependencies. You are responsible for calling the UnregisterDependencyOnNamedPPix function with the
+Headers\PrSDKPPixCacheSuite.h,412,5,*	dependencies. You are responsible for calling the UnregisterDependencyOnNamedPPix function with the
+Headers\PrSDKPPixCacheSuite.h,379,5,*	dependencies. You are responsible for calling the UnregisterDependencyOnNamedPPix function with the
+Headers\PrSDKPPixCacheSuite.h,356,5,*	dependencies. You are responsible for calling the UnregisterDependencyOnNamedPPix function with the
+Headers\PrSDKPPixCacheSuite.h,173,5,*  frame will remain available until the dependency count hits zero.
+Headers\PrSDKPPixCacheSuite.h,164,5,*	RegisterDependencyOnNamedPPix
+Headers\PrSDKPPixCacheSuite.h,163,5,*	This function unregisters a dependency on a named PPix. This must be called for every successful call of
+Headers\PrSDKPPixCacheSuite.h,523,4,*	This will retrieve a ppix from the frame cache for this importer instance.
+Headers\PrSDKPPixCacheSuite.h,510,4,*	This will add the ppix to the raw cache for this importer instance.
+Headers\PrSDKPPixCacheSuite.h,494,4,*	This will retrieve a ppix from the frame cache for this importer instance and stream.
+Headers\PrSDKPPixCacheSuite.h,480,4,*	This will add the ppix to the frame cache for this importer instance and stream.
+Headers\PrSDKPPixCacheSuite.h,458,4,*	@param	inPrColorSpaceID	color space to be used as part of identifier to retrieve a frame from cache; this is an opaque token passed to the importer by the host that importer is expected to use in color management APIs
+Headers\PrSDKPPixCacheSuite.h,445,4,"*	or ends up in the cache soon, then it will not be flushed from the cache while there are outstanding"
+Headers\PrSDKPPixCacheSuite.h,411,4,"*	or ends up in the cache soon, then it will not be flushed from the cache while there are outstanding"
+Headers\PrSDKPPixCacheSuite.h,378,4,"*	or ends up in the cache soon, then it will not be flushed from the cache while there are outstanding"
+Headers\PrSDKPPixCacheSuite.h,355,4,"*	or ends up in the cache soon, then it will not be flushed from the cache while there are outstanding"
+Headers\PrSDKPPixCacheSuite.h,339,4,*	@param	inPrColorSpaceID	color space to be used as part of identifier to retrieve a frame from cache; this is an opaque token passed to the importer by the host that importer is expected to use in color management APIs
+Headers\PrSDKPPixCacheSuite.h,328,4,*	This will retrieve a ppix from the frame cache for this importer instance and stream.
+Headers\PrSDKPPixCacheSuite.h,315,4,*	@param	inPrColorSpaceID	color space for the frame to be cached; this is an opaque token passed to the importer by the host that importer is expected to use in color management APIs
+Headers\PrSDKPPixCacheSuite.h,306,4,*	This will add the ppix to the frame cache for this importer instance and stream.
+Headers\PrSDKPPixCacheSuite.h,273,4,*	This will retrieve a ppix from the frame cache for this importer instance and stream.
+Headers\PrSDKPPixCacheSuite.h,244,4,*	This will add the ppix to the frame cache for this importer instance and stream.
+Headers\PrSDKPPixCacheSuite.h,214,4,*	This will retrieve a ppix from the frame cache for this importer instance and stream.
+Headers\PrSDKPPixCacheSuite.h,186,4,*	This will add the ppix to the frame cache for this importer instance and stream.
+Headers\PrSDKPPixCacheSuite.h,181,4,*  This function attempts to flush all ppixes from the cache.
+Headers\PrSDKPPixCacheSuite.h,175,4,*	@param inPPixIdentifier		The ID of the PPix you want forcibly removed from the cache.
+Headers\PrSDKPPixCacheSuite.h,166,4,*	@param inPPixIdentifier		The ID of the PPix you no longer need in the cache.
+Headers\PrSDKPPixCacheSuite.h,157,4,*	@param	inPPixIdentifier	The ID of the PPix you want held in the cache.
+Headers\PrSDKPPixCacheSuite.h,153,4,"*	or ends up in the cache soon, then it will not be flushed from the cache while there are outstanding"
+Headers\PrSDKPPixCacheSuite.h,144,4,"*	@param	outPPixHand			The PPix, if it's available. If it's not in the cache, this will be NULL."
+Headers\PrSDKPPixCacheSuite.h,141,4,*	This function retrieves a named PPix from the cache.
+Headers\PrSDKPPixCacheSuite.h,134,4,"*								You may want to get the PPix from the cache after this, in case your frame is redundant."
+Headers\PrSDKPPixCacheSuite.h,132,4,"*	@param	inPPix				The Pixels to put in the cache. If a frame with this id is already in the cache,"
+Headers\PrSDKPPixCacheSuite.h,116,4,*	This will retrieve a ppix from the frame cache for this importer instance.
+Headers\PrSDKPPixCacheSuite.h,103,4,*	This will add the ppix to the raw cache for this importer instance.
+Headers\PrSDKPPixCacheSuite.h,83,4,*	This will retrieve a ppix from the frame cache for this importer instance and stream.
+Headers\PrSDKPPixCacheSuite.h,65,4,*	This will add the ppix to the frame cache for this importer instance and stream.
+Headers\PrSDKPPixSuite.h,133,5,*	[TODO] Fill in returned error codes.
+Headers\PrSDKPPixSuite.h,156,4,"*	@param	outRenderMilliseconds	Returns the render time in milliseconds. If the frame was cached, this time will be 0."
+Headers\PrSDKPPixSuite.h,76,4,*	@param	inRequestedAccess	Requested pixel access. Most PPixs do not support write access modes.
+Headers\PrSDKRecordModule.h,587,6,Obsolete. Use recCapParmsRec8
+Headers\PrSDKRecordModule.h,545,6,Obsolete. Use SceneCapturedFunc8
+Headers\PrSDKRecordModule.h,220,6,Obsolete in favor of SceneCapturedFunc (defined below)
+Headers\PrSDKRecordModule.h,520,5,TODO: Yogita: These standards are defined at various places in the code and should be ideally at one location
+Headers\PrSDKRollCrawlSuite.h,86,5,[TODO]
+Headers\PrSDKSequenceRenderSuite.h,193,4,Register a notification callback for retrieving async frames
+Headers\PrSDKSequenceRenderSuite.h,145,4,"Callback used for async frame notification, passed to RegisterAsyncGetFrameCallback"
+Headers\PrSDKSequenceRenderSuite.h,79,4,This is info passed back in response to calling GetFrame or AsyncGetFrame
+Headers\PrSDKSetEnv.h,35,4,"Older SDKs ( before TV, WATCH ) do not have TARGET_OS_IOS defined."
+Headers\PrSDKTimeSuite.h,73,5,[SFMOD] [TODO] this normally belongs in PrSDKPlayModule.h
+Headers\PrSDKTimeSuite.h,65,5,[TODO] [SFMOD] clean this up (PrFrameRate VS. PrVideoFrameRates).  Maybe extra helpers?
+Headers\PrSDKTransmit.h,302,7,*	may be created at the same time. ioPrivateInstanceData may be written
+Headers\PrSDKTransmit.h,269,7,*	Startup. ioPrivatePluginData should be disposed in Shutdown.
+Headers\PrSDKTransmit.h,267,7,"*	transmit plug-ins within the same module. ioPrivatePluginData,"
+Headers\PrSDKTransmit.h,253,6,"*	Thread safety is defined per module, only a single thread will enter a"
+Headers\PrSDKTransmit.h,362,4,*	Asynchronously pushes video to a transmit instance. Will only be called
+Headers\PrSDKTransmit.h,349,4,"*	with a negative number for preroll, but do not use this to wait for frames."
+Headers\PrSDKTypes.h,381,6,"A GUID string in the form xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx, NULL terminated"
+Headers\PrSDKTypes.h,334,6,opaque guid based identifier used to pass information between host and plug-in
+Headers\PrSDKVideoSegmentRenderSuite.h,495,8,*	A matching function for ApplyOperatorsToFrameAsync. This allows you to check the cache for this frame
+Headers\PrSDKVideoSegmentRenderSuite.h,431,8,*	A matching function for ProduceFrameAsync. This allows you to check the cache for this frame
+Headers\PrSDKVideoSegmentRenderSuite.h,215,8,*	A matching function for ApplyOperatorsToFrameAsync. This allows you to check the cache for this frame
+Headers\PrSDKVideoSegmentRenderSuite.h,164,8,*	A matching function for ApplyOperatorsToFrameAsync. This allows you to check the cache for this frame
+Headers\PrSDKVideoSegmentRenderSuite.h,105,8,*	A matching function for ProduceFrameAsync. This allows you to check the cache for this frame
+Headers\PrSDKVideoSegmentRenderSuite.h,660,4,*	This allows you to check the cache for this frame
+Headers\PrSDKVideoSegmentRenderSuite.h,659,4,*	A matching function for ApplyTransitionToColorManagedFrameAsync3.
+Headers\PrSDKVideoSegmentRenderSuite.h,640,4,*	Color managed version of ApplyTransitionToFrameAsync2
+Headers\PrSDKVideoSegmentRenderSuite.h,618,4,*	This allows you to check the cache for this frame
+Headers\PrSDKVideoSegmentRenderSuite.h,617,4,*	A matching function for ApplyOperatorsToColorManagedFrameAsync4.
+Headers\PrSDKVideoSegmentRenderSuite.h,592,4,* Color managed version of ApplyOperatorsToFrameAsync3
+Headers\PrSDKVideoSegmentRenderSuite.h,573,4,*	This allows you to check the cache for this frame
+Headers\PrSDKVideoSegmentRenderSuite.h,572,4,*	A matching function for ProduceColorManagedFrameAsync4.
+Headers\PrSDKVideoSegmentRenderSuite.h,549,4,* Color managed version of ProduceFrameAsync3
+Headers\PrSDKVideoSegmentRenderSuite.h,529,4,* @param inAsyncCompletionData - an extra param that will be provided to the completion routine.
+Headers\PrSDKVideoSegmentRenderSuite.h,469,4,* @param inAsyncCompletionData - an extra param that will be provided to the completion routine.
+Headers\PrSDKVideoSegmentRenderSuite.h,449,4,"* For a given operator, in a given timeline, with a provided input frame, render the effect asynchronously."
+Headers\PrSDKVideoSegmentRenderSuite.h,408,4,* @param inAsyncCompletionData - an extra param that will be provided to the completion routine.
+Headers\PrSDKVideoSegmentRenderSuite.h,366,4,* @param inAsyncCompletionData - an extra param that will be provided to the completion routine.
+Headers\PrSDKVideoSegmentRenderSuite.h,346,4,"* For a given operator, in a given timeline, with a provided input frame, render the effect asynchronously."
+Headers\PrSDKVideoSegmentRenderSuite.h,332,4,* @param inAsyncCompletionData - an extra param that will be provided to the completion routine.
+Headers\PrSDKVideoSegmentRenderSuite.h,304,4,* @param inAsyncCompletionData - an extra param that will be provided to the completion routine.
+Headers\PrSDKVideoSegmentRenderSuite.h,263,4,*	A matching function for InitiateClipPrefetch. This allows you to check the cache for this frame
+Headers\PrSDKVideoSegmentRenderSuite.h,250,4,* @param inAsyncCompletionData - an extra param that will be provided to the completion routine.
+Headers\PrSDKVideoSegmentRenderSuite.h,197,4,* @param inAsyncCompletionData - an extra param that will be provided to the completion routine.
+Headers\PrSDKVideoSegmentRenderSuite.h,141,4,* @param inAsyncCompletionData - an extra param that will be provided to the completion routine.
+Headers\PrSDKVideoSegmentRenderSuite.h,122,4,"* For a given operator, in a given timeline, with a provided input frame, render the effect asynchronously."
+Headers\PrSDKVideoSegmentRenderSuite.h,85,4,* @param inAsyncCompletionData - an extra param that will be provided to the completion routine.
+Headers\PrSDKVideoSegmentSuite.h,172,6,*	@param	outHash				The GUID hash of the segments
+Headers\SPAccess.h,389,8,* Internal */
+Headers\SPAccess.h,387,8,* Internal */
+Headers\SPAccess.h,383,8,* Internal */
+Headers\SPAccess.h,380,8,* Internal */
+Headers\SPAccess.h,378,8,* Internal */
+Headers\SPAccess.h,375,8,* Internal */
+Headers\SPAccess.h,373,8,* Internal */
+Headers\SPAccess.h,371,8,* Internal */
+Headers\SPAccess.h,369,8,* Internal */
+Headers\SPAccess.h,367,8,* Internal */
+Headers\SPAccess.h,364,8,* Internal */
+Headers\SPAccess.h,362,8,* Internal */
+Headers\SPAccess.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SPAccess.h,97,4,"* The name of the object that the \c #SPAccessSuite caches,"
+Headers\SPAdapts.h,137,15,* @deprecated Used internally.   */
+Headers\SPAdapts.h,135,15,* @deprecated Used internally.   */
+Headers\SPAdapts.h,133,15,* @deprecated Used internally.  */
+Headers\SPAdapts.h,131,15,* @deprecated Used internally. */
+Headers\SPAdapts.h,389,8,* Internal */
+Headers\SPAdapts.h,387,8,* Internal */
+Headers\SPAdapts.h,385,8,* Internal */
+Headers\SPAdapts.h,382,8,* Internal */
+Headers\SPAdapts.h,380,8,* Internal */
+Headers\SPAdapts.h,378,8,* Internal */
+Headers\SPAdapts.h,375,8,* Internal */
+Headers\SPAdapts.h,371,8,* Internal */
+Headers\SPAdapts.h,368,8,* Internal */
+Headers\SPAdapts.h,366,8,* Internal */
+Headers\SPAdapts.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SPAdapts.h,128,7,"For newer adapters, all of these methods are now deprecated."
+Headers\SPAdapts.h,127,5,"Sweet Pea and maybe legacy adapters (i.e., AI6Adapter for AI7)."
+Headers\SPAdapts.h,190,4,"* For \c #kSPAdaptersFlushSelector. The procedure with which to flush caches,"
+Headers\SPBasic.h,169,8,* Internal */
+Headers\SPBasic.h,167,8,* Internal */
+Headers\SPBasic.h,165,8,* Internal */
+Headers\SPBasic.h,163,8,* Internal */
+Headers\SPBasic.h,161,8,* Internal */
+Headers\SPBasic.h,159,8,* Internal */
+Headers\SPBasic.h,157,8,* Internal */
+Headers\SPBasic.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SPCaches.h,120,8,* Internal */
+Headers\SPCaches.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SPCaches.h,83,4,* Message passed with the \c #kSPPluginPurgeCachesSelector. */
+Headers\SPCaches.h,73,4,* Prototype for the cache-flushing procedure an adapter calls in response to the
+Headers\SPCaches.h,64,4,#define kSPPluginCachesFlushResponse	'pFls'
+Headers\SPCaches.h,62,4,The plug-in should return one of these two responses when it receives the kSPPluginPurgeCachesSelector */
+Headers\SPCaches.h,49,4,with the PIAcceptsPurgeCachesMessage flag set. */
+Headers\SPCaches.h,45,4,* Cache suite version */
+Headers\SPCaches.h,43,4,* Cache suite name */
+Headers\SPCaches.h,3,4,SPCaches.h                                                          */
+Headers\SPConfig.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SPErrorCodes.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SPErrorCodes.h,99,4,SPCaches errors
+Headers\SPFiles.h,277,8,* Internal */
+Headers\SPFiles.h,274,8,* Internal */
+Headers\SPFiles.h,272,8,* Internal */
+Headers\SPFiles.h,269,8,* Internal */
+Headers\SPFiles.h,267,8,* Internal */
+Headers\SPFiles.h,265,8,* Internal */
+Headers\SPFiles.h,263,8,* Internal */
+Headers\SPFiles.h,260,8,* Internal */
+Headers\SPFiles.h,258,8,* Internal */
+Headers\SPFiles.h,256,8,* Internal */
+Headers\SPFiles.h,253,8,* Internal */
+Headers\SPFiles.h,251,8,* Internal */
+Headers\SPFiles.h,249,8,* Internal */
+Headers\SPFiles.h,148,8,* Internal */
+Headers\SPFiles.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SPMData.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SPPiPL.h,190,8,<<are these internal?>>
+Headers\SPPiPL.h,110,8,* Internal: Defines the general properties only if the application has
+Headers\SPPiPL.h,96,8,"* Internal. Plug-in resource type, \c #PIProperty::propertyKey value."
+Headers\SPPiPL.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SPPiPL.h,257,7,* DEPRECATED Win16 Intel code descriptor.
+Headers\SPPiPL.h,153,7,DEPRECATED 'fx86' <PIWin16X86CodeDesc> Win16 Intel code descriptor. See struct below.
+Headers\SPPiPL.h,91,4,* Flag bit for \c #PIConditionalMessages: plug-in accepts purge-cache messages. */
+Headers\SPPlugs.h,381,8,* Internal */
+Headers\SPPlugs.h,379,8,* Internal */
+Headers\SPPlugs.h,371,8,* Internal */
+Headers\SPPlugs.h,368,8,* Internal */
+Headers\SPPlugs.h,365,8,* Internal */
+Headers\SPPlugs.h,363,8,* Internal */
+Headers\SPPlugs.h,361,8,* Internal */
+Headers\SPPlugs.h,357,8,* Internal */
+Headers\SPPlugs.h,354,8,* Internal */
+Headers\SPPlugs.h,352,8,* Internal */
+Headers\SPPlugs.h,350,8,* Internal */
+Headers\SPPlugs.h,348,8,* Internal */
+Headers\SPPlugs.h,346,8,* Internal */
+Headers\SPPlugs.h,344,8,* Internal */
+Headers\SPPlugs.h,342,8,* Internal */
+Headers\SPPlugs.h,340,8,* Internal */
+Headers\SPPlugs.h,338,8,* Internal */
+Headers\SPPlugs.h,336,8,* Internal */
+Headers\SPPlugs.h,334,8,* Internal */
+Headers\SPPlugs.h,332,8,* Internal */
+Headers\SPPlugs.h,330,8,* Internal */
+Headers\SPPlugs.h,328,8,* Internal */
+Headers\SPPlugs.h,325,8,* Internal */
+Headers\SPPlugs.h,323,8,* Internal */
+Headers\SPPlugs.h,321,8,* Internal */
+Headers\SPPlugs.h,317,8,* Internal */
+Headers\SPPlugs.h,314,8,* Internal */
+Headers\SPPlugs.h,312,8,* Internal */
+Headers\SPPlugs.h,310,8,* Internal */
+Headers\SPPlugs.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SPPlugs.h,378,7,This attribute frees the adapterInfo field for private data for adapters. */
+Headers\SPPlugs.h,293,7,This attribute frees the adapterInfo field for private data for adapters.
+Headers\SPProps.h,300,8,* Internal */
+Headers\SPProps.h,297,8,* Internal */
+Headers\SPProps.h,295,8,* Internal */
+Headers\SPProps.h,292,8,* Internal */
+Headers\SPProps.h,290,8,* Internal */
+Headers\SPProps.h,288,8,* Internal */
+Headers\SPProps.h,286,8,* Internal */
+Headers\SPProps.h,283,8,* Internal */
+Headers\SPProps.h,281,8,* Internal */
+Headers\SPProps.h,279,8,* Internal */
+Headers\SPProps.h,275,8,* Internal */
+Headers\SPProps.h,271,8,* Internal */
+Headers\SPProps.h,267,8,* Internal */
+Headers\SPProps.h,264,8,* Internal */
+Headers\SPProps.h,262,8,* Internal */
+Headers\SPProps.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SPProps.h,214,4,*	Reports whether a property is cacheable.
+Headers\SPStrngs.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SPSuites.h,268,8,* Internal */
+Headers\SPSuites.h,266,8,* Internal */
+Headers\SPSuites.h,264,8,* Internal */
+Headers\SPSuites.h,262,8,* Internal */
+Headers\SPSuites.h,260,8,* Internal */
+Headers\SPSuites.h,258,8,* Internal */
+Headers\SPSuites.h,255,8,* Internal */
+Headers\SPSuites.h,253,8,* Internal */
+Headers\SPSuites.h,251,8,* Internal */
+Headers\SPSuites.h,247,8,* Internal */
+Headers\SPSuites.h,243,8,* Internal */
+Headers\SPSuites.h,239,8,* Internal */
+Headers\SPSuites.h,235,8,* Internal */
+Headers\SPSuites.h,232,8,* Internal */
+Headers\SPSuites.h,228,8,* Internal */
+Headers\SPSuites.h,208,8,* Retrieves the internal version number of a suite.
+Headers\SPSuites.h,50,8,* Internal */
+Headers\SPSuites.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SPTypes.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Utils\SDK_File.cpp,77,7,Update the private data with the parameter settings
+Utils\SDK_File.cpp,263,4,"ReadSDKFileAsync - Read theFrame from the indicated SDK file,"
+Utils\SDK_File.cpp,49,4,4.1 - zal - Support async IO on Win
+Utils\SDK_File.h,127,7,"fileName is used as an example of saving a filename in private data,"
+Projects\SDK_Custom_Import\SDK_Custom_Import.cpp,751,7,Get the privateData handle you stored in imGetInfo
+Projects\SDK_Custom_Import\SDK_Custom_Import.cpp,721,7,Remove the privateData handle.
+Projects\SDK_Custom_Import\SDK_Custom_Import.cpp,682,7,"with privateData == 0, we should check before doing anything with it"
+Projects\SDK_Custom_Import\SDK_Custom_Import.cpp,680,7,"NOTE:	If you don't set any privateData, you will not get an imCloseFile call"
+Projects\SDK_Custom_Import\SDK_Custom_Import.cpp,678,7,"""Quiet"" the file (it's being closed, but you maintain your Private data)."
+Projects\SDK_Custom_Import\SDK_Custom_Import.cpp,1096,5,[TODO] Needs MacOS implementation
+Projects\SDK_Custom_Import\SDK_Custom_Import.cpp,792,5,"TODO: Decompress the file, return a handle to a buffer"
+Projects\SDK_Custom_Import\SDK_Custom_Import.cpp,594,5,[TODO] Use error suite to return critical error
+Projects\SDK_Custom_Import\SDK_Custom_Import.cpp,443,5,[TODO] Display background frame on MacOS
+Projects\SDK_Custom_Import\SDK_Custom_Import.cpp,384,5,[TODO] Display background frame on MacOS
+Projects\SDK_Custom_Import\SDK_Custom_Import.cpp,376,5,[TODO] Will need to use Cocoa with NSAlertPanel
+Projects\SDK_Custom_Import\SDK_Custom_Import.cpp,296,5,[TODO] Display background frame on MacOS
+Projects\SDK_Custom_Import\SDK_Custom_Import.cpp,288,5,[TODO] Will need to use Cocoa with NSAlertPanel
+Projects\SDK_Custom_Import\SDK_Custom_Import.cpp,246,5,[TODO] Use the Application Settings Suite to create the file at the path returned by kScratchDiskType_CaptureVideo
+Projects\SDK_Custom_Import\SDK_Custom_Import.cpp,460,4,"Bug 2303475 - In CS5.0.x, RefreshFileAsync() doesn't correctly parse the \\?\ prefix on Win, so we chop off the first 4 characters"
+Projects\SDK_Custom_Import\SDK_Custom_ImportPiPL.r,44,8,The internal name of this plug-in
+Projects\SDK_Custom_Import\SDK_Custom_ImportPiPL.r,49,5,[TODO] This definition should be moved to a common location
+Projects\SDK_Exporter\SDK_Exporter_Params.cpp,92,7,Stash off the source field type into our private data.
+Projects\SDK_Exporter\SDK_Exporter_Params.cpp,791,5,[TODO - ZL] Need to convert ticks to frame rate
+Projects\SDK_Exporter\SDK_Exporter_Params.cpp,703,5,[TODO] Will need to use Cocoa with NSAlertPanel
+Projects\SDK_Exporter\SDK_Exporter_Params.cpp,337,5,[TODO - ZL] Add more params: 8-bit vs 32-bit processing
+Projects\SDK_File_Import\SDK_Async_Import.cpp,281,5,[TODO] Cancel the read if pending
+Projects\SDK_File_Import\SDK_Async_Import.cpp,486,4,"Dispose of PPH, though it will stay in the cache"
+Projects\SDK_File_Import\SDK_Async_Import.cpp,449,4,Add to cache
+Projects\SDK_File_Import\SDK_Async_Import.cpp,355,4,Check to see if frame is already in cache
+Projects\SDK_File_Import\SDK_Async_Import.cpp,211,4,Start loading it in memory asynchronously
+Projects\SDK_File_Import\SDK_Async_Import.cpp,164,4,Check to see if frame is already in cache
+Projects\SDK_File_Import\SDK_Async_Import.h,43,4,This object is created by an importer during imCreateAsyncImporter
+Projects\SDK_File_Import\SDK_Async_Import.h,30,4,We use a list of these to keep track of the asynchronous disk reads we've started
+Projects\SDK_File_Import\SDK_Async_Import.h,28,4,#define ASYNC_IMPORT_DEBUG_INFO
+Projects\SDK_File_Import\SDK_Async_Import.h,26,4,For asynchronous import testing
+Projects\SDK_File_Import\SDK_File_Import.cpp,1765,7,Store importer as private data
+Projects\SDK_File_Import\SDK_File_Import.cpp,1641,7,Get the privateData handle you stored in imGetInfo
+Projects\SDK_File_Import\SDK_File_Import.cpp,1181,7,"Get a handle to our private data.  If it doesn't exist, allocate one"
+Projects\SDK_File_Import\SDK_File_Import.cpp,713,7,Copy time info to our private data
+Projects\SDK_File_Import\SDK_File_Import.cpp,466,7,Remove the privateData handle.
+Projects\SDK_File_Import\SDK_File_Import.cpp,449,7,Close the file.  You MUST have allocated Private data in imGetPrefs or you will not
+Projects\SDK_File_Import\SDK_File_Import.cpp,423,7,"NOTE:	If you don't set any privateData, you will not get an imCloseFile call"
+Projects\SDK_File_Import\SDK_File_Import.cpp,421,7,"""Quiet"" the file (it's being closed, but you maintain your Private data)."
+Projects\SDK_File_Import\SDK_File_Import.cpp,1739,5,"[TODO] Decompress the file, return a handle to a buffer"
+Projects\SDK_File_Import\SDK_File_Import.cpp,1564,5,[TODO]
+Projects\SDK_File_Import\SDK_File_Import.cpp,1522,5,[TODO]
+Projects\SDK_File_Import\SDK_File_Import.cpp,1508,5,[TODO]
+Projects\SDK_File_Import\SDK_File_Import.cpp,1492,5,[TODO]
+Projects\SDK_File_Import\SDK_File_Import.cpp,1460,5,[TODO]
+Projects\SDK_File_Import\SDK_File_Import.cpp,1400,5,[TODO]
+Projects\SDK_File_Import\SDK_File_Import.cpp,1365,5,[TODO]
+Projects\SDK_File_Import\SDK_File_Import.cpp,1331,5,[TODO]
+Projects\SDK_File_Import\SDK_File_Import.cpp,1309,5,[TODO]
+Projects\SDK_File_Import\SDK_File_Import.cpp,1761,4,Create and initialize async importer
+Projects\SDK_File_Import\SDK_File_Import.cpp,1758,4,Set entry point for async importer
+Projects\SDK_File_Import\SDK_File_Import.cpp,1658,4,"If frame is not in the cache, read the frame and put it in the cache; otherwise, we're done"
+Projects\SDK_File_Import\SDK_File_Import.cpp,1648,4,Check to see if frame is already in cache
+Projects\Synth_Import\Synth_Import.cpp,206,5,[TODO] Will need to use Cocoa with NSAlertPanel
+Projects\Synth_Import\Synth_Import.cpp,126,4,We do not have to check which colorspace we are executing on because our logic is the same
+Projects\Synth_Import\Synth_ImportPiPL.r,43,8,The internal name of this plug-in
+Projects\Synth_Import\Synth_ImportPiPL.r,48,5,[TODO] This definition should be moved to a common location
+Projects\Transmitter\Transmitter.cpp,30,7,* pointers to TransmitInstances are saved in ioPrivateInstanceData.
+Projects\Transmitter\Transmitter.cpp,29,7,"* A pointer to the TransmitPlugin is saved in ioStdParms->ioPrivatePluginData, and"
+Projects\Transmitter\TransmitterPlugin.cpp,560,4,"Note: do not block/wait here, because this will be called on a high priority thread and blocking"
+Projects\Transmitter\TransmitterPlugin.cpp,358,4,then register our UpdateClock function that calls the audio callback asynchronously during playback
+Projects\GPUVideoFilter\SDK_CrossDissolve\SDK_CrossDissolve_GPU.cpp,225,4,Cache the DXContext
+Projects\GPUVideoFilter\SDK_CrossDissolve\SDK_CrossDissolve_GPU.cpp,133,4,Load and compile the kernel - a real plugin would cache binaries to disk
+Projects\GPUVideoFilter\SDK_ProcAmp\SDK_ProcAmp_GPU.cpp,181,4,Cache the DXContext
+Projects\GPUVideoFilter\SDK_ProcAmp\SDK_ProcAmp_GPU.cpp,107,4,Load and compile the kernel - a real plugin would cache binaries to disk
+Projects\GPUVideoFilter\Utils\DirectXUtils.cpp,42,8,Subtle: The ComPtr constructor does an internal AddRef which would balance the RelaseRef when DXContext is deleted
+Projects\GPUVideoFilter\Vignette\Vignette_GPU.cpp,228,4,Cache the DXContext
+Projects\GPUVideoFilter\Vignette\Vignette_GPU.cpp,158,4,Load and compile the kernel - a real plugin would cache binaries to disk
+Projects\ControlSurface\Src\ControlSurface.cpp,290,8,"DVA_TRACE(""YourHardwareControlSurface::SetControlSurfaceHost"", 5, ""CommandID: "" << dvacore::UTF16String(commandID) << "", commandName: "" << dvacore::UTF16String(commandName));"
+Projects\ControlSurface\Src\ControlSurface.cpp,424,5,"[TODO] if (mControlSurfaceHostMemorySuite->AllocateString(buttonDisplayName.length() + 1, &result) == kSPNoError && result != 0)"
+Projects\ControlSurface\Src\ControlSurface.cpp,414,5,Sequential search for now - @todo
+Projects\ControlSurface\Src\ControlSurface.cpp,295,5,[TODO] mControlSurfaceHostMemorySuite->FreeString(commandName);
+Projects\ControlSurface\Src\ControlSurface.cpp,293,5,[TODO] mControlSurfaceHostMemorySuite->FreeString(commandID);
+Projects\ControlSurface\Src\ControlSurface.cpp,275,5,[TODO]
+Projects\ControlSurface\Src\ControlSurface.cpp,98,5,Add some default commands - @todo: should be populated from config files/XML
+Projects\ControlSurface\Src\ControlSurface.h,119,5,dvacore::utility::TimeStamp					mLastForwardPressedTime;
+Projects\ControlSurface\Src\ControlSurface.h,118,5,dvacore::utility::TimeStamp					mLastRewindPressedTime;
+Projects\ControlSurface\Src\ControlSurfacePlugin.cpp,152,5,[TODO]
+Projects\ControlSurface\Src\ControlSurfacePlugin.cpp,140,5,[TODO]
+Headers\PrGPU\KernelSupport\KernelCore.h,224,7,*	GF_THREAD_PTR declares a pointer to thread private memory:
+Headers\PrGPU\KernelSupport\KernelCore.h,25,7,*	!!!IMPORTANT: DIRECTX has not been revealed to public. Please keep DIRECTX related definitions inside private SDK.
+Headers\PrGPU\KernelSupport\KernelCore.h,26,4,*	Do not merge it into the public SDK.

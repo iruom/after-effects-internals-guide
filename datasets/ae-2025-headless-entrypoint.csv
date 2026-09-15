@@ -1,0 +1,43 @@
+source,relation,entry
+aerender.exe,static-dependent,KERNEL32.dll
+aerender.exe,static-dependent,WSOCK32.dll
+aerender.exe,static-dependent,MSVCP140.dll
+aerender.exe,static-dependent,VCRUNTIME140.dll
+aerender.exe,static-dependent,VCRUNTIME140_1.dll
+aerender.exe,static-dependent,api-ms-win-crt-runtime-l1-1-0.dll
+aerender.exe,static-dependent,api-ms-win-crt-stdio-l1-1-0.dll
+aerender.exe,static-dependent,api-ms-win-crt-convert-l1-1-0.dll
+aerender.exe,static-dependent,api-ms-win-crt-filesystem-l1-1-0.dll
+aerender.exe,static-dependent,api-ms-win-crt-heap-l1-1-0.dll
+aerender.exe,static-dependent,api-ms-win-crt-math-l1-1-0.dll
+aerender.exe,static-dependent,api-ms-win-crt-locale-l1-1-0.dll
+AfterFX.exe,static-dependent,KERNEL32.dll
+AfterFX.exe,static-dependent,USER32.dll
+AfterFX.exe,static-dependent,SHLWAPI.dll
+AfterFX.exe,static-dependent,AfterFXLib.dll
+AfterFX.exe,static-dependent,MSVCP140.dll
+AfterFX.exe,static-dependent,VCRUNTIME140.dll
+AfterFX.exe,static-dependent,VCRUNTIME140_1.dll
+AfterFX.exe,static-dependent,api-ms-win-crt-runtime-l1-1-0.dll
+AfterFX.exe,static-dependent,api-ms-win-crt-stdio-l1-1-0.dll
+AfterFX.exe,static-dependent,api-ms-win-crt-string-l1-1-0.dll
+AfterFX.exe,static-dependent,api-ms-win-crt-heap-l1-1-0.dll
+AfterFX.exe,static-dependent,api-ms-win-crt-math-l1-1-0.dll
+AfterFX.exe,static-dependent,api-ms-win-crt-locale-l1-1-0.dll
+aerender.exe,runtime-help,by an already running instance of AE or by a newly invoked instance. By
+aerender.exe,runtime-help,"default, aerender will invoke a new instance of AE, even if one is"
+aerender.exe,runtime-help,"already running. To change this, see the ""-reuse"" flag below."
+aerender.exe,runtime-help,"Some are single flags, like ""-reuse"". Some come in flag-argument"
+aerender.exe,runtime-help,-mem_usage image_cache_percent max_mem_percent.
+aerender.exe,runtime-help,"""-reuse""                use this flag if you want to try and reuse"
+aerender.exe,runtime-help,an already running instance of AE to perform the
+aerender.exe,runtime-help,"""-reuse"" flag is provided, then aerender will"
+aerender.exe,runtime-help,ask the already running instance of AE to perform
+aerender.exe,runtime-help,"quit AE. Also, the preferences will be written"
+aerender.exe,runtime-help,"to file upon quit when the ""-reuse"" flag is"
+aerender.exe,runtime-help,"will be -project, -log, -v, -mem_usage, and"
+aerender.exe,runtime-help,"""-mem_usage image_cache_percent max_mem_percent"""
+aerender.exe,runtime-help,"Multi-Frame Rendering should be used, and"
+aerender.exe,runtime-help,Because Multi-Frame Rendering has the ability
+aerender.exe,runtime-help,"""-continueOnMissingFootage"""
+aerender.exe,runtime-version,aerender version 25.6.4x3

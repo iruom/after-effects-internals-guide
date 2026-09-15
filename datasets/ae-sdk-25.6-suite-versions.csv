@@ -1,0 +1,142 @@
+suite_macro_base,version_macro,generation,pica_version,comment,source,line
+kAEGPArtisanUtilSuite,kAEGPArtisanUtilSuiteVersion1,1,1,frozen in AE 5.0,AE_GeneralPlug.h,3872
+kAEGPCameraSuite,kAEGPCameraSuiteVersion1,1,1,frozen in AE 5.0,AE_GeneralPlugOld.h,6470
+kAEGPCameraSuite,kAEGPCameraSuiteVersion2,2,2,frozen in AE 5.5,AE_GeneralPlug.h,3912
+kAEGPCanvasSuite,kAEGPCanvasSuiteVersion1,1,4,frozen in AE 5.0,AE_GeneralPlugOld.h,57
+kAEGPCanvasSuite,kAEGPCanvasSuiteVersion2,2,6,frozen in AE 5.5,AE_GeneralPlugOld.h,385
+kAEGPCanvasSuite,kAEGPCanvasSuiteVersion4,4,9,frozen AE 6.0,AE_GeneralPlugOld.h,522
+kAEGPCanvasSuite,kAEGPCanvasSuiteVersion5,5,10,frozen in AE 6.5,AE_GeneralPlugOld.h,771
+kAEGPCanvasSuite,kAEGPCanvasSuiteVersion6,6,11,frozen in AE 7.0,AE_GeneralPlugOld.h,1024
+kAEGPCanvasSuite,kAEGPCanvasSuiteVersion7,7,13,"frozen in AE 8.0, source code-compatible additions in 64-bit AE 10.0",AE_GeneralPlugOld.h,1296
+kAEGPCanvasSuite,kAEGPCanvasSuiteVersion8,8,14,frozen in AE 12.0,AE_GeneralPlug.h,3512
+kAEGPCollectionSuite,kAEGPCollectionSuiteVersion1,1,1,frozen in AE 5.0,AE_GeneralPlugOld.h,8731
+kAEGPCollectionSuite,kAEGPCollectionSuiteVersion2,2,2,frozen in AE 6.5,AE_GeneralPlug.h,4905
+kAEGPColorSettingsSuite,kAEGPColorSettingsSuiteVersion1,1,1,,AE_GeneralPlugOld.h,9409
+kAEGPColorSettingsSuite,kAEGPColorSettingsSuiteVersion2,2,3,,AE_GeneralPlugOld.h,9419
+kAEGPColorSettingsSuite,kAEGPColorSettingsSuiteVersion3,3,4,,AE_GeneralPlugOld.h,9471
+kAEGPColorSettingsSuite,kAEGPColorSettingsSuiteVersion4,4,5,,AE_GeneralPlugOld.h,9526
+kAEGPColorSettingsSuite,kAEGPColorSettingsSuiteVersion5,5,6,,AE_GeneralPlugOld.h,9588
+kAEGPColorSettingsSuite,kAEGPColorSettingsSuiteVersion6,6,7,,AE_GeneralPlug.h,3098
+kAEGPCommandSuite,kAEGPCommandSuiteVersion1,1,1,frozen in AE 5.0,AE_GeneralPlug.h,2867
+kAEGPCompSuite,kAEGPCompSuiteVersion1,1,4,frozen in AE 5.0,AE_GeneralPlugOld.h,3318
+kAEGPCompSuite,kAEGPCompSuiteVersion2,2,6,frozen in AE 5.5,AE_GeneralPlugOld.h,3204
+kAEGPCompSuite,kAEGPCompSuiteVersion3,3,7,frozen AE 6.0,AE_GeneralPlugOld.h,3075
+kAEGPCompSuite,kAEGPCompSuiteVersion4,4,9,frozen AE 6.5,AE_GeneralPlugOld.h,2934
+kAEGPCompSuite,kAEGPCompSuiteVersion5,5,11,frozen AE 7.0,AE_GeneralPlugOld.h,2787
+kAEGPCompSuite,kAEGPCompSuiteVersion6,6,14,frozen in AE 8.0,AE_GeneralPlugOld.h,2621
+kAEGPCompSuite,kAEGPCompSuiteVersion7,7,15,frozen in AE 9.0,AE_GeneralPlugOld.h,2455
+kAEGPCompSuite,kAEGPCompSuiteVersion8,8,18,frozen in AE 10.5,AE_GeneralPlugOld.h,2274
+kAEGPCompSuite,kAEGPCompSuiteVersion9,9,19,frozen in AE 11,AE_GeneralPlugOld.h,2092
+kAEGPCompSuite,kAEGPCompSuiteVersion10,10,21,frozen in AE 12,AE_GeneralPlugOld.h,1883
+kAEGPCompSuite,kAEGPCompSuiteVersion11,11,25,frozen in AE 23.5,AE_GeneralPlugOld.h,1670
+kAEGPCompSuite,kAEGPCompSuiteVersion12,12,26,frozen in AE 24.0,AE_GeneralPlug.h,650
+kAEGPCompositeSuite,kAEGPCompositeSuiteVersion2,2,4,frozen in AE 10.0,AE_GeneralPlug.h,4096
+kAEGPDynamicStreamSuite,kAEGPDynamicStreamSuiteVersion1,1,1,frozen in AE 6.0,AE_GeneralPlugOld.h,8761
+kAEGPDynamicStreamSuite,kAEGPDynamicStreamSuiteVersion2,2,2,frozen in AE 6.5,AE_GeneralPlugOld.h,8850
+kAEGPDynamicStreamSuite,kAEGPDynamicStreamSuiteVersion3,3,3,frozen in AE 7.0,AE_GeneralPlugOld.h,8941
+kAEGPDynamicStreamSuite,kAEGPDynamicStreamSuiteVersion4,4,5,frozen in AE 9.0,AE_GeneralPlug.h,1638
+kAEGPEffectSuite,kAEGPEffectSuiteVersion1,1,1,frozen in AE 5.5,AE_GeneralPlugOld.h,5727
+kAEGPEffectSuite,kAEGPEffectSuiteVersion2,2,2,frozen in AE 6.5,AE_GeneralPlugOld.h,5810
+kAEGPEffectSuite,kAEGPEffectSuiteVersion3,3,3,frozen in AE 7.0,AE_GeneralPlugOld.h,5894
+kAEGPEffectSuite,kAEGPEffectSuiteVersion4,4,4,frozen in AE 13.0,AE_GeneralPlugOld.h,5978
+kAEGPEffectSuite,kAEGPEffectSuiteVersion5,5,5,frozen in AE 24.1,AE_GeneralPlug.h,2124
+kAEGPFIMSuite,kAEGPFIMSuiteVersion3,3,3,frozen in AE 10.0,AE_GeneralPlugOld.h,10834
+kAEGPFIMSuite,kAEGPFIMSuiteVersion4,4,4,frozen in AE 17.0,AE_GeneralPlug.h,4683
+kAEGPFootageSuite,kAEGPFootageSuiteVersion5,5,11,frozen in AE 10.0,AE_GeneralPlug.h,2543
+kAEGPIOInSuite,kAEGPIOInSuiteVersion4,4,5,frozen in AE 10,AE_GeneralPlugOld.h,10378
+kAEGPIOInSuite,kAEGPIOInSuiteVersion5,5,6,frozen in AE 12,AE_GeneralPlugOld.h,10202
+kAEGPIOInSuite,kAEGPIOInSuiteVersion6,6,7,frozen in AE 25,AE_GeneralPlugOld.h,10017
+kAEGPIOInSuite,kAEGPIOInSuiteVersion7,7,8,frozen in AE 25.3,AE_GeneralPlug.h,4265
+kAEGPIOOutSuite,kAEGPIOOutSuiteVersion4,4,7,frozen in AE 10.0,AE_GeneralPlugOld.h,10688
+kAEGPIOOutSuite,kAEGPIOOutSuiteVersion5,5,8,frozen in AE 17.0,AE_GeneralPlugOld.h,10530
+kAEGPIOOutSuite,kAEGPIOOutSuiteVersion6,6,9,frozen in AE 25.2,AE_GeneralPlug.h,4463
+kAEGPItemSuite,kAEGPItemSuiteVersion1,1,3,frozen in AE 5.0,AE_GeneralPlugOld.h,7708
+kAEGPItemSuite,kAEGPItemSuiteVersion2,2,4,,AE_GeneralPlugOld.h,7605
+kAEGPItemSuite,kAEGPItemSuiteVersion3,3,5,frozen in 5.5.1,AE_GeneralPlugOld.h,7041
+kAEGPItemSuite,kAEGPItemSuiteVersion4,4,6,frozen in AE 6.0,AE_GeneralPlugOld.h,6946
+kAEGPItemSuite,kAEGPItemSuiteVersion5,5,7,frozen in AE 6.5,AE_GeneralPlugOld.h,6848
+kAEGPItemSuite,kAEGPItemSuiteVersion6,6,10,frozen in AE 7.0,AE_GeneralPlugOld.h,6733
+kAEGPItemSuite,kAEGPItemSuiteVersion7,7,11,frozen in AE 8.0,AE_GeneralPlugOld.h,6614
+kAEGPItemSuite,kAEGPItemSuiteVersion8,8,13,frozen in AE 9.0,AE_GeneralPlugOld.h,6495
+kAEGPItemSuite,kAEGPItemSuiteVersion9,9,14,frozen in AE 14.1,AE_GeneralPlug.h,434
+kAEGPItemViewSuite,kAEGPItemViewSuiteVersion1,1,1,frozen in AE 13.6,AE_GeneralPlug.h,552
+kAEGPIterateSuite,kAEGPIterateSuiteVersion1,1,1,frozen in AE 5.0,AE_GeneralPlugOld.h,9997
+kAEGPIterateSuite,kAEGPIterateSuiteVersion2,2,2,frozen in AE 22.0,AE_GeneralPlug.h,4149
+kAEGPKeyframeSuite,kAEGPKeyframeSuiteVersion1,1,1,frozen in AE 5.0,AE_GeneralPlugOld.h,7503
+kAEGPKeyframeSuite,kAEGPKeyframeSuiteVersion2,2,2,frozen in 5.5,AE_GeneralPlugOld.h,7382
+kAEGPKeyframeSuite,kAEGPKeyframeSuiteVersion3,3,3,frozen in 6.5,AE_GeneralPlugOld.h,7258
+kAEGPKeyframeSuite,kAEGPKeyframeSuiteVersion4,4,4,frozen in 8,AE_GeneralPlugOld.h,7137
+kAEGPKeyframeSuite,kAEGPKeyframeSuiteVersion5,5,5,frozen in 22.5,AE_GeneralPlug.h,1817
+kAEGPLayerRenderOptionsSuite,kAEGPLayerRenderOptionsSuiteVersion1,1,1,frozen in 13.0,AE_GeneralPlugOld.h,9329
+kAEGPLayerRenderOptionsSuite,kAEGPLayerRenderOptionsSuiteVersion2,2,2,frozen in 13.5,AE_GeneralPlug.h,5244
+kAEGPLayerSuite,kAEGPLayerSuiteVersion1,1,5,frozen in AE 5.0,AE_GeneralPlugOld.h,5347
+kAEGPLayerSuite,kAEGPLayerSuiteVersion2,2,7,frozen in AE 5.5,AE_GeneralPlugOld.h,5528
+kAEGPLayerSuite,kAEGPLayerSuiteVersion3,3,8,frozen AE 6.0,AE_GeneralPlugOld.h,4491
+kAEGPLayerSuite,kAEGPLayerSuiteVersion4,4,10,frozen AE 6.5,AE_GeneralPlugOld.h,4286
+kAEGPLayerSuite,kAEGPLayerSuiteVersion5,5,11,frozen AE 7.0,AE_GeneralPlugOld.h,4074
+kAEGPLayerSuite,kAEGPLayerSuiteVersion6,6,12,frozen AE 9.0,AE_GeneralPlugOld.h,3862
+kAEGPLayerSuite,kAEGPLayerSuiteVersion7,7,13,frozen AE 10.0 build 396,AE_GeneralPlugOld.h,3642
+kAEGPLayerSuite,kAEGPLayerSuiteVersion8,8,14,frozen AE 12.0 x300,AE_GeneralPlugOld.h,3410
+kAEGPLayerSuite,kAEGPLayerSuiteVersion9,9,15,frozen AE 23.0,AE_GeneralPlug.h,1007
+kAEGPLightSuite,kAEGPLightSuiteVersion1,1,1,frozen in AE 5.0,AE_GeneralPlugOld.h,6089
+kAEGPLightSuite,kAEGPLightSuiteVersion2,2,2,frozen in AE 5.5,AE_GeneralPlug.h,3945
+kAEGPLightSuite,kAEGPLightSuiteVersion3,3,3,frozen in AE 24.4,AE_GeneralPlug.h,3960
+kAEGPMarkerSuite,kAEGPMarkerSuiteVersion1,1,1,frozen in AE 8.0,AE_GeneralPlugOld.h,9665
+kAEGPMarkerSuite,kAEGPMarkerSuiteVersion2,2,2,frozen in AE 9.0,AE_GeneralPlugOld.h,9732
+kAEGPMarkerSuite,kAEGPMarkerSuiteVersion3,3,3,frozen in AE 16.0,AE_GeneralPlug.h,1971
+kAEGPMaskOutlineSuite,kAEGPMaskOutlineSuiteVersion1,1,2,frozen in AE 5.0,AE_GeneralPlugOld.h,1632
+kAEGPMaskOutlineSuite,kAEGPMaskOutlineSuiteVersion2,2,3,frozen in AE 5.5,AE_GeneralPlugOld.h,1592
+kAEGPMaskOutlineSuite,kAEGPMaskOutlineSuiteVersion3,3,5,frozen in AE 11,AE_GeneralPlug.h,2383
+kAEGPMaskSuite,kAEGPMaskSuiteVersion1,1,2,frozen in AE 5.0,AE_GeneralPlugOld.h,6366
+kAEGPMaskSuite,kAEGPMaskSuiteVersion2,2,3,frozen in AE 5.5,AE_GeneralPlugOld.h,6408
+kAEGPMaskSuite,kAEGPMaskSuiteVersion3,3,4,frozen AE 6.0,AE_GeneralPlugOld.h,6280
+kAEGPMaskSuite,kAEGPMaskSuiteVersion4,4,5,frozen AE 6.5,AE_GeneralPlugOld.h,6190
+kAEGPMaskSuite,kAEGPMaskSuiteVersion5,5,6,frozen AE 10,AE_GeneralPlugOld.h,6105
+kAEGPMaskSuite,kAEGPMaskSuiteVersion6,6,7,frozen AE 11,AE_GeneralPlug.h,2269
+kAEGPMathSuite,kAEGPMathSuiteVersion1,1,1,frozen AE 15.0,AE_GeneralPlug.h,3071
+kAEGPMemorySuite,kAEGPMemorySuiteVersion1,1,1,frozen in AE 5.0,AE_GeneralPlug.h,869
+kAEGPOutputModuleSuite,kAEGPOutputModuleSuiteVersion4,4,4,frozen in AE 10.0,AE_GeneralPlug.h,3389
+kAEGPPFInterfaceSuite,kAEGPPFInterfaceSuiteVersion1,1,1,frozen in AE 5.0,AE_GeneralPlug.h,4200
+kAEGPPersistentDataSuite,kAEGPPersistentDataSuiteVersion3,3,3,frozen in AE 10.0,AE_GeneralPlugOld.h,9870
+kAEGPPersistentDataSuite,kAEGPPersistentDataSuiteVersion4,4,4,frozen in AE 12.0,AE_GeneralPlug.h,4749
+kAEGPProjSuite,kAEGPProjSuiteVersion5,5,8,frozen in AE 10.0,AE_GeneralPlugOld.h,9809
+kAEGPProjSuite,kAEGPProjSuiteVersion6,6,9,frozen in AE 10.5,AE_GeneralPlug.h,286
+kAEGPQueryXformSuite,kAEGPQueryXformSuiteVersion1,1,1,frozen in AE 5.0,AE_GeneralPlugOld.h,8290
+kAEGPQueryXformSuite,kAEGPQueryXformSuiteVersion2,2,4,frozen in AE 6.0,AE_GeneralPlug.h,3988
+kAEGPRQItemSuite,kAEGPRQItemSuiteVersion1,1,1,frozen in AE 6.0,AE_GeneralPlugOld.h,321
+kAEGPRQItemSuite,kAEGPRQItemSuiteVersion2,2,3,frozen in AE 6.5,AE_GeneralPlugOld.h,247
+kAEGPRQItemSuite,kAEGPRQItemSuiteVersion3,3,4,frozen in AE 7.0,AE_GeneralPlugOld.h,170
+kAEGPRQItemSuite,kAEGPRQItemSuiteVersion4,4,5,frozen in AE 14.1,AE_GeneralPlug.h,3310
+kAEGPRegisterSuite,kAEGPRegisterSuiteVersion5,5,6,frozen AE 10.0,AE_GeneralPlug.h,2743
+kAEGPRenderAsyncManagerSuite,kAEGPRenderAsyncManagerSuiteVersion1,1,1,frozen in 13.5,AE_GeneralPlug.h,5453
+kAEGPRenderOptionsSuite,kAEGPRenderOptionsSuiteVersion1,1,1,frozen in AE 5.5.1,AE_GeneralPlugOld.h,9239
+kAEGPRenderOptionsSuite,kAEGPRenderOptionsSuiteVersion2,2,2,frozen in AE 7.0,AE_GeneralPlugOld.h,9144
+kAEGPRenderOptionsSuite,kAEGPRenderOptionsSuiteVersion3,3,3,frozen in AE 7.01,AE_GeneralPlugOld.h,9040
+kAEGPRenderOptionsSuite,kAEGPRenderOptionsSuiteVersion4,4,4,frozen in AE 10.5,AE_GeneralPlug.h,5129
+kAEGPRenderQueueMonitorSuite,kAEGPRenderQueueMonitorSuiteVersion1,1,1,frozen AE 11.0,AE_GeneralPlug.h,5563
+kAEGPRenderQueueSuite,kAEGPRenderQueueSuiteVersion1,1,1,frozen in AE 5.0,AE_GeneralPlug.h,3200
+kAEGPRenderSuite,kAEGPRenderSuiteVersion1,1,1,frozen in AE 5.5.1,AE_GeneralPlugOld.h,8337
+kAEGPRenderSuite,kAEGPRenderSuiteVersion2,2,2,frozen in 6.5,AE_GeneralPlugOld.h,8379
+kAEGPRenderSuite,kAEGPRenderSuiteVersion3,3,3,frozen in 11.0,AE_GeneralPlugOld.h,8454
+kAEGPRenderSuite,kAEGPRenderSuiteVersion4,4,5,frozen in 13.0,AE_GeneralPlugOld.h,8527
+kAEGPRenderSuite,kAEGPRenderSuiteVersion5,5,8,frozen in 13.5,AE_GeneralPlug.h,5331
+kAEGPStreamSuite,kAEGPStreamSuiteVersion1,1,4,frozen in AE 5.0,AE_GeneralPlugOld.h,5230
+kAEGPStreamSuite,kAEGPStreamSuiteVersion2,2,7,frozen in AE 6.5,AE_GeneralPlugOld.h,5107
+kAEGPStreamSuite,kAEGPStreamSuiteVersion3,3,8,frozen in AE 8,AE_GeneralPlugOld.h,4983
+kAEGPStreamSuite,kAEGPStreamSuiteVersion4,4,9,frozen in AE 9,AE_GeneralPlugOld.h,4857
+kAEGPStreamSuite,kAEGPStreamSuiteVersion5,5,10,frozen in AE 15,AE_GeneralPlugOld.h,4733
+kAEGPStreamSuite,kAEGPStreamSuiteVersion6,6,11,frozen in AE 22.5,AE_GeneralPlug.h,1457
+kAEGPTextDocumentSuite,kAEGPTextDocumentSuiteVersion1,1,1,frozen in AE 6.0,AE_GeneralPlug.h,1952
+kAEGPTextLayerSuite,kAEGPTextLayerSuiteVersion1,1,1,frozen in AE 6.0,AE_GeneralPlug.h,2079
+kAEGPTrackerSuite,kAEGPTrackerSuiteVersion1,1,1,frozen in AE 6.0,AE_GeneralPlug.h,5481
+kAEGPTrackerUtilitySuite,kAEGPTrackerUtilitySuiteVersion1,1,1,frozen in AE 6.0,AE_GeneralPlug.h,5532
+kAEGPUtilitySuite,kAEGPUtilitySuiteVersion1,1,3,frozen in AE 5.0,AE_GeneralPlugOld.h,8248
+kAEGPUtilitySuite,kAEGPUtilitySuiteVersion2,2,5,frozen in AE 6.0,AE_GeneralPlugOld.h,8177
+kAEGPUtilitySuite,kAEGPUtilitySuiteVersion3,3,7,frozen in AE 6.5,AE_GeneralPlugOld.h,8071
+kAEGPUtilitySuite,kAEGPUtilitySuiteVersion4,4,10,frozen in AE 7.0,AE_GeneralPlugOld.h,7938
+kAEGPUtilitySuite,kAEGPUtilitySuiteVersion5,5,11,frozen in AE 8.0,AE_GeneralPlugOld.h,7803
+kAEGPUtilitySuite,kAEGPUtilitySuiteVersion6,6,13,frozen in AE 12.0,AE_GeneralPlug.h,2923
+kAEGPWorldSuite,kAEGPWorldSuiteVersion1,1,1,frozen AE 6.0,AE_GeneralPlugOld.h,8672
+kAEGPWorldSuite,kAEGPWorldSuiteVersion2,2,2,frozen in AE 6.5,AE_GeneralPlugOld.h,8608
+kAEGPWorldSuite,kAEGPWorldSuiteVersion3,3,3,frozen in AE 7.0,AE_GeneralPlug.h,5038
+kPFEffectSequenceDataSuite,kPFEffectSequenceDataSuiteVersion1,1,1,frozen in 18.2,AE_GeneralPlug.h,5711

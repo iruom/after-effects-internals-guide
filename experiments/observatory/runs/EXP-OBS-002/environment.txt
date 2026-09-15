@@ -1,0 +1,5 @@
+﻿AE=25.6.4
+OS=Microsoft Windows 10 Home 10.0.19045
+CPU=Intel(R) Core(TM) i9-10900 CPU @ 2.80GHz
+GPU=Parsec Virtual Display Adapter; NVIDIA GeForce RTX 2070 SUPER
+MSVC=14.44.35207

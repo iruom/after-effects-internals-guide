@@ -1,0 +1,6 @@
+{
+  "algorithm": "SHA-256",
+  "artifact_count": 34,
+  "fingerprint": "9B619C70E0677BE2922353196E6EDA1092D601B5F7CD8112AC45F0325D305244",
+  "source_manifest": "datasets/aeig-static-rc-manifest.csv"
+}

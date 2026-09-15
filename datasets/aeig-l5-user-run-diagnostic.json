@@ -1,0 +1,48 @@
+{
+  "checks": {
+    "fixture_log": {
+      "exists": true,
+      "bytes": 577
+    },
+    "receipt": {
+      "exists": true,
+      "bytes": 35
+    },
+    "output_A": {
+      "exists": true,
+      "bytes": 19528
+    },
+    "output_B": {
+      "exists": false,
+      "bytes": 0
+    },
+    "suite": {
+      "exists": true,
+      "bytes": 127621
+    },
+    "trace": {
+      "exists": false,
+      "bytes": 0
+    },
+    "trace_control": {
+      "exists": false,
+      "bytes": 0
+    },
+    "reflection": {
+      "exists": true,
+      "bytes": 28245
+    },
+    "environment": {
+      "exists": true,
+      "bytes": 119
+    }
+  },
+  "issues": [
+    "mutation step did not execute",
+    "pass B did not finish",
+    "fixture script error: ReferenceError: Object is invalid line=69",
+    "missing capture: trace",
+    "missing rendered output: output_B"
+  ],
+  "status": "INCOMPLETE"
+}

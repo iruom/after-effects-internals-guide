@@ -1,0 +1,50 @@
+{
+  "experiment_id": "EXP-SCRIPT-001",
+  "title": "ExtendScript runtime Reflection versus documentation",
+  "status": "observed",
+  "domains": [
+    "automation"
+  ],
+  "question": "Which scripting member names are visible through runtime Reflection for representative AE objects, and how does that observed set compare with the current scripting documentation inventory?",
+  "environment": {
+    "ae_version": "26.3x87",
+    "os": "Windows/64 10.0",
+    "notes": "Captured by the same single user-run JSX used for AEIG 1.0 core experiments.",
+    "captured_build_number": "87",
+    "captured_build_name": "26.3x87",
+    "captured_gpu_accel_type": "1813"
+  },
+  "hypotheses": [
+    {
+      "id": "H1",
+      "prediction": "Runtime Reflection and documentation overlap substantially but are not identical.",
+      "falsified_by": "All seven representative objects expose exactly the same member-name sets as the documentation corpus."
+    }
+  ],
+  "factors": [
+    "Application",
+    "Project",
+    "CompItem",
+    "AVLayer",
+    "RenderQueue",
+    "RenderQueueItem",
+    "OutputModule"
+  ],
+  "captures": [
+    "runs/EXP-SCRIPT-001/runtime-reflection.tsv",
+    "datasets/exp-script-001-runtime-reflection.csv"
+  ],
+  "procedure": [
+    "User runs experiments/user-run/AEIG-1.0-L5/01_RUN_IN_AE.jsx once in the disposable session.",
+    "The script dumps Reflection property/method metadata for representative runtime objects before and during the controlled fixture.",
+    "analyze_scripting_reflection.py compares member names against the current scripting-docs atlas without treating either side as an authoritative superset."
+  ],
+  "result": {
+    "conclusion": "Runtime Reflection capture parsed and compared with the scripting documentation atlas.",
+    "raw_hashes": {
+      "runtime-reflection.tsv": "8C522859DDE49448216ED8C65A0740A3A6848E65F0E818CB020E4DDDE1F6E3A7",
+      "environment.txt": "2311F6DAA8A3DD24EA18FD59E44652C7B89930293D93D8E42EC883614E34B48D"
+    },
+    "finalized_by": "finalize_aeig_l5_user_run.py"
+  }
+}

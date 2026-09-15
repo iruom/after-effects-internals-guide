@@ -1,0 +1,389 @@
+﻿path,line,score,text
+Headers\AEConfig.h,59,4,"Older SDKs ( before TV, WATCH ) do not have TARGET_OS_IOS defined."
+Headers\AE_CacheOnLoadSuite.h,26,4,"*	CacheOnLoadSuite, used to signal whether or not the plugin needs to load from"
+Headers\AE_ComputeCacheSuite.h,160,11,Get the cache value from a checkout receipt.
+Headers\AE_ComputeCacheSuite.h,105,11,"If a render call only needs one cache value then set wait_for_other_threadB to true. The checkout call will return a receipt,"
+Headers\AE_ComputeCacheSuite.h,41,10,GUID used as the cache key.
+Headers\AE_ComputeCacheSuite.h,165,7,Check-in a receipt.
+Headers\AE_ComputeCacheSuite.h,154,7,Must call AEGP_CheckinComputeReceipt on success. Check-in must be done before returning to the host.
+Headers\AE_ComputeCacheSuite.h,141,7,Must call AEGP_CheckinComputeReceipt on success. Check-in must be done before returning to the host.
+Headers\AE_ComputeCacheSuite.h,153,4,Either returns cache value or A_Err_NOT_IN_CACHE_OR_COMPUTE_PENDING if cache miss.
+Headers\AE_ComputeCacheSuite.h,151,4,"example, a UI thread could poll the cache regularly for a histogram that is generated on a render thread."
+Headers\AE_ComputeCacheSuite.h,150,4,This call could be used to implement a polling pattern where another piece of code is expected to populate the cache. For
+Headers\AE_ComputeCacheSuite.h,149,4,thread that is populating the cache.
+Headers\AE_ComputeCacheSuite.h,148,4,"This call does a cache check, and thus should return always quickly. It does not do compute nor does it wait for another"
+Headers\AE_ComputeCacheSuite.h,139,4,the cache value. Note that the host will not notify the user of this error; it will be silent to the user.
+Headers\AE_ComputeCacheSuite.h,138,4,Returns A_Err_NOT_IN_CACHE_OR_COMPUTE_PENDING if wait_for_other_threadB is false and another thread is currently computing
+Headers\AE_ComputeCacheSuite.h,135,4,Cached      ||  Checkout              |  Checkout              |
+Headers\AE_ComputeCacheSuite.h,130,4,No cache    ||  Compute and checkout  |  Compute and checkout  |
+Headers\AE_ComputeCacheSuite.h,128,4,CACHE STATE   ||          FALSE                    TRUE          |
+Headers\AE_ComputeCacheSuite.h,121,4,if(second_err == A_Err_NOT_IN_CACHE_OR_COMPUTE_PENDING) {
+Headers\AE_ComputeCacheSuite.h,118,4,if(first_err == A_Err_NOT_IN_CACHE_OR_COMPUTE_PENDING) {
+Headers\AE_ComputeCacheSuite.h,110,4,If a render call needs multiple cache values then this pattern can be used to keep the render threads utilized and thus
+Headers\AE_ComputeCacheSuite.h,106,4,possibly calling the compute callback to populate the cache; or waiting on another thread that had already started the
+Headers\AE_ComputeCacheSuite.h,104,4,SINGLE CACHE VALUE
+Headers\AE_ComputeCacheSuite.h,102,4,calculate the caches across multiple render calls and thus avoid serialization of the compute.
+Headers\AE_ComputeCacheSuite.h,101,4,"cache value. If more than one cache value is needed then the multi-checkout pattern, below, can be applied to concurrently"
+Headers\AE_ComputeCacheSuite.h,100,4,When adding cache support one of the first questions to answer is if a single render call needs to checkout more than one
+Headers\AE_ComputeCacheSuite.h,93,4,"is how cache entries are deleted, and delete_compute_value is not available after unregister."
+Headers\AE_ComputeCacheSuite.h,92,4,Unregister a cache type. Note that all cached values will be purged at this time since the delete_compute_value callback
+Headers\AE_ComputeCacheSuite.h,87,4,Register a cache type.
+Headers\AE_ComputeCacheSuite.h,75,4,owned by the cache value must be freed here.
+Headers\AE_ComputeCacheSuite.h,74,4,The computed value lives in the cache. This is called to free the value when the cached is to be purged. All resources
+Headers\AE_ComputeCacheSuite.h,70,4,to the cache purging heuristic.
+Headers\AE_ComputeCacheSuite.h,64,4,The expensive call. Generate the cache data from the input parameters.
+Headers\AE_ComputeCacheSuite.h,56,4,needed to uniquely address the cache entry must be hashed into the key. If a layer checkout is needed to calculate the cache
+Headers\AE_ComputeCacheSuite.h,55,4,Cache key. Called when creating a cache entry and when doing a cache lookup. Should be fast to compute. All of the inputs
+Headers\AE_ComputeCacheSuite.h,34,4,"Globally unique identifier for the compute class, such as ""adobe.ae.effect.test_effect.cache_v_1"""
+Headers\AE_ComputeCacheSuite.h,32,4,/////////////////////////////////// MC Compute -- plugin registration of cached computations
+Headers\AE_Effect.h,2087,13,PF_Arbitrary_UNFLATTEN_FUNC
+Headers\AE_Effect.h,67,8,End of A_INTERNAL consistency check.
+Headers\AE_Effect.h,53,8,You can define A_SUPPRESS_A_INTERNAL_WARNING if you have a plugin
+Headers\AE_Effect.h,51,8,this file with contradictory settings of A_INTERNAL. It must
+Headers\AE_Effect.h,2708,6,IMPORTANT: This structure is FROZEN. Changing this would break binary compatibility with PF_InData
+Headers\AE_Effect.h,2514,6,(this must not vary depending on requested output size!)
+Headers\AE_Effect.h,2089,6,"opposite of FlattenFunc, unpack the buffer into a PF_ArbitraryH."
+Headers\AE_Effect.h,2076,6,"Flatten the arbH and place it into the supplied buffer, honoring its size."
+Headers\AE_Effect.h,2074,6,PF_Arbitrary_FLATTEN_FUNC
+Headers\AE_Effect.h,2064,6,return in flat_data_sizePLu the number of bytes that are needed to flatten the object.
+Headers\AE_EffectCB.h,263,9,confusing -- you probably want PF_TransferMode_ZERO_SRC_ALPHA_CLEARS_DST_ALPHA
+Headers\AE_EffectCB.h,262,7,PF_TransferMode_ZERO_ALPHA_NOP is deprecated because it was
+Headers\AE_EffectCB.h,248,6,obsolete xfer mode names
+Headers\AE_EffectGPUSuites.h,96,4,*	These calls do not need to be made in that case.
+Headers\AE_EffectSuites.h,244,9,"IMPORTANT: as of 13.5 to avoid threading deadlock problems, PF_GetCurrentState() returns a random state"
+Headers\AE_EffectSuites.h,673,8,"This suite should be used for stroking/filling paths, vertices etc on Comp/Layer window. After Effects is internally using it"
+Headers\AE_EffectSuites.h,592,6,as NULL to invalidate the whole window.
+Headers\AE_EffectSuites.h,590,6,Use it to invalidate rect of current window being drawn. Invalidated rect will be updated during idle time.
+Headers\AE_EffectSuites.h,662,4,The managed can then be asked to do Async render requests
+Headers\AE_EffectSuites.h,661,4,"When using PF_OutFlag2_CUSTOM_UI_ASYNC_MANAGER, use this to get the async manager associated with the effect PF_ContextH."
+Headers\AE_EffectSuitesHelper.h,88,6,"obsolete, use PF_HelperSuite2"
+Headers\AE_EffectSuitesHelper.h,157,4,Do not call PF_SetCurrentExtendedTool until the UI is built. i.e. Do not call it from
+Headers\AE_EffectSuitesOld.h,6,7,"These are old, deprecated versions of some suites. Please use the ones in AE_EffectSuites.h instead if at all possible."
+Headers\AE_EffectSuitesOld.h,253,6,as NULL to invalidate the whole window.
+Headers\AE_EffectSuitesOld.h,251,6,Use it to invalidate rect of current window being drawn. Invalidated rect will be updated during idle time.
+Headers\AE_EffectSuitesOld.h,190,6,as NULL to invalidate the whole window.
+Headers\AE_EffectSuitesOld.h,188,6,Use it to invalidate rect of current window being drawn. Invalidated rect will be updated during idle time.
+Headers\AE_EffectSuitesOld.h,70,6,"The next 3 methods have had ""Obsolete"" added to their name to intentionally"
+Headers\AE_EffectUI.h,484,4,"to remain backwards compatible.  In other words, do not add any"
+Headers\AE_GeneralPlug.h,3636,15,not thread safe on MacOS
+Headers\AE_GeneralPlug.h,5427,11,checking in to the cache. a speculative renderer should check this twice:
+Headers\AE_GeneralPlug.h,5362,9,render_plain_layer_frameB was confusing and is not the design we want going forward
+Headers\AE_GeneralPlug.h,5402,7,See IMPORTANT note above about using this synchronous call on the UI thread which is considered DEPRECATED behavior
+Headers\AE_GeneralPlug.h,5366,7,See IMPORTANT note above about using this synchronous call on the UI thread which is considered DEPRECATED behavior
+Headers\AE_GeneralPlug.h,5355,7,See IMPORTANT note above about using this synchronous call on the UI thread which is considered DEPRECATED behavior
+Headers\AE_GeneralPlug.h,5347,7,IMPORTANT: use of this call on the UI thread should be considered DEPRECATED except in a very narrow  use case:
+Headers\AE_GeneralPlug.h,3743,7,new in 7.0 generate a receipt for a layer as asd if the first num_effectsS have been rendered */
+Headers\AE_GeneralPlug.h,3701,7,use receipt to determine if a subsequent call to render
+Headers\AE_GeneralPlug.h,3700,7,new for 6.0 --get receipt with the returned texture
+Headers\AE_GeneralPlug.h,3393,6,NOTE: 	All AEGP_OutputModuleRefHs are invalidated by ANY
+Headers\AE_GeneralPlug.h,3317,6,NOTE: 	All AEGP_RQItemRefH are invalidated by ANY
+Headers\AE_GeneralPlug.h,3011,6,"thread safe, therefore you need to save it off"
+Headers\AE_GeneralPlug.h,2317,6,AEGP_GetMaskName/SetMaskName are obsoleted. Use AEGP_GetNewDynamicStreamForMask
+Headers\AE_GeneralPlug.h,5430,5,(don't forget to call AEGP_HasItemChangedSinceTimestamp also!)
+Headers\AE_GeneralPlug.h,5413,5,returns the current timestamp of the project.this is increased any time something is touched in the project
+Headers\AE_GeneralPlug.h,5459,4,The first use of this in for async requests in CUSTOM_UI of PF_EventDRAW.  See PF_OutFlags2_CUSTOM_UI_ASYNC_MANAGER
+Headers\AE_GeneralPlug.h,5458,4,An AsyncManager automatically handles possibly multiple async render requests
+Headers\AE_GeneralPlug.h,5449,4,As of 13.5 the only way to get an AsyncManager is via PF_GetContextAsyncManager in PF_EffectCustomUISuite2.  (This Async Manager is PF_Event_DRAW specific
+Headers\AE_GeneralPlug.h,5448,4,AsyncManager render suite.  For render requests that are managed by AE rather than explicitly by plugin callbacks (as in some cases in AEGP_RenderSuite5+)
+Headers\AE_GeneralPlug.h,5351,4,Asynchronous APIs should be used on the UI thread except in this specific case
+Headers\AE_GeneralPlug.h,3702,4,this layer can be skipped (because the artisan cached it)
+Headers\AE_GeneralPlug.h,3009,4,thread. It is asynchronous and will return before the idle handler is called.
+Headers\AE_GeneralPlug.h,1743,4,"Please *do not* write code assuming that, we anticipate allowing separation of more streams in the future."
+Headers\AE_GeneralPlugOld.h,1370,15,not thread safe on MacOS
+Headers\AE_GeneralPlugOld.h,1092,15,not thread safe on MacOS
+Headers\AE_GeneralPlugOld.h,839,15,not thread safe on MacOS
+Headers\AE_GeneralPlugOld.h,590,15,not thread safe on MacOS
+Headers\AE_GeneralPlugOld.h,460,15,not thread safe on MacOS
+Headers\AE_GeneralPlugOld.h,121,15,not thread safe on MacOS
+Headers\AE_GeneralPlugOld.h,8587,11,checking in to the cache. a speculative renderer should check this twice:
+Headers\AE_GeneralPlugOld.h,8507,11,checking in to the cache. a speculative renderer should check this twice:
+Headers\AE_GeneralPlugOld.h,8437,11,checking in to the cache. a speculative renderer should check this twice:
+Headers\AE_GeneralPlugOld.h,1477,7,new in 7.0 generate a receipt for a layer as asd if the first num_effectsS have been rendered */
+Headers\AE_GeneralPlugOld.h,1435,7,use receipt to determine if a subsequent call to render
+Headers\AE_GeneralPlugOld.h,1434,7,new for 6.0 --get receipt with the returned texture
+Headers\AE_GeneralPlugOld.h,1199,7,new in 7.0 generate a receipt for a layer as asd if the first num_effectsS have been rendered */
+Headers\AE_GeneralPlugOld.h,1157,7,use receipt to determine if a subsequent call to render
+Headers\AE_GeneralPlugOld.h,1156,7,new for 6.0 --get receipt with the returned texture
+Headers\AE_GeneralPlugOld.h,904,7,use receipt to determine if a subsequent call to render
+Headers\AE_GeneralPlugOld.h,903,7,new for 6.0 --get receipt with the returned texture
+Headers\AE_GeneralPlugOld.h,655,7,use receipt to determine if a subsequent call to render
+Headers\AE_GeneralPlugOld.h,654,7,new for 6.0 --get receipt with the returned texture
+Headers\AE_GeneralPlugOld.h,24,7,this file contains the old or deprecated versions of the suites */
+Headers\AE_GeneralPlugOld.h,8151,6,"thread safe, therefore you need to save it off"
+Headers\AE_GeneralPlugOld.h,8023,6,"thread safe, therefore you need to save it off"
+Headers\AE_GeneralPlugOld.h,7888,6,"thread safe, therefore you need to save it off"
+Headers\AE_GeneralPlugOld.h,7604,6,frozen AE 5.5 */
+Headers\AE_GeneralPlugOld.h,6145,6,AEGP_GetMaskName/SetMaskName are obsoleted. Use AEGP_GetNewDynamicStreamForMask
+Headers\AE_GeneralPlugOld.h,328,6,NOTE: 	All AEGP_RQItemRefH are invalidated by ANY
+Headers\AE_GeneralPlugOld.h,254,6,NOTE: 	All AEGP_RQItemRefH are invalidated by ANY
+Headers\AE_GeneralPlugOld.h,177,6,NOTE: 	All AEGP_RQItemRefH are invalidated by ANY
+Headers\AE_GeneralPlugOld.h,8590,5,(don't forget to call AEGP_HasItemChangedSinceTimestamp also!)
+Headers\AE_GeneralPlugOld.h,8573,5,returns the current timestamp of the project.this is increased any time something is touched in the project
+Headers\AE_GeneralPlugOld.h,8510,5,(don't forget to call AEGP_HasItemChangedSinceTimestamp also!)
+Headers\AE_GeneralPlugOld.h,8493,5,returns the current timestamp of the project.this is increased any time something is touched in the project
+Headers\AE_GeneralPlugOld.h,8440,5,(don't forget to call AEGP_HasItemChangedSinceTimestamp also!)
+Headers\AE_GeneralPlugOld.h,8423,5,returns the current timestamp of the project.this is increased any time something is touched in the project
+Headers\AE_GeneralPlugOld.h,8149,4,thread. It is asynchronous and will return before the idle handler is called.
+Headers\AE_GeneralPlugOld.h,8021,4,thread. It is asynchronous and will return before the idle handler is called.
+Headers\AE_GeneralPlugOld.h,7886,4,thread. It is asynchronous and will return before the idle handler is called.
+Headers\AE_GeneralPlugOld.h,1436,4,this layer can be skipped (because the artisan cached it)
+Headers\AE_GeneralPlugOld.h,1158,4,this layer can be skipped (because the artisan cached it)
+Headers\AE_GeneralPlugOld.h,905,4,this layer can be skipped (because the artisan cached it)
+Headers\AE_GeneralPlugOld.h,656,4,this layer can be skipped (because the artisan cached it)
+Headers\AE_IO.h,300,7,//////////////// redefined in PRIVATE /////////////////
+Headers\PrSDKAESupport.h,73,8,other than PPRO because PREMIERE_INTERNAL
+Headers\PrSDKAESupport.h,468,5,Legacy function tables
+Headers\PR_Public.h,228,6,* flatten your data in preparation to being written to disk.
+Headers\PR_Public.h,37,6,*		Return a flattened platform independent version of the instance data.
+Headers\PR_Public.h,36,6,*	PR_FlattenInstanceFunc
+Headers\PR_Public.h,39,4,*		artisan is being made. Do not disturb the src instance handle.
+Util\AEGP_SuiteHandler.h,263,7,private methods
+Util\DirectXUtils.cpp,42,8,Subtle: The ComPtr constructor does an internal AddRef which would balance the RelaseRef when DXContext is deleted
+Util\Param_Utils.h,4,4,do not include DVA headers here
+UI\ColorGrid\ColorGrid.cpp,582,13,(extra->u.unflatten_func_params.arbPH) = handle;
+UI\Custom_ECW_UI\Custom_ECW_UI.cpp,156,5,[TODO] Implement arbitrary data selectors
+UI\HistoGrid\HistoGrid.cpp,379,4,On the UI thread the result is cached in sequence data to prevent flicker if we don't have a completed computation yet
+UI\HistoGrid\HistoGrid_UI_Handler.cpp,191,8,"ask the async manager to checkout the desired frame. if this isn't in cache,"
+UI\HistoGrid\HistoGrid_UI_Handler.cpp,338,4,Draw the color grid using the cached color preview (if valid)
+UI\HistoGrid\HistoGrid_UI_Handler.cpp,334,4,"Might be fresh computed, previously cached (to reduce flicker), or just blank because it isn't valid yet"
+UI\HistoGrid\HistoGrid_UI_Handler.cpp,324,4,"we got an updated color cache, refresh our sequence data cache"
+UI\HistoGrid\HistoGrid_UI_Handler.cpp,299,4,"If the frame is not be immediately available, we draw our cached (or blank) state"
+UI\HistoGrid\HistoGrid_UI_Handler.cpp,298,4,"If the have a frame, update our sequence data color cache with the new computation"
+UI\HistoGrid\HistoGrid_UI_Handler.cpp,192,4,this will fail but the async manager will schedule an asynchronous render.
+UI\HistoGrid\HistoGrid_UI_Handler.cpp,160,4,The frame may not be immediately available.  PF_Event_DRAW will get triggered again when async render completes
+UI\Supervisor\Supervisor.cpp,1014,4,but i do not know how -davec
+UI\Supervisor\Supervisor.cpp,236,4,but i do not know how - davec
+Headers\adobesdk\DrawbotSuite.h,107,4,DO NOT CALL ReleaseObject on surface_ref and supplier_ref as you did not create them.
+Headers\SP\SPAccess.h,364,8,* Internal */
+Headers\SP\SPAccess.h,362,8,* Internal */
+Headers\SP\SPAccess.h,358,8,* Internal */
+Headers\SP\SPAccess.h,355,8,* Internal */
+Headers\SP\SPAccess.h,353,8,* Internal */
+Headers\SP\SPAccess.h,350,8,* Internal */
+Headers\SP\SPAccess.h,348,8,* Internal */
+Headers\SP\SPAccess.h,346,8,* Internal */
+Headers\SP\SPAccess.h,344,8,* Internal */
+Headers\SP\SPAccess.h,342,8,* Internal */
+Headers\SP\SPAccess.h,339,8,* Internal */
+Headers\SP\SPAccess.h,337,8,* Internal */
+Headers\SP\SPAccess.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPAccess.h,160,7,"* \deprecated File access for entry and resources, when resource-access"
+Headers\SP\SPAccess.h,158,7,"* File access for entry and resources, when resource-access has not been set. \deprecated */"
+Headers\SP\SPAccess.h,151,7,"* Plug-in library handle on Windows, resource chain on Mac. \deprecated  */"
+Headers\SP\SPAccess.h,96,4,"* The name of the object that the \c #SPAccessSuite caches,"
+Headers\SP\SPAdapts.h,135,15,* @deprecated Used internally.   */
+Headers\SP\SPAdapts.h,133,15,* @deprecated Used internally.   */
+Headers\SP\SPAdapts.h,131,15,* @deprecated Used internally.  */
+Headers\SP\SPAdapts.h,129,15,* @deprecated Used internally. */
+Headers\SP\SPAdapts.h,391,8,* Internal */
+Headers\SP\SPAdapts.h,389,8,* Internal */
+Headers\SP\SPAdapts.h,387,8,* Internal */
+Headers\SP\SPAdapts.h,384,8,* Internal */
+Headers\SP\SPAdapts.h,382,8,* Internal */
+Headers\SP\SPAdapts.h,380,8,* Internal */
+Headers\SP\SPAdapts.h,377,8,* Internal */
+Headers\SP\SPAdapts.h,373,8,* Internal */
+Headers\SP\SPAdapts.h,370,8,* Internal */
+Headers\SP\SPAdapts.h,368,8,* Internal */
+Headers\SP\SPAdapts.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPAdapts.h,126,7,"For newer adapters, all of these methods are now deprecated."
+Headers\SP\SPAdapts.h,125,5,"Sweet Pea and maybe legacy adapters (i.e., AI6Adapter for AI7)."
+Headers\SP\SPAdapts.h,188,4,"* For \c #kSPAdaptersFlushSelector. The procedure with which to flush caches,"
+Headers\SP\SPBasic.h,167,8,* Internal */
+Headers\SP\SPBasic.h,165,8,* Internal */
+Headers\SP\SPBasic.h,163,8,* Internal */
+Headers\SP\SPBasic.h,161,8,* Internal */
+Headers\SP\SPBasic.h,159,8,* Internal */
+Headers\SP\SPBasic.h,157,8,* Internal */
+Headers\SP\SPBasic.h,155,8,* Internal */
+Headers\SP\SPBasic.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPBckDbg.h,100,8,* Internal */
+Headers\SP\SPBckDbg.h,98,8,* Internal */
+Headers\SP\SPBckDbg.h,96,8,* Internal */
+Headers\SP\SPBckDbg.h,94,8,* Internal */
+Headers\SP\SPBckDbg.h,92,8,* Internal */
+Headers\SP\SPBckDbg.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPBlocks.h,101,8,* Internal */
+Headers\SP\SPBlocks.h,99,8,* Internal */
+Headers\SP\SPBlocks.h,97,8,* Internal */
+Headers\SP\SPBlocks.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPCaches.h,120,8,* Internal */
+Headers\SP\SPCaches.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPCaches.h,82,4,* Message passed with the \c #kSPPluginPurgeCachesSelector. */
+Headers\SP\SPCaches.h,72,4,* Prototype for the cache-flushing procedure an adapter calls in response to the
+Headers\SP\SPCaches.h,63,4,#define kSPPluginCachesFlushResponse  'pFls'
+Headers\SP\SPCaches.h,61,4,The plug-in should return one of these two responses when it receives the kSPPluginPurgeCachesSelector */
+Headers\SP\SPCaches.h,48,4,with the PIAcceptsPurgeCachesMessage flag set. */
+Headers\SP\SPCaches.h,44,4,* Cache suite version */
+Headers\SP\SPCaches.h,42,4,* Cache suite name */
+Headers\SP\SPCaches.h,3,4,SPCaches.h                                                          */
+Headers\SP\SPCOM.h,7,6,This module is obsolete. */
+Headers\SP\SPConfig.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPErrorCodes.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPErrorCodes.h,98,4,SPCaches errors
+Headers\SP\SPErrors.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPFiles.h,525,8,* Internal */
+Headers\SP\SPFiles.h,523,8,* Internal */
+Headers\SP\SPFiles.h,520,8,* Internal */
+Headers\SP\SPFiles.h,518,8,* Internal */
+Headers\SP\SPFiles.h,516,8,* Internal */
+Headers\SP\SPFiles.h,514,8,* Internal */
+Headers\SP\SPFiles.h,512,8,* Internal */
+Headers\SP\SPFiles.h,509,8,* Internal */
+Headers\SP\SPFiles.h,507,8,* Internal */
+Headers\SP\SPFiles.h,505,8,* Internal */
+Headers\SP\SPFiles.h,502,8,* Internal */
+Headers\SP\SPFiles.h,500,8,* Internal */
+Headers\SP\SPFiles.h,498,8,* Internal */
+Headers\SP\SPFiles.h,496,8,* Internal */
+Headers\SP\SPFiles.h,296,8,* Internal */
+Headers\SP\SPFiles.h,283,8,* Internal ? */
+Headers\SP\SPFiles.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPHost.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPInterf.h,161,8,* Internal */
+Headers\SP\SPInterf.h,158,8,* Internal */
+Headers\SP\SPInterf.h,156,8,* Internal */
+Headers\SP\SPInterf.h,152,8,* Internal */
+Headers\SP\SPInterf.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPMData.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPObject.h,14,6,This module is obsolete. */
+Headers\SP\SPPiPL.h,195,8,<<are these internal?>>
+Headers\SP\SPPiPL.h,107,8,* Internal: Defines the general properties only if the application has
+Headers\SP\SPPiPL.h,93,8,"* Internal. Plug-in resource type, \c #PIProperty::propertyKey value."
+Headers\SP\SPPiPL.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPPiPL.h,274,7,* \deprecated Win16 Intel code descriptor.
+Headers\SP\SPPiPL.h,156,7,\deprecated 'fx86' <PIWin16X86CodeDesc> Win16 Intel code descriptor. See struct below.
+Headers\SP\SPPiPL.h,88,4,* Flag bit for \c #PIConditionalMessages: plug-in accepts purge-cache messages. */
+Headers\SP\SPPlugs.h,639,8,* Internal */
+Headers\SP\SPPlugs.h,637,8,* Internal */
+Headers\SP\SPPlugs.h,624,8,* Internal */
+Headers\SP\SPPlugs.h,621,8,* Internal */
+Headers\SP\SPPlugs.h,618,8,* Internal */
+Headers\SP\SPPlugs.h,616,8,* Internal */
+Headers\SP\SPPlugs.h,614,8,* Internal */
+Headers\SP\SPPlugs.h,610,8,* Internal */
+Headers\SP\SPPlugs.h,607,8,* Internal */
+Headers\SP\SPPlugs.h,605,8,* Internal */
+Headers\SP\SPPlugs.h,603,8,* Internal */
+Headers\SP\SPPlugs.h,601,8,* Internal */
+Headers\SP\SPPlugs.h,599,8,* Internal */
+Headers\SP\SPPlugs.h,597,8,* Internal */
+Headers\SP\SPPlugs.h,595,8,* Internal */
+Headers\SP\SPPlugs.h,593,8,* Internal */
+Headers\SP\SPPlugs.h,591,8,* Internal */
+Headers\SP\SPPlugs.h,589,8,* Internal */
+Headers\SP\SPPlugs.h,587,8,* Internal */
+Headers\SP\SPPlugs.h,585,8,* Internal */
+Headers\SP\SPPlugs.h,583,8,* Internal */
+Headers\SP\SPPlugs.h,581,8,* Internal */
+Headers\SP\SPPlugs.h,579,8,* Internal */
+Headers\SP\SPPlugs.h,576,8,* Internal */
+Headers\SP\SPPlugs.h,574,8,* Internal */
+Headers\SP\SPPlugs.h,572,8,* Internal */
+Headers\SP\SPPlugs.h,563,8,* Internal */
+Headers\SP\SPPlugs.h,554,8,* Internal */
+Headers\SP\SPPlugs.h,551,8,* Internal */
+Headers\SP\SPPlugs.h,549,8,* Internal */
+Headers\SP\SPPlugs.h,547,8,* Internal */
+Headers\SP\SPPlugs.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPPlugs.h,636,7,This attribute frees the adapterInfo field for private data for adapters. */
+Headers\SP\SPPlugs.h,531,7,This attribute frees the adapterInfo field for private data for adapters.
+Headers\SP\SPPlugs.h,309,7,This attribute frees the adapterInfo field for private data for adapters.
+Headers\SP\SPProps.h,321,8,* Internal */
+Headers\SP\SPProps.h,318,8,* Internal */
+Headers\SP\SPProps.h,316,8,* Internal */
+Headers\SP\SPProps.h,313,8,* Internal */
+Headers\SP\SPProps.h,311,8,* Internal */
+Headers\SP\SPProps.h,309,8,* Internal */
+Headers\SP\SPProps.h,307,8,* Internal */
+Headers\SP\SPProps.h,304,8,* Internal */
+Headers\SP\SPProps.h,302,8,* Internal */
+Headers\SP\SPProps.h,300,8,* Internal */
+Headers\SP\SPProps.h,296,8,* Internal */
+Headers\SP\SPProps.h,285,8,* Internal */
+Headers\SP\SPProps.h,282,8,* Internal */
+Headers\SP\SPProps.h,279,8,* Internal */
+Headers\SP\SPProps.h,277,8,* Internal */
+Headers\SP\SPProps.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPProps.h,226,4,* Reports whether a property is cacheable.
+Headers\SP\SPRuntme.h,497,8,* Internal */
+Headers\SP\SPRuntme.h,479,8,* Internal */
+Headers\SP\SPRuntme.h,476,8,* Internal */
+Headers\SP\SPRuntme.h,474,8,* Internal */
+Headers\SP\SPRuntme.h,472,8,* Internal */
+Headers\SP\SPRuntme.h,470,8,* Internal */
+Headers\SP\SPRuntme.h,468,8,* Internal */
+Headers\SP\SPRuntme.h,466,8,* Internal */
+Headers\SP\SPRuntme.h,464,8,* Internal */
+Headers\SP\SPRuntme.h,462,8,* Internal */
+Headers\SP\SPRuntme.h,460,8,* Internal */
+Headers\SP\SPRuntme.h,458,8,* Internal */
+Headers\SP\SPRuntme.h,283,8,* Internal */
+Headers\SP\SPRuntme.h,280,8,* Internal */
+Headers\SP\SPRuntme.h,276,8,* Internal */
+Headers\SP\SPRuntme.h,272,8,* Internal */
+Headers\SP\SPRuntme.h,270,8,* Internal */
+Headers\SP\SPRuntme.h,268,8,* Internal */
+Headers\SP\SPRuntme.h,265,8,* Internal */
+Headers\SP\SPRuntme.h,262,8,* Internal */
+Headers\SP\SPRuntme.h,260,8,* Internal */
+Headers\SP\SPRuntme.h,258,8,* Internal */
+Headers\SP\SPRuntme.h,255,8,* Internal */
+Headers\SP\SPRuntme.h,253,8,* Internal */
+Headers\SP\SPRuntme.h,251,8,* Internal */
+Headers\SP\SPRuntme.h,232,8,* Internal */
+Headers\SP\SPRuntme.h,230,8,* Internal */
+Headers\SP\SPRuntme.h,228,8,* Internal */
+Headers\SP\SPRuntme.h,224,8,* Internal */
+Headers\SP\SPRuntme.h,214,8,* Internal */
+Headers\SP\SPRuntme.h,211,8,* Internal */
+Headers\SP\SPRuntme.h,104,8,The string pool functions replace the default routines used internally
+Headers\SP\SPRuntme.h,93,8,throwTrap - called when an internal error is thrown. This can be used
+Headers\SP\SPRuntme.h,58,8,INTERNAL DOCS
+Headers\SP\SPRuntme.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPRuntme.h,169,4,"The host would be responsible, for instance, for defining the cacheable"
+Headers\SP\SPRuntme.h,161,4,"this from cached data or, as SP would, from the file list.  A returned error will"
+Headers\SP\SPStrngs.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPSTSPrp.h,39,8,* Internal */
+Headers\SP\SPSTSPrp.h,37,8,* Internal */
+Headers\SP\SPSTSPrp.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPSuites.h,279,8,* Internal */
+Headers\SP\SPSuites.h,277,8,* Internal */
+Headers\SP\SPSuites.h,275,8,* Internal */
+Headers\SP\SPSuites.h,273,8,* Internal */
+Headers\SP\SPSuites.h,271,8,* Internal */
+Headers\SP\SPSuites.h,269,8,* Internal */
+Headers\SP\SPSuites.h,266,8,* Internal */
+Headers\SP\SPSuites.h,264,8,* Internal */
+Headers\SP\SPSuites.h,262,8,* Internal */
+Headers\SP\SPSuites.h,258,8,* Internal */
+Headers\SP\SPSuites.h,255,8,* Internal */
+Headers\SP\SPSuites.h,251,8,* Internal */
+Headers\SP\SPSuites.h,241,8,* Internal */
+Headers\SP\SPSuites.h,238,8,* Internal */
+Headers\SP\SPSuites.h,235,8,* Internal */
+Headers\SP\SPSuites.h,216,8,* Retrieves the internal version number of a suite.
+Headers\SP\SPSuites.h,49,8,* Internal */
+Headers\SP\SPSuites.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\SPTypes.h,14,8,for their internal use. Any reproduction or dissemination of this   */
+Headers\SP\photoshop\config\platform.hpp,90,7,Deprecated
+Headers\SP\photoshop\config\platform.hpp,35,7,alias to the private artemis macros via concatenation because calling PHOTOSHOP_PLATFORM(X) errors
+Headers\SP\photoshop\config\platform.hpp,78,4,features that do not work in a simulated WASM environment.
+Headers\SP\photoshop\config\platform.hpp,25,4,#error Windows resource compiler - do not include this file!
+Headers\SP\artemis\config\platform.hpp,123,7,The *_PRIVATE_* macros are just that. Don't use them directly.
+GPUUtils\PrGPU\KernelSupport\KernelCore.h,230,7,* GF_THREAD_PTR declares a pointer to thread private memory:
+GPUUtils\PrGPU\KernelSupport\KernelCore.h,328,5,*  HLSL receives them as a UAV Structured Buffer to work around the legacy packing requirements for CBVs
+GPUUtils\PrGPU\KernelSupport\KernelCore.h,287,5,TODO: Figure out any specific binding needs
+GPUUtils\PrGPU\KernelSupport\KernelCore.h,285,5,HLSL enforces 16 byte packing for cbuffer but legacy binding rules can quite finicky and weird
+Effect\PathMaster\PathMaster.cpp,288,6,or we've just been asked to flatten our sequence data (for a save) and now
+Effect\Resizer\Resizer.cpp,352,4,The suite functions do not automatically detect the requested
+Effect\SDK_Invert_ProcAmp\SDK_Invert_ProcAmp.cpp,288,4,Load and compile the kernel - a real plugin would cache binaries to disk
+Effect\SDK_Invert_ProcAmp\SDK_Invert_ProcAmp.h,117,8,"* Create a pool if autorelease is used, or Cocoa convention calls, such as Metal, might internally autorelease."
+Effect\SDK_Invert_ProcAmp\SDK_Invert_ProcAmp.h,116,6,* Plugins must not rely on a host autorelease pool.
+Effect\SmartyPants\SmartyPants.cpp,337,6,"Mix in the background color of the comp, as a demonstration of GuidMixInPtr()"
+AEGP\Artie\Artie.cpp,291,6,allocate flat handle and write flatten instance data into it */
+AEGP\Artie\Artie_types.h,20,8,* All the typedefs for the Artie ray tracer
+AEGP\Artie\Artie_vector.h,12,8,* All the typedefs for the Artie ray tracer
+AEGP\FBIO\FBIO.cpp,174,4,version. Do NOT de-allocate the non-flat
+AEGP\IO\IO.cpp,217,4,version. Do NOT de-allocate the non-flat
+AEGP\IO\IO.cpp,115,4,Do NOT free the old options handle. There is old code

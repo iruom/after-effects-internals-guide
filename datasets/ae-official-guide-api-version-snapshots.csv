@@ -1,0 +1,89 @@
+snapshot,commit,release,effect_api,aegp_api,source
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,15.0,13.15,,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,CC 2017.1 (14.2),13.14,,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,CC 2017 (14.0),13.13,114.0,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,CC 2015.3 (13.8),13.11,113.8,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,CC 2015 (13.7),13.10,113.7,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,CC 2015 (13.6),13.10,,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,"CC 2015 (13.5, 13.5.1)",13.9,113.5,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,CC 2014 (13.0-13.2),13.7,113,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,CC (12.2),13.6,112.2,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,CC (12.1),13.5,112.1,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,CC (12.0),13.4,112.0,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,CS6.0.1 (11.0.1),13.3,111.0,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,CS6 (11.0),13.2,111.0,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,CS5.5 (10.5),13.1,17.0,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,CS5 (10.0),13.0,17.0,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,CS4 (9.0),12.14,16.24,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,CS3 (8.0),12.13,16.24,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,7.0,12.12,,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,"6.5, 6.0",12.10,,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,5.0,12.5,,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,4.1,12.2,,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2018-initial,b4bb8e33349c15af0f29875647722898c30c7ab3,3.1,11.6,,research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,22.0,13.27,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,18.2,13.25,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,18.0,13.24,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,17.7,13.23,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,17.6,13.22,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,17.5,13.21,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,17.3,13.20,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,17.1,13.19,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,17.0,13.18,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,16.1,13.17,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,16.0,13.16,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,15.0,13.15,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,CC 2017.1 (14.2),13.14,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,CC 2017 (14.0),13.13,114.0,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,CC 2015.3 (13.8),13.11,113.8,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,CC 2015 (13.7),13.10,113.7,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,CC 2015 (13.6),13.10,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,"CC 2015 (13.5, 13.5.1)",13.9,113.5,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,CC 2014 (13.0-13.2),13.7,113,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,CC (12.2),13.6,112.2,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,CC (12.1),13.5,112.1,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,CC (12.0),13.4,112.0,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,CS6.0.1 (11.0.1),13.3,111.0,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,CS6 (11.0),13.2,111.0,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,CS5.5 (10.5),13.1,17.0,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,CS5 (10.0),13.0,17.0,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,CS4 (9.0),12.14,16.24,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,CS3 (8.0),12.13,16.24,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,7.0,12.12,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,"6.5, 6.0",12.10,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,5.0,12.5,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,4.1,12.2,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,3.1,11.6,,research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst
+2026-current,6d9b285,22.0,13.27,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,18.2,13.25,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,18.0,13.24,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,17.7,13.23,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,17.6,13.22,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,17.5,13.21,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,17.3,13.20,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,17.1,13.19,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,17.0,13.18,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,16.1,13.17,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,16.0,13.16,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,15.0,13.15,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,CC 2017.1 (14.2),13.14,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,CC 2017 (14.0),13.13,114.0,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,CC 2015.3 (13.8),13.11,113.8,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,CC 2015 (13.7),13.10,113.7,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,CC 2015 (13.6),13.10,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,"CC 2015 (13.5, 13.5.1)",13.9,113.5,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,CC 2014 (13.0-13.2),13.7,113,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,CC (12.2),13.6,112.2,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,CC (12.1),13.5,112.1,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,CC (12.0),13.4,112.0,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,CS6.0.1 (11.0.1),13.3,111.0,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,CS6 (11.0),13.2,111.0,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,CS5.5 (10.5),13.1,17.0,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,CS5 (10.0),13.0,17.0,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,CS4 (9.0),12.14,16.24,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,CS3 (8.0),12.13,16.24,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,7.0,12.12,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,"6.5, 6.0",12.10,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,5.0,12.5,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,4.1,12.2,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md
+2026-current,6d9b285,3.1,11.6,,scratch/after-effects-plugin-guide-history/docs/intro/compatibility-across-multiple-versions.md

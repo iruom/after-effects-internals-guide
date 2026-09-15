@@ -1,0 +1,14 @@
+site_name: After Effects Internals Guide
+site_description: Unofficial architecture and implementation archaeology guide for Adobe After Effects
+docs_dir: docs
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - content.code.copy
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true

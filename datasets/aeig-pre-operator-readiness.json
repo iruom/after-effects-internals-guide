@@ -1,0 +1,117 @@
+{
+  "status": "REPOSITORY_READY_ENV_PENDING",
+  "repository_ready": true,
+  "operator_environment_ready": false,
+  "date": "2026-09-16",
+  "static_rc_fingerprint": "406B70458F0D808891879AFAD610981C518ED7D7BADCC9C7720ACB31C6F64433",
+  "checks": [
+    {
+      "check": "static-rc",
+      "ok": true,
+      "detail": "AEIG static RC verification: PASS | artifacts 56 predictions 7 | fingerprint 406B70458F0D808891879AFAD610981C518ED7D7BADCC9C7720ACB31C6F64433",
+      "scope": "repository"
+    },
+    {
+      "check": "canonical-package",
+      "ok": true,
+      "detail": "package_files=7/7 | aex_sha256=9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98 | python_compile=24/24 | manifest_json=ok | jsx_syntax=ok | AEIG-L5 package audit: GREEN",
+      "scope": "repository"
+    },
+    {
+      "check": "repository-integrity",
+      "ok": true,
+      "detail": "user-run-package PASS package_files=7/7 | aex_sha256=9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98 | python_compile=24/24 | manifest_json=ok | jsx_syntax=ok | AEIG-L5 package audit: GREEN | docs-build-dependencies PASS requirements-docs.txt=present; mkdocs_local=no | docs-strict-build PASS  projects cannot be upgraded |  ��  �~ Closed contribution model \\u2013 community members can't report bugs |  ��  �~ Currently unlicensed \\u2013 unsuitable for production use |  �� |  ��  Our full analysis: |  �� |  ��  https://squidfunk.github.io/mkdocs-material/blog/2026/02/18/mkdocs-2.0/ |  | INFO    -  Cleaning site directory | INFO    -  Building documentation to directory: D:\\Developer\\After Effects Internals Guide\\scratch\\site-strict-audit | INFO    -  Documentation built in 3.39 seconds | wrote D:\\Developer\\After Effects Internals Guide\\datasets\\aeig-repository-integrity.csv",
+      "scope": "repository"
+    },
+    {
+      "check": "operator-preflight",
+      "ok": false,
+      "detail": "PASS\tae-binary\tD:\\Adobe\\Adobe After Effects 2026\\Support Files\\AfterFX.exe | PASS\tcanonical-aex\t9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98 | PASS\tstatic-rc-manifest\tfrozen manifest present | BLOCK\tnot-running:afterfx.exe\trunning | PASS\tnot-running:afterfx.com\tnot running | PASS\tnot-running:aerender.exe\tnot running | PASS\tprobe-not-installed\tD:\\Adobe\\Adobe After Effects 2026\\Support Files\\Plug-ins\\AEIG-Probes\\AEIGReceiptArtie.aex | PASS\tae-version-26.3\t26.3 | PASS\tno-unarchived-user-capture\tstale=0 | BLOCK\toperator-session-issued\tsession=missing fingerprint=missing errors=['schema', 'session_id', 'issued_unix_ms', 'static_rc_fingerprint', 'canonical_aex_sha256'] | PASS\tstatic-rc-verification\tAEIG static RC verification: PASS | artifacts 56 predictions 7 | fingerprint 406B70458F0D808891879AFAD610981C518ED7D7BADCC9C7720ACB31C6F64433 | AEIG L5 OPERATOR PREFLIGHT: BLOCKED (2 blocker(s))",
+      "scope": "environment"
+    },
+    {
+      "check": "operator-phase",
+      "ok": false,
+      "detail": "AE_PROCESS_ACTIVE_NO_PROBE",
+      "scope": "environment"
+    },
+    {
+      "check": "expected-domain-gap",
+      "ok": true,
+      "detail": "24/27; remaining=['cache', 'render-graph', 'state-identity']",
+      "scope": "repository"
+    },
+    {
+      "check": "plugin-host-l5",
+      "ok": true,
+      "detail": "L5",
+      "scope": "repository"
+    },
+    {
+      "check": "prediction-baseline",
+      "ok": true,
+      "detail": "pros=7 locked=7 pending=['PRED-004', 'PRED-005', 'PRED-006', 'PRED-007', 'PRED-008'] confirmed=['PRED-009', 'PRED-010'] refuted=[]",
+      "scope": "repository"
+    },
+    {
+      "check": "expected-release-blockers",
+      "ok": true,
+      "detail": "blockers=['domain-targets', 'predictive-validation'] warnings=[] audit_exit=1",
+      "scope": "repository"
+    },
+    {
+      "check": "not-released",
+      "ok": true,
+      "detail": "VERSION=False release_page=False",
+      "scope": "repository"
+    },
+    {
+      "check": "release-pipeline-selftest",
+      "ok": true,
+      "detail": "PASS finalizer_rejects_missing_capture | PASS promotion_rejects_unready_state | PASS protected_state_unchanged | PASS static_rc_still_valid | PASS version_not_created | PASS release_page_not_created | finalizer_exit 3 promotion_exit 1 changed 0 | AEIG RELEASE PIPELINE SELFTEST: PASS",
+      "scope": "repository"
+    },
+    {
+      "check": "promotion-gate-selftest",
+      "ok": true,
+      "detail": "k= False errors= [\"decision domains mismatch: ['cache', 'plugin-host', 'render-graph']\"] | PASS evidence-not-ready-fails gate_ok= False errors= ['not all core L5 evidence gates are ready: cache,plugin-host,render-graph,state-identity'] | PASS revision-required-fails gate_ok= False errors= ['model revision required before promotion: cache,plugin-host,render-graph,state-identity'] | PASS unlocked-prediction-fails gate_ok= False errors= ['unlocked prospective prediction exists: PRED-002'] | PASS pending-prediction-fails gate_ok= False errors= ['prediction gate failed: confirmed=6 unresolved=1 refuted=0'] | PASS raw-refutation-fails gate_ok= False errors= ['prediction gate failed: confirmed=6 unresolved=0 refuted=1'] | PASS manifest-not-observed-fails gate_ok= False errors= ['experiment is not observed/replicated: EXP-CACHE-002,EXP-PLUGIN-001,EXP-RG-001'] | AEIG PROMOTION GATE SELFTEST: PASS",
+      "scope": "repository"
+    },
+    {
+      "check": "promotion-transaction-selftest",
+      "ok": true,
+      "detail": "PASS all_steps_passed | PASS version_1_0 | PASS coverage_27_27 | PASS post_static_rc | PASS post_release_audit | PASS source_repository_unchanged | STEP freeze_aeig_static_rc.py exit 0 | STEP compute_static_rc_fingerprint.py exit 0 | STEP verify_aeig_static_rc.py exit 0 | STEP promote_aeig_1_0.py exit 0 | clone VERSION 1.0 coverage 27 / 27 | AEIG PROMOTION TRANSACTION SELFTEST: PASS",
+      "scope": "repository"
+    },
+    {
+      "check": "prediction-semantics-selftest",
+      "ok": true,
+      "detail": "ed want= refuted | PASS PRED-006-confirm got= confirmed want= confirmed | PASS PRED-006-refute-zero got= refuted want= refuted | PASS PRED-006-partial got= inconclusive want= inconclusive | PASS PRED-007-confirm got= confirmed want= confirmed | PASS PRED-007-refute got= refuted want= refuted | PASS PRED-007-missing got= inconclusive want= inconclusive | PASS PRED-008-confirm got= confirmed want= confirmed | PASS PRED-008-refute got= refuted want= refuted | PASS PRED-008-missing got= inconclusive want= inconclusive | PASS PRED-009-confirm got= confirmed want= confirmed | PASS PRED-009-refute got= refuted want= refuted | PASS PRED-009-incomplete got= inconclusive want= inconclusive | PASS PRED-010-confirm got= confirmed want= confirmed | PASS PRED-010-refute got= refuted want= refuted | PASS PRED-010-incomplete got= inconclusive want= inconclusive | AEIG PREDICTION SEMANTICS SELFTEST: PASS",
+      "scope": "repository"
+    },
+    {
+      "check": "operator-session-selftest",
+      "ok": true,
+      "detail": "PASS valid-session | PASS reject-schema | PASS reject-session_id | PASS reject-issued_unix_ms | PASS reject-static_rc_fingerprint | PASS reject-canonical_aex_sha256 | PASS raw-times-valid | PASS raw-old-file-rejected | PASS raw-missing-file-rejected | PASS session-write-roundtrip | AEIG OPERATOR SESSION SELFTEST: PASS",
+      "scope": "repository"
+    },
+    {
+      "check": "file-transaction-selftest",
+      "ok": true,
+      "detail": "PASS rollback-restores-existing | PASS rollback-removes-new | PASS commit-existing | PASS commit-new | AEIG FILE TRANSACTION SELFTEST: PASS",
+      "scope": "repository"
+    },
+    {
+      "check": "analyzer-selftest",
+      "ok": true,
+      "detail": "PASS receipt-complete | PASS receipt-api-error-is-semantic | PASS receipt-missing-key-rejected | PASS plugin-grid-complete | PASS plugin-duplicate-rejected | PASS rg-complete | PASS rg-content-fingerprint-diff | PASS rg-zero-category-is-semantic | PASS rg-incomplete-marker-rejected | PASS reflection-complete | PASS reflection-missing-label-rejected | AEIG ANALYZER SELFTEST: PASS",
+      "scope": "repository"
+    },
+    {
+      "check": "fingerprint-present",
+      "ok": true,
+      "detail": "406B70458F0D808891879AFAD610981C518ED7D7BADCC9C7720ACB31C6F64433",
+      "scope": "repository"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "experiment_id": "EXP-CACHE-001",
+  "title": "Temporal invalidation topology",
+  "status": "planned",
+  "domains": ["cache", "evaluation", "temporal", "state-identity"],
+  "question": "Does a time-local edit invalidate only its dependency footprint rather than the entire downstream node/frame range?",
+  "source_note": "Narrative plan: experiments/cache/EXP-CACHE-001-temporal-invalidation.md",
+  "environment": {
+    "ae_version": "25.6 local baseline; repeat on 26.5",
+    "os": "Windows 10 local research host",
+    "hardware": "capture at execution time",
+    "gpu": "capture at execution time",
+    "notes": "Run cold-cache and warm-cache variants separately."
+  },
+  "hypotheses": [
+    {"id": "H-local", "prediction": "Invalidation remains bounded near changed temporal support.", "falsified_by": "Unaffected distant frames consistently lose reusable state after a local edit."},
+    {"id": "H-whole-node", "prediction": "Any semantic edit broadly invalidates downstream cached frames.", "falsified_by": "Distant frames remain provably reusable after isolated local edits."}
+  ],
+  "factors": [
+    "keyframe edit inside active interval",
+    "keyframe edit outside active interval",
+    "name-only edit with and without expression dependency",
+    "motion-blur support boundary",
+    "undo/redo"
+  ],
+  "captures": [
+    "effect render/pre-render callback times",
+    "SmartFX checkout times",
+    "probe-effect input fingerprints",
+    "BEE/RG/cache trace events",
+    "timeline cache-state observations"
+  ],
+  "procedure": [
+    "Create deterministic 300-frame fixture and warm relevant caches.",
+    "Apply one isolated mutation per run.",
+    "Re-request fixed near and distant frame sets without other edits.",
+    "Preserve trace/log/raw fingerprints and environment metadata."
+  ],
+  "result": null
+}

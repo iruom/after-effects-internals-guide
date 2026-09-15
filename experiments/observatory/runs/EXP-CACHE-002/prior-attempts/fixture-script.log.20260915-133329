@@ -1,0 +1,9 @@
+AE=26.3x87 items_before=8
+ERR=ReferenceError: Function LOG.flush is undefined line=3
+ADBE Gaussian Blur 2
+fx2=ADBE Fill
+fx3=ADBE Tint
+numEffects=3
+render_start
+render_done status=3019
+items_after=9

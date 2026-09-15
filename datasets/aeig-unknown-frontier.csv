@@ -1,0 +1,29 @@
+frontier_type,subject,state,evidence,next_action
+corpus-boundary,sdk-25.6-headers,explicit-open-boundary,structured parser gap against Guide-declared/header-declared candidates is 0; semantic/doc aliases remain separate,resolve only with stronger/original/additional corpus evidence
+corpus-boundary,sdk-25.6-mac-headers,explicit-open-boundary,public header surface is normalized-text identical to Windows 25.6 in the retained archives; binary/sample platform parity remains a separate question,resolve only with stronger/original/additional corpus evidence
+corpus-boundary,sdk-local-pre25.6-headers,explicit-open-boundary,exact release provenance unresolved,resolve only with stronger/original/additional corpus evidence
+corpus-boundary,sdk-cs6-headers,explicit-open-boundary,third-party archive provenance; verify against an original Adobe package when obtainable,resolve only with stronger/original/additional corpus evidence
+corpus-boundary,sdk-cc2014-headers,explicit-open-boundary,third-party archive provenance pinned to git commit ec12dfd17a9566ea17f2095a47795bc80e68518f; verify against an original Adobe package when obtainable,resolve only with stronger/original/additional corpus evidence
+corpus-boundary,ae-2025-runtime-pe,explicit-open-boundary,"exports are binary-visible surfaces, not supported API contracts; non-exported internals remain outside this corpus",resolve only with stronger/original/additional corpus evidence
+corpus-boundary,ae-debug-trace-stable,explicit-open-boundary,retained profiles are incomplete between 11.0 and 23.4 and do not prove key semantics,resolve only with stronger/original/additional corpus evidence
+corpus-boundary,aexlo-snapshot,explicit-open-boundary,"independent host implementation, not Adobe authority",resolve only with stronger/original/additional corpus evidence
+corpus-boundary,aexexecutor-source,explicit-open-boundary,independent implementation source; not an Adobe authority,resolve only with stronger/original/additional corpus evidence
+corpus-boundary,aexexecutor-failure-logs,explicit-open-boundary,historical failure observations; coverage is limited to retained top-level text logs,resolve only with stronger/original/additional corpus evidence
+corpus-boundary,after-effects-sys-bindings,explicit-open-boundary,independent generated binding corroboration only; not an Adobe authority and not a historical SDK substitute,resolve only with stronger/original/additional corpus evidence
+corpus-boundary,cc2015-panel-sdk-samples,explicit-open-boundary,sample corpus proves distributed CEP/CSXS panel contract; does not enumerate every CEP runtime API,resolve only with stronger/original/additional corpus evidence
+corpus-boundary,guide-26.5,explicit-open-boundary,documentation corpus; does not enumerate private host internals,resolve only with stronger/original/additional corpus evidence
+corpus-boundary,scripting-guide-current,explicit-open-boundary,documentation-derived surface; runtime Reflection differential still pending,resolve only with stronger/original/additional corpus evidence
+corpus-boundary,expression-reference-current,explicit-open-boundary,documentation-derived surface; runtime engine-only names still pending,resolve only with stronger/original/additional corpus evidence
+model-frontier,docs/animation-system/spatial-interpolation.md,researched-seed,Spatial Interpolation and Arc-Length Parameterization,promote only with additional evidence or falsification tests
+model-frontier,docs/archaeology/patent-map.md,seed-map,Patent Archaeology Map,promote only with additional evidence or falsification tests
+model-frontier,docs/cache-system/temporal-validity.md,researched-seed,Temporal Cache Validity,promote only with additional evidence or falsification tests
+model-frontier,docs/evaluation/collateral-dependencies.md,researched-seed,Collateral Dependencies,promote only with additional evidence or falsification tests
+model-frontier,docs/evaluation/speculative-evaluation.md,active-hypothesis,Speculative Evaluation,promote only with additional evidence or falsification tests
+model-frontier,docs/expression-engine/preprocessing.md,active-hypothesis,Expression Preprocessing,promote only with additional evidence or falsification tests
+model-frontier,docs/persistence/ffx.md,active-hypothesis,FFX Preset Format,promote only with additional evidence or falsification tests
+capability-boundary,Query exact internal Render Graph,internal-observation,RG.dll exports; RG_CacheNodeBase; RG_ExecuteGraph; BEE imports RG,trace RG node creation/cache validation from deterministic fixture
+capability-boundary,Access evaluated BEE VectorArt / AGM representation,internal-observation,BEE_VectorArt; PopulateVectorArt; AGM path/display-list exports,non-invasive call-path trace and version comparison before any invocation
+capability-boundary,Control MediaCore source/decode below AEIO,internal-observation,BEE_LayerMCMediaInfo; BEE_LayerMCVideoSource; MF source/decode/cache,map AEIO request to BEE source-video identifier and decode request
+capability-boundary,Access Object Matte/FastMask analysis state,internal-observation,OM/ML/preseg GUID/workqueue/cache symbols; persistence evidence,AEP/cache artifact differential and propagation invalidation tests
+capability-boundary,Adobe first-party UXP extension hosting,firstparty-runtime-confirmed,AfterFXLib imports LoadExtensionById/CreateHostView/AttachHostView/SendEventToJS/SetClientHostAPIObject,inventory AE-registered UXP host namespaces without invoking undocumented native exports
+capability-boundary,General third-party UXP extension discovery,unknown-current-contract,shared dvauxphost has GetUXP3pDescriptors/ThirdPartyHostAPI/dev-plugin scanner; AE-specific import set does not directly include those scanner entry points,static discovery-path reconstruction then disposable-profile no-host-DOM discovery test

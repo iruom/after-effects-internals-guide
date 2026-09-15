@@ -1,0 +1,1197 @@
+{
+  "DeepLasso-20240605": {
+    "file_name": "deeplasso_320_fp32",
+    "model_version": "20240605",
+    "available_formats": [
+      {
+        "format": "CoreML",
+        "variant": "v6",
+        "supported_devices": "all",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      },
+      {
+        "format": "ONNX",
+        "variant": "v10",
+        "supported_devices": "cpu_and_gpu",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      }
+    ],
+    "supports_batching": false,
+    "min_batch_size": 0,
+    "max_batch_size": 0,
+    "memory_consumption_mb": -1,
+    "seconds_to_live": -1,
+    "module_name": "AdditionalMLModels",
+    "module_display_name": "$$$/DVA/CCD/Modules/MLModels/AdobeOne/DisplayNamePrivateBeta=Additional ML models",
+    "module_uuid": "AD939039-F6E9-4DB8-982D-87866FAF67D4",
+    "module_bundle_type": "ccd-on-demand",
+    "model_inputs": [
+      {
+        "feature_name": "data",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          4,
+          320,
+          320
+        ],
+        "tensor_data_type": "float32"
+      }
+    ],
+    "model_outputs": [
+      {
+        "feature_name": "prob",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          2,
+          320,
+          320
+        ],
+        "tensor_data_type": "float32"
+      }
+    ]
+  },
+  "FastMask3ImgEncoder512-20241118": {
+    "file_name": "fastmask3_image_encoder_mem3_512",
+    "model_version": "20241118",
+    "available_formats": [
+      {
+        "format": "CoreML",
+        "variant": "v6",
+        "supported_devices": "all",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      },
+      {
+        "format": "ONNX",
+        "variant": "v17",
+        "supported_devices": "cpu_and_gpu",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      }
+    ],
+    "supports_batching": false,
+    "min_batch_size": 0,
+    "max_batch_size": 0,
+    "memory_consumption_mb": -1,
+    "seconds_to_live": -1,
+    "module_name": "AdditionalMLModels",
+    "module_display_name": "$$$/DVA/CCD/Modules/MLModels/AdobeOne/DisplayNamePrivateBeta=Additional ML models",
+    "module_uuid": "AD939039-F6E9-4DB8-982D-87866FAF67D4",
+    "module_bundle_type": "ccd-on-demand",
+    "model_inputs": [
+      {
+        "feature_name": "image",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          3,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      }
+    ],
+    "model_outputs": [
+      {
+        "feature_name": "f16",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f8",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          160,
+          64,
+          64
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f4",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          80,
+          128,
+          128
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f2",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          40,
+          256,
+          256
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f1",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          3,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "key",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          256,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "selection",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          256,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      }
+    ]
+  },
+  "FastMask3MaskDecoder512-20241118": {
+    "file_name": "fastmask3_mask_decoder_mem3_512",
+    "model_version": "20241118",
+    "available_formats": [
+      {
+        "format": "CoreML",
+        "variant": "v6",
+        "supported_devices": "all",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      },
+      {
+        "format": "ONNX",
+        "variant": "v17",
+        "supported_devices": "cpu_and_gpu",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      }
+    ],
+    "supports_batching": false,
+    "min_batch_size": 0,
+    "max_batch_size": 0,
+    "memory_consumption_mb": -1,
+    "seconds_to_live": -1,
+    "module_name": "AdditionalMLModels",
+    "module_display_name": "$$$/DVA/CCD/Modules/MLModels/AdobeOne/DisplayNamePrivateBeta=Additional ML models",
+    "module_uuid": "AD939039-F6E9-4DB8-982D-87866FAF67D4",
+    "module_bundle_type": "ccd-on-demand",
+    "model_inputs": [
+      {
+        "feature_name": "memory_value",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          3072
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f16",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f8",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          160,
+          64,
+          64
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f4",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          80,
+          128,
+          128
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f2",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          40,
+          256,
+          256
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f1",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          3,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "key",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          256,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "selection",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          256,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "sensory",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "last_mask",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          1,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      }
+    ],
+    "model_outputs": [
+      {
+        "feature_name": "mask",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          1,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "updated_sensory",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      }
+    ]
+  },
+  "FastMask3MaskEncoder512-20241118": {
+    "file_name": "fastmask3_mask_encoder_mem3_512",
+    "model_version": "20241118",
+    "available_formats": [
+      {
+        "format": "CoreML",
+        "variant": "v6",
+        "supported_devices": "all",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      },
+      {
+        "format": "ONNX",
+        "variant": "v17",
+        "supported_devices": "cpu_and_gpu",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      }
+    ],
+    "supports_batching": false,
+    "min_batch_size": 0,
+    "max_batch_size": 0,
+    "memory_consumption_mb": -1,
+    "seconds_to_live": -1,
+    "module_name": "AdditionalMLModels",
+    "module_display_name": "$$$/DVA/CCD/Modules/MLModels/AdobeOne/DisplayNamePrivateBeta=Additional ML models",
+    "module_uuid": "AD939039-F6E9-4DB8-982D-87866FAF67D4",
+    "module_bundle_type": "ccd-on-demand",
+    "model_inputs": [
+      {
+        "feature_name": "f1",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          3,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f16",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "sensory",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "last_mask",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          1,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      }
+    ],
+    "model_outputs": [
+      {
+        "feature_name": "value",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "updated_sensory",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      }
+    ]
+  },
+  "FastMask2ImgEncoder512-20231103": {
+    "file_name": "fastmask2_image_encoder_mem3_512",
+    "model_version": "20231103",
+    "available_formats": [
+      {
+        "format": "CoreML",
+        "variant": "v6",
+        "supported_devices": "all",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      },
+      {
+        "format": "ONNX",
+        "variant": "v14",
+        "supported_devices": "cpu_and_gpu",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      }
+    ],
+    "supports_batching": false,
+    "min_batch_size": 0,
+    "max_batch_size": 0,
+    "memory_consumption_mb": -1,
+    "seconds_to_live": -1,
+    "module_name": "FastMask",
+    "module_display_name": "$$$/DVA/CCD/Modules/MLModels/FastMask/DisplayName=Rotobrush",
+    "module_uuid": "709D8D9A-83EB-4488-BC87-397DE30D0ABF",
+    "module_bundle_type": "bundled",
+    "model_inputs": [
+      {
+        "feature_name": "image",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          3,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      }
+    ],
+    "model_outputs": [
+      {
+        "feature_name": "f16",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f8",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          4096
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f4",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          2048,
+          2048
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f2",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          1024,
+          4096
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f1",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          3,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "key",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          64,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "shrinkage",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          1,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "selection",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          64,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      }
+    ]
+  },
+  "FastMask2MaskDecoder512-20231103": {
+    "file_name": "fastmask2_mask_decoder_mem3_512",
+    "model_version": "20231103",
+    "available_formats": [
+      {
+        "format": "CoreML",
+        "variant": "v6",
+        "supported_devices": "all",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      },
+      {
+        "format": "ONNX",
+        "variant": "v14",
+        "supported_devices": "cpu_and_gpu",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      }
+    ],
+    "supports_batching": false,
+    "min_batch_size": 0,
+    "max_batch_size": 0,
+    "memory_consumption_mb": -1,
+    "seconds_to_live": -1,
+    "module_name": "FastMask",
+    "module_display_name": "$$$/DVA/CCD/Modules/MLModels/FastMask/DisplayName=Rotobrush",
+    "module_uuid": "709D8D9A-83EB-4488-BC87-397DE30D0ABF",
+    "module_bundle_type": "bundled",
+    "model_inputs": [
+      {
+        "feature_name": "memory_key",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          64,
+          3072
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "memory_shrinkage",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          1,
+          3072
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "memory_value",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          3072
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f16",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f8",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          4096
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f4",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          2048,
+          2048
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f2",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          1024,
+          4096
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f1",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          3,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "key",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          64,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "selection",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          64,
+          32,
+          32
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "sensory",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "last_mask",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          1,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      }
+    ],
+    "model_outputs": [
+      {
+        "feature_name": "mask",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          1,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "updated_sensory",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      }
+    ]
+  },
+  "FastMask2MaskEncoder512-20231103": {
+    "file_name": "fastmask2_mask_encoder_mem3_512",
+    "model_version": "20231103",
+    "available_formats": [
+      {
+        "format": "CoreML",
+        "variant": "v6",
+        "supported_devices": "all",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      },
+      {
+        "format": "ONNX",
+        "variant": "v14",
+        "supported_devices": "cpu_and_gpu",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      }
+    ],
+    "supports_batching": false,
+    "min_batch_size": 0,
+    "max_batch_size": 0,
+    "memory_consumption_mb": -1,
+    "seconds_to_live": -1,
+    "module_name": "FastMask",
+    "module_display_name": "$$$/DVA/CCD/Modules/MLModels/FastMask/DisplayName=Rotobrush",
+    "module_uuid": "709D8D9A-83EB-4488-BC87-397DE30D0ABF",
+    "module_bundle_type": "bundled",
+    "model_inputs": [
+      {
+        "feature_name": "f1",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          3,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "f16",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "sensory",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "last_mask",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          1,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      }
+    ],
+    "model_outputs": [
+      {
+        "feature_name": "value",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "updated_sensory",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          512,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      }
+    ]
+  },
+  "FastMaskMemoryInput1024-20221010": {
+    "file_name": "fastmask_memory_resnet18_res4_key128_val256_mem4096_inp1024",
+    "model_version": "20221010",
+    "available_formats": [
+      {
+        "format": "CoreML",
+        "variant": "v4",
+        "supported_devices": "all",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      },
+      {
+        "format": "ONNX",
+        "variant": "v7",
+        "supported_devices": "cpu_and_gpu",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      }
+    ],
+    "supports_batching": false,
+    "min_batch_size": 0,
+    "max_batch_size": 0,
+    "memory_consumption_mb": -1,
+    "seconds_to_live": -1,
+    "module_name": "FastMask",
+    "module_display_name": "$$$/DVA/CCD/Modules/MLModels/FastMask/DisplayName=Rotobrush",
+    "module_uuid": "709D8D9A-83EB-4488-BC87-397DE30D0ABF",
+    "module_bundle_type": "bundled",
+    "model_inputs": [
+      {
+        "feature_name": "image",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          3,
+          1024,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "mask",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          1,
+          1024,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      }
+    ],
+    "model_outputs": [
+      {
+        "feature_name": "key",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          128,
+          4096
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "value",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          256,
+          4096
+        ],
+        "tensor_data_type": "float32"
+      }
+    ]
+  },
+  "FastMaskMemoryInput1024-20230222": {
+    "file_name": "fastmask_memory_resnet18_res4_key128_val256_mem4096_inp1024_ane_fix",
+    "model_version": "20230222",
+    "available_formats": [
+      {
+        "format": "CoreML",
+        "variant": "v4",
+        "supported_devices": "all",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      }
+    ],
+    "supports_batching": false,
+    "min_batch_size": 0,
+    "max_batch_size": 0,
+    "memory_consumption_mb": -1,
+    "seconds_to_live": -1,
+    "module_name": "FastMask",
+    "module_display_name": "$$$/DVA/CCD/Modules/MLModels/FastMask/DisplayName=Rotobrush",
+    "module_uuid": "709D8D9A-83EB-4488-BC87-397DE30D0ABF",
+    "module_bundle_type": "bundled",
+    "model_inputs": [
+      {
+        "feature_name": "image",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          3,
+          1024,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "mask",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          1,
+          1024,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      }
+    ],
+    "model_outputs": [
+      {
+        "feature_name": "key",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          128,
+          4096
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "value",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          256,
+          4096
+        ],
+        "tensor_data_type": "float32"
+      }
+    ]
+  },
+  "FastMaskMemoryInput512-20221010": {
+    "file_name": "fastmask_memory_resnet18_res4_key128_val256_mem1024_inp512",
+    "model_version": "20221010",
+    "available_formats": [
+      {
+        "format": "CoreML",
+        "variant": "v4",
+        "supported_devices": "all",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      },
+      {
+        "format": "ONNX",
+        "variant": "v7",
+        "supported_devices": "cpu_and_gpu",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      }
+    ],
+    "supports_batching": false,
+    "min_batch_size": 0,
+    "max_batch_size": 0,
+    "memory_consumption_mb": -1,
+    "seconds_to_live": -1,
+    "module_name": "FastMask",
+    "module_display_name": "$$$/DVA/CCD/Modules/MLModels/FastMask/DisplayName=Rotobrush",
+    "module_uuid": "709D8D9A-83EB-4488-BC87-397DE30D0ABF",
+    "module_bundle_type": "bundled",
+    "model_inputs": [
+      {
+        "feature_name": "image",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          3,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "mask",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          1,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      }
+    ],
+    "model_outputs": [
+      {
+        "feature_name": "key",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          128,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "value",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          256,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      }
+    ]
+  },
+  "FastMaskQueryInput1024-20221010": {
+    "file_name": "fastmask_query_resnet18_res4_key128_val256_mem4096_inp1024",
+    "model_version": "20221010",
+    "available_formats": [
+      {
+        "format": "CoreML",
+        "variant": "v4",
+        "supported_devices": "all",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      },
+      {
+        "format": "ONNX",
+        "variant": "v7",
+        "supported_devices": "cpu_and_gpu",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      }
+    ],
+    "supports_batching": false,
+    "min_batch_size": 0,
+    "max_batch_size": 0,
+    "memory_consumption_mb": -1,
+    "seconds_to_live": -1,
+    "module_name": "FastMask",
+    "module_display_name": "$$$/DVA/CCD/Modules/MLModels/FastMask/DisplayName=Rotobrush",
+    "module_uuid": "709D8D9A-83EB-4488-BC87-397DE30D0ABF",
+    "module_bundle_type": "bundled",
+    "model_inputs": [
+      {
+        "feature_name": "image",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          3,
+          1024,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "key",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          128,
+          8192
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "value",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          256,
+          8192
+        ],
+        "tensor_data_type": "float32"
+      }
+    ],
+    "model_outputs": [
+      {
+        "feature_name": "mask",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          2,
+          1024,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      }
+    ]
+  },
+  "FastMaskQueryInput1024-20230222": {
+    "file_name": "fastmask_query_resnet18_res4_key128_val256_mem4096_inp1024_ane_fix",
+    "model_version": "20230222",
+    "available_formats": [
+      {
+        "format": "CoreML",
+        "variant": "v4",
+        "supported_devices": "all",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      }
+    ],
+    "supports_batching": false,
+    "min_batch_size": 0,
+    "max_batch_size": 0,
+    "memory_consumption_mb": -1,
+    "seconds_to_live": -1,
+    "module_name": "FastMask",
+    "module_display_name": "$$$/DVA/CCD/Modules/MLModels/FastMask/DisplayName=Rotobrush",
+    "module_uuid": "709D8D9A-83EB-4488-BC87-397DE30D0ABF",
+    "module_bundle_type": "bundled",
+    "model_inputs": [
+      {
+        "feature_name": "image",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          3,
+          1024,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "key",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          128,
+          8192
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "value",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          256,
+          8192
+        ],
+        "tensor_data_type": "float32"
+      }
+    ],
+    "model_outputs": [
+      {
+        "feature_name": "mask",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          2,
+          1024,
+          1024
+        ],
+        "tensor_data_type": "float32"
+      }
+    ]
+  },
+  "FastMaskQueryInput512-20221010": {
+    "file_name": "fastmask_query_resnet18_res4_key128_val256_mem1024_inp512",
+    "model_version": "20221010",
+    "available_formats": [
+      {
+        "format": "CoreML",
+        "variant": "v4",
+        "supported_devices": "all",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      },
+      {
+        "format": "ONNX",
+        "variant": "v7",
+        "supported_devices": "cpu_and_gpu",
+        "disallowed_devices_filters": {},
+        "preferred_devices_filters": {}
+      }
+    ],
+    "supports_batching": false,
+    "min_batch_size": 0,
+    "max_batch_size": 0,
+    "memory_consumption_mb": -1,
+    "seconds_to_live": -1,
+    "module_name": "FastMask",
+    "module_display_name": "$$$/DVA/CCD/Modules/MLModels/FastMask/DisplayName=Rotobrush",
+    "module_uuid": "709D8D9A-83EB-4488-BC87-397DE30D0ABF",
+    "module_bundle_type": "bundled",
+    "model_inputs": [
+      {
+        "feature_name": "image",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          3,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "key",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          128,
+          2048
+        ],
+        "tensor_data_type": "float32"
+      },
+      {
+        "feature_name": "value",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          256,
+          2048
+        ],
+        "tensor_data_type": "float32"
+      }
+    ],
+    "model_outputs": [
+      {
+        "feature_name": "mask",
+        "feature_type": "tensor",
+        "tensor_shape": [
+          2,
+          512,
+          512
+        ],
+        "tensor_data_type": "float32"
+      }
+    ]
+  }
+}

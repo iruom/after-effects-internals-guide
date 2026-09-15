@@ -1,0 +1,698 @@
+﻿host,path,pipl_index,kind,name,category,blob_bytes
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\buffer_adjuster.aex,0,eFKT,Buffer Adjuster,ePi,286
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\circular_distribution.aex,0,eFKT,Circular Distribution,ePi,302
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Crate's Light Wrap.aex,0,eFKT,Crate's Light Wrap,ProductionCrate,294
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Dither.aex,0,eFKT,TrueDither,Sample Plug-ins,330
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\FFTPlugin.aex,0,eFKT,FFT Plugin,FFT Tools,286
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\GM_FoldLayers.aex,0,AEgx,GM_FoldLayers,General Plugin,146
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\HEISEI_DEMO.aex,0,eFKT,HEISEI_DEMO,Hiyameshi,322
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\KW_BandingReducer.aex,0,eFKT,KW_BandingReducer_01_,-+-KW Effects-+-,318
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\KW_Blur.aex,0,eFKT,KW_Blur_01_,-+-KW Effects-+-,294
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\KW_ColorChange.aex,0,eFKT,KW_ColorChange_01_,-+-KW Effects-+-,310
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\KW_CustomMask.aex,0,eFKT,KW_CustomMask_01_,-+-KW Effects-+-,310
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\KW_Diffusion.aex,0,eFKT,KW_Diffusion_01_,-+-KW Effects-+-,310
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\KW_ExpandRegion.aex,0,eFKT,KW_ExpandRegion_01_,-+-KW Effects-+-,310
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\KW_Gradation.aex,0,eFKT,KW_Gradation_01_,-+-KW Effects-+-,310
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\KW_Keying.aex,0,eFKT,KW_Keying_01_,-+-KW Effects-+-,302
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\KW_NoiseCut.aex,0,eFKT,KW_NoiseCut_01_,-+-KW Effects-+-,302
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\KW_PseudoShading.aex,0,eFKT,KW_PseudoShading_02_,-+-KW Effects-+-,318
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\KW_Scroll.aex,0,eFKT,KW_Scroll_01_,-+-KW Effects-+-,302
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\KW_Smoothing.aex,0,eFKT,KW_Smoothing_02_,-+-KW Effects-+-,310
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\NeSprite_Demo.aex,0,eFKT,NeSprite_Demo,Hiyameshi,346
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\ntsc-rs-ae.aex,0,eFKT,NTSC-rs,Stylize,330
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Odometer.aex,0,eFKT,Odometer,Plugin Everything,290
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OutOfFocus(64bit).aex,0,eFKT,Out of Focus,Kikaku,302
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\PixelSort.aex,0,eFKT,PixelSort,PixelSort,286
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\PNG Glitch.aex,0,eFKT,PNG Glitch,Glitch,278
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\random_distribution.aex,0,eFKT,Random Distribution,ePi,294
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\stretch_plus.aex,0,eFKT,Stretch,Stretch,310
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\stretch_v2.aex,0,eFKT,Stretch_v2,Stretch,318
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\TumoiYorozu_StrokeFx_v0.3 (1).aex,0,eFKT,StrokeFx,TumoiYorozu Plug-ins,306
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\TweakShader.aex,0,eFKT,TweakShader,Shaders,318
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\UnMult_64.aex,0,eFKT,UnMult,Knoll,278
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\3DModelImporter.aex,0,AEgx,3DModelImporter,Ignored,166
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Advanced3D.aex,0,AEgx,$$$/AE/AEGP/Name/Advanced3D=Advanced 3D,Ignored,182
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\AEDynamicLinkServer.aex,0,AEgx,$$$/AE/AEGP/Name/AEDynamicLinkServer=AEDynamicLinkServer,Ignored,210
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\AEGPDriver.aex,0,AEgp,$$$/AE/GP/Name/AEGPDriver=AEGP Driver,Ignored,186
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Audio Palette.aex,0,AEgx,$$$/AE/AEGP/Name/AudioPalette=Audio Palette,Ignored,186
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Brush Palette.aex,0,AEgx,$$$/AE/AEGP/Name/BrushTipsPalette=Brush Tips Palette,Ignored,218
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Calder.aex,0,AEgx,$$$/AE/AEGP/Name/AeroExp=Real-time 3D,Ignored,182
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Character Palette.aex,0,AEgx,$$$/AE/AEGP/Name/CharacterPalette=Character Palette,Ignored,214
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Ernst.aex,0,AEgx,$$$/AE/AEGP/Name/Ernst=Cinema 4D,Ignored,178
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Expressions and Scripting Palette.aex,0,AEgx,$$$/AE/AEGP/Name/ExpressionPalette=Expressions & Scripting Palette,Ignored,238
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Info Palette.aex,0,AEgx,$$$/AE/AEGP/Name/InfoPalette=Info Palette,Ignored,206
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Paint Palette.aex,0,AEgx,$$$/AE/AEGP/Name/PaintPalette=Paint Palette,Ignored,206
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Paragraph Palette.aex,0,AEgx,$$$/AE/AEGP/Name/ParagraphPalette=Paragraph Palette,Ignored,214
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Properties Palette.aex,0,AEgx,$$$/AE/AEGP/Name/PropertiesPalette=Properties Palette,Ignored,222
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Roto Brush.aex,0,AEgx,SnapCut,Ignored,150
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Standard3D.aex,0,AEgx,$$$/AE/AEGP/Name/Durer=Durer,Ignored,174
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Time Palette.aex,0,AEgx,$$$/AE/AEGP/Name/TimePalette=Time Palette,Ignored,206
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Tool Palette.aex,0,AEgx,$$$/AE/AEGP/Name/ToolPalette=Tool Palette,Ignored,206
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\Tracker Palette.aex,0,AEgx,$$$/AE/AEGP/Name/TrackerControls=Tracker Controls,Ignored,218
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Required\WorkQueue Palette.aex,0,AEgx,$$$/AE/AEGP/Name/WorkQueuePalette=Work Queue Palette,Ignored,222
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Andrew Yang\YY_Ramp+.aex,0,eFKT,YY_Ramp+,AndrewYY,306
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Animation Gym\PixyHalftone.aex,0,eFKT,Pixy Halftone,Animation Gym,298
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Aodaruma\AOD_ColorAjust.aex,0,eFKT,AOD_ColorAjust,Aodaruma,354
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Aodaruma\AOD_ColorChange.aex,0,eFKT,AOD_ColorChange,Aodaruma,354
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Aodaruma\AOD_ColorConvert.aex,0,eFKT,AOD_ColorConvert,Aodaruma,362
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Aodaruma\AOD_ContourGenerate.aex,0,eFKT,AOD_ContourGenerate,Aodaruma,362
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Aodaruma\AOD_DistanceGenerate.aex,0,eFKT,AOD_DistanceGenerate,Aodaruma,370
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Aodaruma\AOD_LifeFlow.aex,0,eFKT,AOD_LifeFlow,Aodaruma,354
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Aodaruma\AOD_MobiusTransform.aex,0,eFKT,AOD_MobiusTransform,Aodaruma,362
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Aodaruma\AOD_NormalGenerate.aex,0,eFKT,AOD_NormalGenerate,Aodaruma,362
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Aodaruma\AOD_PixelGrow.aex,0,eFKT,AOD_PixelGrow,Aodaruma,354
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Aodaruma\AOD_PixelSort.aex,0,eFKT,AOD_PixelSort,Aodaruma,354
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Aodaruma\AOD_PixelWarp.aex,0,eFKT,AOD_PixelWarp,Aodaruma,334
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Aodaruma\AOD_RegionColorize.aex,0,eFKT,AOD_RegionColorize,Aodaruma,362
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Aodaruma\AOD_VoronoiGenerate.aex,0,eFKT,AOD_VoronoiGenerate,Aodaruma,362
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\AviUtl\Crop.aex,0,eFKT,Crop,ALINCO,274
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\BGRA Entertainment\NormalMapperForAE.aex,0,eFKT,NormalMapperForAE,BGRA,302
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Cineware by Maxon\Cineware_AE_Effect.aex,0,eFKT,Cineware,Cinema 4D,382
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Cineware by Maxon\Cineware_AE_Exporter.aex,0,AEgx,Cinema 4D,General Plugin,142
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Cineware by Maxon\Cineware_AE_LiveLink.aex,0,AEgp,Cineware LiveLink,General Plugin,150
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Cineware by Maxon\Cineware_AE_SceneLayer.aex,0,AEgx,Cineware SceneLayer,General Plugin,150
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\Cryptomatte.aex,0,eFKT,Cryptomatte,$$$/AE/Effect/Category/3DChannel=3D Channel,314
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\EXtractoR.aex,0,eFKT,EXtractoR,$$$/AE/Effect/Category/3DChannel=3D Channel,314
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\IDentifier.aex,0,eFKT,IDentifier,$$$/AE/Effect/Category/3DChannel=3D Channel,314
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\Anywhere2.aex,0,AEgx,$$$/AE/AEGP/Name/Anywhere=Anywhere,Ignored,178
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,0,AEgx,$$$/AE/AEGP/Name/CEPManager=CEP Manager,Ignored,206
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\LocalizePresets.aex,0,AEgx,$$$/AE/AEGP/Name/LocalizePresets=Localize Presets,Ignored,222
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\Renoir.aex,0,AEgx,$$$/AE/AEGP/Name/Renoir=Renoir,Ignored,174
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Format\AIFF.aex,0,8BIF,$$$/AE/Format/Name/IFF=IFF,,490
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Format\AnimateImporter.aex,0,AEgx,Animate_Importer,General Plugin,154
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Format\HashIO.aex,0,AEgx,$$$/private/AE/AEGP/Name/HashIO=HashIO,Ignored,182
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Format\JPEG.aex,0,8BIF,$$$/AE/Format/Name/JPEG=JPEG,,462
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Format\OpenEXR.aex,0,AEgx,OpenEXR,General Plugin,134
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Format\PNGIO.aex,0,AEgx,$$$/AE/AEGP/Name/PNGIOSupport=PNGIO Support,Ignored,186
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Format\PremiereProImport.aex,0,AEgx,$$$/AE/AEGP/Name/PremiereProImport=Premiere Pro Import,Ignored,210
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Format\PS Layer Export.aex,0,AEgp,$$$/AE/GP/Name/PhotoshopLayeredExport=Photoshop Layered Export,Ignored,210
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Format\PS Layer Import.aex,0,AEgp,$$$/AE/GP/Name/PhotoshopLayerImport=Photoshop Layer Import,Ignored,206
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Format\SGI.aex,0,8BIF,$$$/AE/Format/Name/SGI=SGI,,462
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Format\SVGImporter.aex,0,AEgx,$$$/private/AE/AEGP/Name/SVGImporter=SVGImporter,Ignored,198
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Format\Targa (AE).aex,0,8BIF,$$$/AE/Format/Name/Targa=Targa,,474
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\irrealix\DustTransition.aex,0,eFKT,Dust Transition,irrealix,302
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\irrealix\freeGradient.aex,0,eFKT,freeGradient,irrealix,298
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\irrealix\LoopFlow.aex,0,eFKT,loopFlow,irrealix,290
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\irrealix\MosaicArt.aex,0,eFKT,MosaicArt,irrealix,290
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\irrealix\Stretch.aex,0,eFKT,Stretch,irrealix,286
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\Align.aex,0,AEgx,$$$/AE/GP/Name/Align=Align,Ignored,170
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\Analyzer.aex,0,AEgx,$$$/AE/AEGP/Name/AudioAnalyzer=Audio Analyzer,Ignored,210
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\EasyEase.aex,0,AEgp,$$$/AE/GP/Name/EasyEase=Easy Ease,Ignored,178
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\EssentialGraphics.aex,0,AEgx,$$$/AE/AEGP/Name/Capsules=Essential Graphics,Ignored,190
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\ExpScale.aex,0,AEgp,$$$/AE/GP/Name/ExponentialScale=Exponential Scale,Ignored,214
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\Filler.aex,0,AEgx,$$$/AE/GP/Name/TheFiller=The Filler,Ignored,178
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\LumetriScopesPal.aex,0,AEgx,$$$/AE/AEGP/Name/LumetriScopesPanel=Lumetri Scopes,Ignored,226
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\MayaImport.aex,0,AEgx,$$$/AE/AEGP/Name/MayaImport=MayaImport,Ignored,206
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\MediaBrowser.aex,0,AEgx,$$$/AE/AEGP/Name/MediaBrowser=Media Browser,Ignored,210
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\MetaPal.aex,0,AEgx,$$$/AE/AEGP/Name/MetaPanel=Metadata Browser,Ignored,210
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\MotionSketch.aex,0,AEgx,$$$/AE/AEGP/Name/MotionSketch=Motion Sketch,Ignored,190
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\RPFImport.aex,0,AEgx,$$$/AE/AEGP/Name/RPFImport=RPFImport,Ignored,206
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\RQMonitor.aex,0,AEgx,$$$/AE/AEGP/Name/RQMonitor=RQMonitor,Ignored,182
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\Scripting.aex,0,AEgx,$$$/AE/AEGP/Name/Scripting=Scripting,Ignored,206
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\Sequence.aex,0,AEgp,$$$/AE/GP/Name/Sequence=Sequence,Ignored,178
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\SmartMask.aex,0,AEgx,$$$/AE/AEGP/Name/SmartMaskInterpolation=Smart Mask Interpolation,Ignored,226
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\Smoother.aex,0,AEgx,$$$/AE/GP/Name/TheSmoother=The Smoother,Ignored,182
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\TRKeys.aex,0,AEgp,$$$/AE/GP/Name/TimeReverseKeyframes=Time-Reverse Keyframes,Ignored,210
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Keyframe\Wiggler.aex,0,AEgx,$$$/AE/GP/Name/TheWiggler=The Wiggler,Ignored,206
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Newton\Newton.aex,0,AEgx,MB Newton,General Plugin,142
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OLM\ColorKeep.aex,0,eFKT,Color Keep,OLM Plug-ins,294
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OLM\OLMBlur.aex,0,eFKT,OLM Blur,OLM Plug-ins,294
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OLM\OLMKiraKira.aex,0,eFKT,OLM Kira Kira,OLM Plug-ins,298
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OLM\OLMSmoother2.aex,0,eFKT,OLM Smoother v2,OLM Plug-ins,294
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OLM\OLMToonDilate.aex,0,eFKT,OLM Toon Dilate,OLM Plug-ins,298
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OLMColorKey\OLMColorKey.aex,0,eFKT,OLM Color Key,OLM Plug-ins,298
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OLMDirectionalBlur\OLMDirectionalBlur.aex,0,eFKT,OLM DirectionalBlur,OLM Plug-ins,310
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OLMDistanceGradation\DistanceGradation.aex,0,eFKT,Distance Gradation,OLM Plug-ins,310
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OLMRadialBlur\OLMRadialBlur.aex,0,eFKT,OLM RadialBlur,OLM Plug-ins,298
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OLMSmootherAE\OLMSmoother.aex,0,eFKT,OLM Smoother,OLM Plug-ins,298
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OminoSuiteWin\omino_color_extract.aex,0,eFKT,omino colorizer,omino,294
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OminoSuiteWin\omino_diffusion.aex,0,eFKT,omino diffusion,omino,290
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OminoSuiteWin\omino_halftone.aex,0,eFKT,omino halftone++,omino,294
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OminoSuiteWin\omino_kaleidoscope.aex,0,eFKT,omino kaleidoscope,omino,298
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OminoSuiteWin\omino_snake.aex,0,eFKT,omino snake,omino,282
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OminoSuiteWin\omino_sphere_map.aex,0,eFKT,omino sphere map,omino,298
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OminoSuiteWin\omino_squares.aex,0,eFKT,omino squares,omino,290
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\OminoSuiteWin\omino_test.aex,0,eFKT,omino test,omino,282
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Plugin Everything\AutoFill.aex,0,eFKT,AutoFill,Plugin Everything,286
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Plugin Everything\Deep Glow.aex,0,eFKT,Deep Glow,Plugin Everything,286
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Plugin Everything\DeepGlow2.aex,0,eFKT,Deep Glow 2,Plugin Everything,286
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Plugin Everything\DisplacerPro.aex,0,eFKT,Displacer Pro,Plugin Everything,290
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Plugin Everything\Extended_Coffee_Break_v1.0.aex,0,eFKT,Extended Coffee Break,Plugin Everything,302
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Plugin Everything\Extrude.aex,0,eFKT,Extrude,Plugin Everything,346
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Plugin Everything\FXAA.aex,0,eFKT,FXAA,Plugin Everything,282
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Plugin Everything\Label Maker.aex,0,AEgx,LabelMaker,General Plugin,142
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Plugin Everything\QCA3.aex,0,eFKT,Quick Chromatic Aberration 3,Plugin Everything,366
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Plugin Everything\Repeater.aex,0,eFKT,Repeater,Plugin Everything,290
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Plugin Everything\Shadow Studio 3.aex,0,eFKT,Shadow Studio 3,Plugin Everything,290
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Plugin Everything\TextBorder.aex,0,eFKT,TextBorder,Plugin Everything,294
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Plugin Everything\ThiccStroke.aex,0,eFKT,Thicc Stroke,Plugin Everything,294
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\CCU.aex,0,eFKT,Custom Comp UI,Sample Plug-ins,338
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\ColorGrid.aex,0,eFKT,ColorGrid,Sample Plug-ins,330
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\Custom_ECW_UI.aex,0,eFKT,Custom_ECW_UI,Sample Plug-ins,338
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\GLator.aex,0,eFKT,GLator,Sample Plug-ins,322
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\HistoGrid.aex,0,eFKT,HistoGrid,Sample Plug-ins,330
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\Paramarama.aex,0,eFKT,Paramarama,Sample Plug-ins,330
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\PathMaster.aex,0,eFKT,PathMaster,Sample Plug-ins,330
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\Portable.aex,0,eFKT,Portable,Sample Plug-ins,330
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\SmartyPants.aex,0,eFKT,SmartyPants,Sample Plug-ins,334
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\Supervisor.aex,0,eFKT,Supervisor,Sample Plug-ins,330
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Super-resX2\Super-resX2.aex,0,eFKT,AI����x2,����,282
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Trapcode\Echospace.aex,0,eFKT,Echospace,RG Trapcode,290
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Trapcode\Form.aex,0,eFKT,Form,RG Trapcode,278
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Trapcode\Geo.aex,0,eFKT,Geo,RG Trapcode,270
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Trapcode\Horizon.aex,0,eFKT,Horizon,RG Trapcode,290
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Trapcode\Lux.aex,0,eFKT,Lux,RG Trapcode,274
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Trapcode\Mir.aex,0,eFKT,Mir 3,RG Trapcode,278
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Trapcode\Particular.aex,0,eFKT,Particular,RG Trapcode,290
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Trapcode\SoundKeys.aex,0,eFKT,Sound Keys,RG Trapcode,290
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Trapcode\Tao.aex,0,eFKT,Tao,RG Trapcode,274
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\VideoCopilot\FXConsole.aex,0,AEgx,FX Console,Video Copilot,138
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\VideoCopilot\OpticalFlares.aex,0,eFKT,Optical Flares,Video Copilot,310
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Zaebects\signal.aex,0,eFKT,Signal,Zaebects,278
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Zaebects\Slitscan.aex,0,eFKT,Slit-scan,Zaebects,290
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\TerribleJunkShow\WQ\WQ.aex,0,AEgx,WQ,General Plugin,134
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\AEGP\Artie.aex,0,AEgx,Artie,General Plugin,138
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\AEGP\Easy_Cheese.aex,0,AEgx,Easy_Cheese,General Plugin,142
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\AEGP\FBIO.aex,0,AEgx,SDK_IO,General Plugin,138
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\AEGP\Grabba.aex,0,AEgx,Grabba,General Plugin,138
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\AEGP\Mangler.aex,0,AEgx,Mangler,General Plugin,138
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\AEGP\Panelator.aex,0,AEgx,Panelator,General Plugin,142
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\AEGP\ProjDumper.aex,0,AEgx,ProjDumper,General Plugin,142
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\AEGP\Text_Twiddler.aex,0,AEgx,Text_Twiddler,General Plugin,146
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\sdk_old\GP\EMP.aex,0,AEgp,EMP,General Plugin,134
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Format\Trapcode\TrapcodeOBJ.AEX,0,AEgx,FormOBJ,General Plugin,138
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\BallAction.aex,0,eFKT,CC Ball Action,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,422
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Bender.aex,0,eFKT,CC Bender,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\BendIt.aex,0,eFKT,CC Bend It,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Blobbylize.aex,0,eFKT,CC Blobbylize,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\BlockLoad.aex,0,eFKT,CC Block Load,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Bubbles.aex,0,eFKT,CC Bubbles,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,414
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\BurnFilm.aex,0,eFKT,CC Burn Film,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\ColorNeutralizer.aex,0,eFKT,CC Color Neutralizer,$$$/MediaCore/FiltersAndEffects/Category/ColorCorrection=Color Correction,450
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\ColorOffset.aex,0,eFKT,CC Color Offset,$$$/MediaCore/FiltersAndEffects/Category/ColorCorrection=Color Correction,434
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Composite.aex,0,eFKT,CC Composite,$$$/MediaCore/FiltersAndEffects/Category/Channel=Channel,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\CompositeObsolete.aex,0,eFKT,CC Composite (obsolete),$$$/MediaCore/FiltersAndEffects/Category/Channel=Channel,426
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\CrossBlur.aex,0,eFKT,CC Cross Blur,$$$/MediaCore/FiltersAndEffects/Category/BlurAndSharpen=Blur & Sharpen,430
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Cylinder.aex,0,eFKT,CC Cylinder,$$$/MediaCore/FiltersAndEffects/Category/Perspective=Perspective,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Drizzle.aex,0,eFKT,CC Drizzle,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,414
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Environment.aex,0,eFKT,CC Environment,$$$/MediaCore/FiltersAndEffects/Category/Perspective=Perspective,426
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\FloMotion.aex,0,eFKT,CC Flo Motion,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\ForceMB.aex,0,eFKT,CC Force Motion Blur,$$$/MediaCore/FiltersAndEffects/Category/Time=Time,426
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Glass.aex,0,eFKT,CC Glass,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\GlassWipe.aex,0,eFKT,CC Glass Wipe,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,422
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\GlueGun.aex,0,eFKT,CC Glue Gun,$$$/MediaCore/FiltersAndEffects/Category/Generate=Generate,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Griddler.aex,0,eFKT,CC Griddler,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\GridWipe.aex,0,eFKT,CC Grid Wipe,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,422
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Hair.aex,0,eFKT,CC Hair,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,406
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\HexTile.aex,0,eFKT,CC HexTile,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\ImageWipe.aex,0,eFKT,CC Image Wipe,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,422
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Jaws.aex,0,eFKT,CC Jaws,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,406
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Kaleida.aex,0,eFKT,CC Kaleida,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Kernel.aex,0,eFKT,CC Kernel,$$$/MediaCore/FiltersAndEffects/Category/ColorCorrection=Color Correction,426
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Lens.aex,0,eFKT,CC Lens,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,402
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\LightBurst.aex,0,eFKT,CC Light Burst 2.5,$$$/MediaCore/FiltersAndEffects/Category/Generate=Generate,426
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\LightRays.aex,0,eFKT,CC Light Rays,$$$/MediaCore/FiltersAndEffects/Category/Generate=Generate,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\LightSweep.aex,0,eFKT,CC Light Sweep,$$$/MediaCore/FiltersAndEffects/Category/Generate=Generate,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\LightWipe.aex,0,eFKT,CC Light Wipe,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,422
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\LineSweep.aex,0,eFKT,CC Line Sweep,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,422
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\MrMercury.aex,0,eFKT,CC Mr. Mercury,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,422
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\MrSmoothie.aex,0,eFKT,CC Mr. Smoothie,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Overbrights.aex,0,eFKT,CC Overbrights,$$$/MediaCore/FiltersAndEffects/Category/Utility=Utility,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\PageTurn.aex,0,eFKT,CC Page Turn,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\ParticleSystems.aex,0,eFKT,CC PS Classic (obsolete),$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,434
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\ParticleSystemsII.aex,0,eFKT,CC Particle Systems II,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,438
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\ParticleSystemsLE.aex,0,eFKT,CC PS LE Classic (obsolete),$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,438
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\PixelPolly.aex,0,eFKT,CC Pixel Polly,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,422
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Plastic.aex,0,eFKT,CC Plastic,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\PowerPin.aex,0,eFKT,CC Power Pin,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\PW.aex,0,eFKT,CC Particle World,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,430
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\RadialBlur.aex,0,eFKT,CC Radial Blur,$$$/MediaCore/FiltersAndEffects/Category/BlurAndSharpen=Blur & Sharpen,430
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\RadialFastBlur.aex,0,eFKT,CC Radial Fast Blur,$$$/MediaCore/FiltersAndEffects/Category/BlurAndSharpen=Blur & Sharpen,438
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\RadialScaleWipe.aex,0,eFKT,CC Radial ScaleWipe,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,430
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Rain.aex,0,eFKT,CC Rain (obsolete),$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Rainfall.aex,0,eFKT,CC Rainfall,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,414
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\RepeTile.aex,0,eFKT,CC RepeTile,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\RipplePulse.aex,0,eFKT,CC Ripple Pulse,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\ScaleWipe.aex,0,eFKT,CC Scale Wipe,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,422
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Scatterize.aex,0,eFKT,CC Scatterize,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,422
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\SimpleWireRemove.aex,0,eFKT,CC Simple Wire Removal,$$$/MediaCore/FiltersAndEffects/Category/Keying=Keying,430
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Slant.aex,0,eFKT,CC Slant,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Smear.aex,0,eFKT,CC Smear,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Snow.aex,0,eFKT,CC Snow (obsolete),$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Snowfall.aex,0,eFKT,CC Snowfall,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,414
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Sphere.aex,0,eFKT,CC Sphere,$$$/MediaCore/FiltersAndEffects/Category/Perspective=Perspective,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Split.aex,0,eFKT,CC Split,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Split2.aex,0,eFKT,CC Split 2,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Spotlight.aex,0,eFKT,CC Spotlight,$$$/MediaCore/FiltersAndEffects/Category/Perspective=Perspective,426
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\StarBurst.aex,0,eFKT,CC Star Burst,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,422
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Threads.aex,0,eFKT,CC Threads,$$$/MediaCore/FiltersAndEffects/Category/Generate=Generate,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Threshold.aex,0,eFKT,CC Threshold,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\ThresholdRGB.aex,0,eFKT,CC Threshold RGB,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,426
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Tiler.aex,0,eFKT,CC Tiler,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\TimeBlend.aex,0,eFKT,CC Time Blend,$$$/MediaCore/FiltersAndEffects/Category/Time=Time,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\TimeBlendFX.aex,0,eFKT,CC Time Blend FX,$$$/MediaCore/FiltersAndEffects/Category/Time=Time,418
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Toner.aex,0,eFKT,CC Toner,$$$/MediaCore/FiltersAndEffects/Category/ColorCorrection=Color Correction,426
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Twister.aex,0,eFKT,CC Twister,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,414
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\VectorBlur.aex,0,eFKT,CC Vector Blur,$$$/MediaCore/FiltersAndEffects/Category/BlurAndSharpen=Blur & Sharpen,430
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\Vignette.aex,0,eFKT,CC Vignette,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\WarpoMatic.aex,0,eFKT,CC WarpoMatic,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,422
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\CycoreFXHD\WideTime.aex,0,eFKT,CC Wide Time,$$$/MediaCore/FiltersAndEffects/Category/Time=Time,410
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\Keylight\KeylightPro.AEX,0,eFKT,Keylight (1.2),Keying,302
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\mochaAE\mochashape4ae_adobe.aex,0,eFKT,mocha shape,Obsolete,298
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\mochaAE\mochashapeconverter4ae.aex,0,AEgx,MochaShapeConverter,General Plugin,150
+ae25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Effects\mochaAE\MochaAE.bundle\Contents\Win64\MochaAE.aex,0,eFKT,Mocha AE,Boris FX Mocha,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\hyogo_blur.aex,0,eFKT,HyogoBlur,Aodaruma,346
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\ntsc-rs-ae.aex,0,eFKT,NTSC-rs,Stylize,330
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\PNG Glitch.aex,0,eFKT,PNG Glitch,Glitch,278
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\TumoiYorozu_StrokeFx_v0.3 (1).aex,0,eFKT,StrokeFx,TumoiYorozu Plug-ins,306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\TweakShader.aex,0,eFKT,TweakShader,Shaders,318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\3DModelImporter.aex,0,AEgx,3DModelImporter,Ignored,166
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Advanced3D.aex,0,AEgx,$$$/AE/AEGP/Name/Advanced3D=Advanced 3D,Ignored,182
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\AEDynamicLinkServer.aex,0,AEgx,$$$/AE/AEGP/Name/AEDynamicLinkServer=AEDynamicLinkServer,Ignored,210
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\AEGPDriver.aex,0,AEgp,$$$/AE/GP/Name/AEGPDriver=AEGP Driver,Ignored,186
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Audio Palette.aex,0,AEgx,$$$/AE/AEGP/Name/AudioPalette=Audio Palette,Ignored,186
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Brush Palette.aex,0,AEgx,$$$/AE/AEGP/Name/BrushTipsPalette=Brush Tips Palette,Ignored,218
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Calder.aex,0,AEgx,$$$/AE/AEGP/Name/AeroExp=Real-time 3D,Ignored,182
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Character Palette.aex,0,AEgx,$$$/AE/AEGP/Name/CharacterPalette=Character Palette,Ignored,214
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Ernst.aex,0,AEgx,$$$/AE/AEGP/Name/Ernst=Cinema 4D,Ignored,178
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Expressions and Scripting Palette.aex,0,AEgx,$$$/AE/AEGP/Name/ExpressionPalette=Expressions & Scripting Palette,Ignored,238
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Info Palette.aex,0,AEgx,$$$/AE/AEGP/Name/InfoPalette=Info Palette,Ignored,206
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Paint Palette.aex,0,AEgx,$$$/AE/AEGP/Name/PaintPalette=Paint Palette,Ignored,206
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Paragraph Palette.aex,0,AEgx,$$$/AE/AEGP/Name/ParagraphPalette=Paragraph Palette,Ignored,214
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Properties Palette.aex,0,AEgx,$$$/AE/AEGP/Name/PropertiesPalette=Properties Palette,Ignored,222
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Roto Brush.aex,0,AEgx,SnapCut,Ignored,150
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Standard3D.aex,0,AEgx,$$$/AE/AEGP/Name/Durer=Durer,Ignored,174
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Time Palette.aex,0,AEgx,$$$/AE/AEGP/Name/TimePalette=Time Palette,Ignored,206
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Tool Palette.aex,0,AEgx,$$$/AE/AEGP/Name/ToolPalette=Tool Palette,Ignored,206
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\Tracker Palette.aex,0,AEgx,$$$/AE/AEGP/Name/TrackerControls=Tracker Controls,Ignored,218
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Required\WorkQueue Palette.aex,0,AEgx,$$$/AE/AEGP/Name/WorkQueuePalette=Work Queue Palette,Ignored,222
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\AEIG-Temporary-Probes\AEIGReceiptArtie.aex,0,AEgx,Artie,General Plugin,138
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\AEIG-Temporary-Probes\Text_Twiddler.aex,0,AEgx,Text_Twiddler,General Plugin,146
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Aodaruma\AOD_ColorAjust.aex,0,eFKT,AOD_ColorAjust,Aodaruma,354
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Aodaruma\AOD_ColorChange.aex,0,eFKT,AOD_ColorChange,Aodaruma,354
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Aodaruma\AOD_ColorConvert.aex,0,eFKT,AOD_ColorConvert,Aodaruma,362
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Aodaruma\AOD_ContourGenerate.aex,0,eFKT,AOD_ContourGenerate,Aodaruma,362
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Aodaruma\AOD_DistanceGenerate.aex,0,eFKT,AOD_DistanceGenerate,Aodaruma,370
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Aodaruma\AOD_LifeFlow.aex,0,eFKT,AOD_LifeFlow,Aodaruma,354
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Aodaruma\AOD_MobiusTransform.aex,0,eFKT,AOD_MobiusTransform,Aodaruma,362
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Aodaruma\AOD_NormalGenerate.aex,0,eFKT,AOD_NormalGenerate,Aodaruma,362
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Aodaruma\AOD_PixelGrow.aex,0,eFKT,AOD_PixelGrow,Aodaruma,354
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Aodaruma\AOD_PixelSort.aex,0,eFKT,AOD_PixelSort,Aodaruma,354
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Aodaruma\AOD_PixelWarp.aex,0,eFKT,AOD_PixelWarp,Aodaruma,334
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Aodaruma\AOD_RegionColorize.aex,0,eFKT,AOD_RegionColorize,Aodaruma,362
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Aodaruma\AOD_VoronoiGenerate.aex,0,eFKT,AOD_VoronoiGenerate,Aodaruma,362
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\@chromatic_aberration.aex,0,eFKT,@chromatic_aberration,Atarabi,406
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\EditPathVertex(64bit).aex,0,eFKT,Edit Path Vertex,Kikaku,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\EditPathVertexBaker(64bit).aex,0,eFKT,Edit Path Vertex Baker,Kikaku,318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\EditPathVertexMaker(64bit).aex,0,eFKT,Edit Path Vertex Maker,Kikaku,318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\Kikaku15puzzle(64bit).aex,0,eFKT,Kikaku15puzzle,Kikaku,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuAddEffectMasks.aex,0,eFKT,KikakuAddEffectMasks,KikakuUtility,314
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuBlind.aex,0,eFKT,KikakuBlind,Kikaku,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuColorSpaceConversion.aex,0,eFKT,KikakuColorSpaceConversion,Kikaku,314
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuComposite.aex,0,eFKT,KikakuComposite,Kikaku,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuDadaa.aex,0,eFKT,KikakuDadaa,Kikaku,282
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuDiffusion.aex,0,eFKT,KikakuDiffusion,Kikaku,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuDropShadow.aex,0,eFKT,KikakuDropShadow,Kikaku,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuGlow.aex,0,eFKT,KikakuGlow,Kikaku,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuGradientOverlay.aex,0,eFKT,KikakuGradientOverlay,Kikaku,306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuLinearFitting.aex,0,eFKT,KikakuLinearFitting,Kikaku,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuLinearFittingTransition.aex,0,eFKT,KikakuLinearFittingTransition,Kikaku,322
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,0,eFKT,KikakuMolecules,Kikaku,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,1,eFKT,KikakuCircleAtom,Kikaku,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,2,eFKT,KikakuPolygonAtom,Kikaku,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,3,eFKT,KikakuRepeaterAtom,Kikaku,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,4,eFKT,KikakuTransformAtom,Kikaku,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,5,eFKT,KikakuLayerAtom,Kikaku,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,6,eFKT,KikakuLineAtom,Kikaku,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,7,eFKT,KikakuTriangleAtom,Kikaku,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,8,eFKT,KikakuRectangleAtom,Kikaku,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,9,eFKT,KikakuMoleculePoint,Kikaku,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,10,eFKT,KikakuMoleculeExploder,Kikaku,322
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,11,eFKT,KikakuMoleculeRepeater,Kikaku,322
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,12,eFKT,KikakuQuadrangleAtom,Kikaku,322
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,13,eFKT,KikakuMoleculeLocus,Kikaku,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,14,eFKT,KikakuCurveAtom,Kikaku,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,15,eFKT,KikakuPathAtom,Kikaku,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,16,eFKT,KikakuMoleculeTransform,Kikaku,322
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,17,eFKT,KikakuMoleculeEmitter,Kikaku,318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,18,eFKT,KikakuCrossAtom,Kikaku,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,19,eFKT,KikakuNoiseField,Kikaku,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,20,eFKT,KikakuMoleculeEffector,Kikaku,322
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,21,eFKT,KikakuMoleculeMap,Kikaku,306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,22,eFKT,KikakuMoleculeDistortion,Kikaku,330
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,23,eFKT,KikakuNoiseAtom,Kikaku,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,24,eFKT,KikakuMoleculeTransEffector,Kikaku,338
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,25,eFKT,KikakuMoleculeControl,Kikaku,322
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuMolecules.aex,26,eFKT,KikakuMoleculeTransporter,Kikaku,330
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuParametricRamp.aex,0,eFKT,KikakuParametricRamp,Kikaku,306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuPatternOverlay.aex,0,eFKT,KikakuPatternOverlay,Kikaku,306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuPatternTrial.aex,0,eFKT,KikakuPatternTrial,Kikaku,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuPatternVertex(64bit).aex,0,eFKT,KikakuPatternVertex,Kikaku,314
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuRamp.aex,0,eFKT,KikakuRamp,Kikaku,282
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuStopWatch.aex,0,eFKT,KikakuStopWatch,KikakuUtility,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuStretch.aex,0,eFKT,KikakuStretch,Kikaku,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuStretchTransition.aex,0,eFKT,KikakuStretchTransition,Kikaku,306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuStroke.aex,0,eFKT,KikakuStroke,Kikaku,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuTiltShift.aex,0,eFKT,KikakuTiltShift,Kikaku,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\KikakuTranslucentDropshadow.aex,0,eFKT,KikakuTranslucentDropshadow,Kikaku,314
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\atarabi\OutOfFocus(64bit).aex,0,eFKT,Out of Focus,Kikaku,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Cineware by Maxon\Cineware_AE_Effect.aex,0,eFKT,Cineware,Cinema 4D,382
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Cineware by Maxon\Cineware_AE_Exporter.aex,0,AEgx,Cinema 4D,General Plugin,142
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Cineware by Maxon\Cineware_AE_LiveLink.aex,0,AEgp,Cineware LiveLink,General Plugin,150
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Cineware by Maxon\Cineware_AE_SceneLayer.aex,0,AEgx,Cineware SceneLayer,General Plugin,150
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\Cryptomatte.aex,0,eFKT,Cryptomatte,$$$/AE/Effect/Category/3DChannel=3D Channel,314
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\EXtractoR.aex,0,eFKT,EXtractoR,$$$/AE/Effect/Category/3DChannel=3D Channel,314
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\IDentifier.aex,0,eFKT,IDentifier,$$$/AE/Effect/Category/3DChannel=3D Channel,314
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Extensions\Anywhere2.aex,0,AEgx,$$$/AE/AEGP/Name/Anywhere=Anywhere,Ignored,178
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Extensions\CEPManager.aex,0,AEgx,$$$/AE/AEGP/Name/CEPManager=CEP Manager,Ignored,206
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Extensions\LocalizePresets.aex,0,AEgx,$$$/AE/AEGP/Name/LocalizePresets=Localize Presets,Ignored,222
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Extensions\Renoir.aex,0,AEgx,$$$/AE/AEGP/Name/Renoir=Renoir,Ignored,174
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Format\AIFF.aex,0,8BIF,$$$/AE/Format/Name/IFF=IFF,,490
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Format\AnimateImporter.aex,0,AEgx,Animate_Importer,General Plugin,154
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Format\HashIO.aex,0,AEgx,$$$/private/AE/AEGP/Name/HashIO=HashIO,Ignored,182
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Format\JPEG.aex,0,8BIF,$$$/AE/Format/Name/JPEG=JPEG,,462
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Format\OpenEXR.aex,0,AEgx,OpenEXR,General Plugin,134
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Format\PNGIO.aex,0,AEgx,$$$/AE/AEGP/Name/PNGIOSupport=PNGIO Support,Ignored,186
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Format\PremiereProImport.aex,0,AEgx,$$$/AE/AEGP/Name/PremiereProImport=Premiere Pro Import,Ignored,210
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Format\PS Layer Export.aex,0,AEgp,$$$/AE/GP/Name/PhotoshopLayeredExport=Photoshop Layered Export,Ignored,210
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Format\PS Layer Import.aex,0,AEgp,$$$/AE/GP/Name/PhotoshopLayerImport=Photoshop Layer Import,Ignored,206
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Format\SGI.aex,0,8BIF,$$$/AE/Format/Name/SGI=SGI,,462
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Format\SVGImporter.aex,0,AEgx,$$$/private/AE/AEGP/Name/SVGImporter=SVGImporter,Ignored,198
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Format\Targa (AE).aex,0,8BIF,$$$/AE/Format/Name/Targa=Targa,,474
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\irrealix\DustTransition.aex,0,eFKT,Dust Transition,irrealix,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\irrealix\freeGradient.aex,0,eFKT,freeGradient,irrealix,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\irrealix\LoopFlow.aex,0,eFKT,loopFlow,irrealix,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\irrealix\MosaicArt.aex,0,eFKT,MosaicArt,irrealix,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\irrealix\Stretch.aex,0,eFKT,Stretch,irrealix,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\Align.aex,0,AEgx,$$$/AE/GP/Name/Align=Align,Ignored,170
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\Analyzer.aex,0,AEgx,$$$/AE/AEGP/Name/AudioAnalyzer=Audio Analyzer,Ignored,210
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\EasyEase.aex,0,AEgp,$$$/AE/GP/Name/EasyEase=Easy Ease,Ignored,178
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\EssentialGraphics.aex,0,AEgx,$$$/AE/AEGP/Name/Capsules=Essential Graphics,Ignored,190
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\ExpScale.aex,0,AEgp,$$$/AE/GP/Name/ExponentialScale=Exponential Scale,Ignored,214
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\Filler.aex,0,AEgx,$$$/AE/GP/Name/TheFiller=The Filler,Ignored,178
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\LumetriScopesPal.aex,0,AEgx,$$$/AE/AEGP/Name/LumetriScopesPanel=Lumetri Scopes,Ignored,226
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\MayaImport.aex,0,AEgx,$$$/AE/AEGP/Name/MayaImport=MayaImport,Ignored,206
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\MediaBrowser.aex,0,AEgx,$$$/AE/AEGP/Name/MediaBrowser=Media Browser,Ignored,210
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\MetaPal.aex,0,AEgx,$$$/AE/AEGP/Name/MetaPanel=Metadata Browser,Ignored,210
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\MotionSketch.aex,0,AEgx,$$$/AE/AEGP/Name/MotionSketch=Motion Sketch,Ignored,190
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\RPFImport.aex,0,AEgx,$$$/AE/AEGP/Name/RPFImport=RPFImport,Ignored,206
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\RQMonitor.aex,0,AEgx,$$$/AE/AEGP/Name/RQMonitor=RQMonitor,Ignored,182
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\Scripting.aex,0,AEgx,$$$/AE/AEGP/Name/Scripting=Scripting,Ignored,206
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\Sequence.aex,0,AEgp,$$$/AE/GP/Name/Sequence=Sequence,Ignored,178
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\SmartMask.aex,0,AEgx,$$$/AE/AEGP/Name/SmartMaskInterpolation=Smart Mask Interpolation,Ignored,226
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\Smoother.aex,0,AEgx,$$$/AE/GP/Name/TheSmoother=The Smoother,Ignored,182
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\TRKeys.aex,0,AEgp,$$$/AE/GP/Name/TimeReverseKeyframes=Time-Reverse Keyframes,Ignored,210
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Keyframe\Wiggler.aex,0,AEgx,$$$/AE/GP/Name/TheWiggler=The Wiggler,Ignored,206
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\AetherPlugin.aex,0,eFKT,Aether,Aether,326
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\Checkout.aex,0,eFKT,Checkout,Sample Plug-ins,330
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\ChromaticAberration.aex,0,eFKT,Chromatic Aberration,Sample Plug-ins,354
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\ConvolutionFFT.aex,0,eFKT,FFT Convolution Bloom,Vulkanator,330
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\ConvolutionFFT.aex,1,eFKT,RealBloom PSF Kernel Generator,Vulkanator,354
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\Dither.aex,0,eFKT,TrueDither,Sample Plug-ins,330
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\GLSLToy.aex,0,eFKT,GLSL Toy (ShaderToy),Sample Plug-ins,342
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\ImageFFT(GPU).aex,0,eFKT,ImageFFT GPU,Effects,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\SDK_Noise.aex,0,eFKT,SDK_Noise,Sample Plug-ins,330
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\SeamCarving.aex,0,eFKT,SeamCarving RT,Content-Aware,374
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\Sencha.aex,0,eFKT,Sencha,Sample Plug-ins,322
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\Shifter.aex,0,eFKT,Shifter,Sample Plug-ins,326
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\TespPlugin.aex,0,eFKT,TespPlugin,Sample Plug-ins,330
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\TurbulentMatte.aex,0,eFKT,Turbulent Matte,Sample Plug-ins,334
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\Vaporwave.aex,0,eFKT,Vaporwave,Stylize,334
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\MyBuilds\WohitaRD.aex,0,eFKT,Wohita RD,Wohita,278
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-AlphaFill.aex,0,eFKT,NF-AlphaFill,NF-Channel,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-BurstLines.aex,0,eFKT,NF-BurstLines,NF-Draw,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-CameraShake.aex,0,eFKT,NF-CameraShake,NF-Transform,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-CellEmboss.aex,0,eFKT,NF-CellEmboss,NF-Filter,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-CellLineEraser.aex,0,eFKT,NF-CellLineEraser,NF-Cell,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-Chroma.aex,0,eFKT,NF-Chroma,NF-Filter,282
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-ColorSampler.aex,0,eFKT,NF-ColorSampler,NF-Cell,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-ColorSpaceInvert.aex,0,eFKT,NF-ColorSpaceInvert,NF-Filter,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-ColorSwitch.aex,0,eFKT,NF-ColorSwitch,NF-Cell,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-Emboss.aex,0,eFKT,NF-Emboss,NF-Filter,282
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-FloodFill.aex,0,eFKT,NF-FloodFill,NF-Cell,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-Gradient.aex,0,eFKT,NF-Gradient,NF-Draw,278
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-Grain.aex,0,eFKT,NF-Grain,NF-Noise,282
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-Hyperbolic.aex,0,eFKT,NF-Hyperbolic,NF-Filter,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-InkingLineBlur.aex,0,eFKT,NF-InkingLineBlur,NF-Cell,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-InnerFlare.aex,0,eFKT,NF-InnerFlare,NF-Cell,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-InnerFlareRot.aex,0,eFKT,NF-InnerFlareRot,NF-Cell,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-Ligtning.aex,0,eFKT,NF-Ligtning,NF-Draw,278
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-LineExtraction.aex,0,eFKT,NF-LineExtraction,NF-Filter,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-LogicGray.aex,0,eFKT,NF-LogicGray,NF-Colorize,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-MaxBlur.aex,0,eFKT,NF-MaxBlur,NF-Filter,282
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-MinMax.aex,0,eFKT,NF-MinMax,NF-Filter,282
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-Mosaic.aex,0,eFKT,NF-Mosaic,NF-Filter,282
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-Mult.aex,0,eFKT,NF-Mult,NF-Channel,274
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-MuzzleFlash.aex,0,eFKT,NF-MuzzleFlash,NF-Draw,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-Noise.aex,0,eFKT,NF-Noise,NF-Noise,282
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-Outline.aex,0,eFKT,NF-Outline,NF-Filter,282
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-Posterization.aex,0,eFKT,NF-Posterization,NF-Filter,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-PremultiplyColor.aex,0,eFKT,NF-PremultiplyColor,NF-Channel,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-RadialLines.aex,0,eFKT,NF-RadialLines,NF-Draw,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-RandomMosaic.aex,0,eFKT,NF-RandomMosaic,NF-Noise,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-RGBShifter.aex,0,eFKT,NF-RGBShifter,NF-Colorize,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-RimFill.aex,0,eFKT,NF-RimFill,NF-Cell,278
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-SelectiveColorBlur.aex,0,eFKT,NF-SelectiveColorBlur,NF-Cell,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-SpeedLines.aex,0,eFKT,NF-SpeedLines,NF-Draw,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-Sputtering.aex,0,eFKT,NF-Sputtering,NF-Draw,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-SputteringPosition.aex,0,eFKT,NF-SputteringPosition,NF-Draw,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-Star.aex,0,eFKT,NF-Star,NF-Draw,270
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-TargetGrad.aex,0,eFKT,NF-TargetGrad,NF-Cell,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-TargetGradRadical.aex,0,eFKT,NF-TargetGradRadical,NF-Cell,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-Thin.aex,0,eFKT,NF-Thin,NF-Cell,270
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-Threshold.aex,0,eFKT,NF-Threshold,NF-Channel,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-TouchLines.aex,0,eFKT,NF-TouchLine,NF-Draw,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\NF-Plugins_20260504\NF-WhiteKeying.aex,0,eFKT,NF-WhiteKeying,NF-Cell,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OLM\ColorKeep.aex,0,eFKT,Color Keep,OLM Plug-ins,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OLM\DistanceGradation.aex,0,eFKT,Distance Gradation,OLM Plug-ins,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OLM\OLMBlur.aex,0,eFKT,OLM Blur,OLM Plug-ins,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OLM\OLMDirectionalBlur.aex,0,eFKT,OLM DirectionalBlur,OLM Plug-ins,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OLM\OLMKiraKira.aex,0,eFKT,OLM Kira Kira,OLM Plug-ins,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OLM\OLMRadialBlur.aex,0,eFKT,OLM RadialBlur,OLM Plug-ins,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OLM\OLMSmoother.aex,0,eFKT,OLM Smoother,OLM Plug-ins,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OLM\OLMSmoother2.aex,0,eFKT,OLM Smoother v2,OLM Plug-ins,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OLM\OLMToonDilate.aex,0,eFKT,OLM Toon Dilate,OLM Plug-ins,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OminoSuiteWin\omino_color_extract.aex,0,eFKT,omino colorizer,omino,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OminoSuiteWin\omino_diffusion.aex,0,eFKT,omino diffusion,omino,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OminoSuiteWin\omino_halftone.aex,0,eFKT,omino halftone++,omino,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OminoSuiteWin\omino_kaleidoscope.aex,0,eFKT,omino kaleidoscope,omino,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OminoSuiteWin\omino_snake.aex,0,eFKT,omino snake,omino,282
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OminoSuiteWin\omino_sphere_map.aex,0,eFKT,omino sphere map,omino,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OminoSuiteWin\omino_squares.aex,0,eFKT,omino squares,omino,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\OminoSuiteWin\omino_test.aex,0,eFKT,omino test,omino,282
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\onmk\frame_slice.aex,0,eFKT,FrameSlice,Time,342
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\onmk\MinimaxMap.aex,0,eFKT,MinimaxMap,Channel,314
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\onmk\TuiImage.aex,0,eFKT,TuiImage,Stylize,314
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\palf\BitonicPixelSorter.aex,0,eFKT,Bitonic Pixel Sorter,Stylize,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Plugin Everything\AutoFill.aex,0,eFKT,AutoFill,Plugin Everything,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Plugin Everything\Deep Glow.aex,0,eFKT,Deep Glow,Plugin Everything,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Plugin Everything\DeepGlow2.aex,0,eFKT,Deep Glow 2,Plugin Everything,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Plugin Everything\DisplacerPro.aex,0,eFKT,Displacer Pro,Plugin Everything,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Plugin Everything\Extended_Coffee_Break_v1.0.aex,0,eFKT,Extended Coffee Break,Plugin Everything,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Plugin Everything\Extrude.aex,0,eFKT,Extrude,Plugin Everything,346
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Plugin Everything\FXAA.aex,0,eFKT,FXAA,Plugin Everything,282
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Plugin Everything\Label Maker.aex,0,AEgx,LabelMaker,General Plugin,142
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Plugin Everything\QCA3.aex,0,eFKT,Quick Chromatic Aberration 3,Plugin Everything,366
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Plugin Everything\Repeater.aex,0,eFKT,Repeater,Plugin Everything,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Plugin Everything\Shadow Studio 3.aex,0,eFKT,Shadow Studio 3,Plugin Everything,290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Plugin Everything\TextBorder.aex,0,eFKT,TextBorder,Plugin Everything,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Plugin Everything\ThiccStroke.aex,0,eFKT,Thicc Stroke,Plugin Everything,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\PSOFT\antialiasing.aex,0,eFKT,anti-aliasing,PSOFT,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Rowbyte\FastBokeh.aex,0,eFKT,Fast Bokeh,Rowbyte,286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Syndromee\sy_Bevelized.aex,0,eFKT,sy_Bevelized,Syndromee Plugin,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Syndromee\sy_PrismDiffraction.aex,0,eFKT,sy_PrismDiffraction,Syndromee Plugin,306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\VideoCopilot\FXConsole.aex,0,AEgx,FX Console,Video Copilot,138
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\VideoCopilot\OpticalFlares.aex,0,eFKT,Optical Flares,Video Copilot,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\yama_ko\KO_BandFillBasic.aex,0,eFKT,KO BandFillBasic,yama-ko.net,318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Zaebects\B.Fringe.aex,0,eFKT,B.Fringe,Basalt,278
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\PSOFT\Pencil+ 4 Line for After Effects (TRIAL)\P_AEGP_ColorTable.aex,0,AEgx,P_ColorTable,General Plugin,146
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\PSOFT\Pencil+ 4 Line for After Effects (TRIAL)\P_AEIO_PCLD.aex,0,AEgx,P_PCLD,General Plugin,138
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\PSOFT\Pencil+ 4 Line for After Effects (TRIAL)\P_PcldImport.aex,0,AEgx,Persisto,General Plugin,142
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\PSOFT\Pencil+ 4 Line for After Effects (TRIAL)\P_Pencil+4_demo.aex,0,eFKT,P_Pencil+ 4 Line,PSOFT,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\(Fake)\F's Unmult_KNSW_20260222.aex,0,eFKT,F's Unmult_KNSW_Fake,(Fake),290
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\(Fake)\F's Unmult_RG_20260222.aex,0,eFKT,F's Unmult_RG_Fake,(Fake),286
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Cell\F's colorThreshold_20260222.aex,0,eFKT,F's colorThreshold,NF's Plugins-Cell,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Cell\F's EdgeLine-Hi_20260222.aex,0,eFKT,F's EdgeLine-Hi,NF's Plugins-Cell,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Cell\F's EdgeLine_20260222.aex,0,eFKT,F's EdgeLine,NF's Plugins-Cell,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Cell\F's PixelExtend_20260222.aex,0,eFKT,F's PixelExtend,NF's Plugins-Cell,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Cell\F's UsedColorList_20260222.aex,0,eFKT,F's UsedColorList,NF's Plugins-Cell,306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Channel\F's AlphaHyperbolic_20260222.aex,0,eFKT,F's AlphaHyperbolic,NF's Plugins-Channel,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Channel\F's alphaThreshold_20260222.aex,0,eFKT,F's alphaThreshold,NF's Plugins-Channel,314
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Channel\F's ChannelShift_20260222.aex,0,eFKT,F's ChannelShift,NF's Plugins-Channel,314
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Channel\F's MaskFromRGB_20260222.aex,0,eFKT,F's MaskFromRGB,NF's Plugins-Channel,306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Channel\F's MaskFromRGB_Multi_20260222.aex,0,eFKT,F's MaskFromRGB_Multi,NF's Plugins-Channel,322
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Channel\F's RgbToAlpha_20260222.aex,0,eFKT,F's RgbToAlpha,NF's Plugins-Channel,306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Colorize\F's grayToColorize_20260222.aex,0,eFKT,F's grayToColorize,NF's Plugins-Colorize,314
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Colorize\F's grayToCountourLine_20260222.aex,0,eFKT,F's grayToCountourLine,NF's Plugins-Colorize,322
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Colorize\F's graytoneToColorize_20260222.aex,0,eFKT,F's graytoneToColorize,NF's Plugins-Colorize,322
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Colorize\F's HLS_Reverse_20260222.aex,0,eFKT,F's HLS_Reverse,NF's Plugins-Colorize,306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Colorize\F's RGBAControl_20260222.aex,0,eFKT,F's RGBAControl,NF's Plugins-Colorize,306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Colorize\F's smokeThreshold_20260222.aex,0,eFKT,F's smokeThreshold,NF's Plugins-Colorize,314
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Colorize\F's YuvControl_20260222.aex,0,eFKT,F's YuvControl,NF's Plugins-Colorize,306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Draw\F's SparkGrand_20260222.aex,0,eFKT,F's SparkGrand,NF's Plugins-Draw,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Draw\F's SparkMult_20260222.aex,0,eFKT,F's SparkMult,NF's Plugins-Draw,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Draw\F's SparkRing_20260222.aex,0,eFKT,F's SparkRing,NF's Plugins-Draw,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Draw\F's SparkStorm_20260222.aex,0,eFKT,F's SparkStorm,NF's Plugins-Draw,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Draw\F's Spark_20260222.aex,0,eFKT,F's Spark,NF's Plugins-Draw,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Draw\F's sputteringAlpha_20260222.aex,0,eFKT,F's sputteringAlpha,NF's Plugins-Draw,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Draw\F's sputteringCircle_20260222.aex,0,eFKT,F's sputteringCircle,NF's Plugins-Draw,318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Draw\F's sputteringRect_20260222.aex,0,eFKT,F's sputteringRect,NF's Plugins-Draw,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Draw\F's sputteringSplash_20260222.aex,0,eFKT,F's sputteringSplash,NF's Plugins-Draw,318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Draw\F's TouchDrawCenter_20260222.aex,0,eFKT,F's TouchDrawCenter,NF's Plugins-Draw,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Draw\F's TouchDrawStraght_20260222.aex,0,eFKT,F's TouchDrawStraght,NF's Plugins-Draw,318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Draw\F's TouchDraw_20260222.aex,0,eFKT,F's TouchDraw,NF's Plugins-Draw,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Filter\F's ColorMatKey_20260222.aex,0,eFKT,F's ColorMatKey,NF's Plugins-Filter,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Filter\F's LineDetection_20260222.aex,0,eFKT,F's LineDetection,NF's Plugins-Filter,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Filter\F's Mosaic_20260222.aex,0,eFKT,F's Mosaic,NF's Plugins-Filter,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Filter\F's OutLine_20260222.aex,0,eFKT,F's OutLine,NF's Plugins-Filter,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Filter\F's Posterization8bit_20260222.aex,0,eFKT,F's Posterization8bit,NF's Plugins-Filter,318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Filter\F's ScreenShakeDir_20260222.aex,0,eFKT,F's ScreenShakeDir,NF's Plugins-Filter,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Filter\F's ScreenShakeMM_20260222.aex,0,eFKT,F's ScreenShakeMM,NF's Plugins-Filter,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Filter\F's Star_20260222.aex,0,eFKT,F's Star,NF's Plugins-Filter,294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Filter\F's Star_Colorful_20260222.aex,0,eFKT,F's Star_Colorful,NF's Plugins-Filter,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Filter\F's VideoGrid_20260222.aex,0,eFKT,F's VideoGrid,NF's Plugins-Filter,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Filter\F's whiteInOut_20260222.aex,0,eFKT,F's whiteInOut,NF's Plugins-Filter,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Noise\F's AnimatedNoise_20260222.aex,0,eFKT,F's AnimatedNoise,NF's Plugins-Noise,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Noise\F's ChannelNoise_20260222.aex,0,eFKT,F's ChannelNoise,NF's Plugins-Noise,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Noise\F's RandomLineNoise_20260222.aex,0,eFKT,F's RandomLineNoise,NF's Plugins-Noise,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Noise\F's RandomMosaic2nd_20260222.aex,0,eFKT,F's RandomMosaic2nd,NF's Plugins-Noise,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Noise\F's RandomMosaic_20260222.aex,0,eFKT,F's RandomMosaic,NF's Plugins-Noise,310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-Noise\F's RandomShift_20260222.aex,0,eFKT,F's RandomShift,NF's Plugins-Noise,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's AlphaFix_20260222.aex,0,eFKT,F's AlphaFix,NF's Plugins-{Deprecated},310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's CellLineEraser_20260222.aex,0,eFKT,F's CellLineEraser,NF's Plugins-{Deprecated},318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's ColorChangeEng_20260222.aex,0,eFKT,F's ColorChangeEng,NF's Plugins-{Deprecated},318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's ColorChangeFromPoint_20260222.aex,0,eFKT,F's ColorChangeFromPoint,NF's Plugins-{Deprecated},330
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's ColorChangeSimple_20260222.aex,0,eFKT,F's ColorChangeSimple,NF's Plugins-{Deprecated},326
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's ColorChange_20260222.aex,0,eFKT,F's ColorChange,NF's Plugins-{Deprecated},310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's ColorKey_20260222.aex,0,eFKT,F's ColorKey,NF's Plugins-{Deprecated},310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's CreateAlpha_20260222.aex,0,eFKT,F's CreateAlpha,NF's Plugins-{Deprecated},310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's EdgeBlur_20260222.aex,0,eFKT,F's EdgeBlur,NF's Plugins-{Deprecated},310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's FillColor_20260222.aex,0,eFKT,F's FillColor,NF's Plugins-{Deprecated},310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's Frame_20260222.aex,0,eFKT,F's Frame,NF's Plugins-{Deprecated},302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's FsSSFrame_20260222.aex,0,eFKT,FsSSFrame,NF's Plugins-{Deprecated},302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's grayToWaveLine_20260222.aex,0,eFKT,F's grayToWaveLine,NF's Plugins-{Deprecated},318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's GuideFrame_20260222.aex,0,eFKT,F's GuideFrame,NF's Plugins-{Deprecated},310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's InnerFlareRot_20260222.aex,0,eFKT,F's InnerFlareRot,NF's Plugins-{Deprecated},314
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's InnerFlare_20260222.aex,0,eFKT,F's InnerFlare,NF's Plugins-{Deprecated},306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's IroToreAdjacent_20260222.aex,0,eFKT,F's IroToreAdjacent,NF's Plugins-{Deprecated},318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's IroTore_20260222.aex,0,eFKT,F's IroTore,NF's Plugins-{Deprecated},302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's LineTrace_20260222.aex,0,eFKT,F's LineTrace,NF's Plugins-{Deprecated},310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's MainLineRepaint_20260222.aex,0,eFKT,F's MainLineRepaint,NF's Plugins-{Deprecated},318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's MainLineRepaint_old_20260222.aex,0,eFKT,F's MainLineRepaint_old,NF's Plugins-{Deprecated},326
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's MaxBlur_20260222.aex,0,eFKT,F's MaxBlur,NF's Plugins-{Deprecated},298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's MaxFast_20260222.aex,0,eFKT,F's MaxFast,NF's Plugins-{Deprecated},298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's Max_20260222.aex,0,eFKT,F's Max,NF's Plugins-{Deprecated},294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's Max_Kasumi_20260222.aex,0,eFKT,F's Max_Kasumi,NF's Plugins-{Deprecated},310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's NoiseHiLo_Alpha_20260222.aex,0,eFKT,F's NoiseHiLo_Alpha,NF's Plugins-{Deprecated},318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's NoiseHiLo_RGB_20260222.aex,0,eFKT,F's NoiseHiLo_RGB,NF's Plugins-{Deprecated},318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's OpticalDiffusion_20260222.aex,0,eFKT,F's OpticalDiffusion,NF's Plugins-{Deprecated},326
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's PaintMultPoint_20260222.aex,0,eFKT,F's PaintMalutPaint,NF's Plugins-{Deprecated},318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's Paint_20260222.aex,0,eFKT,F's Paint,NF's Plugins-{Deprecated},302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's PixelReplace_20260222.aex,0,eFKT,F's PixelReplace,NF's Plugins-{Deprecated},318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's PixelSelector_20260222.aex,0,eFKT,F's PixelSelector,NF's Plugins-{Deprecated},318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's Premultiply_20260222.aex,0,eFKT,F's Premultiply,NF's Plugins-{Deprecated},310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's RimFill_20260222.aex,0,eFKT,F's RimFill,NF's Plugins-{Deprecated},298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's Scanline_20260222.aex,0,eFKT,F's Scanline,NF's Plugins-{Deprecated},310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's SelectColor_20260222.aex,0,eFKT,F's SelectColor,NF's Plugins-{Deprecated},310
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's SelectedBlur_20260222.aex,0,eFKT,F's SelectedBlur,NF's Plugins-{Deprecated},318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's Shine_20260222.aex,0,eFKT,F's Shine,NF's Plugins-{Deprecated},298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's ShitsuKanBlur_20260222.aex,0,eFKT,F's ShitsuKanBlur,NF's Plugins-{Deprecated},318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's TargetGradRadical_20260222.aex,0,eFKT,F's TargetGradRadical,NF's Plugins-{Deprecated},322
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's TargetGrad_20260222.aex,0,eFKT,F's TargetGrad,NF's Plugins-{Deprecated},306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's Thin_20260222.aex,0,eFKT,F's Thin,NF's Plugins-{Deprecated},302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's ToGray_20260222.aex,0,eFKT,F's ToGray,NF's Plugins-{Deprecated},302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's Toner_20260222.aex,0,eFKT,F's Toner,NF's Plugins-{Deprecated},302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Deprecated}\F's Tone_20260222.aex,0,eFKT,F's Tone,NF's Plugins-{Deprecated},302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Legacy}\F's CCplus_20260222.aex,0,eFKT,F's CCplus,NF's Plugins-{Legacy},298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Legacy}\F's CellGrad_20260222.aex,0,eFKT,F's CellGrad,NF's Plugins-{Legacy},306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Legacy}\F's ChromaticAberration_20260222.aex,0,eFKT,F's ChromaticAberration,NF's Plugins-{Legacy},318
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Legacy}\F's ExpsColors_20260222.aex,0,eFKT,F's ExpsColors,NF's Plugins-{Legacy},306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Legacy}\F's ExpsPos_20260222.aex,0,eFKT,F's ExpsPos,NF's Plugins-{Legacy},298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Legacy}\F's Extract-Hi_20260222.aex,0,eFKT,F's Extract-Hi,NF's Plugins-{Legacy},306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Legacy}\F's Filter_20260222.aex,0,eFKT,F's Filter,NF's Plugins-{Legacy},294
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Legacy}\F's Flare_20260222.aex,0,eFKT,F's Flare,NF's Plugins-{Legacy},298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Legacy}\F's NamiGarasu_20260222.aex,0,eFKT,F's NamiGarasu,NF's Plugins-{Legacy},306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Legacy}\F's PaperPlaneGetWeightInfo_20260222.aex,0,eFKT,F's PaperPlaneGetWeightInfo,NF's Plugins-{Legacy},330
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Legacy}\F's PaperPlaneGetWeight_20260222.aex,0,eFKT,F's PaperPlaneGetWeight,NF's Plugins-{Legacy},322
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Legacy}\F's VideoLine2nd_20260222.aex,0,eFKT,F's VideoLine2nd,NF's Plugins-{Legacy},314
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\F's Plugins_20260222\NF's Plugins-{Legacy}\F's VideoLine_20260222.aex,0,eFKT,F's VideoLine,NF's Plugins-{Legacy},306
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\BallAction.aex,0,eFKT,CC Ball Action,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,422
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Bender.aex,0,eFKT,CC Bender,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\BendIt.aex,0,eFKT,CC Bend It,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Blobbylize.aex,0,eFKT,CC Blobbylize,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\BlockLoad.aex,0,eFKT,CC Block Load,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Bubbles.aex,0,eFKT,CC Bubbles,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,414
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\BurnFilm.aex,0,eFKT,CC Burn Film,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\ColorNeutralizer.aex,0,eFKT,CC Color Neutralizer,$$$/MediaCore/FiltersAndEffects/Category/ColorCorrection=Color Correction,450
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\ColorOffset.aex,0,eFKT,CC Color Offset,$$$/MediaCore/FiltersAndEffects/Category/ColorCorrection=Color Correction,434
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Composite.aex,0,eFKT,CC Composite,$$$/MediaCore/FiltersAndEffects/Category/Channel=Channel,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\CompositeObsolete.aex,0,eFKT,CC Composite (obsolete),$$$/MediaCore/FiltersAndEffects/Category/Channel=Channel,426
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\CrossBlur.aex,0,eFKT,CC Cross Blur,$$$/MediaCore/FiltersAndEffects/Category/BlurAndSharpen=Blur & Sharpen,430
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Cylinder.aex,0,eFKT,CC Cylinder,$$$/MediaCore/FiltersAndEffects/Category/Perspective=Perspective,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Drizzle.aex,0,eFKT,CC Drizzle,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,414
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Environment.aex,0,eFKT,CC Environment,$$$/MediaCore/FiltersAndEffects/Category/Perspective=Perspective,426
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\FloMotion.aex,0,eFKT,CC Flo Motion,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\ForceMB.aex,0,eFKT,CC Force Motion Blur,$$$/MediaCore/FiltersAndEffects/Category/Time=Time,426
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Glass.aex,0,eFKT,CC Glass,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\GlassWipe.aex,0,eFKT,CC Glass Wipe,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,422
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\GlueGun.aex,0,eFKT,CC Glue Gun,$$$/MediaCore/FiltersAndEffects/Category/Generate=Generate,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Griddler.aex,0,eFKT,CC Griddler,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\GridWipe.aex,0,eFKT,CC Grid Wipe,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,422
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Hair.aex,0,eFKT,CC Hair,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,406
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\HexTile.aex,0,eFKT,CC HexTile,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\ImageWipe.aex,0,eFKT,CC Image Wipe,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,422
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Jaws.aex,0,eFKT,CC Jaws,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,406
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Kaleida.aex,0,eFKT,CC Kaleida,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Kernel.aex,0,eFKT,CC Kernel,$$$/MediaCore/FiltersAndEffects/Category/ColorCorrection=Color Correction,426
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Lens.aex,0,eFKT,CC Lens,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,402
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\LightBurst.aex,0,eFKT,CC Light Burst 2.5,$$$/MediaCore/FiltersAndEffects/Category/Generate=Generate,426
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\LightRays.aex,0,eFKT,CC Light Rays,$$$/MediaCore/FiltersAndEffects/Category/Generate=Generate,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\LightSweep.aex,0,eFKT,CC Light Sweep,$$$/MediaCore/FiltersAndEffects/Category/Generate=Generate,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\LightWipe.aex,0,eFKT,CC Light Wipe,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,422
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\LineSweep.aex,0,eFKT,CC Line Sweep,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,422
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\MrMercury.aex,0,eFKT,CC Mr. Mercury,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,422
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\MrSmoothie.aex,0,eFKT,CC Mr. Smoothie,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Overbrights.aex,0,eFKT,CC Overbrights,$$$/MediaCore/FiltersAndEffects/Category/Utility=Utility,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\PageTurn.aex,0,eFKT,CC Page Turn,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\ParticleSystems.aex,0,eFKT,CC PS Classic (obsolete),$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,434
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\ParticleSystemsII.aex,0,eFKT,CC Particle Systems II,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,438
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\ParticleSystemsLE.aex,0,eFKT,CC PS LE Classic (obsolete),$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,438
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\PixelPolly.aex,0,eFKT,CC Pixel Polly,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,422
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Plastic.aex,0,eFKT,CC Plastic,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\PowerPin.aex,0,eFKT,CC Power Pin,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\PW.aex,0,eFKT,CC Particle World,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,430
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\RadialBlur.aex,0,eFKT,CC Radial Blur,$$$/MediaCore/FiltersAndEffects/Category/BlurAndSharpen=Blur & Sharpen,430
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\RadialFastBlur.aex,0,eFKT,CC Radial Fast Blur,$$$/MediaCore/FiltersAndEffects/Category/BlurAndSharpen=Blur & Sharpen,438
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\RadialScaleWipe.aex,0,eFKT,CC Radial ScaleWipe,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,430
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Rain.aex,0,eFKT,CC Rain (obsolete),$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Rainfall.aex,0,eFKT,CC Rainfall,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,414
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\RepeTile.aex,0,eFKT,CC RepeTile,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\RipplePulse.aex,0,eFKT,CC Ripple Pulse,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\ScaleWipe.aex,0,eFKT,CC Scale Wipe,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,422
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Scatterize.aex,0,eFKT,CC Scatterize,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,422
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\SimpleWireRemove.aex,0,eFKT,CC Simple Wire Removal,$$$/MediaCore/FiltersAndEffects/Category/Keying=Keying,430
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Slant.aex,0,eFKT,CC Slant,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Smear.aex,0,eFKT,CC Smear,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Snow.aex,0,eFKT,CC Snow (obsolete),$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Snowfall.aex,0,eFKT,CC Snowfall,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,414
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Sphere.aex,0,eFKT,CC Sphere,$$$/MediaCore/FiltersAndEffects/Category/Perspective=Perspective,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Split.aex,0,eFKT,CC Split,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Split2.aex,0,eFKT,CC Split 2,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Spotlight.aex,0,eFKT,CC Spotlight,$$$/MediaCore/FiltersAndEffects/Category/Perspective=Perspective,426
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\StarBurst.aex,0,eFKT,CC Star Burst,$$$/MediaCore/FiltersAndEffects/Category/Simulation=Simulation,422
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Threads.aex,0,eFKT,CC Threads,$$$/MediaCore/FiltersAndEffects/Category/Generate=Generate,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Threshold.aex,0,eFKT,CC Threshold,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\ThresholdRGB.aex,0,eFKT,CC Threshold RGB,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,426
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Tiler.aex,0,eFKT,CC Tiler,$$$/MediaCore/FiltersAndEffects/Category/Distort=Distort,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\TimeBlend.aex,0,eFKT,CC Time Blend,$$$/MediaCore/FiltersAndEffects/Category/Time=Time,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\TimeBlendFX.aex,0,eFKT,CC Time Blend FX,$$$/MediaCore/FiltersAndEffects/Category/Time=Time,418
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Toner.aex,0,eFKT,CC Toner,$$$/MediaCore/FiltersAndEffects/Category/ColorCorrection=Color Correction,426
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Twister.aex,0,eFKT,CC Twister,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,414
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\VectorBlur.aex,0,eFKT,CC Vector Blur,$$$/MediaCore/FiltersAndEffects/Category/BlurAndSharpen=Blur & Sharpen,430
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\Vignette.aex,0,eFKT,CC Vignette,$$$/MediaCore/FiltersAndEffects/Category/Stylize=Stylize,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\WarpoMatic.aex,0,eFKT,CC WarpoMatic,$$$/MediaCore/FiltersAndEffects/Category/Transition=Transition,422
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\CycoreFXHD\WideTime.aex,0,eFKT,CC Wide Time,$$$/MediaCore/FiltersAndEffects/Category/Time=Time,410
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\Keylight\KeylightPro.AEX,0,eFKT,Keylight (1.2),Keying,302
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\mochaAE\mochashape4ae_adobe.aex,0,eFKT,mocha shape,Obsolete,298
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\mochaAE\MochaAEAEGP.bundle\Contents\Win64\MochaAEAEGP.aex,0,AEgx,mochaAEAEGP,General Plugin,146
+ae26.3,D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\Effects\mochaAE\MochaAE.bundle\Contents\Win64\MochaAE.aex,0,eFKT,Mocha AE,Boris FX Mocha,286

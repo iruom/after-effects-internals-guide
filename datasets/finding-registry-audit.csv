@@ -1,0 +1,128 @@
+id,file,title,has_frontmatter,status
+F-3D-001,F-3D-001-advanced3d-artisan-bridge.md,Advanced 3D crosses an Artisan/AEGP/BEE boundary,True,ok
+F-3D-002,F-3D-002-modern-3d-bin-state-leak.md,F-3D-002 — Modern Advanced 3D still exposes a 3D-bin state boundary,True,ok
+F-3D-003,F-3D-003-guid-keyed-ae3d-resource-cache.md,Modern 3D uses GUID-keyed resource caches below the Artisan boundary,True,ok
+F-ABI-001,F-ABI-001-param-flag-bit-reuse.md,F-ABI-001 — Parameter-flag bits are reused by parameter type and host,True,ok
+F-ABI-002,F-ABI-002-suite-generation-vs-pica-version.md,F-ABI-002 — Suite generation name and PICA version integer are different namespaces,True,ok
+F-ABI-003,F-ABI-003-suite-layout-not-universally-prefix-compatible.md,F-ABI-003 — Historical AEGP suite layouts are not universally append-only,True,ok
+F-ABI-004,F-ABI-004-host-emulator-suite-aliasing-risk.md,F-ABI-004 — Host emulators must not assume arbitrary Suite versions are aliases,True,ok
+F-ABI-005,F-ABI-005-suite-version-nonmonotonic-and-alias-risk.md,F-ABI-005 — Suite numeric versions are not a monotonic generation number,True,ok
+F-ABI-006,F-ABI-006-independent-host-suite-dispatch-failure-taxonomy.md,F-ABI-006 — Independent hosts expose three distinct Suite-dispatch failure classes,True,ok
+F-ABI-007,F-ABI-007-guide-v1-lossy-compatibility.md,F-ABI-005 窶・Older Guide accessors become lossy when new guide semantics are used,True,ok
+F-ABI-008,F-ABI-008-success-stubs-fabricate-host-semantics.md,F-ABI-008 — Success stubs can fabricate host semantics while leaving outputs undefined,True,ok
+F-ABI-009,F-ABI-009-historical-compile-time-ceilings-and-gates.md,F-ABI-009 — Removed identifiers often encode API evolution rather than lost capability,True,ok
+F-ABI-010,F-ABI-010-guide-host-scope-is-not-ae-capability.md,F-ABI-010 — Presence in the After Effects C++ Guide does not imply After Effects host support,True,ok
+F-ABI-011,F-ABI-011-distributed-headers-expose-private-extension-boundary.md,F-ABI-011 — Distributed headers expose an Adobe-internal AEGP extension boundary,True,ok
+F-ABI-012,F-ABI-012-aegp-stream-coordinates-bridge-into-bee-tdb.md,AEGP stream coordinates bridge into BEE/TDB identities,True,ok
+F-ABI-013,F-ABI-013-suite-negotiation-is-a-two-key-contract.md,F-ABI-013 — Suite negotiation is a two-key ABI contract,True,ok
+F-ABI-014,F-ABI-014-dvacore-trace-string-view-abi-drift.md,F-ABI-014 — dvacore trace category APIs changed C++ ABI between 25.6 and 26.3,True,ok
+F-ABI-015,F-ABI-015-guide-header-inconsistency-classes.md,"F-ABI-015 — Guide presence, spelling, and host scope are independent from distributed ABI",True,ok
+F-ABI-016,F-ABI-016-cc2014-transitional-api-surface.md,"F-ABI-016 — CC2014 is a major transitional API surface, not a minor lineage point",True,ok
+F-ABI-017,F-ABI-017-independent-bindgen-corroborates-25_6-selector-surface.md,F-ABI-017 — Independent bindgen output corroborates the 25.6 selector/version surface,True,ok
+F-ABI-018,F-ABI-018-sdk25-windows-mac-header-parity.md,SDK 25.6 Windows/macOS public header parity,True,ok
+F-ABI-019,F-ABI-019-product-version-is-not-pf-api-version.md,Product version is not the PF Effect API version,True,ok
+F-ABI-020,F-ABI-020-official-guide-bridges-missing-sdk-generations.md,Official Guide bridges missing SDK generations without replacing header evidence,True,ok
+F-ABI-020,F-ABI-020-runtime-suite-negotiation-is-family-scoped.md,Runtime suite negotiation is family-scoped,True,ok
+F-AEIO-002,F-AEIO-002-aux-data-sample-contract-gap.md,F-AEIO-002 — SDK_IO advertises auxiliary data but leaves aux callbacks unset,True,ok
+F-AI-001,F-AI-001-object-matte-headless-boundary.md,F-AI-001 — Object Matte crosses the headless render boundary,True,ok
+F-AI-002,F-AI-002-object-matte-stream-flag-undo-leak.md,F-AI-002 — Object Matte leaked internal stream-flag mutations into Undo history,True,ok
+F-ANIM-001,F-ANIM-001-arc-length-reparameterization.md,Arc-length reparameterization of animation paths,True,ok
+F-ARCH-001,F-ARCH-001-project-render-split.md,Project and render-side state are architecturally separated,True,ok
+F-ASYNC-001,F-ASYNC-001-purpose-id-stale-request-cancellation.md,F-ASYNC-001 — Async render manager tracks request purpose separately from render options,True,ok
+F-AUDIO-001,F-AUDIO-001-parallel-render-prefetch-pipeline.md,F-AUDIO-001 — Audio uses a parallel render/prefetch pipeline with explicit time and cache state,True,ok
+F-BEE-001,F-BEE-001-render-task-cache-speculative.md,"BEE couples render tasks, speculative preview, cache, and render GUIDs",True,ok
+F-BOUNDS-001,F-BOUNDS-001-layer-style-visible-dest-rect.md,Layer styles participate in explicit destination-bounds computation,True,ok
+F-BOUNDS-002,F-BOUNDS-002-dof-expansion-rect.md,Depth of field computes an explicit expansion rectangle,True,ok
+F-BOUNDS-003,F-BOUNDS-003-artie-deferred-render-dimensions.md,F-BOUNDS-003 — Rendered layer dimensions are deferred until effect-expanded texture state,True,ok
+F-CACHE-001,F-CACHE-001-guid-state.md,AE exposes GUID/receipt-like render state identity,True,ok
+F-CACHE-002,F-CACHE-002-disk-playback.md,Preview playback storage evolved into a distinct disk-oriented path,True,ok
+F-CACHE-003,F-CACHE-003-interval-list-validation.md,Interval-list cache validation architecture,True,ok
+F-CACHE-004,F-CACHE-004-collateral-dependencies.md,Collateral dependencies and cache invalidation,True,ok
+F-CACHE-005,F-CACHE-005-partial-rendered-region.md,Frame receipts can represent partially rendered regions,True,ok
+F-CACHE-006,F-CACHE-006-compute-deduplication.md,Compute Cache coordinates duplicate work across render threads,True,ok
+F-CACHE-007,F-CACHE-007-pfc-continuity.md,The PFC internal concept persists across many AE generations,True,ok
+F-CACHE-008,F-CACHE-008-bee-ephemeral-cache.md,BEE contains an explicitly named ephemeral cache path,True,ok
+F-CACHE-009,F-CACHE-009-effect-version-build-cache-key.md,Effect version and AE build number participate in frame-cache identity,True,ok
+F-CACHE-010,F-CACHE-010-dynamic-flag-render-race.md,F-CACHE-010 — Dynamic flags can race with rendering and poison cache validity,True,ok
+F-CACHE-011,F-CACHE-011-render-request-sufficiency.md,F-CACHE-011 — Render reuse exposes a host-defined sufficiency relation,True,ok
+F-CACHE-012,F-CACHE-012-object-matte-analysis-disk-persistence.md,F-CACHE-012 — Object Matte has a persistent analysis-result disk cache,True,ok
+F-CACHE-013,F-CACHE-013-purge-target-taxonomy.md,F-CACHE-013 — AE distinguishes all-cache purge from RAM-only purge,True,ok
+F-CACHE-014,F-CACHE-014-purge-control-loop-redesign.md,F-CACHE-014 — AE 2024 exposes a purge-control redesign using OS memory footprint,True,ok
+F-CACHE-015,F-CACHE-015-dependency-observation-to-render-guid-boundaries.md,F-CACHE-015 — Dependency observation and render identity meet at explicit boundaries,True,ok
+F-CACHE-016,F-CACHE-016-render-receipt-partial-state.md,F-CACHE-016 — Render receipts encode partial effect-stack validity,True,ok
+F-CHANNEL-001,F-CHANNEL-001-depthaa-guide-gap.md,F-CHANNEL-001 — `PF_ChannelType_DEPTHAA` exists in Header but not current Guide list,True,ok
+F-CHANNEL-002,F-CHANNEL-002-side-channel-raster-system.md,F-CHANNEL-002 — AE has a generic typed auxiliary raster system beside RGBA worlds,True,ok
+F-COLOR-001,F-COLOR-001-shared-colorspace-conversion-substrate.md,F-COLOR-001 — ICC/ACE and OCIO converge on a shared ColorSpace / frame-conversion substrate,True,ok
+F-DESIGN-001,F-DESIGN-001-layer-frame-flag-design-debt.md,F-DESIGN-001 — Layer-frame API preserves an explicitly acknowledged design mistake,True,ok
+F-DESIGN-002,F-DESIGN-002-suite-handler-release-leak.md,F-DESIGN-002 — Deprecated Suite Handler Can Leak Acquired Suites,True,ok
+F-DESIGN-003,F-DESIGN-003-intentionally-wrong-transfer-macro.md,F-DESIGN-003 — Intentionally Preserved Incorrect Transfer-Mode Macro,True,ok
+F-EVAL-001,F-EVAL-001-speculative-render-race.md,Speculative rendering is guarded against stale work,True,ok
+F-EVAL-002,F-EVAL-002-layer-param-cycle-safe-stage.md,F-EVAL-002 — AE exposes dynamic cycle analysis for layer-parameter render stages,True,ok
+F-EVAL-003,F-EVAL-003-effect-prefix-render-stage-lineage.md,F-EVAL-003 — Effect-prefix render stage has a long cross-surface lineage,True,ok
+F-EVAL-004,F-EVAL-004-deterministic-temporal-output-under-keyframed-state-mutation.md,F-EVAL-004 — Deterministic temporal output under a keyframed state mutation,True,ok
+F-EXPR-001,F-EXPR-001-multiple-caches.md,Expression runtime exposes multiple cache/lifetime concepts,True,ok
+F-EXPR-002,F-EXPR-002-nested-expression-engine-instantiation.md,Nested expression-driven property references can instantiate additional JS engines,True,ok
+F-EXT-001,F-EXT-001-cep-uxp-coexistence-and-host-scope.md,CEP and UXP coexist as distinct extension planes in modern After Effects,True,ok
+F-EXT-002,F-EXT-002-cep-third-party-panel-contract-persists.md,F-EXT-002 — The CEP third-party panel contract has a continuous AE lineage,True,ok
+F-GPU-001,F-GPU-001-module-split.md,Modern AE installation exposes distinct compute/render/GPU modules,True,ok
+F-GPU-003,F-GPU-003-shared-mediacore-device-contract.md,AE and Premiere expose the same GPU device-management contract,True,ok
+F-GPU-004,F-GPU-004-return-is-not-gpu-completion.md,GPU render callback return does not imply device completion,True,ok
+F-GPU-005,F-GPU-005-pf-world-is-a-gpu-videoframe-device-bridge.md,PF GPU worlds bridge into shared VideoFrame and GPUFoundation device state,True,ok
+F-GUID-001,F-GUID-001-layer-comp-stream-render-guid.md,"Render GUID computation exists at stream, layer, and composition levels",True,ok
+F-GUID-002,F-GUID-002-transform-guid-mixing.md,Transform state has an explicit render-GUID mixing path,True,ok
+F-GUID-003,F-GUID-003-collapsed-context-cache-key.md,F-GUID-003 — Project parentage can be the wrong dependency source under collapsed rendering,True,ok
+F-GUID-004,F-GUID-004-public-hash-suite.md,F-GUID-003 窶・AEGP exposes direct GUID/hash construction primitives,True,ok
+F-HEADLESS-001,F-HEADLESS-001-aerender-is-a-controller-for-ae-host.md,"F-HEADLESS-001 — `aerender` is a controller/launcher for an AE host instance, not a separately linked render engine",True,ok
+F-IMAGE-001,F-IMAGE-001-pixel-aspect-transform.md,"Pixel-aspect-aware transforms are architectural, not cosmetic",True,ok
+F-INTEROP-001,F-INTEROP-001-dynamic-link-media-identity-futures.md,F-INTEROP-001 — Dynamic Link media preserves MediaCore identity and asynchronous request state,True,ok
+F-IO-001,F-IO-001-aeio-vs-mediacore-async-boundary.md,F-IO-001 — AEIO and MediaCore Expose Different I/O Concurrency Eras,True,ok
+F-KERNEL-001,F-KERNEL-001-declared-but-unimplemented-flags.md,F-KERNEL-001 — Several kernel/sampling modes are declared but unimplemented,True,ok
+F-KERNEL-002,F-KERNEL-002-parallel-horizontal-summed-table.md,F-KERNEL-002 — CPU Camera Lens Blur / 3D DOF used a parallel horizontal summed-table optimization,True,ok
+F-MEDIA-001,F-MEDIA-001-mediacore-identity-decode-frame-bridge.md,"F-MEDIA-001 — MediaCore separates asset identity, decode scheduling and frame residency",True,ok
+F-MEDIA-002,F-MEDIA-002-bee-mediacore-layer-source-bridge.md,F-MEDIA-002 — BEE layer sources directly implement shared MediaCore/BE media interfaces,True,ok
+F-MEM-001,F-MEM-001-memory-pressure-multi-domain-purge.md,"F-MEM-001 — Memory pressure is a multi-domain feedback problem, not one RAM-cache threshold",True,ok
+F-MFR-002,F-MFR-002-supervisor-sequence-ui-conflict.md,F-MFR-002 — Adobe's Supervisor sample documents a live sequence-data/MFR conflict,True,ok
+F-ML-001,F-ML-001-model-registry-and-residency.md,F-ML-001 — AE ships a policy-rich ML model registry separate from model residency,True,ok
+F-ML-002,F-ML-002-fastmask-lineage.md,F-ML-002 — FastMask2→FastMask3 transition is directly visible in Roto Brush,True,ok
+F-ML-003,F-ML-003-object-selection-compute-layer.md,F-ML-003 — AE 2025 exposes a higher-level DVACompute object-selection layer,True,ok
+F-ML-004,F-ML-004-preseg-guid-workqueue-cache.md,F-ML-004 — Pre-segmentation is keyed by AE render state and scheduled asynchronously,True,ok
+F-ML-005,F-ML-005-object-selection-integration-2025.md,F-ML-005 — A high-level Object Selection integration layer appears between AE 2024 and 2025,True,ok
+F-OBS-001,F-OBS-001-dvacore-trace-thresholds-are-live-runtime-policy.md,dvacore trace thresholds are live runtime policy,True,ok
+F-PERSIST-001,F-PERSIST-001-persistent-blob-preference-bridge.md,F-PERSIST-001 — AEGP Persistent Data bridges into real AE preference keys,True,ok
+F-PICA-004,F-PICA-004-cacheable-property-metadata.md,F-PICA-004 — PICA properties can persist as startup metadata,True,ok
+F-PSEUDO-001,F-PSEUDO-001-schema.md,PresetEffects.xml exposes an internal pseudo-effect parameter schema,True,ok
+F-RECEIPT-001,F-RECEIPT-001-internal-checkout-receipt-world.md,Checkout receipts bridge BEE state to RG pixel worlds,True,ok
+F-RENDER-001,F-RENDER-001-concatenated-rendering.md,Concatenated rendering and delayed rasterization,True,ok
+F-RENDER-002,F-RENDER-002-track-matte-adjustment-special-paths.md,Track mattes and adjustment layers have explicit structural render paths,True,ok
+F-RENDER-003,F-RENDER-003-2d-3d-render-bins.md,F-RENDER-003 — Composition rendering exposes explicit 2D/3D bins,True,ok
+F-RENDER-004,F-RENDER-004-collapse-top-layer-context.md,F-RENDER-004 — Collapsed geometry separates render context from project-layer identity,True,ok
+F-RENDER-005,F-RENDER-005-layer-param-render-stage.md,F-RENDER-005 — A layer parameter has an explicit render-stage identity,True,ok
+F-RG-001,F-RG-001-concrete-render-graph-symbols.md,A concrete internal Render Graph implementation is exposed by crash symbols,True,ok
+F-RG-002,F-RG-002-effect-node-bridge.md,Effect plug-in nodes bridge into the internal Render Graph,True,ok
+F-RG-003,F-RG-003-prerender-graph-phase.md,RG has an explicit pre-render graph phase,True,ok
+F-SAMPLE-001,F-SAMPLE-001-smartypants-dynamic-flag-bitmask.md,F-SAMPLE-001 — SmartyPants likely contains a Dynamic Flags bitmask defect,True,ok
+F-SAMPLING-001,F-SAMPLING-001-legacy-sampling-pipeline.md,F-SAMPLING-001 — Legacy Sampling Pipeline Exposes Stateful Precomputation,True,ok
+F-SDK-001,F-SDK-001-internal-private-header-boundary.md,F-SDK-001 — Public headers retain an Adobe-internal extension boundary,True,ok
+F-SEQUENCE-001,F-SEQUENCE-001-flatten-duplication-lifecycle.md,Sequence data has serialization-driven duplication semantics,True,ok
+F-SEQUENCE-002,F-SEQUENCE-002-flatten-vs-snapshot.md,F-SEQUENCE-002 — Sequence flatten and flattened snapshot are semantically different operations,True,ok
+F-SMARTFX-001,F-SMARTFX-001-content-bounds-invariant.md,SmartFX content-bounds invariant,True,ok
+F-STATE-002,F-STATE-002-short-lived-references.md,AEGP references are intentionally short-lived,True,ok
+F-STATE-003,F-STATE-003-render-timestamp-interval-validity.md,F-STATE-003 — Render validity is historically tracked by project timestamp plus time interval,True,ok
+F-STATE-004,F-STATE-004-guide-data-vs-view-state.md,F-STATE-004 — Guide document state and guide view state are separate,True,ok
+F-STATE-005,F-STATE-005-tdb-stream-scripting-id-prototype.md,F-STATE-005 — AE 2024/2025 carries a persistent Property/Stream ID scripting prototype,True,ok
+F-STREAM-002,F-STREAM-002-codewarrior-padding.md,Historical `AEGP_StreamValue` compiler-padding ABI incident,True,ok
+F-STREAM-003,F-STREAM-003-layer-param-render-stage.md,F-STREAM-003 — A Layer parameter now exposes render stage independently from layer identity,True,ok
+F-TEXT-001,F-TEXT-001-persistent-matchname-tree.md,F-TEXT-001 — Text properties persist through the same Match Name property tree model,True,ok
+F-TEXT-002,F-TEXT-002-text-render-guid-and-font-identity.md,F-TEXT-002 — Text has its own render-identity layer below ordinary property streams,True,ok
+F-THREAD-001,F-THREAD-001-host-callback-lock-boundary.md,Host callbacks define a dangerous lock boundary,True,ok
+F-THREAD-002,F-THREAD-002-ui-state-query-randomized.md,F-THREAD-002 — UI-Context State Queries Are Deliberately Randomized,True,ok
+F-THREAD-003,F-THREAD-003-render-sequence-data-contract.md,F-THREAD-003 — Threaded rendering changes selector concurrency and sequence-data access,True,ok
+F-TIME-001,F-TIME-001-smart-time-history.md,Smart time/cache concepts predate modern MFR,True,ok
+F-TIME-002,F-TIME-002-interval-footprint.md,Temporal footprint is wider than frame time,True,ok
+F-TIME-003,F-TIME-003-timespace-and-preexpression-boundaries.md,"F-TIME-003 — Layer time, comp time and expression phase are explicit API boundaries",True,ok
+F-TRACE-001,F-TRACE-001-bee-rg.md,BEE and RG vocabulary exists in local trace instrumentation,True,ok
+F-TRACK-001,F-TRACK-001-mask-tracker-downsample-dependency.md,F-TRACK-001 — Mask Tracker behavior depended incorrectly on composition resolution,True,ok
+F-TRACK-002,F-TRACK-002-motion-tracker-state-is-stream-addressable.md,"F-TRACK-002 — Classic motion-tracker state is stream-addressable, while analysis execution is a separate layer",True,ok
+F-UXP-001,F-UXP-001-ae-retains-active-uxp-host-substrate.md,F-UXP-001 — Modern AE retains an active UXP host substrate even though current public UXP host positioning differs,True,ok
+F-VECTOR-001,F-VECTOR-001-multithreaded-agm-shape-rendering.md,F-VECTOR-001 — AE exposes an AGM-specific multithreaded vector-shape render path,True,ok
+F-VECTOR-002,F-VECTOR-002-stream-vectorart-agm-render-boundary.md,F-VECTOR-002 — Shape streams materialize into VectorArt before AGM/RG rasterization,True,ok

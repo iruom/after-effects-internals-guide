@@ -1,0 +1,38 @@
+family,older,newer,older_count,newer_count,older_is_prefix,first_difference
+AEGP_CompSuite,AEGP_CompSuite1,AEGP_CompSuite2,17,21,False,index 3: AEGP_GetCompBGColor -> AEGP_SetCompDownsampleFactor
+AEGP_CompSuite,AEGP_CompSuite2,AEGP_CompSuite3,21,25,False,index 7: AEGP_GetCompShutterAnglePhase -> AEGP_SetCompFrameRate
+AEGP_CompSuite,AEGP_CompSuite3,AEGP_CompSuite4,25,28,True,
+AEGP_CompSuite,AEGP_CompSuite4,AEGP_CompSuite5,28,30,False,index 5: AEGP_GetCompFlags -> AEGP_SetCompBGColor
+AEGP_CompSuite,AEGP_CompSuite5,AEGP_CompSuite6,30,34,False,index 11: AEGP_GetCompWorkAreaStart -> AEGP_GetCompSuggestedMotionBlurSamples
+AEGP_CompSuite,AEGP_CompSuite6,AEGP_CompSuite7,34,34,True,
+AEGP_CompSuite,AEGP_CompSuite7,AEGP_CompSuite8,34,37,False,index 28: AEGP_SetCompDimensions -> AEGP_CreateBoxTextLayerInComp
+AEGP_CompSuite,AEGP_CompSuite8,AEGP_CompSuite9,37,37,True,
+AEGP_CompSuite,AEGP_CompSuite9,AEGP_CompSuite10,37,43,False,index 7: AEGP_GetCompFramerate -> AEGP_GetShowLayerNameOrSourceName
+AEGP_CompSuite,AEGP_CompSuite10,AEGP_CompSuite11,43,44,True,
+AEGP_CompSuite,AEGP_CompSuite11,AEGP_CompSuite12,44,44,True,
+AEGP_LayerSuite,AEGP_LayerSuite1,AEGP_LayerSuite2,39,42,False,index 34: AEGP_GetLayerDancingRandValue -> AEGP_ConvertLayerToCompTime
+AEGP_LayerSuite,AEGP_LayerSuite2,AEGP_LayerSuite3,42,43,True,
+AEGP_LayerSuite,AEGP_LayerSuite3,AEGP_LayerSuite4,43,45,False,index 5: AEGP_GetLayerParentComp -> AEGP_GetLayerSourceItemID
+AEGP_LayerSuite,AEGP_LayerSuite4,AEGP_LayerSuite5,45,46,True,
+AEGP_LayerSuite,AEGP_LayerSuite5,AEGP_LayerSuite6,46,46,True,
+AEGP_LayerSuite,AEGP_LayerSuite6,AEGP_LayerSuite7,46,48,True,
+AEGP_LayerSuite,AEGP_LayerSuite7,AEGP_LayerSuite8,48,50,True,
+AEGP_LayerSuite,AEGP_LayerSuite8,AEGP_LayerSuite9,50,53,True,
+AEGP_ItemSuite,AEGP_ItemSuite1,AEGP_ItemSuite2,20,22,False,index 17: AEGP_CreateNewFolder -> AEGP_SetSolidColor
+AEGP_ItemSuite,AEGP_ItemSuite2,AEGP_ItemSuite3,22,21,False,new table shorter
+AEGP_ItemSuite,AEGP_ItemSuite3,AEGP_ItemSuite4,21,21,False,index 16: AEGP_GetItemSolidColor -> AEGP_CreateNewFolder
+AEGP_ItemSuite,AEGP_ItemSuite4,AEGP_ItemSuite5,21,22,False,index 11: AEGP_GetItemDuration -> AEGP_SetItemParentFolder
+AEGP_ItemSuite,AEGP_ItemSuite5,AEGP_ItemSuite6,22,26,False,index 0: AEGP_GetNextItem -> AEGP_GetFirstProjItem
+AEGP_ItemSuite,AEGP_ItemSuite6,AEGP_ItemSuite7,26,27,True,
+AEGP_ItemSuite,AEGP_ItemSuite7,AEGP_ItemSuite8,27,27,True,
+AEGP_ItemSuite,AEGP_ItemSuite8,AEGP_ItemSuite9,27,26,False,index 21: AEGP_GetItemCommentLength -> AEGP_GetItemComment
+AEGP_StreamSuite,AEGP_StreamSuite1,AEGP_StreamSuite2,20,22,False,index 2: AEGP_GetNewLayerStream -> AEGP_GetValidInterpolations
+AEGP_StreamSuite,AEGP_StreamSuite2,AEGP_StreamSuite3,22,22,True,
+AEGP_StreamSuite,AEGP_StreamSuite3,AEGP_StreamSuite4,22,22,True,
+AEGP_StreamSuite,AEGP_StreamSuite4,AEGP_StreamSuite5,22,22,True,
+AEGP_StreamSuite,AEGP_StreamSuite5,AEGP_StreamSuite6,22,23,True,
+AEGP_UtilitySuite,AEGP_UtilitySuite1,AEGP_UtilitySuite2,9,19,True,
+AEGP_UtilitySuite,AEGP_UtilitySuite2,AEGP_UtilitySuite3,19,25,True,
+AEGP_UtilitySuite,AEGP_UtilitySuite3,AEGP_UtilitySuite4,25,30,False,index 5: AEGP_StartUndoGroup -> AEGP_GetLastErrorMessage
+AEGP_UtilitySuite,AEGP_UtilitySuite4,AEGP_UtilitySuite5,30,31,True,
+AEGP_UtilitySuite,AEGP_UtilitySuite5,AEGP_UtilitySuite6,31,33,False,index 1: AEGP_GetDriverPluginInitFuncVersion -> AEGP_ReportInfoUnicode

@@ -1,0 +1,10 @@
+family,older_generation,older_pica_version,newer_generation,newer_pica_version,older_count,newer_count,older_is_prefix,first_difference
+PFAppSuite,4,6,5,7,11,12,False,index 2: PF_GetPersonalInfo -> PF_AppGetLanguage
+PFAppSuite,5,7,6,1,12,15,True,
+PF_EffectCustomUISuite,1,1,2,2,1,2,True,
+PF_Iterate8Suite,1,1,2,2,9,9,True,
+PF_ParamUtilsSuite,1,2,3,3,10,9,False,index 1: PF_GetCurrentStateObsolete -> PF_GetCurrentState
+PF_PixelDataSuite,1,1,2,2,3,4,True,
+PF_WorldSuite,1,1,2,2,2,3,False,index 0: new_world -> PF_NewWorld
+PF_iterate16Suite,1,1,2,2,6,6,True,
+PF_iterateFloatSuite,1,1,2,2,3,3,True,

@@ -1,0 +1,61 @@
+{
+  "experiment_id": "EXP-CACHE-002",
+  "title": "Canvas receipt effect-prefix completeness",
+  "status": "runnable",
+  "domains": [
+    "cache",
+    "render-graph",
+    "state-identity"
+  ],
+  "question": "Does VALID_BUT_INCOMPLETE mean a receipt remains valid for an earlier effect-stack prefix but cannot directly satisfy a later requested prefix, and does that relation remain stable across a controlled effect-state mutation?",
+  "source_note": "Instrumented Adobe Artie Artisan built from SDK 25.6. Receipt checks use CanvasSuite8 while the stock renderer remains on CanvasSuite5. The same A/B render passes are correlated with EXP-RG-001 host tracing.",
+  "environment": {
+    "ae_version": "user-run target: installed AE 26.3; probe compiled against SDK 25.6",
+    "os": "Windows 10 local research host",
+    "hardware": "not a manipulated factor",
+    "gpu": "not a manipulated factor in the prefix matrix",
+    "notes": "Run only in a disposable blank AE session. Canonical probe SHA-256: 9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98."
+  },
+  "hypotheses": [
+    {
+      "id": "H-prefix",
+      "prediction": "Within each pass, generated prefix k<n returns VALID_BUT_INCOMPLETE while k>=n can return VALID.",
+      "falsified_by": "Receipt status does not track the requested effect-prefix relation under controlled same-context state."
+    },
+    {
+      "id": "H-mutation",
+      "prediction": "Changing Blur 10->75 does not change the abstract prefix sufficiency rule even though underlying render identity/evaluation state changes.",
+      "falsified_by": "The prefix matrix changes meaning between A and B without a topology/effect-count change."
+    },
+    {
+      "id": "H-spatial",
+      "prediction": "The third status instead tracks geometry/spatial completeness.",
+      "falsified_by": "Prefix relation alone predicts the third status with both geometry-check settings."
+    }
+  ],
+  "factors": [
+    "generated prefix k in 0..N plus ALL_EFFECTS",
+    "requested prefix n in 0..N plus ALL_EFFECTS",
+    "geometry-check disabled/enabled",
+    "pass A blur=10 / pass B blur=75",
+    "Gaussian Blur -> Fill -> Tint topology held constant"
+  ],
+  "captures": [
+    "runs/EXP-CACHE-002/receipt-matrix.tsv",
+    "runs/EXP-CACHE-002/fixture-script.log",
+    "runs/EXP-CACHE-002/fixture-output-A.avi",
+    "runs/EXP-CACHE-002/fixture-output-B.avi",
+    "datasets/exp-cache-002-receipt-matrix.csv",
+    "experiments/user-run/AEIG-1.0-L5/01_RUN_IN_AE.jsx",
+    "experiments/user-run/AEIG-1.0-L5/plugin/AEGP/AEIGReceiptArtie.aex"
+  ],
+  "procedure": [
+    "User installs the canonical probe while AE is closed and launches a disposable blank session.",
+    "User runs experiments/user-run/AEIG-1.0-L5/01_RUN_IN_AE.jsx once.",
+    "Pass A renders a 64x64 solid with Gaussian Blur=10, Fill and Tint using AEIG Receipt Probe.",
+    "The script changes only Gaussian Blur to 75 and renders pass B with identical topology.",
+    "For each pass the Artisan enumerates software-effect count, generates every prefix plus ALL_EFFECTS, and checks every requested prefix with geometry checking off/on.",
+    "analyze_receipt_experiment.py validates the prefix model independently for A and B; raw captures remain immutable evidence."
+  ],
+  "result": null
+}

@@ -1,0 +1,1022 @@
+surface,evidence,source,heading_level,container,kind,symbol
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,1,,member-or-class,Camera
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,1,,member-or-class,Changelog
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,1,,member-or-class,Comp
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,1,,member-or-class,Effect
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,1,,member-or-class,Footage
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,1,,member-or-class,Global
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,1,,member-or-class,Interpolation
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,1,,member-or-class,Key
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,1,,member-or-class,Layer
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,1,,member-or-class,Light
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,1,,member-or-class,MarkerKey
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,1,,member-or-class,Mask
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,1,,member-or-class,Project
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,1,,member-or-class,PropertyGroup
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,1,,member-or-class,Text
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,method,key()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,method,loopIn()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,method,loopInDuration()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,method,loopOut()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,method,loopOutDuration()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,member-or-class,name
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,method,nearestKey()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,method,nextKey()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,member-or-class,numKeys
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,method,previousKey()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,method,propertyGroup()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,member-or-class,propertyIndex
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,method,smooth()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,member-or-class,speed
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,method,speedAtTime()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,method,temporalWiggle()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,member-or-class,value
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,method,valueAtTime()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,member-or-class,velocity
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,method,velocityAtTime()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,,method,wiggle()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Camera,member-or-class,Camera.active
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Camera,member-or-class,Camera.aperture
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Camera,member-or-class,Camera.blurLevel
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Camera,member-or-class,Camera.depthOfField
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Camera,member-or-class,Camera.focusDistance
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Camera,member-or-class,Camera.highlightGain
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Camera,member-or-class,Camera.highlightSaturation
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Camera,member-or-class,Camera.highlightThreshold
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Camera,member-or-class,Camera.irisAspectRatio
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Camera,member-or-class,Camera.irisDiffractionFringe
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Camera,member-or-class,Camera.irisRotation
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Camera,member-or-class,Camera.irisRoundness
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Camera,member-or-class,Camera.irisShape
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Camera,member-or-class,Camera.pointOfInterest
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Camera,member-or-class,Camera.zoom
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Color Conversion,method,hexToRgb()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Color Conversion,method,hslToRgb()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Color Conversion,method,rgbToHsl()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,member-or-class,Comp.activeCamera
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,member-or-class,Comp.bgColor
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,member-or-class,Comp.displayStartTime
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,member-or-class,Comp.duration
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,member-or-class,Comp.frameDuration
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,member-or-class,Comp.height
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,method,Comp.layer()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,method,Comp.layerByComment()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,member-or-class,Comp.marker
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,member-or-class,Comp.name
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,member-or-class,Comp.ntscDropFrame
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,member-or-class,Comp.numLayers
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,member-or-class,Comp.pixelAspect
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,member-or-class,Comp.shutterAngle
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,member-or-class,Comp.shutterPhase
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Comp,member-or-class,Comp.width
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Dropdown Menus,member-or-class,items
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Dropdown Menus,member-or-class,text
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Dropdown Menus,method,textAtTime()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Effect,member-or-class,Effect.active
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Effect,method,Effect.param()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Footage,method,Footage.dataKeyCount()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Footage,method,Footage.dataKeyTimes()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Footage,method,Footage.dataKeyValues()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Footage,method,Footage.dataValue()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Footage,member-or-class,Footage.duration
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Footage,member-or-class,Footage.frameDuration
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Footage,member-or-class,Footage.height
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Footage,member-or-class,Footage.name
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Footage,member-or-class,Footage.ntscDropFrame
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Footage,member-or-class,Footage.pixelAspect
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Footage,member-or-class,Footage.sourceData
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Footage,member-or-class,Footage.sourceText
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Footage,member-or-class,Footage.width
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Global,member-or-class,colorDepth
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Global,method,comp()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Global,method,footage()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Global,method,posterizeTime()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Global,member-or-class,thisComp
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Global,member-or-class,thisLayer
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Global,member-or-class,thisProject
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Global,member-or-class,thisProperty
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Global,member-or-class,time
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Global,member-or-class,value
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Interpolation,method,"ease(t, tMin, tMax, value1, value2)"
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Interpolation,method,"ease(t, value1, value2)"
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Interpolation,method,"easeIn(t, tMin, tMax, value1, value2)"
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Interpolation,method,"easeIn(t, value1, value2)"
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Interpolation,method,"easeOut(t, tMin, tMax, value1, value2)"
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Interpolation,method,"easeOut(t, value1, value2)"
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Interpolation,method,"linear(t, tMin, tMax, value1, value2)"
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Interpolation,method,"linear(t, value1, value2)"
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Key,member-or-class,Key.index
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Key,member-or-class,Key.time
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Key,member-or-class,Key.value
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer 3D,member-or-class,Layer.acceptsLights
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer 3D,member-or-class,Layer.acceptsShadows
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer 3D,member-or-class,Layer.ambient
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer 3D,member-or-class,Layer.castsShadows
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer 3D,member-or-class,Layer.diffuse
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer 3D,member-or-class,Layer.lightTransmission
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer 3D,member-or-class,Layer.metal
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer 3D,member-or-class,Layer.orientation
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer 3D,member-or-class,Layer.rotationX
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer 3D,member-or-class,Layer.rotationY
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer 3D,member-or-class,Layer.rotationZ
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer 3D,member-or-class,Layer.shininess
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer 3D,member-or-class,Layer.specular
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer General,member-or-class,Layer.active
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer General,member-or-class,Layer.audioActive
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer General,member-or-class,Layer.enabled
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer General,member-or-class,Layer.hasAudio
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer General,member-or-class,Layer.hasParent
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer General,member-or-class,Layer.hasVideo
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer General,member-or-class,Layer.height
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer General,member-or-class,Layer.inPoint
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer General,member-or-class,Layer.index
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer General,member-or-class,Layer.outPoint
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer General,member-or-class,Layer.parent
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer General,method,Layer.sampleImage()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer General,member-or-class,Layer.startTime
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer General,member-or-class,Layer.width
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Properties,member-or-class,Layer.anchorPoint
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Properties,member-or-class,Layer.audioLevels
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Properties,member-or-class,Layer.marker
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Properties,member-or-class,Layer.name
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Properties,member-or-class,Layer.opacity
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Properties,member-or-class,Layer.position
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Properties,member-or-class,Layer.rotation
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Properties,member-or-class,Layer.scale
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Properties,member-or-class,Layer.timeRemap
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Space Transforms,method,fromComp()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Space Transforms,method,fromCompToSurface()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Space Transforms,method,fromCompVec()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Space Transforms,method,fromWorld()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Space Transforms,method,fromWorldVec()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Space Transforms,method,toComp()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Space Transforms,method,toCompVec()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Space Transforms,method,toWorld()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Space Transforms,method,toWorldVec()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Sub-objects,method,Layer.effect()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Sub-objects,method,Layer.mask()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Sub-objects,member-or-class,Layer.source
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Sub-objects,method,Layer.sourceRectAtTime()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Layer Sub-objects,method,Layer.sourceTime()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Light,member-or-class,Light.castsShadows
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Light,member-or-class,Light.color
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Light,member-or-class,Light.coneAngle
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Light,member-or-class,Light.coneFeather
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Light,member-or-class,Light.falloff
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Light,member-or-class,Light.falloffDistance
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Light,member-or-class,Light.intensity
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Light,member-or-class,Light.pointOfInterest
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Light,member-or-class,Light.radius
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Light,member-or-class,Light.shadowDarkness
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Light,member-or-class,Light.shadowDiffusion
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Marker Property,method,Marker.key(index)
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Marker Property,method,Marker.nearestKey()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Marker Property,member-or-class,Marker.numKeys
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,MarkerKey,member-or-class,MarkerKey.chapter
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,MarkerKey,member-or-class,MarkerKey.comment
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,MarkerKey,member-or-class,MarkerKey.cuePointName
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,MarkerKey,member-or-class,MarkerKey.duration
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,MarkerKey,member-or-class,MarkerKey.eventCuePoint
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,MarkerKey,member-or-class,MarkerKey.frameTarget
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,MarkerKey,member-or-class,MarkerKey.parameters
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,MarkerKey,member-or-class,MarkerKey.protectedRegion
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,MarkerKey,member-or-class,MarkerKey.url
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Mask,member-or-class,Mask.invert
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Mask,member-or-class,Mask.maskExpansion
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Mask,member-or-class,Mask.maskFeather
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Mask,member-or-class,Mask.maskOpacity
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Mask,member-or-class,Mask.maskPath
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Other Math,method,degreesToRadians()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Other Math,method,radiansToDegrees()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Path Property,method,PathProperty.createPath()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Path Property,method,PathProperty.inTangents()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Path Property,method,PathProperty.isClosed()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Path Property,method,PathProperty.normalOnPath()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Path Property,method,PathProperty.outTangents()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Path Property,method,PathProperty.pointOnPath()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Path Property,method,PathProperty.points()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Path Property,method,PathProperty.tangentOnPath()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Path Property,member-or-class,name
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Project,member-or-class,Project.bitsPerChannel
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Project,member-or-class,Project.fullPath
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Project,member-or-class,Project.linearBlending
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,PropertyGroup,member-or-class,PropertyGroup.name
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,PropertyGroup,member-or-class,PropertyGroup.numProperties
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,PropertyGroup,method,PropertyGroup.propertyGroup()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,PropertyGroup,member-or-class,PropertyGroup.propertyIndex
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Random Numbers,method,gaussRandom()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Random Numbers,method,"gaussRandom(minValOrArray, maxValOrArray)"
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Random Numbers,method,noise(valOrArray)
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Random Numbers,method,random()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Random Numbers,method,"random(minValOrArray, maxValOrArray)"
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Random Numbers,method,seedRandom()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Source Text,method,SourceText.createStyle()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Source Text,method,SourceText.getStyleAt()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Source Text,member-or-class,SourceText.isHorizontalText
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Source Text,member-or-class,SourceText.isParagraphText
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Source Text,member-or-class,SourceText.isPointText
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Source Text,member-or-class,SourceText.isVerticalText
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Source Text,member-or-class,SourceText.style
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text,member-or-class,Text.sourceText
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,Chaining
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.applyFill
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.applyStroke
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.baselineDirection
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.baselineOption
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.baselineShift
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.digitSet
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.direction
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.fillColor
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.firstLineIndent
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.font
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.fontSize
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.horizontalScaling
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.isAllCaps
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.isAutoLeading
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.isEveryLineComposer
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.isFauxBold
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.isFauxItalic
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.isHangingRoman
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.isLigature
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.isSmallCaps
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.justification
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.kerning
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.kerningType
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.leading
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.leadingType
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.leftMargin
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.lineJoin
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.replaceText()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.rightMargin
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setAllCaps()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setApplyFill()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setApplyStroke()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setAutoLeading()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setBaselineDirection()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setBaselineOption()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setBaselineShift()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setDigitSet()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setDirection()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setEveryLineComposer()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setFauxBold()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setFauxItalic()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setFillColor()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setFirstLineIndent()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setFont()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setFontSize()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setHangingRoman()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setHorizontalScaling()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setJustification()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setKerning()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setKerningType()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setLeading()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setLeadingType()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setLeftMargin()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setLigature()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setLineJoin()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setRightMargin()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setSmallCaps()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setSpaceAfter()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setSpaceBefore()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setStrokeColor()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setStrokeWidth()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setText()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setTracking()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setTsume()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,method,TextStyle.setVerticalScaling()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.spaceAfter
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.spaceBefore
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.strokeColor
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.strokeWidth
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.tracking
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.tsume
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Text Style,member-or-class,TextStyle.verticalScaling
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Time Conversion,method,framesToTime()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Time Conversion,method,timeToCurrentFormat()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Time Conversion,method,timeToFeetAndFrames()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Time Conversion,method,timeToFrames()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Time Conversion,method,timeToNTSCTimecode()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Time Conversion,method,timeToTimecode()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Vector Math,method,add()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Vector Math,method,clamp()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Vector Math,method,cross()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Vector Math,method,div()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Vector Math,method,dot()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Vector Math,method,length()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Vector Math,method,lookAt()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Vector Math,method,mul()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Vector Math,method,normalize()
+expression-docs,community-maintained-adobe-derived,https://ae-expressions.docsforadobe.dev/print_page/,3,Vector Math,method,sub()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,1,,member-or-class,Changelog
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,1,,member-or-class,Effects
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,1,,member-or-class,Item
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,1,,member-or-class,Layer
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,1,,member-or-class,Layers
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,1,,member-or-class,Other
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,1,,member-or-class,Overview
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,1,,member-or-class,Sources
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,1,,member-or-class,Text
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,3d Layer Match Names,member-or-class,Materials
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,3d Layer Match Names,member-or-class,Plane
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,member-or-class,AVItem.duration
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,member-or-class,AVItem.footageMissing
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,member-or-class,AVItem.frameDuration
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,member-or-class,AVItem.frameRate
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,member-or-class,AVItem.hasAudio
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,member-or-class,AVItem.hasVideo
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,member-or-class,AVItem.height
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,member-or-class,AVItem.isMediaReplacementCompatible
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,member-or-class,AVItem.name
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,member-or-class,AVItem.pixelAspect
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,member-or-class,AVItem.proxySource
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,method,AVItem.setProxy()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,method,AVItem.setProxyToNone()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,method,AVItem.setProxyWithPlaceholder()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,method,AVItem.setProxyWithSequence()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,method,AVItem.setProxyWithSolid()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,member-or-class,AVItem.time
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,member-or-class,AVItem.useProxy
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,member-or-class,AVItem.usedIn
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVItem object,member-or-class,AVItem.width
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,AVLayer Match Names,member-or-class,Audio
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,AVLayer Match Names,member-or-class,Layer
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,AVLayer Match Names,member-or-class,Transform
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,method,AVLayer.addToMotionGraphicsTemplate()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,method,AVLayer.addToMotionGraphicsTemplateAs()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.adjustmentLayer
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.audioActive
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,method,AVLayer.audioActiveAtTime()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.audioEnabled
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.blendingMode
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,method,AVLayer.calculateTransformFromPoints()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,method,AVLayer.canAddToMotionGraphicsTemplate()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.canSetCollapseTransformation
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.canSetTimeRemapEnabled
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.collapseTransformation
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,method,AVLayer.compPointToSource()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.effectsActive
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.environmentLayer
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.frameBlending
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.frameBlendingType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.guideLayer
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.hasAudio
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.hasTrackMatte
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.height
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.isNameFromSource
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.isTrackMatte
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.motionBlur
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,method,AVLayer.openInViewer()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.preserveTransparency
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.quality
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,method,AVLayer.removeTrackMatte()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,method,AVLayer.replaceSource()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.samplingQuality
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,method,AVLayer.setTrackMatte()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.source
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,method,AVLayer.sourcePointToComp()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,method,AVLayer.sourceRectAtTime()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.threeDLayer
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.threeDPerChar
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.timeRemapEnabled
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.trackMatteLayer
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.trackMatteType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,AVLayer object,member-or-class,AVLayer.width
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,After Effects Class Hierarchy,member-or-class,Collections
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,After Effects Scripting Guide,member-or-class,Contribution
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.activate()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.activeViewer
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.availableGPUAccelTypes
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.beginSuppressDialogs()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.beginUndoGroup()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.buildName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.buildNumber
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.cancelTask()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.disableRendering
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.effects
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.endSuppressDialogs()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.endUndoGroup()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.endWatchFolder()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.executeCommand()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.exitAfterLaunchAndEval
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.exitCode
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.findMenuCommandId()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.fonts
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.isRenderEngine
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.isWatchFolder
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.isoLanguage
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.memoryInUse
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.newProject()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.onError
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.open()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.openFast()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.parseSwatchFile()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.pauseWatchFolder()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.preferences
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.project
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.purge()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.quit()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.restart()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.saveProjectOnCrash
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.scheduleTask()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.setMemoryUsageLimits()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.setMultiFrameRenderingConfig()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.setSavePreferencesOnQuit()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.settings
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,member-or-class,app.version
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Application object,method,app.watchFolder()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Camera Layer Match Names,member-or-class,Camera
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Camera Layer Match Names,member-or-class,Iris
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Camera Layer Match Names,member-or-class,Layer
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CharacterRange object,member-or-class,CharacterRange.characterEnd
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CharacterRange object,member-or-class,CharacterRange.characterStart
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CharacterRange object,member-or-class,CharacterRange.fillColor
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CharacterRange object,member-or-class,CharacterRange.isRangeValid
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CharacterRange object,member-or-class,CharacterRange.kerning
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CharacterRange object,method,CharacterRange.pasteFrom()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CharacterRange object,member-or-class,CharacterRange.strokeColor
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CharacterRange object,member-or-class,CharacterRange.strokeOverFill
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CharacterRange object,member-or-class,CharacterRange.text
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CharacterRange object,method,CharacterRange.toString()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.activeCamera
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.bgColor
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.counters
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.displayStartFrame
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.displayStartTime
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.draft3d
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.dropFrame
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,method,CompItem.duplicate()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,method,CompItem.exportAsMotionGraphicsTemplate()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.frameBlending
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.frameDuration
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,method,CompItem.getMotionGraphicsTemplateControllerName()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.hideShyLayers
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,method,CompItem.layer()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.layers
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.markerProperty
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.motionBlur
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.motionBlurAdaptiveSampleLimit
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.motionBlurSamplesPerFrame
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.motionGraphicsTemplateControllerCount
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.motionGraphicsTemplateName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.numLayers
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,method,CompItem.openInEssentialGraphics()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,method,CompItem.openInViewer()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.preserveNestedFrameRate
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.preserveNestedResolution
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.renderer
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.renderers
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.resolutionFactor
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.selectedLayers
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.selectedProperties
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,method,CompItem.setMotionGraphicsControllerName()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.shutterAngle
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.shutterPhase
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.workAreaDuration
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,CompItem object,member-or-class,CompItem.workAreaStart
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ComposedLineRange object,member-or-class,ComposedLineRange.characterEnd
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ComposedLineRange object,method,ComposedLineRange.characterRange()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ComposedLineRange object,member-or-class,ComposedLineRange.characterStart
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ComposedLineRange object,member-or-class,ComposedLineRange.isRangeValid
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ComposedLineRange object,method,ComposedLineRange.toString()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FileSource object,member-or-class,FileSource.file
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FileSource object,member-or-class,FileSource.missingFootagePath
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FileSource object,method,FileSource.reload()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,First-Party Effect Match Names,member-or-class,Audio
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,First-Party Effect Match Names,member-or-class,Channel
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,First-Party Effect Match Names,member-or-class,Distort
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,First-Party Effect Match Names,member-or-class,Generate
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,First-Party Effect Match Names,member-or-class,Keying
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,First-Party Effect Match Names,member-or-class,Matte
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,First-Party Effect Match Names,member-or-class,Obsolete
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,First-Party Effect Match Names,member-or-class,Perspective
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,First-Party Effect Match Names,member-or-class,Simulation
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,First-Party Effect Match Names,member-or-class,Stylize
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,First-Party Effect Match Names,member-or-class,Text
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,First-Party Effect Match Names,member-or-class,Time
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,First-Party Effect Match Names,member-or-class,Transition
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,First-Party Effect Match Names,member-or-class,Utility
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,First-Party Effect Match Names,member-or-class,_Obsolete
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FolderItem object,method,FolderItem.item()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FolderItem object,member-or-class,FolderItem.items
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FolderItem object,member-or-class,FolderItem.numItems
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.designAxesData
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.designVector
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.familyName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.familyPrefix
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.fontID
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.fullName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.hasDesignAxes
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,method,FontObject.hasGlyphsFor()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,method,FontObject.hasSameDict()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.isFromAdobeFonts
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.isSubstitute
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.location
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.nativeFamilyName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.nativeFullName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.nativeStyleName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.otherFontsWithSameDict
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.postScriptName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,method,FontObject.postScriptNameForDesignVector()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.styleName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.technology
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.type
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.version
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Font object,member-or-class,FontObject.writingScripts
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,member-or-class,FontsObject.allFonts
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,member-or-class,FontsObject.favoriteFontFamilyList
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,member-or-class,FontsObject.fontServerRevision
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,member-or-class,FontsObject.fontsDuplicateByPostScriptName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,member-or-class,FontsObject.fontsWithDefaultDesignAxes
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,member-or-class,FontsObject.freezeSyncSubstitutedFonts
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,method,FontsObject.getCTScriptForString()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,method,FontsObject.getDefaultFontForCTScript()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,method,FontsObject.getFontByID()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,method,FontsObject.getFontsByFamilyNameAndStyleName()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,method,FontsObject.getFontsByPostScriptName()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,member-or-class,FontsObject.missingOrSubstitutedFonts
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,member-or-class,FontsObject.mruFontFamilyList
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,method,FontsObject.pollForAndPushNonSystemFontFoldersChanges()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,method,FontsObject.setDefaultFontForCTScript()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Fonts object,member-or-class,FontsObject.substitutedFontReplacementMatchPolicy
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageItem object,member-or-class,FootageItem.file
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageItem object,member-or-class,FootageItem.mainSource
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageItem object,method,FootageItem.openInViewer()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageItem object,method,FootageItem.replace()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageItem object,method,FootageItem.replaceWithPlaceholder()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageItem object,method,FootageItem.replaceWithSequence()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageItem object,method,FootageItem.replaceWithSolid()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageSource object,member-or-class,FootageSource.alphaMode
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageSource object,member-or-class,FootageSource.conformFrameRate
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageSource object,member-or-class,FootageSource.displayFrameRate
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageSource object,member-or-class,FootageSource.fieldSeparationType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageSource object,method,FootageSource.guessAlphaMode()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageSource object,method,FootageSource.guessPulldown()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageSource object,member-or-class,FootageSource.hasAlpha
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageSource object,member-or-class,FootageSource.highQualityFieldSeparation
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageSource object,member-or-class,FootageSource.invertAlpha
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageSource object,member-or-class,FootageSource.isStill
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageSource object,member-or-class,FootageSource.loop
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageSource object,member-or-class,FootageSource.nativeFrameRate
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageSource object,member-or-class,FootageSource.premulColor
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,FootageSource object,member-or-class,FootageSource.removePulldown
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Global functions,method,clearOutput()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Global functions,method,currentFormatToTime()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Global functions,method,generateRandomNumber()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Global functions,method,getEnumAsString()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Global functions,method,isValid()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Global functions,method,timeToCurrentFormat()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Global functions,method,write()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Global functions,method,writeLn()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,GuideOptions object,member-or-class,GuideOptions.color
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,GuideOptions object,member-or-class,GuideOptions.orientation
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,GuideOptions object,member-or-class,GuideOptions.pinned
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,GuideOptions object,member-or-class,GuideOptions.position
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,GuideOptions object,member-or-class,GuideOptions.positionType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,GuideOptions object,member-or-class,GuideOrientationType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,GuideOptions object,member-or-class,GuidePositionType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ImportOptions object,method,ImportOptions.canImportAs()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ImportOptions object,member-or-class,ImportOptions.file
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ImportOptions object,member-or-class,ImportOptions.forceAlphabetical
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ImportOptions object,member-or-class,ImportOptions.importAs
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ImportOptions object,method,ImportOptions.isFileNameNumbered()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ImportOptions object,member-or-class,ImportOptions.rangeEnd
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ImportOptions object,member-or-class,ImportOptions.rangeStart
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ImportOptions object,member-or-class,ImportOptions.sequence
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Item object,method,Item.addGuide()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Item object,member-or-class,Item.comment
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Item object,member-or-class,Item.dynamicLinkGUID
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Item object,method,Item.getGuideAsObject()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Item object,member-or-class,Item.guides
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Item object,member-or-class,Item.id
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Item object,member-or-class,Item.label
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Item object,member-or-class,Item.name
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Item object,member-or-class,Item.parentFolder
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Item object,method,Item.remove()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Item object,method,Item.removeGuide()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Item object,member-or-class,Item.selected
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Item object,method,Item.setGuide()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Item object,member-or-class,Item.typeName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ItemCollection object,method,ItemCollection.addComp()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ItemCollection object,method,ItemCollection.addFolder()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,KeyframeEase object,member-or-class,KeyframeEase.influence
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,KeyframeEase object,member-or-class,KeyframeEase.speed
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Layer Styles Match Names,member-or-class,Pattern
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Layer Styles Match Names,member-or-class,Satin
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Layer Styles Match Names,member-or-class,Stroke
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Layer Styles Match Names,member-or-class,Styles
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,method,Layer.activeAtTime()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,method,Layer.addGuide()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,method,Layer.applyPreset()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.autoOrient
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.comment
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.containingComp
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,method,Layer.copyToComp()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,method,Layer.doSceneEditDetection()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,method,Layer.duplicate()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,method,Layer.getGuideAsObject()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.guides
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.hasVideo
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.id
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.inPoint
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.index
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.isNameSet
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.label
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.locked
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.marker
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,method,Layer.moveAfter()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,method,Layer.moveBefore()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,method,Layer.moveToBeginning()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,method,Layer.moveToEnd()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.nullLayer
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.outPoint
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.parent
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,method,Layer.remove()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,method,Layer.removeGuide()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.selectedProperties
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,method,Layer.setGuide()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,method,Layer.setParentWithJump()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.shy
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.solo
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.startTime
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.stretch
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Layer object,member-or-class,Layer.time
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,LayerCollection object,method,LayerCollection.add()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,LayerCollection object,method,LayerCollection.addBoxText()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,LayerCollection object,method,LayerCollection.addCamera()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,LayerCollection object,method,LayerCollection.addLight()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,LayerCollection object,method,LayerCollection.addNull()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,LayerCollection object,method,LayerCollection.addParametricMesh()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,LayerCollection object,method,LayerCollection.addShape()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,LayerCollection object,method,LayerCollection.addSolid()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,LayerCollection object,method,LayerCollection.addText()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,LayerCollection object,method,LayerCollection.addVerticalBoxText()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,LayerCollection object,method,LayerCollection.addVerticalText()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,LayerCollection object,method,LayerCollection.byName()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,LayerCollection object,method,LayerCollection.precompose()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Light Layer Match Names,member-or-class,Falloff
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Light Layer Match Names,member-or-class,Layer
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Light Layer Match Names,member-or-class,Light
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Light Layer Match Names,member-or-class,Shadow
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,LightLayer object,member-or-class,LightLayer.lightType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MarkerValue object,member-or-class,MarkerValue.chapter
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MarkerValue object,member-or-class,MarkerValue.comment
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MarkerValue object,member-or-class,MarkerValue.cuePointName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MarkerValue object,member-or-class,MarkerValue.duration
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MarkerValue object,member-or-class,MarkerValue.eventCuePoint
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MarkerValue object,member-or-class,MarkerValue.frameTarget
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MarkerValue object,method,MarkerValue.getParameters()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MarkerValue object,member-or-class,MarkerValue.label
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MarkerValue object,member-or-class,MarkerValue.protectedRegion
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MarkerValue object,method,MarkerValue.setParameters()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MarkerValue object,member-or-class,MarkerValue.url
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MaskPropertyGroup object,member-or-class,MaskPropertyGroup.color
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MaskPropertyGroup object,member-or-class,MaskPropertyGroup.inverted
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MaskPropertyGroup object,member-or-class,MaskPropertyGroup.locked
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MaskPropertyGroup object,member-or-class,MaskPropertyGroup.maskFeatherFalloff
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MaskPropertyGroup object,member-or-class,MaskPropertyGroup.maskMode
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MaskPropertyGroup object,member-or-class,MaskPropertyGroup.maskMotionBlur
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,MaskPropertyGroup object,member-or-class,MaskPropertyGroup.rotoBezier
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,OMCollection object,method,OMCollection.add()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,OutputModule object,method,OutputModule.applyTemplate()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,OutputModule object,member-or-class,OutputModule.file
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,OutputModule object,method,OutputModule.getSetting()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,OutputModule object,method,OutputModule.getSettings()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,OutputModule object,member-or-class,OutputModule.includeSourceXMP
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,OutputModule object,member-or-class,OutputModule.name
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,OutputModule object,member-or-class,OutputModule.postRenderAction
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,OutputModule object,method,OutputModule.remove()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,OutputModule object,method,OutputModule.saveAsTemplate()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,OutputModule object,method,OutputModule.setSetting()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,OutputModule object,method,OutputModule.setSettings()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,OutputModule object,member-or-class,OutputModule.templates
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ParagraphRange object,member-or-class,ParagraphRange.characterEnd
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ParagraphRange object,method,ParagraphRange.characterRange()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ParagraphRange object,member-or-class,ParagraphRange.characterStart
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ParagraphRange object,member-or-class,ParagraphRange.isRangeValid
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ParagraphRange object,method,ParagraphRange.toString()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ParametricMeshLayer object,member-or-class,ParametricMeshLayer.parametricBevelOptions
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ParametricMeshLayer object,member-or-class,ParametricMeshLayer.parametricMeshOptions
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ParametricMeshLayer object,member-or-class,ParametricMeshLayer.parametricMeshType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Preferences object,method,Preferences.deletePref()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Preferences object,method,Preferences.getPrefAsBool()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Preferences object,method,Preferences.getPrefAsFloat()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Preferences object,method,Preferences.getPrefAsLong()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Preferences object,method,Preferences.getPrefAsString()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Preferences object,method,Preferences.havePref()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Preferences object,method,Preferences.reload()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Preferences object,method,Preferences.savePrefAsBool()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Preferences object,method,Preferences.savePrefAsFloat()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Preferences object,method,Preferences.savePrefAsLong()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Preferences object,method,Preferences.savePrefAsString()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Preferences object,method,Preferences.saveToDisk()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.activeItem
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.autoFixExpressions()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.bitsPerChannel
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.close()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.compensateForSceneReferredProfiles
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.consolidateFootage()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.dirty
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.displayStartFrame
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.expressionEngine
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.feetFramesFilmType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.file
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.footageTimecodeDisplayStartType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.framesCountType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.framesUseFeetFrames
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.gpuAccelType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.importFile()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.importFileWithDialog()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.importPlaceholder()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.item()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.itemByID()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.items
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.layerByID()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.linearBlending
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.linearizeWorkingSpace
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.listColorProfiles()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.numItems
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.reduceProject()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.removeUnusedFootage()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.renderQueue
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.replaceFont()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.revision
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.rootFolder
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.save()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.saveWithDialog()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.selection
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.setDefaultImportFolder()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,method,Project.showWindow()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.timeDisplayType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.toolType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.transparencyGridThumbnails
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.usedFonts
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.workingGamma
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.workingSpace
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Project object,member-or-class,Project.xmpPacket
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.LayerInputStageType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.addKey()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.addToMotionGraphicsTemplate()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.addToMotionGraphicsTemplateAs()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.alternateSource
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.canAddToMotionGraphicsTemplate()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.canSetAlternateSource
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.canSetExpression
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.canVaryOverTime
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.dimensionsSeparated
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.essentialPropertySource
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.expression
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.expressionEnabled
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.expressionError
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.getInputStageCycleSafeLimit()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.getSeparationFollower()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.hasMax
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.hasMin
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.inputLayerAndStage
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.isDropdownEffect
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.isInterpolationTypeValid()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.isSeparationFollower
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.isSeparationLeader
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.isSpatial
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.isTimeVarying
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.keyInInterpolationType()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.keyInSpatialTangent()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.keyInTemporalEase()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.keyLabel()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.keyOutInterpolationType()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.keyOutSpatialTangent()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.keyOutTemporalEase()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.keyRoving()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.keySelected()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.keySpatialAutoBezier()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.keySpatialContinuous()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.keyTemporalAutoBezier()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.keyTemporalContinuous()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.keyTime()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.keyValue()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.layerInputStage
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.maxValue
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.minValue
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.nearestKeyIndex()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.numKeys
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.propertyIndex
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.propertyParameters
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.propertyValueType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.removeKey()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.selectedKeys
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.separationDimension
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.separationLeader
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setAlternateSource()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setInputLayerAndStage()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setInterpolationTypeAtKey()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setLabelAtKey()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setLayerInputStage()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setPropertyParameters()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setRovingAtKey()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setSelectedAtKey()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setSpatialAutoBezierAtKey()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setSpatialContinuousAtKey()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setSpatialTangentsAtKey()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setTemporalAutoBezierAtKey()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setTemporalContinuousAtKey()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setTemporalEaseAtKey()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setValue()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setValueAtKey()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setValueAtTime()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.setValuesAtTimes()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.unitsText
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.value
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,method,Property.valueAtTime()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Property object,member-or-class,Property.valueText
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,member-or-class,PropertyBase.active
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,member-or-class,PropertyBase.canSetEnabled
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,method,PropertyBase.duplicate()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,member-or-class,PropertyBase.elided
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,member-or-class,PropertyBase.enabled
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,member-or-class,PropertyBase.isEffect
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,member-or-class,PropertyBase.isMask
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,member-or-class,PropertyBase.isModified
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,member-or-class,PropertyBase.matchName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,method,PropertyBase.moveTo()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,member-or-class,PropertyBase.name
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,member-or-class,PropertyBase.parentProperty
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,member-or-class,PropertyBase.propertyDepth
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,method,PropertyBase.propertyGroup()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,member-or-class,PropertyBase.propertyIndex
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,member-or-class,PropertyBase.propertyType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,method,PropertyBase.remove()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyBase object,member-or-class,PropertyBase.selected
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyGroup object,method,PropertyGroup.addProperty()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyGroup object,method,PropertyGroup.addVariableFontAxis()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyGroup object,method,PropertyGroup.canAddProperty()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyGroup object,member-or-class,PropertyGroup.numProperties
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,PropertyGroup object,method,PropertyGroup.property()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RQItemCollection object,method,RQItemCollection.add()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueue object,member-or-class,RenderQueue.canQueueInAME
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueue object,method,RenderQueue.item()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueue object,member-or-class,RenderQueue.items
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueue object,member-or-class,RenderQueue.numItems
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueue object,method,RenderQueue.pauseRendering()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueue object,method,RenderQueue.queueInAME()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueue object,member-or-class,RenderQueue.queueNotify
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueue object,method,RenderQueue.render()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueue object,member-or-class,RenderQueue.rendering
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueue object,method,RenderQueue.showWindow()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueue object,method,RenderQueue.stopRendering()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,method,RenderQueueItem.applyTemplate()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,member-or-class,RenderQueueItem.comp
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,method,RenderQueueItem.duplicate()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,member-or-class,RenderQueueItem.elapsedSeconds
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,method,RenderQueueItem.getSetting()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,method,RenderQueueItem.getSettings()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,member-or-class,RenderQueueItem.logType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,member-or-class,RenderQueueItem.numOutputModules
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,member-or-class,RenderQueueItem.onStatusChanged
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,method,RenderQueueItem.outputModule()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,member-or-class,RenderQueueItem.outputModules
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,member-or-class,RenderQueueItem.queueItemNotify
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,method,RenderQueueItem.remove()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,member-or-class,RenderQueueItem.render
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,method,RenderQueueItem.saveAsTemplate()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,method,RenderQueueItem.setSetting()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,method,RenderQueueItem.setSettings()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,member-or-class,RenderQueueItem.skipFrames
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,member-or-class,RenderQueueItem.startTime
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,member-or-class,RenderQueueItem.status
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,member-or-class,RenderQueueItem.templates
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,member-or-class,RenderQueueItem.timeSpanDuration
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,RenderQueueItem object,member-or-class,RenderQueueItem.timeSpanStart
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Settings object,method,Settings.getSetting()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Settings object,method,Settings.haveSetting()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Settings object,method,Settings.saveSetting()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Shape Layer Match Names,member-or-class,Contents
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Shape Layer Match Names,member-or-class,Ellipse
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Shape Layer Match Names,member-or-class,Fill
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Shape Layer Match Names,member-or-class,Group
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Shape Layer Match Names,member-or-class,Layer
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Shape Layer Match Names,member-or-class,Path
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Shape Layer Match Names,member-or-class,Polystar
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Shape Layer Match Names,member-or-class,Rectangle
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Shape Layer Match Names,member-or-class,Repeater
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Shape Layer Match Names,member-or-class,Stroke
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Shape Layer Match Names,member-or-class,Twist
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Shape object,member-or-class,Shape.closed
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Shape object,member-or-class,Shape.featherInterps
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Shape object,member-or-class,Shape.featherRadii
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Shape object,member-or-class,Shape.featherRelCornerAngles
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Shape object,member-or-class,Shape.featherRelSegLocs
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Shape object,member-or-class,Shape.featherSegLocs
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Shape object,member-or-class,Shape.featherTensions
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Shape object,member-or-class,Shape.featherTypes
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Shape object,member-or-class,Shape.inTangents
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Shape object,member-or-class,Shape.outTangents
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Shape object,member-or-class,Shape.vertices
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,SolidSource object,member-or-class,SolidSource.color
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,System object,method,System.callSystem()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,System object,member-or-class,System.machineName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,System object,member-or-class,System.osName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,System object,member-or-class,System.osVersion
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,System object,member-or-class,System.userName
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Team Projects,method,Project.closeTeamProject()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Team Projects,method,Project.convertTeamProjectToProject()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Team Projects,method,Project.isAnyTeamProjectOpen()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Team Projects,method,Project.isLoggedInToTeamProject()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Team Projects,method,Project.isResolveCommandEnabled()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Team Projects,method,Project.isShareCommandEnabled()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Team Projects,method,Project.isSyncCommandEnabled()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Team Projects,method,Project.isTeamProjectEnabled()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Team Projects,method,Project.isTeamProjectOpen()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Team Projects,method,Project.listTeamProjects()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Team Projects,method,Project.newTeamProject()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Team Projects,method,Project.openTeamProject()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Team Projects,method,Project.resolveConflict()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Team Projects,method,Project.shareTeamProject()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Team Projects,method,Project.syncTeamProject()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Text Layer Match Names,member-or-class,Animators
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Text Layer Match Names,member-or-class,Layer
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,2,Text Layer Match Names,member-or-class,Text
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.allCaps
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.applyFill
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.applyStroke
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.autoHyphenate
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.autoKernType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.autoLeading
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.baselineDirection
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.baselineLocs
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.baselineShift
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.boxAutoFitPolicy
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.boxFirstBaselineAlignment
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.boxFirstBaselineAlignmentMinimum
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.boxInsetSpacing
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.boxOverflow
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.boxText
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.boxTextPos
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.boxTextSize
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.boxVerticalAlignment
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,method,TextDocument.characterRange()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,method,TextDocument.composedLineCharacterIndexesAt()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.composedLineCount
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,method,TextDocument.composedLineRange()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.composerEngine
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.digitSet
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.direction
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.endIndent
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.everyLineComposer
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.fauxBold
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.fauxItalic
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.fillColor
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.firstLineIndent
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.font
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.fontBaselineOption
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.fontCapsOption
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.fontFamily
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.fontLocation
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.fontObject
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.fontSize
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.fontStyle
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.hangingRoman
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.horizontalScale
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.justification
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.kerning
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.leading
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.leadingType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.ligature
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.lineJoinType
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.lineOrientation
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.noBreak
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,method,TextDocument.paragraphCharacterIndexesAt()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.paragraphCount
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,method,TextDocument.paragraphRange()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.pointText
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,method,TextDocument.resetCharStyle()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,method,TextDocument.resetParagraphStyle()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.smallCaps
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.spaceAfter
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.spaceBefore
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.startIndent
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.strokeColor
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.strokeOverFill
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.strokeWidth
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.subscript
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.superscript
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.text
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.tracking
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.tsume
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,TextDocument object,member-or-class,TextDocument.verticalScale
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,View object,member-or-class,View.active
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,View object,member-or-class,View.options
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,View object,method,View.setActive()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ViewOptions object,member-or-class,ViewOptions.channels
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ViewOptions object,member-or-class,ViewOptions.checkerboards
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ViewOptions object,member-or-class,ViewOptions.exposure
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ViewOptions object,member-or-class,ViewOptions.fastPreview
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ViewOptions object,member-or-class,ViewOptions.guidesLocked
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ViewOptions object,member-or-class,ViewOptions.guidesSnap
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ViewOptions object,member-or-class,ViewOptions.guidesVisibility
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ViewOptions object,member-or-class,ViewOptions.rulers
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,ViewOptions object,member-or-class,ViewOptions.zoom
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Viewer object,member-or-class,Viewer.active
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Viewer object,member-or-class,Viewer.activeViewIndex
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Viewer object,member-or-class,Viewer.maximized
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Viewer object,method,Viewer.setActive()
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Viewer object,member-or-class,Viewer.type
+scripting-docs,community-maintained-adobe-derived,https://ae-scripting.docsforadobe.dev/print_page/,3,Viewer object,member-or-class,Viewer.views

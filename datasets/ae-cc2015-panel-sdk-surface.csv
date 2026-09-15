@@ -1,0 +1,76 @@
+kind,path,name,value,evidence
+manifest,Examples\Barebones\CSXS\manifest.xml,ExtensionManifest.Version,4.0,distributed-sample
+host-target,Examples\Barebones\CSXS\manifest.xml,AEFT,"[13.0,15.9]",distributed-sample
+host-target,Examples\Barebones\CSXS\manifest.xml,PPRO,"[7.0,10.9]",distributed-sample
+required-runtime,Examples\Barebones\CSXS\manifest.xml,CSXS,4.0,distributed-sample
+manifest-field,Examples\Barebones\CSXS\manifest.xml,MainPath,./index.html,distributed-sample
+manifest-field,Examples\Barebones\CSXS\manifest.xml,ScriptPath,./MainScript.jsx,distributed-sample
+manifest-field,Examples\Barebones\CSXS\manifest.xml,Type,Panel,distributed-sample
+manifest-field,Examples\Barebones\CSXS\manifest.xml,Menu,Barebones panel,distributed-sample
+manifest-field,Examples\Barebones\CSXS\manifest.xml,AutoVisible,true,distributed-sample
+manifest,Examples\Generate complex comp\CSXS\manifest.xml,ExtensionManifest.Version,4.0,distributed-sample
+host-target,Examples\Generate complex comp\CSXS\manifest.xml,AEFT,"[13.0,15.9]",distributed-sample
+host-target,Examples\Generate complex comp\CSXS\manifest.xml,PPRO,"[7.0,10.9]",distributed-sample
+required-runtime,Examples\Generate complex comp\CSXS\manifest.xml,CSXS,4.0,distributed-sample
+manifest-field,Examples\Generate complex comp\CSXS\manifest.xml,MainPath,./index.html,distributed-sample
+manifest-field,Examples\Generate complex comp\CSXS\manifest.xml,ScriptPath,./MainScript.jsx,distributed-sample
+manifest-field,Examples\Generate complex comp\CSXS\manifest.xml,Type,Panel,distributed-sample
+manifest-field,Examples\Generate complex comp\CSXS\manifest.xml,Menu,Generate Complex Comp,distributed-sample
+manifest-field,Examples\Generate complex comp\CSXS\manifest.xml,AutoVisible,true,distributed-sample
+manifest,Examples\iframe Sample\CSXS\manifest.xml,ExtensionManifest.Version,4.0,distributed-sample
+host-target,Examples\iframe Sample\CSXS\manifest.xml,AEFT,"[13.0,15.9]",distributed-sample
+host-target,Examples\iframe Sample\CSXS\manifest.xml,PPRO,"[7.0,10.9]",distributed-sample
+required-runtime,Examples\iframe Sample\CSXS\manifest.xml,CSXS,4.0,distributed-sample
+manifest-field,Examples\iframe Sample\CSXS\manifest.xml,MainPath,./index.html,distributed-sample
+manifest-field,Examples\iframe Sample\CSXS\manifest.xml,ScriptPath,./MainScript.jsx,distributed-sample
+manifest-field,Examples\iframe Sample\CSXS\manifest.xml,Type,Panel,distributed-sample
+manifest-field,Examples\iframe Sample\CSXS\manifest.xml,Menu,iframe Sample,distributed-sample
+manifest-field,Examples\iframe Sample\CSXS\manifest.xml,AutoVisible,true,distributed-sample
+manifest,Examples\Simple script\CSXS\manifest.xml,ExtensionManifest.Version,4.0,distributed-sample
+host-target,Examples\Simple script\CSXS\manifest.xml,AEFT,"[13.0,15.9]",distributed-sample
+host-target,Examples\Simple script\CSXS\manifest.xml,PPRO,"[7.0,10.9]",distributed-sample
+required-runtime,Examples\Simple script\CSXS\manifest.xml,CSXS,4.0,distributed-sample
+manifest-field,Examples\Simple script\CSXS\manifest.xml,MainPath,./index.html,distributed-sample
+manifest-field,Examples\Simple script\CSXS\manifest.xml,ScriptPath,./MainScript.jsx,distributed-sample
+manifest-field,Examples\Simple script\CSXS\manifest.xml,Type,Panel,distributed-sample
+manifest-field,Examples\Simple script\CSXS\manifest.xml,Menu,Simple Script,distributed-sample
+manifest-field,Examples\Simple script\CSXS\manifest.xml,AutoVisible,true,distributed-sample
+js-api,Examples\Generate complex comp\ext.js,CSInterface,present,distributed-sample
+js-api,Examples\Generate complex comp\ext.js,SystemPath,present,distributed-sample
+js-api,Examples\Generate complex comp\ext.js,evalScript,present,distributed-sample
+js-api,Examples\Generate complex comp\ext.js,addEventListener,present,distributed-sample
+js-api,Examples\Generate complex comp\ext.js,getSystemPath,present,distributed-sample
+js-api,Examples\Generate complex comp\ext.js,getHostEnvironment,present,distributed-sample
+js-api,Examples\Generate complex comp\lib\CSInterface-4.0.0.js,CSInterface,present,distributed-sample
+js-api,Examples\Generate complex comp\lib\CSInterface-4.0.0.js,CSEvent,present,distributed-sample
+js-api,Examples\Generate complex comp\lib\CSInterface-4.0.0.js,SystemPath,present,distributed-sample
+js-api,Examples\Generate complex comp\lib\CSInterface-4.0.0.js,evalScript,present,distributed-sample
+js-api,Examples\Generate complex comp\lib\CSInterface-4.0.0.js,dispatchEvent,present,distributed-sample
+js-api,Examples\Generate complex comp\lib\CSInterface-4.0.0.js,addEventListener,present,distributed-sample
+js-api,Examples\Generate complex comp\lib\CSInterface-4.0.0.js,removeEventListener,present,distributed-sample
+js-api,Examples\Generate complex comp\lib\CSInterface-4.0.0.js,getSystemPath,present,distributed-sample
+js-api,Examples\Generate complex comp\lib\CSInterface-4.0.0.js,getHostEnvironment,present,distributed-sample
+js-api,Examples\Generate complex comp\lib\CSInterface-4.0.0.js,getApplicationID,present,distributed-sample
+js-api,Examples\Generate complex comp\lib\CSInterface-4.0.0.js,requestOpenExtension,present,distributed-sample
+js-api,Examples\Generate complex comp\lib\CSInterface-4.0.0.js,openURLInDefaultBrowser,present,distributed-sample
+js-api,Examples\Simple script\ext.js,CSInterface,present,distributed-sample
+js-api,Examples\Simple script\ext.js,SystemPath,present,distributed-sample
+js-api,Examples\Simple script\ext.js,evalScript,present,distributed-sample
+js-api,Examples\Simple script\ext.js,addEventListener,present,distributed-sample
+js-api,Examples\Simple script\ext.js,getSystemPath,present,distributed-sample
+js-api,Examples\Simple script\ext.js,getHostEnvironment,present,distributed-sample
+js-api,Examples\Simple script\lib\CSInterface-4.0.0.js,CSInterface,present,distributed-sample
+js-api,Examples\Simple script\lib\CSInterface-4.0.0.js,CSEvent,present,distributed-sample
+js-api,Examples\Simple script\lib\CSInterface-4.0.0.js,SystemPath,present,distributed-sample
+js-api,Examples\Simple script\lib\CSInterface-4.0.0.js,evalScript,present,distributed-sample
+js-api,Examples\Simple script\lib\CSInterface-4.0.0.js,dispatchEvent,present,distributed-sample
+js-api,Examples\Simple script\lib\CSInterface-4.0.0.js,addEventListener,present,distributed-sample
+js-api,Examples\Simple script\lib\CSInterface-4.0.0.js,removeEventListener,present,distributed-sample
+js-api,Examples\Simple script\lib\CSInterface-4.0.0.js,getSystemPath,present,distributed-sample
+js-api,Examples\Simple script\lib\CSInterface-4.0.0.js,getHostEnvironment,present,distributed-sample
+js-api,Examples\Simple script\lib\CSInterface-4.0.0.js,getApplicationID,present,distributed-sample
+js-api,Examples\Simple script\lib\CSInterface-4.0.0.js,requestOpenExtension,present,distributed-sample
+js-api,Examples\Simple script\lib\CSInterface-4.0.0.js,openURLInDefaultBrowser,present,distributed-sample
+extendscript-bridge,Examples\Generate complex comp\jsx\After Effects.jsx,app,present,distributed-sample
+extendscript-bridge,Examples\Generate complex comp\jsx\After Effects.jsx,app.project,present,distributed-sample
+extendscript-bridge,Examples\Generate complex comp\jsx\After Effects.jsx,app.version,present,distributed-sample

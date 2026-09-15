@@ -1,0 +1,213 @@
+{
+  "snapshot": "Adobe After Effects CS6 Mac SDK headers",
+  "evidence_class": "third-party historical archive",
+  "source_repository": "https://github.com/takahirome/AdobeScripts",
+  "api_listing": "https://api.github.com/repos/takahirome/AdobeScripts/contents/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers?ref=master",
+  "downloaded_utc": "2026-09-15",
+  "files": [
+    {
+      "name": "A.h",
+      "sha": "e37c18db1b53c510056ae3bab770d8190feda74e",
+      "sha256": "5237587c3e9e5e772ce6da43db58b64b360f25043a8857e594b1b220bf9e5cde",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/A.h"
+    },
+    {
+      "name": "AEConfig.h",
+      "sha": "9e46224a6ac1ae2374ee520652530a9acc3d12c4",
+      "sha256": "344bbe37018eeafba7092f94d8c3030be7a1a5d7b17969d5d448e45ecf1649ad",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AEConfig.h"
+    },
+    {
+      "name": "AEFX_SuiteHandlerTemplate.h",
+      "sha": "f04fe006e0d05dec0b16b042f2ba59b90d786391",
+      "sha256": "f26863250a21f3f2f2bfc7bb992248ee31c153a000e1e924b88b2b3b235cdec3",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AEFX_SuiteHandlerTemplate.h"
+    },
+    {
+      "name": "AE_AdvEffectSuites.h",
+      "sha": "8fa6394ec3ef57f050526387f08a4995e4f8674d",
+      "sha256": "362047968b50433764002c32cc302c7b76120e15758200209a9333784944f6e1",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_AdvEffectSuites.h"
+    },
+    {
+      "name": "AE_ChannelSuites.h",
+      "sha": "67a1152a6469465ae09623f6ea461a1f83413403",
+      "sha256": "c0c00c0b2acb966a3496ac771268653392d6775c2b6eac130a3f33d50897a82c",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_ChannelSuites.h"
+    },
+    {
+      "name": "AE_CreatorInfo.h",
+      "sha": "2867c1a02ec2817a0eaf71c2bd05e455f5d669ca",
+      "sha256": "3b49735fc7f28ef2e31bdf31606e4e54df75c4cd60e2f41041fbfd3523f155b0",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_CreatorInfo.h"
+    },
+    {
+      "name": "AE_Effect.h",
+      "sha": "3dac18542124444f8a0257cf7606f8d3cf7f9574",
+      "sha256": "689425c60612832b380fba2e757620d26ed3fd1b83c154680c81a2c255fbb2fa",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_Effect.h"
+    },
+    {
+      "name": "AE_EffectCB.h",
+      "sha": "433b5297159596951ba1d89fd3498807c088a680",
+      "sha256": "a0d5961f28fdfa35961b74b741b70a94538935022eb299c814b249eff9be1365",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_EffectCB.h"
+    },
+    {
+      "name": "AE_EffectCBSuites.h",
+      "sha": "ad245a00e4f07f0eb2d6b1c70627ba1dc52693ea",
+      "sha256": "0934d1fda24ac9235059932a48fad45c921f0fd0a90776d0eb199e514d1d8f33",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_EffectCBSuites.h"
+    },
+    {
+      "name": "AE_EffectPixelFormat.h",
+      "sha": "738fc85f99c43a44bc2ad8b101163e531b077bf8",
+      "sha256": "77d87d7da1fe84750a5b97f1fb9e6500bcd75f725ed897e96aa24ba58c2e7e8a",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_EffectPixelFormat.h"
+    },
+    {
+      "name": "AE_EffectSuites.h",
+      "sha": "ea8fbe2a6ac754c820eec1849c0635a823bb70d5",
+      "sha256": "09701e52b4001f0cca0b5f182144ed9bb244b84de3759570896b07325991294d",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_EffectSuites.h"
+    },
+    {
+      "name": "AE_EffectSuitesHelper.h",
+      "sha": "a60d515f294998d0eed13de636041b6359d1db34",
+      "sha256": "e1727af4731667becf800e00b598932f4b9f1ff3df20d8435cadbb0b2eed64fe",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_EffectSuitesHelper.h"
+    },
+    {
+      "name": "AE_EffectSuitesOld.h",
+      "sha": "81832edb2dae197d474720c002fa177bad213d2f",
+      "sha256": "271580889a46d1e551dd7eba10dbd25362dff0b3f1e8ae2820f44c841e9e57c1",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_EffectSuitesOld.h"
+    },
+    {
+      "name": "AE_EffectUI.h",
+      "sha": "e6dc88403ef68fc63bb3813ca91d399ae402e01c",
+      "sha256": "374a196f81a2c50c647cbeb0d9e1e04f4fd2b69b27882ff17893ed5916712342",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_EffectUI.h"
+    },
+    {
+      "name": "AE_EffectVers.h",
+      "sha": "f21e506c1d80a17eb977ace38a019f3997eb2e5d",
+      "sha256": "c12cc79737febeddd5e81c532aeedf79e1956c6c0247e5d8944315412ca7845d",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_EffectVers.h"
+    },
+    {
+      "name": "AE_FPF.h",
+      "sha": "f65a21ac8e116eeca05c2dd13a3ae77720ef1248",
+      "sha256": "6725843e17573d96868b3310d3bc637afe6d497627d20d72fbbcd5d23ecc7f1a",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_FPF.h"
+    },
+    {
+      "name": "AE_GeneralPlug.h",
+      "sha": "3c9036e69f47bfe64a370fa4bc510ef206103e7c",
+      "sha256": "c101ebbd86b6fa87e28662a5e38c4197722a16d62a62db617408dfe14803684f",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_GeneralPlug.h"
+    },
+    {
+      "name": "AE_GeneralPlugOld.h",
+      "sha": "91271fc0716c3ae213939a78745761e53f3dc952",
+      "sha256": "41057188a0bdc965eba99248f47e4d875f11887f57dcb03f89e13b2e2dc5cafc",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_GeneralPlugOld.h"
+    },
+    {
+      "name": "AE_GeneralPlugPanels.h",
+      "sha": "9f1e5e75af9cb48abaa71db6264ca7e57657fde3",
+      "sha256": "c10d148e2aa0cd3cfb29ef6484d9b92b5036264ce4490cff6f42eacb8a800a25",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_GeneralPlugPanels.h"
+    },
+    {
+      "name": "AE_GeneralPlugPost.h",
+      "sha": "7b5fba7b93d92bea5087eefc881e5cc35a27b461",
+      "sha256": "9d1ec7e53abaf50c5b04d32819a1a69a8806f7669057c8ae89fba2ee98451cd9",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_GeneralPlugPost.h"
+    },
+    {
+      "name": "AE_GeneralPlugPre.h",
+      "sha": "8b2e28d9769f315861cea6aa9e56af49253abc6c",
+      "sha256": "9116ca41d38cba2f3f717b365bd266ebc6c180645dfd394e15bb5c539c80a1a5",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_GeneralPlugPre.h"
+    },
+    {
+      "name": "AE_Hook.h",
+      "sha": "6f7476880b6a81506588bc6d6e616530470ea749",
+      "sha256": "8e8af18a1eac85a3d53aac4e94e27549da4c46f286213405fd3d104977fbfcfc",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_Hook.h"
+    },
+    {
+      "name": "AE_IO.h",
+      "sha": "7dc7590da30c602ccace85aac6ed5e2ff8510630",
+      "sha256": "4a9002c341e394be7ebd11032ea9dd6c258137be0adc66c111539fc7af85a504",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_IO.h"
+    },
+    {
+      "name": "AE_Macros.h",
+      "sha": "3f245cc7452c5af7aab13cf5fb3468b93bb5931b",
+      "sha256": "369a3db43959770fe71f57c1fcbeecad3af390a35e35e4b379e8d257aa375b94",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_Macros.h"
+    },
+    {
+      "name": "AE_StructSizeAssert.h",
+      "sha": "45199355477aab0c03ef23679f10218c9847f38c",
+      "sha256": "046210dfae5b01663be1f2f63c385fca829bd8637800d40d077367e57038db05",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/AE_StructSizeAssert.h"
+    },
+    {
+      "name": "FIEL_Public.h",
+      "sha": "4cd6ae897895e1a22140f67b94f35cc443ab6bda",
+      "sha256": "326c69019aa9262f3d6095bba6d3d653fb32a8ec996d6424b182d91cc667e86a",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/FIEL_Public.h"
+    },
+    {
+      "name": "Mach-O_prefix.h",
+      "sha": "e5da3715cb82dc155dc8624300ba039aa84d333a",
+      "sha256": "ee3fb8a2cab1831f870d1bd676389cb17d3f63af364809993d105318bddee4af",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/Mach-O_prefix.h"
+    },
+    {
+      "name": "PF_Masks.h",
+      "sha": "88870b829a3a823a45f54be41df084e7387592b8",
+      "sha256": "762f05c08d062b18bf3ab45cd0064335268e636fe905ba9374960300ae4e4234",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/PF_Masks.h"
+    },
+    {
+      "name": "PIFormatT.h",
+      "sha": "64de69a98a6aade46305b489d5ebe540bf6d3e39",
+      "sha256": "9deb2fd3dbef01560676759a7e76093b30a1f69f9ae61847541b6baf2a51baad",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/PIFormatT.h"
+    },
+    {
+      "name": "PR_Public.h",
+      "sha": "c25e076100ad79debe2c308fd0373186ae4c6b30",
+      "sha256": "dc45c583510beb2a7c509c2c84094978f59e575deabb80498c8e46753ab6864d",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/PR_Public.h"
+    },
+    {
+      "name": "PT_Public.h",
+      "sha": "7065b1a945a75215d7bd69b76708ca4c5a1e3e34",
+      "sha256": "06a93beaff7d384bd9016c9ec008e0eefe3db423bc6b9369ea7e44aa38c392c8",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/PT_Public.h"
+    },
+    {
+      "name": "PrSDKAESupport.h",
+      "sha": "8c72c6906f84809d0f192f9f40ce89767f03906a",
+      "sha256": "2a9bdfea34ac45964bb55a8416f4b85d2bfe41038eecff179cd12f88023e3ea8",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/PrSDKAESupport.h"
+    },
+    {
+      "name": "PrSDKPixelFormat.h",
+      "sha": "2d4f44a3f1a7cda27b7a2e0a000d23e5c26c744f",
+      "sha256": "e8273a347af787a33fd03b95a751b8e995f1a66e406bf164e2cb37dc6bc99dd6",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/PrSDKPixelFormat.h"
+    },
+    {
+      "name": "SuiteHelper.h",
+      "sha": "dc3df84125610c1f3d78c88000abbf81ab90f013",
+      "sha256": "041e7d44fe3115684883e32ebaf00071b747ab74922f46584bc7694008e2f492",
+      "source": "https://github.com/takahirome/AdobeScripts/blob/master/SDK/Adobe%20After%20Effects%20CS6%20Mac%20SDK/Examples/Headers/SuiteHelper.h"
+    }
+  ]
+}

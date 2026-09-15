@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "date": "2026-09-16",
+  "mode": "refute-pred004",
+  "checks": {
+    "completion_orchestrator_blocks_refutation": true,
+    "canonical_transaction_commit": true,
+    "pred004_refuted": true,
+    "pred005_010_confirmed": true,
+    "all_domain_evidence_captured": true,
+    "state_identity_revision_required": true,
+    "other_domains_no_revision": true,
+    "manifests_observed": true,
+    "version_not_created": true,
+    "coverage_remains_pre_release": true,
+    "static_rc_after_refutation": true,
+    "release_audit_remains_blocked": true,
+    "source_repository_unchanged": true,
+    "canonical_aex_hash": true,
+    "suite_labels_48": true
+  },
+  "orchestrator_exit": 1,
+  "manifest_statuses": {
+    "EXP-CACHE-002": "observed",
+    "EXP-PLUGIN-001": "observed",
+    "EXP-RG-001": "observed",
+    "EXP-SCRIPT-001": "observed"
+  },
+  "prediction_statuses": {
+    "PRED-004": "refuted",
+    "PRED-005": "confirmed",
+    "PRED-006": "confirmed",
+    "PRED-007": "confirmed",
+    "PRED-008": "confirmed",
+    "PRED-009": "confirmed",
+    "PRED-010": "confirmed"
+  },
+  "coverage_met": 24
+}

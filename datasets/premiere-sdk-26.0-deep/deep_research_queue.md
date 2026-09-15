@@ -1,0 +1,161 @@
+# Premiere Pro 26.0 SDK Deep Mining Queue
+
+- Files: 211
+- Scored developer-comment leads: 440
+- API/Suite usage records: 2260
+
+## Top research targets
+
+- score   29.75 | comment    7 | internal   0 | suites 440 | flags 107 |   590 lines | `Headers\AEGP_SuiteHandler.h`
+- score   10.49 | comment  254 | internal   0 | suites  14 | flags   0 |   397 lines | `Headers\SPPlugs.h`
+- score    8.12 | comment  225 | internal   0 | suites  13 | flags   8 |   542 lines | `Headers\PrSDKPPixCacheSuite.h`
+- score    8.05 | comment  144 | internal   0 | suites  18 | flags   0 |   284 lines | `Headers\SPSuites.h`
+- score    7.44 | comment  126 | internal   0 | suites  12 | flags   5 |   250 lines | `Headers\PrSDKMALErrors.h`
+- score    6.91 | comment  164 | internal   0 | suites  12 | flags   0 |   406 lines | `Headers\SPAdapts.h`
+- score    6.24 | comment  132 | internal   0 | suites   8 | flags   0 |   316 lines | `Headers\SPProps.h`
+- score    5.90 | comment  120 | internal   0 | suites   7 | flags   0 |   292 lines | `Headers\SPFiles.h`
+- score    5.37 | comment   64 | internal   0 | suites  16 | flags   0 |   189 lines | `Headers\SPBasic.h`
+- score    4.78 | comment  108 | internal   0 | suites  11 | flags   0 |   405 lines | `Headers\SPAccess.h`
+- score    4.75 | comment    7 | internal   0 | suites  41 | flags  24 |   318 lines | `Utils\SDK_File.h`
+- score    4.68 | comment   54 | internal   0 | suites   6 | flags   4 |   137 lines | `Headers\PrSDKMediaAcceleratorSuite.h`
+- score    4.61 | comment   51 | internal   0 | suites   6 | flags   2 |   123 lines | `Headers\PrSDKOpaqueEffectDataSuite.h`
+- score    4.54 | comment   76 | internal   0 | suites   1 | flags   4 |   193 lines | `Headers\PrSDKAsyncImporter.h`
+- score    4.34 | comment  132 | internal   0 | suites  10 | flags   7 |   698 lines | `Headers\PrSDKVideoSegmentRenderSuite.h`
+- score    4.30 | comment   48 | internal   0 | suites   7 | flags   0 |   128 lines | `Headers\SPCaches.h`
+- score    3.25 | comment   10 | internal   0 | suites  19 | flags   0 |   134 lines | `Projects\ControlSurface\Src\ControlSurface.h`
+- score    3.17 | comment   23 | internal   0 | suites   7 | flags   4 |   105 lines | `Headers\PrSDKLegacySuite.h`
+- score    3.16 | comment    0 | internal   0 | suites  50 | flags   3 |   563 lines | `Projects\SDK_Exporter\SDK_Exporter.cpp`
+- score    3.05 | comment   38 | internal   0 | suites  37 | flags   0 |   701 lines | `Projects\ControlSurface\Src\ControlSurface.cpp`
+- score    2.87 | comment   36 | internal   0 | suites   7 | flags   8 |   237 lines | `Headers\PrSDKClipRenderSuite.h`
+- score    2.84 | comment    0 | internal   0 | suites  30 | flags   9 |   331 lines | `Projects\GPUVideoFilter\Utils\PrGPUFilterModule.h`
+- score    2.71 | comment   12 | internal   0 | suites  17 | flags   0 |   172 lines | `Headers\SPErrorCodes.h`
+- score    2.56 | comment   35 | internal   0 | suites   3 | flags  11 |   239 lines | `Headers\PrSDKGPUFilter.h`
+- score    2.48 | comment  122 | internal   0 | suites  16 | flags   0 |  1823 lines | `Projects\SDK_File_Import\SDK_File_Import.cpp`
+- score    2.45 | comment   84 | internal   0 | suites  14 | flags   3 |  1097 lines | `Projects\SDK_Custom_Import\SDK_Custom_Import.cpp`
+- score    2.26 | comment   50 | internal   0 | suites   1 | flags   0 |   299 lines | `Headers\SPPiPL.h`
+- score    2.18 | comment   18 | internal   0 | suites   6 | flags   5 |   156 lines | `Headers\PrSDKAcceleratedRenderInvocationSuite.h`
+- score    2.16 | comment   10 | internal   0 | suites   6 | flags   5 |    99 lines | `Headers\PrSDKExporterUtilitySuite.h`
+- score    2.12 | comment   18 | internal   0 | suites   9 | flags   5 |   218 lines | `Headers\PrSDKMarkerSuite.h`
+- score    2.10 | comment    0 | internal   0 | suites   9 | flags   7 |    90 lines | `Headers\PrSDKSmartRenderingSuite.h`
+- score    2.09 | comment    5 | internal   2 | suites  47 | flags   6 |  1695 lines | `Headers\PrSDKAESupport.h`
+- score    2.06 | comment   10 | internal   0 | suites  20 | flags   0 |   331 lines | `Projects\ControlSurface\Src\ControlSurfacePlugin.cpp`
+- score    2.05 | comment    0 | internal   0 | suites  15 | flags   1 |   139 lines | `Utils\AEFX_SuiteHelper.c`
+- score    2.00 | comment   11 | internal   0 | suites   4 | flags   3 |    78 lines | `Headers\PrSDKImporterFileManagerSuite.h`
+- score    1.99 | comment   16 | internal   0 | suites   8 | flags   7 |   223 lines | `Headers\PrSDKMemoryManagerSuite.h`
+- score    1.97 | comment    0 | internal   0 | suites  11 | flags   6 |   125 lines | `Utils\SDK_Segment_Utils.h`
+- score    1.87 | comment    4 | internal   0 | suites   5 | flags   0 |    39 lines | `Headers\AE_CacheOnLoadSuite.h`
+- score    1.78 | comment    0 | internal   1 | suites   0 | flags   0 |    23 lines | `Headers\adobesdk\config\PreConfig.h`
+- score    1.78 | comment   12 | internal   0 | suites  12 | flags  11 |   385 lines | `Headers\PrSDKSequenceRenderSuite.h`
+- score    1.75 | comment    0 | internal   0 | suites  12 | flags   9 |   208 lines | `Headers\PrSDKSequenceAudioSuite.h`
+- score    1.72 | comment   35 | internal   0 | suites   3 | flags  10 |   475 lines | `Headers\PrSDKTransmit.h`
+- score    1.70 | comment   16 | internal   0 | suites   0 | flags   0 |    59 lines | `Projects\SDK_File_Import\SDK_Async_Import.h`
+- score    1.70 | comment   25 | internal   0 | suites  14 | flags   0 |   521 lines | `Projects\SDK_File_Import\SDK_Async_Import.cpp`
+- score    1.69 | comment    0 | internal   0 | suites  12 | flags   7 |   198 lines | `Projects\GPUVideoFilter\SDK_CrossDissolve\SDK_CrossDissolve_CPU.cpp`
+- score    1.68 | comment    0 | internal   0 | suites   8 | flags   0 |    60 lines | `Headers\adobesdk\controlsurface\host\ControlSurfaceHostSuite.h`
+- score    1.65 | comment   10 | internal   0 | suites   5 | flags   5 |   140 lines | `Headers\PrSDKTimeSuite.h`
+- score    1.64 | comment    0 | internal   0 | suites  17 | flags   4 |   302 lines | `Projects\ExportController\ExportController.cpp`
+- score    1.62 | comment    8 | internal   0 | suites   4 | flags   4 |    96 lines | `Headers\PrSDKExportControllerSuite.h`
+- score    1.62 | comment   13 | internal   0 | suites   0 | flags   2 |    57 lines | `Projects\Synth_Import\Synth_ImportPiPL.r`
+
+## Highest-scoring developer comments
+
+- 15 | `Headers\SPAdapts.h:137` | * @deprecated Used internally.   */
+- 15 | `Headers\SPAdapts.h:135` | * @deprecated Used internally.   */
+- 15 | `Headers\SPAdapts.h:133` | * @deprecated Used internally.  */
+- 15 | `Headers\SPAdapts.h:131` | * @deprecated Used internally. */
+- 13 | `Headers\PrSDKOpaqueEffectDataSuite.h:42` | *	This suite provides effects a means to share unflattened sequence data between its instances.
+- 12 | `Headers\PrSDKExport.h:377` | ("xExport" was used by some legacy Premiere plug-ins, and is a deprecated named entry point)
+- 11 | `Headers\PrSDKAsyncImporter.h:58` | *		time, the standard importer creates the private data for the async
+- 11 | `Headers\PrSDKPlayModule.h:117` | DO NOT USE, deprecated in CS5! playmod_OverlayDone    = 15,       // (Not an error) return value used in playmod_PutFrame
+- 10 | `Headers\PrSDKAsyncImporter.h:59` | *		importer. The async importer MUST NOT contain a link to the standard
+- 10 | `Headers\PrSDKPPixCacheSuite.h:128` | *	This function allows you to cache a PPix using a GUID as an identifier.
+-  9 | `Headers\PrSDKPPixCacheSuite.h:444` | *	This function registers a dependency on a PPix. If a frame with these settings is in the cache now,
+-  9 | `Headers\PrSDKPPixCacheSuite.h:410` | *	This function registers a dependency on a PPix. If a frame with these settings is in the cache now,
+-  9 | `Headers\PrSDKPPixCacheSuite.h:377` | *	This function registers a dependency on a PPix. If a frame with these settings is in the cache now,
+-  9 | `Headers\PrSDKPPixCacheSuite.h:354` | *	This function registers a dependency on a PPix. If a frame with these settings is in the cache now,
+-  9 | `Headers\PrSDKPPixCacheSuite.h:172` | *  This function attempts to flush a frame from the cache. If the frame has a registered dependency, then the
+-  9 | `Headers\PrSDKPPixCacheSuite.h:152` | *	This function registers a dependency on a PPix. If a frame with that identifier is in the cache now,
+-  8 | `Headers\PrSDKOpaqueEffectDataSuite.h:114` | *  If the internal reference count goes to 0 any calls made to AcquireOpaqueEffectData
+-  8 | `Headers\PrSDKOpaqueEffectDataSuite.h:112` | *  If the internal reference count goes to 0 outDisposeOpaqueEffectDataPP is set
+-  8 | `Headers\PrSDKOpaqueEffectDataSuite.h:111` | *	Release opaque effect data.  This decrements the internal reference count.
+-  8 | `Headers\PrSDKOpaqueEffectDataSuite.h:65` | *  Similarly, RegisterOpaqueEffectData always increments the internal reference count.
+-  8 | `Headers\PrSDKPiPL.r:28` | PrImporter, PrCompile, PrRecord, PrPlay, AdapterVersion, InternalName.
+-  8 | `Headers\PrSDKVideoSegmentRenderSuite.h:495` | *	A matching function for ApplyOperatorsToFrameAsync. This allows you to check the cache for this frame
+-  8 | `Headers\PrSDKVideoSegmentRenderSuite.h:431` | *	A matching function for ProduceFrameAsync. This allows you to check the cache for this frame
+-  8 | `Headers\PrSDKVideoSegmentRenderSuite.h:215` | *	A matching function for ApplyOperatorsToFrameAsync. This allows you to check the cache for this frame
+-  8 | `Headers\PrSDKVideoSegmentRenderSuite.h:164` | *	A matching function for ApplyOperatorsToFrameAsync. This allows you to check the cache for this frame
+-  8 | `Headers\PrSDKVideoSegmentRenderSuite.h:105` | *	A matching function for ProduceFrameAsync. This allows you to check the cache for this frame
+-  8 | `Headers\SPAccess.h:389` | * Internal */
+-  8 | `Headers\SPAccess.h:387` | * Internal */
+-  8 | `Headers\SPAccess.h:383` | * Internal */
+-  8 | `Headers\SPAccess.h:380` | * Internal */
+-  8 | `Headers\SPAccess.h:378` | * Internal */
+-  8 | `Headers\SPAccess.h:375` | * Internal */
+-  8 | `Headers\SPAccess.h:373` | * Internal */
+-  8 | `Headers\SPAccess.h:371` | * Internal */
+-  8 | `Headers\SPAccess.h:369` | * Internal */
+-  8 | `Headers\SPAccess.h:367` | * Internal */
+-  8 | `Headers\SPAccess.h:364` | * Internal */
+-  8 | `Headers\SPAccess.h:362` | * Internal */
+-  8 | `Headers\SPAccess.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SPAdapts.h:389` | * Internal */
+-  8 | `Headers\SPAdapts.h:387` | * Internal */
+-  8 | `Headers\SPAdapts.h:385` | * Internal */
+-  8 | `Headers\SPAdapts.h:382` | * Internal */
+-  8 | `Headers\SPAdapts.h:380` | * Internal */
+-  8 | `Headers\SPAdapts.h:378` | * Internal */
+-  8 | `Headers\SPAdapts.h:375` | * Internal */
+-  8 | `Headers\SPAdapts.h:371` | * Internal */
+-  8 | `Headers\SPAdapts.h:368` | * Internal */
+-  8 | `Headers\SPAdapts.h:366` | * Internal */
+-  8 | `Headers\SPAdapts.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SPBasic.h:169` | * Internal */
+-  8 | `Headers\SPBasic.h:167` | * Internal */
+-  8 | `Headers\SPBasic.h:165` | * Internal */
+-  8 | `Headers\SPBasic.h:163` | * Internal */
+-  8 | `Headers\SPBasic.h:161` | * Internal */
+-  8 | `Headers\SPBasic.h:159` | * Internal */
+-  8 | `Headers\SPBasic.h:157` | * Internal */
+-  8 | `Headers\SPBasic.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SPCaches.h:120` | * Internal */
+-  8 | `Headers\SPCaches.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SPConfig.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SPErrorCodes.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SPFiles.h:277` | * Internal */
+-  8 | `Headers\SPFiles.h:274` | * Internal */
+-  8 | `Headers\SPFiles.h:272` | * Internal */
+-  8 | `Headers\SPFiles.h:269` | * Internal */
+-  8 | `Headers\SPFiles.h:267` | * Internal */
+-  8 | `Headers\SPFiles.h:265` | * Internal */
+-  8 | `Headers\SPFiles.h:263` | * Internal */
+-  8 | `Headers\SPFiles.h:260` | * Internal */
+-  8 | `Headers\SPFiles.h:258` | * Internal */
+-  8 | `Headers\SPFiles.h:256` | * Internal */
+-  8 | `Headers\SPFiles.h:253` | * Internal */
+-  8 | `Headers\SPFiles.h:251` | * Internal */
+-  8 | `Headers\SPFiles.h:249` | * Internal */
+-  8 | `Headers\SPFiles.h:148` | * Internal */
+-  8 | `Headers\SPFiles.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SPMData.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SPPiPL.h:190` | <<are these internal?>>
+-  8 | `Headers\SPPiPL.h:110` | * Internal: Defines the general properties only if the application has
+-  8 | `Headers\SPPiPL.h:96` | * Internal. Plug-in resource type, \c #PIProperty::propertyKey value.
+-  8 | `Headers\SPPiPL.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SPPlugs.h:381` | * Internal */
+-  8 | `Headers\SPPlugs.h:379` | * Internal */
+-  8 | `Headers\SPPlugs.h:371` | * Internal */
+-  8 | `Headers\SPPlugs.h:368` | * Internal */
+-  8 | `Headers\SPPlugs.h:365` | * Internal */
+-  8 | `Headers\SPPlugs.h:363` | * Internal */
+-  8 | `Headers\SPPlugs.h:361` | * Internal */
+-  8 | `Headers\SPPlugs.h:357` | * Internal */
+-  8 | `Headers\SPPlugs.h:354` | * Internal */
+-  8 | `Headers\SPPlugs.h:352` | * Internal */
+-  8 | `Headers\SPPlugs.h:350` | * Internal */
+-  8 | `Headers\SPPlugs.h:348` | * Internal */
+-  8 | `Headers\SPPlugs.h:346` | * Internal */
+-  8 | `Headers\SPPlugs.h:344` | * Internal */
+-  8 | `Headers\SPPlugs.h:342` | * Internal */
+-  8 | `Headers\SPPlugs.h:340` | * Internal */
+-  8 | `Headers\SPPlugs.h:338` | * Internal */
+-  8 | `Headers\SPPlugs.h:336` | * Internal */

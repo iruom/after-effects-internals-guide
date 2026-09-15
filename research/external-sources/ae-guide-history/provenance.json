@@ -1,0 +1,30 @@
+{
+  "source_repo": "https://github.com/docsforadobe/after-effects-plugin-guide.git",
+  "evidence_class": "official-guide-git-history-snapshot",
+  "entries": [
+    {
+      "label": "2018-initial",
+      "commit": "b4bb8e33349c15af0f29875647722898c30c7ab3",
+      "date": "2018-10-05",
+      "source_path": "docs/intro/compatibility-across-multiple-versions.rst",
+      "local_path": "research/external-sources/ae-guide-history/2018-initial/compatibility-across-multiple-versions.rst",
+      "sha256": "006603a3078555476b8e28a92c4829b8878b8def6f7cdf4673c4a7effcf0be60"
+    },
+    {
+      "label": "2021-mfr-compute",
+      "commit": "aa72147b005f2122a6e0fb743be934117ec96ac7",
+      "date": "2021-03-31",
+      "source_path": "docs/effect-details/multi-frame-rendering-in-ae.rst",
+      "local_path": "research/external-sources/ae-guide-history/2021-mfr-compute/multi-frame-rendering-in-ae.rst",
+      "sha256": "da1c806c68ac72a376124d240f9f6e6c26f46de9fcde2f0adaa6eefb4f8ec835"
+    },
+    {
+      "label": "2021-ae22",
+      "commit": "27e401cd011452ff0e8b2ef8c3eae0a90a8927a8",
+      "date": "2021-10-26",
+      "source_path": "docs/intro/compatibility-across-multiple-versions.rst",
+      "local_path": "research/external-sources/ae-guide-history/2021-ae22/compatibility-across-multiple-versions.rst",
+      "sha256": "76569d8820ec8973b850f9db194c6ae097826e9bf6f1563432b42a08092887b5"
+    }
+  ]
+}

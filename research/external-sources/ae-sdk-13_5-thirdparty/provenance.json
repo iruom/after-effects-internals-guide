@@ -1,0 +1,336 @@
+{
+  "source_url": "https://github.com/Experience-Monks/ae-threejs-multichannel-sdf",
+  "commit": "e12c898b55c59486338e645c2e2f19378eb39414",
+  "evidence_class": "third-party historical archive",
+  "inferred_sdk_generation": "AE 13.5-era",
+  "reason": "AE_Effect.h current alias PF_AE135=13/9",
+  "file_count": 65,
+  "aggregate_sha256": "3367f7c0993802a0e55896864207965ec3e2c8e6557e5ee8b4723e18d1156cb6",
+  "files": [
+    {
+      "path": ".DS_Store",
+      "bytes": 6148,
+      "sha256": "26dccc07f3c65c542d019719d3114236675d07f497bcb84a505f4e554024811e"
+    },
+    {
+      "path": "A.h",
+      "bytes": 4494,
+      "sha256": "f5bed9e5c48057ef4d512c06809f0d88be99541de843a7bdbe7511237df745bb"
+    },
+    {
+      "path": "adobesdk/.DS_Store",
+      "bytes": 6148,
+      "sha256": "cfc5243bf1625bfe1e100be8ee28d80dc31efbc44f869b317ec27c9a9d1abf00"
+    },
+    {
+      "path": "adobesdk/config/AdobesdkTypes.h",
+      "bytes": 1408,
+      "sha256": "9add53f2cc47a6715d7291b7d075c7d1fc1d9f13c7a8f67f5eb3d0012959cc4d"
+    },
+    {
+      "path": "adobesdk/config/PostConfig.h",
+      "bytes": 43,
+      "sha256": "d8498d3669469dca2439f7cac36093226ea7f191eda9d9928a8f77a7b40bce2e"
+    },
+    {
+      "path": "adobesdk/config/PreConfig.h",
+      "bytes": 1049,
+      "sha256": "112f0977a835c0db355f97dadf4915e628b81b45259239d3e3593dcf3fd11a38"
+    },
+    {
+      "path": "adobesdk/drawbotsuite/DrawbotSuiteTypes.h",
+      "bytes": 3748,
+      "sha256": "0a3b51d2bbf85be335009ae533514475434ee91c6b5c2e191efe008c89b3269f"
+    },
+    {
+      "path": "adobesdk/DrawbotSuite.h",
+      "bytes": 19240,
+      "sha256": "e195a951adf899dc78aed0aed34ae7be3f01df6cd2a8ac6008af12db968e4414"
+    },
+    {
+      "path": "AE_AdvEffectSuites.h",
+      "bytes": 7580,
+      "sha256": "362047968b50433764002c32cc302c7b76120e15758200209a9333784944f6e1"
+    },
+    {
+      "path": "AE_CacheOnLoadSuite.h",
+      "bytes": 1874,
+      "sha256": "bf50f93610d95e0340dd249151779a64af878603906d4632d47bf57a59aeff20"
+    },
+    {
+      "path": "AE_ChannelSuites.h",
+      "bytes": 15356,
+      "sha256": "c0c00c0b2acb966a3496ac771268653392d6775c2b6eac130a3f33d50897a82c"
+    },
+    {
+      "path": "AE_CreatorInfo.h",
+      "bytes": 2569,
+      "sha256": "3b49735fc7f28ef2e31bdf31606e4e54df75c4cd60e2f41041fbfd3523f155b0"
+    },
+    {
+      "path": "AE_Effect.h",
+      "bytes": 110306,
+      "sha256": "9cce958a34a2f89aa3b4f8895277a503a891f6382e11f8710566aadcacc200f8"
+    },
+    {
+      "path": "AE_EffectCB.h",
+      "bytes": 41885,
+      "sha256": "9cede5c2f61bc54ce7d64420eb5defb16322a04e75c4cc471cd72f2548757fe6"
+    },
+    {
+      "path": "AE_EffectCBSuites.h",
+      "bytes": 21441,
+      "sha256": "0934d1fda24ac9235059932a48fad45c921f0fd0a90776d0eb199e514d1d8f33"
+    },
+    {
+      "path": "AE_EffectPixelFormat.h",
+      "bytes": 5112,
+      "sha256": "0f603a060ac6da1c64206905e1f772df197d007e4d7bdd023386559bd0cc3464"
+    },
+    {
+      "path": "AE_EffectSuites.h",
+      "bytes": 25737,
+      "sha256": "396f2e01fe3f9cbff38c0e88f6d1b9efd4ddc6e68613acadbdb467fb07777f73"
+    },
+    {
+      "path": "AE_EffectSuitesHelper.h",
+      "bytes": 4501,
+      "sha256": "e1727af4731667becf800e00b598932f4b9f1ff3df20d8435cadbb0b2eed64fe"
+    },
+    {
+      "path": "AE_EffectSuitesOld.h",
+      "bytes": 12189,
+      "sha256": "e1de2a7c7a88bf10a711b0c07b5c90115dbae59361838c1f93b704e7e464fd4e"
+    },
+    {
+      "path": "AE_EffectUI.h",
+      "bytes": 16676,
+      "sha256": "a3ef5db5be5b0988dddd61bec9ac077af5c026305146e2690d9598e0924b2398"
+    },
+    {
+      "path": "AE_EffectVers.h",
+      "bytes": 505,
+      "sha256": "8d87d3717eae78bfe78f96b309a5418f106c988b9f2c5bc45e0a459548224824"
+    },
+    {
+      "path": "AE_GeneralPlug.h",
+      "bytes": 206178,
+      "sha256": "0ed4ed0563b5c01739e5619341be981240f62e7302414779e6de43902ea2a58f"
+    },
+    {
+      "path": "AE_GeneralPlugOld.h",
+      "bytes": 301083,
+      "sha256": "43176a79b827ec42a0ca9ae9a090ba664e22cadb00f785ed09949b9a8782aaa9"
+    },
+    {
+      "path": "AE_GeneralPlugPanels.h",
+      "bytes": 4001,
+      "sha256": "c10d148e2aa0cd3cfb29ef6484d9b92b5036264ce4490cff6f42eacb8a800a25"
+    },
+    {
+      "path": "AE_GeneralPlugPost.h",
+      "bytes": 214,
+      "sha256": "9d1ec7e53abaf50c5b04d32819a1a69a8806f7669057c8ae89fba2ee98451cd9"
+    },
+    {
+      "path": "AE_GeneralPlugPre.h",
+      "bytes": 307,
+      "sha256": "9116ca41d38cba2f3f717b365bd266ebc6c180645dfd394e15bb5c539c80a1a5"
+    },
+    {
+      "path": "AE_Hook.h",
+      "bytes": 4475,
+      "sha256": "8e8af18a1eac85a3d53aac4e94e27549da4c46f286213405fd3d104977fbfcfc"
+    },
+    {
+      "path": "AE_IO.h",
+      "bytes": 22768,
+      "sha256": "2df0ca36d48d2aadecdb30fa4b314ceb5368c549498f6bbe61a5552660abba4c"
+    },
+    {
+      "path": "AE_IO_FileExt.h",
+      "bytes": 1609,
+      "sha256": "7708e1124cbe9104552d732387427c1314ad5eac8c4ecd32e18494475bf11d23"
+    },
+    {
+      "path": "AE_Macros.h",
+      "bytes": 3481,
+      "sha256": "369a3db43959770fe71f57c1fcbeecad3af390a35e35e4b379e8d257aa375b94"
+    },
+    {
+      "path": "AEConfig.h",
+      "bytes": 1983,
+      "sha256": "344bbe37018eeafba7092f94d8c3030be7a1a5d7b17969d5d448e45ecf1649ad"
+    },
+    {
+      "path": "AEFX_SuiteHandlerTemplate.h",
+      "bytes": 1516,
+      "sha256": "f26863250a21f3f2f2bfc7bb992248ee31c153a000e1e924b88b2b3b235cdec3"
+    },
+    {
+      "path": "FIEL_Public.h",
+      "bytes": 2939,
+      "sha256": "326c69019aa9262f3d6095bba6d3d653fb32a8ec996d6424b182d91cc667e86a"
+    },
+    {
+      "path": "Mach-O_prefix.h",
+      "bytes": 18,
+      "sha256": "ee3fb8a2cab1831f870d1bd676389cb17d3f63af364809993d105318bddee4af"
+    },
+    {
+      "path": "PF_Masks.h",
+      "bytes": 874,
+      "sha256": "762f05c08d062b18bf3ab45cd0064335268e636fe905ba9374960300ae4e4234"
+    },
+    {
+      "path": "PIFormatT.h",
+      "bytes": 10889,
+      "sha256": "9deb2fd3dbef01560676759a7e76093b30a1f69f9ae61847541b6baf2a51baad"
+    },
+    {
+      "path": "PR_Public.h",
+      "bytes": 12315,
+      "sha256": "e402ba15337c71eebac174ee646576a7518bd746a4c521efa4d9a1a286d08e22"
+    },
+    {
+      "path": "PrSDKAESupport.h",
+      "bytes": 19409,
+      "sha256": "009d09009d15d9d65dd1e87b954e1ca4dec273f2d417e352f0e9abf7ca741d31"
+    },
+    {
+      "path": "PrSDKPixelFormat.h",
+      "bytes": 11709,
+      "sha256": "803e1b7206480d082b05ca5318db30b49c32221bae21c72d1c95825b892591e8"
+    },
+    {
+      "path": "PT_Public.h",
+      "bytes": 4061,
+      "sha256": "06a93beaff7d384bd9016c9ec008e0eefe3db423bc6b9369ea7e44aa38c392c8"
+    },
+    {
+      "path": "SP/SPAccess.h",
+      "bytes": 15160,
+      "sha256": "f2748b203c7be24cb571f546c4641a5ed03f9a11f59f9f4cf2c0dab1e3be0a81"
+    },
+    {
+      "path": "SP/SPAdapts.h",
+      "bytes": 17111,
+      "sha256": "6b19a96f80e3005fe5cf491373ce2cd490a99e242bc4aabda147f043d340f4a9"
+    },
+    {
+      "path": "SP/SPBasic.h",
+      "bytes": 6960,
+      "sha256": "20090d9d1f96c74e8cad2abdb060452fa797b2fd93563052efcfe421545678e1"
+    },
+    {
+      "path": "SP/SPBckDbg.h",
+      "bytes": 4132,
+      "sha256": "3986e06cba3fa1cf5db748cfc76ac146b354af002073936fbfd092b6e0c5f041"
+    },
+    {
+      "path": "SP/SPBlocks.h",
+      "bytes": 4230,
+      "sha256": "5ee60c7afcb3f489510c43d84e6cfa410400254c9f7298bcd3e96bb49fa5f496"
+    },
+    {
+      "path": "SP/SPCaches.h",
+      "bytes": 4887,
+      "sha256": "65b6fddc86f9a7d44e3480b8cea3f5930f16a803bff90c5b867348f5a59c4761"
+    },
+    {
+      "path": "SP/SPCOM.h",
+      "bytes": 252,
+      "sha256": "b4a46e24669312d5d14b6ca270d1e928e388eda5e9dfaf4ed4850ed49a0e2543"
+    },
+    {
+      "path": "SP/SPConfig.h",
+      "bytes": 2364,
+      "sha256": "f911da2a2a6ca3d0905d9bbf9bac02b279ec316317d5f3e48a450f9406ca8da9"
+    },
+    {
+      "path": "SP/SPEDebug.c",
+      "bytes": 135,
+      "sha256": "3ea1b1d2e6e435b2d1fff23c473f9749a19d6586a2a258271e8fa4a8bd9818ef"
+    },
+    {
+      "path": "SP/SPErrorCodes.h",
+      "bytes": 6048,
+      "sha256": "b2e23f152d70b7b7107c48d28d3a62c0327bf764828d4387e9cdd0c1782a45f2"
+    },
+    {
+      "path": "SP/SPErrors.h",
+      "bytes": 1766,
+      "sha256": "7676199d698c8f2aeb7652095258012e0e75fed745bdb9226eaaaf23615fcb3d"
+    },
+    {
+      "path": "SP/SPFiles.h",
+      "bytes": 11381,
+      "sha256": "fcb91b472eb0d4a93036eeae7d025d4952509f06e4ac79c45dd89ae53447e5f6"
+    },
+    {
+      "path": "SP/SPHost.h",
+      "bytes": 5519,
+      "sha256": "4a8600b937c1fcb718f8771008d1be3b70b75fd5d39947dd28d95347dff15089"
+    },
+    {
+      "path": "SP/SPInterf.h",
+      "bytes": 6745,
+      "sha256": "81bee47c2b45fc8dcd9ed8a3c7b8459678d12d5515cae6b02d4ff75005e58e76"
+    },
+    {
+      "path": "SP/SPMData.h",
+      "bytes": 2403,
+      "sha256": "002c69fd5dd39a306ef75b60909768ef1d62740827fba08ccaeca4015666b0d6"
+    },
+    {
+      "path": "SP/SPPiPL.h",
+      "bytes": 10875,
+      "sha256": "eb9c70facb873d9eaaa815a925c0d3419ac88bdb7cae33f12cedab11a8567fd3"
+    },
+    {
+      "path": "SP/SPPlugs.h",
+      "bytes": 17402,
+      "sha256": "a8032ded2f5e9cb06891fa181131d5bef5f713f29ebecd42173228bb5726f1a0"
+    },
+    {
+      "path": "SP/SPProps.h",
+      "bytes": 14211,
+      "sha256": "c7c8446265e58f5270dc665db1c83109db099919f5b8a1bc276467c4f2a3676a"
+    },
+    {
+      "path": "SP/SPRuntme.h",
+      "bytes": 18598,
+      "sha256": "e4b8df76167e04519fa339e3f770570229aaec7ac7ab228a5474aecc915ca5f6"
+    },
+    {
+      "path": "SP/SPStrngs.h",
+      "bytes": 4895,
+      "sha256": "f6208fa98ecba33ceb734a35fee86e6823990729326660ac82d9125cd9660829"
+    },
+    {
+      "path": "SP/SPSTSPrp.h",
+      "bytes": 1842,
+      "sha256": "ea9e82bf1ff4cc3ce02dec01d742f8839b372e012871b1f7bff6807119febf67"
+    },
+    {
+      "path": "SP/SPSuites.h",
+      "bytes": 11371,
+      "sha256": "652ada2c4f1cc73cf719fa271211dd47c06a1cafc7e1ebbc5184593a8a08073b"
+    },
+    {
+      "path": "SP/SPTypes.h",
+      "bytes": 4266,
+      "sha256": "ec6976074644b5c1fba8801a1e97af735a3bb646746d2dc863c14f0b0d1ca71d"
+    },
+    {
+      "path": "SuiteHelper.h",
+      "bytes": 2072,
+      "sha256": "2c40d0faa1a81bc5dec453a03f95bc70fa9a3d03d1b73971bc925966a7d28cb6"
+    },
+    {
+      "path": "Win/stdint.h",
+      "bytes": 5839,
+      "sha256": "0883afb3038bb712c0ff3ed3ae63d77653c4d04732964e0177791d48109a03dc"
+    }
+  ]
+}

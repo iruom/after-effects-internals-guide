@@ -1,0 +1,294 @@
+﻿path,line,macro,definition
+Headers\AE_CacheOnLoadSuite.h,29,kPFCacheOnLoadSuite,"""PF Cache On Load Suite"""
+Headers\AE_CacheOnLoadSuite.h,30,kPFCacheOnLoadSuiteVersion1,1
+Headers\PrSDKAcceleratedRenderInvocationSuite.h,48,kPrSDKAcceleratedRenderInvocationSuite,"""MediaCore Accelerated Render Invocation Suite"""
+Headers\PrSDKAcceleratedRenderInvocationSuite.h,49,kPrSDKAcceleratedRenderInvocationSuiteVersion3,3
+Headers\PrSDKAcceleratedRenderInvocationSuite.h,50,kPrSDKAcceleratedRenderInvocationSuiteVersion4,4	// CS 13.0; display color management and captioning
+Headers\PrSDKAcceleratedRenderInvocationSuite.h,51,kPrSDKAcceleratedRenderInvocationSuiteVersion,kPrSDKAcceleratedRenderInvocationSuiteVersion4
+Headers\PrSDKAESupport.h,99,kPFPixelFormatSuite,"""PF Pixel Format Suite"""
+Headers\PrSDKAESupport.h,100,kPFPixelFormatSuiteVersion1,1
+Headers\PrSDKAESupport.h,183,kPFBackgroundFrameSuite,"""PF Background Frame Suite"""
+Headers\PrSDKAESupport.h,184,kPFBackgroundFrameSuiteVersion1,1
+Headers\PrSDKAESupport.h,209,kPFUtilitySuite,"""PF Utility Suite"""
+Headers\PrSDKAESupport.h,210,kPFUtilitySuiteVersion2,2
+Headers\PrSDKAESupport.h,211,kPFUtilitySuiteVersion3,3
+Headers\PrSDKAESupport.h,212,kPFUtilitySuiteVersion4,4
+Headers\PrSDKAESupport.h,213,kPFUtilitySuiteVersion5,5
+Headers\PrSDKAESupport.h,214,kPFUtilitySuiteVersion6,6
+Headers\PrSDKAESupport.h,215,kPFUtilitySuiteVersion7,7
+Headers\PrSDKAESupport.h,216,kPFUtilitySuiteVersion8,8
+Headers\PrSDKAESupport.h,217,kPFUtilitySuiteVersion9,9
+Headers\PrSDKAESupport.h,218,kPFUtilitySuiteVersion10,10
+Headers\PrSDKAESupport.h,219,kPFUtilitySuiteVersion11,11
+Headers\PrSDKAESupport.h,220,kPFUtilitySuiteVersion12,12
+Headers\PrSDKAESupport.h,221,kPFUtilitySuiteVersion13,13
+Headers\PrSDKAESupport.h,223,kPFUtilitySuiteVersion,kPFUtilitySuiteVersion13
+Headers\PrSDKAESupport.h,1620,kPFSourceSettingsSuite,"""PF Source Settings Suite"""
+Headers\PrSDKAESupport.h,1621,kPFSourceSettingsSuiteVersion1,1
+Headers\PrSDKAESupport.h,1622,kPFSourceSettingsSuiteVersion2,2
+Headers\PrSDKAESupport.h,1623,kPFSourceSettingsSuiteVersion,kPFSourceSettingsSuiteVersion2
+Headers\PrSDKAESupport.h,1656,kPFTransitionSuite,"""PF Transition Suite"""
+Headers\PrSDKAESupport.h,1657,kPFTransitionSuiteVersion1,1
+Headers\PrSDKAESupport.h,1658,kPFTransitionSuiteVersion2,2	// Added RegisterTransitionStartParam and RegisterTransitionEndParam
+Headers\PrSDKAESupport.h,1659,kPFTransitionSuiteVersion,kPFTransitionSuiteVersion2
+Headers\PrSDKAppInfoSuite.h,38,kPrSDKAppInfoSuite,"""MediaCore App Info Suite"""
+Headers\PrSDKAppInfoSuite.h,39,kPrSDKAppInfoSuiteVersion,3
+Headers\PrSDKApplicationSettingsSuite.h,43,kPrSDKApplicationSettingsSuite,"""MediaCore Application Settings Suite"""
+Headers\PrSDKApplicationSettingsSuite.h,44,kPrSDKApplicationSettingsSuiteVersion,1
+Headers\PrSDKAsyncFileReaderSuite.h,39,kPrSDKAsyncFileReaderSuite,"""MediaCore Async File Reader Suite"""
+Headers\PrSDKAsyncFileReaderSuite.h,40,kPrSDKAsyncFileReaderSuiteVersion,1
+Headers\PrSDKAsyncOperationSuite.h,40,kPrSDKAsyncOperationSuite,"""MediaCore Async Operation Suite"""
+Headers\PrSDKAsyncOperationSuite.h,41,kPrSDKAsyncOperationSuiteVersion,1
+Headers\PrSDKAudioSuite.h,40,kPrSDKAudioSuite,"""Premiere Audio Suite"""
+Headers\PrSDKAudioSuite.h,41,kPrSDKAudioSuiteVersion,1
+Headers\PrSDKCaptioningSuite.h,42,kPrSDKCaptioningSuite,"""Captioning Suite"""
+Headers\PrSDKCaptioningSuite.h,43,kPrSDKCaptioningSuiteVersion,3
+Headers\PrSDKClipRenderSuite.h,59,kPrSDKClipRenderSuite,"""Premiere Clip Render Suite"""
+Headers\PrSDKClipRenderSuite.h,60,kPrSDKClipRenderSuiteVersion,3
+Headers\PrSDKColorManagementSuite.h,38,kPrSDKColorManagementSuite,"""Color Management Suite"""
+Headers\PrSDKColorManagementSuite.h,39,kPrSDKColorManagementSuiteVersion1,1
+Headers\PrSDKColorManagementSuite.h,40,kPrSDKColorManagementSuiteVersion,kPrSDKColorManagementSuiteVersion1
+Headers\PrSDKDeferredProcessingSuite.h,39,kPrSDKDeferredProcessingSuite,"""Premiere Deferred Processing Suite"""
+Headers\PrSDKDeferredProcessingSuite.h,40,kPrSDKDeferredProcessingSuiteVersion,1
+Headers\PrSDKErrorSuite.h,42,kPrSDKErrorSuite,"""Premiere Error Suite"""
+Headers\PrSDKErrorSuite.h,44,kPrSDKErrorSuiteVersion1,1	/* Frozen in Premiere Pro 1.0 */
+Headers\PrSDKErrorSuite.h,98,kPrSDKErrorSuiteVersion2,2 /* New for Premiere Pro 1.5 */
+Headers\PrSDKErrorSuite.h,120,kPrSDKErrorSuiteVersion3,3 /* New CS4 */
+Headers\PrSDKErrorSuite.h,148,kPrSDKErrorSuiteVersion,kPrSDKErrorSuiteVersion3
+Headers\PrSDKExportAudioParamSuite.h,47,kPrSDKExportAudioParamSuite,"""Premiere Export Audio Param Suite"""
+Headers\PrSDKExportAudioParamSuite.h,48,kPrSDKExportAudioParamSuiteVersion,1
+Headers\PrSDKExportControllerSuite.h,43,kPrSDKExportControllerSuite,"""Premiere ExportController Suite"""
+Headers\PrSDKExportControllerSuite.h,44,kPrSDKExportControllerSuiteVersion,1
+Headers\PrSDKExporterUtilitySuite.h,43,kPrSDKExporterUtilitySuite,"""MediaCore Exporter Utility Suite"""
+Headers\PrSDKExporterUtilitySuite.h,44,kPrSDKExporterUtilitySuiteVersion1,1
+Headers\PrSDKExporterUtilitySuite.h,45,kPrSDKExporterUtilitySuiteVersion,kPrSDKExporterUtilitySuiteVersion1
+Headers\PrSDKExportFileSuite.h,42,kPrSDKExportFileSuite,"""MediaCore Export File Suite"""
+Headers\PrSDKExportFileSuite.h,43,kPrSDKExportFileSuiteVersion1,1
+Headers\PrSDKExportFileSuite.h,44,kPrSDKExportFileSuiteVersion2,2
+Headers\PrSDKExportFileSuite.h,45,kPrSDKExportFileSuiteVersion,kPrSDKExportFileSuiteVersion2
+Headers\PrSDKExportInfoSuite.h,50,kPrSDKExportInfoSuite,"""MediaCore Export Info Suite"""
+Headers\PrSDKExportInfoSuite.h,51,kPrSDKExportInfoSuiteVersion,1
+Headers\PrSDKExportParamSuite.h,70,kPrSDKExportParamSuite,"""MediaCore Export Param Suite"""
+Headers\PrSDKExportParamSuite.h,71,kPrSDKExportParamSuiteVersion1,1
+Headers\PrSDKExportParamSuite.h,72,kPrSDKExportParamSuiteVersion2,2
+Headers\PrSDKExportParamSuite.h,73,kPrSDKExportParamSuiteVersion3,3
+Headers\PrSDKExportParamSuite.h,74,kPrSDKExportParamSuiteVersion4,4
+Headers\PrSDKExportParamSuite.h,75,kPrSDKExportParamSuiteVersion5,5
+Headers\PrSDKExportParamSuite.h,76,kPrSDKExportParamSuiteVersion6,6
+Headers\PrSDKExportParamSuite.h,77,kPrSDKExportParamSuiteVersion7,7
+Headers\PrSDKExportParamSuite.h,78,kPrSDKExportParamSuiteVersion,kPrSDKExportParamSuiteVersion7
+Headers\PrSDKExportProgressSuite.h,42,kPrSDKExportProgressSuite,"""MediaCore Export Progress Suite"""
+Headers\PrSDKExportProgressSuite.h,43,kPrSDKExportProgressSuiteVersion,2	// new version for CS5
+Headers\PrSDKExportStdParamSuite.h,25,kPrExportStdParamSuite,"""Premiere Export Standard Param Suite"""
+Headers\PrSDKExportStdParamSuite.h,26,kPrExportStdParamSuiteVersion,1
+Headers\PrSDKFileRegistrationSuite.h,39,kPrSDKFileRegistrationSuite,"""Premiere File Registration Suite"""
+Headers\PrSDKFileRegistrationSuite.h,40,kPrSDKFileRegistrationSuiteVersion,1
+Headers\PrSDKFlashCueMarkerDataSuite.h,44,kPrSDKFlashCueMarkerDataSuite,"""FlashCueMarkerData Suite"""
+Headers\PrSDKFlashCueMarkerDataSuite.h,45,kPrSDKFlashCueMarkerDataSuiteVersion,1
+Headers\PrSDKGPUDeviceSuite.h,48,kPrSDKGPUDeviceSuite,"""MediaCore GPU Device Suite"""
+Headers\PrSDKGPUDeviceSuite.h,49,kPrSDKGPUDeviceSuiteVersion,2
+Headers\PrSDKGPUImageProcessingSuite.h,53,kPrSDKGPUImageProcessingSuite,"""MediaCore GPU Image Processing Suite"""
+Headers\PrSDKGPUImageProcessingSuite.h,54,kPrSDKGPUImageProcessingSuiteVersion,1
+Headers\PrSDKImageProcessingSuite.h,47,kPrSDKImageProcessingSuite,"""Premiere Image Processing Suite"""
+Headers\PrSDKImageProcessingSuite.h,49,kPrSDKImageProcessingSuiteVersion1,1
+Headers\PrSDKImageProcessingSuite.h,50,kPrSDKImageProcessingSuiteVersion2,2
+Headers\PrSDKImageProcessingSuite.h,53,kPrSDKImageProcessingSuiteVersion,kPrSDKImageProcessingSuiteVersion2
+Headers\PrSDKImporterFileManagerSuite.h,38,kPrSDKImporterFileManagerSuite,"""Importer File Manager Suite"""
+Headers\PrSDKImporterFileManagerSuite.h,39,kPrSDKImporterFileManagerSuiteVersion,4
+Headers\PrSDKLegacySuite.h,42,kPrSDKLegacySuite,"""Premiere Legacy Suite"""
+Headers\PrSDKLegacySuite.h,43,kPrSDKLegacySuiteVersion,1
+Headers\PrSDKLegacySuite.h,44,kPrSDKLegacySuiteVersion2,2
+Headers\PrSDKMarkerSuite.h,49,kPrSDKMarkerSuite,"""Marker Suite"""
+Headers\PrSDKMarkerSuite.h,50,kPrSDKMarkerSuiteVersionV1,1
+Headers\PrSDKMarkerSuite.h,51,kPrSDKMarkerSuiteVersionV2,2
+Headers\PrSDKMarkerSuite.h,52,kPrSDKMarkerSuiteVersion,3
+Headers\PrSDKMediaAcceleratorSuite.h,47,kPrSDKMediaAcceleratorSuite,"""Premiere Media Accelerator Suite"""
+Headers\PrSDKMediaAcceleratorSuite.h,48,kPrSDKMediaAcceleratorSuiteVersion3,3
+Headers\PrSDKMediaAcceleratorSuite.h,49,kPrSDKMediaAcceleratorSuiteVersion4,4
+Headers\PrSDKMediaAcceleratorSuite.h,50,kPrSDKMediaAcceleratorSuiteVersion,kPrSDKMediaAcceleratorSuiteVersion4
+Headers\PrSDKMemoryManagerSuite.h,47,kPrSDKMemoryManagerSuite,"""Premiere Memory Manager Suite"""
+Headers\PrSDKMemoryManagerSuite.h,48,kPrSDKMemoryManagerSuiteVersion1,1
+Headers\PrSDKMemoryManagerSuite.h,49,kPrSDKMemoryManagerSuiteVersion2,2
+Headers\PrSDKMemoryManagerSuite.h,50,kPrSDKMemoryManagerSuiteVersion3,3
+Headers\PrSDKMemoryManagerSuite.h,51,kPrSDKMemoryManagerSuiteVersion4,4
+Headers\PrSDKMemoryManagerSuite.h,52,kPrSDKMemoryManagerSuiteVersion,kPrSDKMemoryManagerSuiteVersion4
+Headers\PrSDKOpaqueEffectDataSuite.h,35,kPrSDKOpaqueEffectDataSuite,"""Opaque Effect Data Suite"""
+Headers\PrSDKOpaqueEffectDataSuite.h,36,kPrSDKOpaqueEffectDataSuiteVersion2,2
+Headers\PrSDKOpaqueEffectDataSuite.h,37,kPrSDKOpaqueEffectDataSuiteVersion,kPrSDKOpaqueEffectDataSuiteVersion2
+Headers\PrSDKPaletteSuite.h,45,kPrSDKPaletteSuite,"""Premiere Palette Suite"""
+Headers\PrSDKPaletteSuite.h,46,kPrSDKPaletteSuiteVersion,1
+Headers\PrSDKPixelFormatSuite.h,46,kPrSDKPixelFormatSuite,"""Premiere Pixel Format Suite"""
+Headers\PrSDKPixelFormatSuite.h,47,kPrSDKPixelFormatSuiteVersion,1
+Headers\PrSDKPlayModuleAudioSuite.h,50,kPrSDKPlayModuleAudioSuite,"""Premiere Playmod Audio Suite"""
+Headers\PrSDKPlayModuleAudioSuite.h,51,kPrSDKPlayModuleAudioSuiteVersion,4
+Headers\PrSDKPlayModuleDeviceControlSuite.h,42,kPrSDKPlayModuleDeviceControlSuite,"""Premiere Playmod Device Control Suite"""
+Headers\PrSDKPlayModuleDeviceControlSuite.h,43,kPrSDKPlayModuleDeviceControlSuiteVersion,1
+Headers\PrSDKPlayModuleImmersiveVideoSuite.h,44,kPrSDKPlayModuleImmersiveVideoSuite,"""MediaCore Playmod Immersive Video Suite"""
+Headers\PrSDKPlayModuleImmersiveVideoSuite.h,45,kPrSDKPlayModuleImmersiveVideoSuiteVersion,2
+Headers\PrSDKPlayModuleOverlaySuite.h,46,kPrSDKPlayModuleOverlaySuite,"""MediaCore Playmod Overlay Suite"""
+Headers\PrSDKPlayModuleOverlaySuite.h,47,kPrSDKPlayModuleOverlaySuiteVersion3,3
+Headers\PrSDKPlayModuleOverlaySuite.h,48,kPrSDKPlayModuleOverlaySuiteVersion4,4
+Headers\PrSDKPlayModuleOverlaySuite.h,49,kPrSDKPlayModuleOverlaySuiteVersion,kPrSDKPlayModuleOverlaySuiteVersion4
+Headers\PrSDKPPix2Suite.h,51,kPrSDKPPix2Suite,"""Premiere PPix 2 Suite"""
+Headers\PrSDKPPix2Suite.h,53,kPrSDKPPix2SuiteVersion1,1
+Headers\PrSDKPPix2Suite.h,55,kPrSDKPPix2SuiteVersion2,2
+Headers\PrSDKPPix2Suite.h,57,kPrSDKPPix2SuiteVersion3,3
+Headers\PrSDKPPix2Suite.h,60,kPrSDKPPix2SuiteVersion,kPrSDKPPix2SuiteVersion3
+Headers\PrSDKPPixCacheSuite.h,51,kPrSDKPPixCacheSuite,"""Premiere PPix Cache Suite"""
+Headers\PrSDKPPixCacheSuite.h,52,kPrSDKPPixCacheSuiteVersion1,1
+Headers\PrSDKPPixCacheSuite.h,53,kPrSDKPPixCacheSuiteVersion2,2
+Headers\PrSDKPPixCacheSuite.h,54,kPrSDKPPixCacheSuiteVersion3,3
+Headers\PrSDKPPixCacheSuite.h,55,kPrSDKPPixCacheSuiteVersion4,4
+Headers\PrSDKPPixCacheSuite.h,56,kPrSDKPPixCacheSuiteVersion5,5
+Headers\PrSDKPPixCacheSuite.h,57,kPrSDKPPixCacheSuiteVersion6,6
+Headers\PrSDKPPixCacheSuite.h,58,kPrSDKPPixCacheSuiteVersion7,7	// Pr 13.0 - ColorSpace APIs
+Headers\PrSDKPPixCacheSuite.h,59,kPrSDKPPixCacheSuiteVersion8,8
+Headers\PrSDKPPixCacheSuite.h,60,kPrSDKPPixCacheSuiteVersion,kPrSDKPPixCacheSuiteVersion8
+Headers\PrSDKPPixCreator2Suite.h,47,kPrSDKPPixCreator2Suite,"""Premiere PPix Creator 2 Suite"""
+Headers\PrSDKPPixCreator2Suite.h,48,kPrSDKPPixCreator2SuiteVersion1,1
+Headers\PrSDKPPixCreator2Suite.h,49,kPrSDKPPixCreator2SuiteVersion2,2
+Headers\PrSDKPPixCreator2Suite.h,50,kPrSDKPPixCreator2SuiteVersion3,3
+Headers\PrSDKPPixCreator2Suite.h,51,kPrSDKPPixCreator2SuiteVersion4,4	// Pr 14.0; color managed extensions
+Headers\PrSDKPPixCreator2Suite.h,52,kPrSDKPPixCreator2SuiteVersion,kPrSDKPPixCreator2SuiteVersion4
+Headers\PrSDKPPixCreatorSuite.h,47,kPrSDKPPixCreatorSuite,"""Premiere PPix Creator Suite"""
+Headers\PrSDKPPixCreatorSuite.h,48,kPrSDKPPixCreatorSuiteVersion,1
+Headers\PrSDKPPixSuite.h,59,kPrSDKPPixSuite,"""Premiere PPix Suite"""
+Headers\PrSDKPPixSuite.h,60,kPrSDKPPixSuiteVersion,1
+Headers\PrSDKRollCrawlSuite.h,55,kPrSDKRollCrawlSuite,"""Premiere RollCrawl Suite"""
+Headers\PrSDKRollCrawlSuite.h,56,kPrSDKRollCrawlSuiteVersion,1
+Headers\PrSDKSequenceAudioSuite.h,46,kPrSDKSequenceAudioSuite,"""MediaCore Sequence Audio Suite"""
+Headers\PrSDKSequenceAudioSuite.h,47,kPrSDKSequenceAudioSuiteVersion1,1	// started for CS4
+Headers\PrSDKSequenceAudioSuite.h,48,kPrSDKSequenceAudioSuiteVersion2,"2	// started for 9.0, MakeAudioRenderer with channel layout"
+Headers\PrSDKSequenceAudioSuite.h,49,kPrSDKSequenceAudioSuiteVersion3,"3	// started for 22.1, MakeAudioRendererWithQuality"
+Headers\PrSDKSequenceAudioSuite.h,51,kPrSDKSequenceAudioSuiteVersion,kPrSDKSequenceAudioSuiteVersion3
+Headers\PrSDKSequenceInfoSuite.h,50,kPrSDKSequenceInfoSuite,"""MediaCore Sequence Info Suite"""
+Headers\PrSDKSequenceInfoSuite.h,51,kPrSDKSequenceInfoSuiteVersion,9
+Headers\PrSDKSequenceRenderSuite.h,64,kPrSDKSequenceRenderSuite,"""MediaCore Sequence Render Suite"""
+Headers\PrSDKSequenceRenderSuite.h,65,kPrSDKSequenceRenderSuiteVersion1,1
+Headers\PrSDKSequenceRenderSuite.h,66,kPrSDKSequenceRenderSuiteVersion2,2
+Headers\PrSDKSequenceRenderSuite.h,67,kPrSDKSequenceRenderSuiteVersion3,3
+Headers\PrSDKSequenceRenderSuite.h,68,kPrSDKSequenceRenderSuiteVersion4,4
+Headers\PrSDKSequenceRenderSuite.h,69,kPrSDKSequenceRenderSuiteVersion5,5
+Headers\PrSDKSequenceRenderSuite.h,70,kPrSDKSequenceRenderSuiteVersion6,6	// Added support of export LUT
+Headers\PrSDKSequenceRenderSuite.h,71,kPrSDKSequenceRenderSuiteVersion,kPrSDKSequenceRenderSuiteVersion6
+Headers\PrSDKSmartRenderingSuite.h,47,kPrSDKSmartRenderingSuite,"""MediaCore Smart Rendering Suite"""
+Headers\PrSDKSmartRenderingSuite.h,48,kPrSDKSmartRenderingSuiteVersion1,1
+Headers\PrSDKSmartRenderingSuite.h,49,kPrSDKSmartRenderingSuiteVersion2,2
+Headers\PrSDKSmartRenderingSuite.h,50,kPrSDKSmartRenderingSuiteVersion3,3
+Headers\PrSDKSmartRenderingSuite.h,51,kPrSDKSmartRenderingSuiteVersion,kPrSDKSmartRenderingSuiteVersion3
+Headers\PrSDKStreamLabelEffectSuite.h,30,kPrSDKStreamLabelEffectSuite,"""Effect Stream Label Suite"""
+Headers\PrSDKStreamLabelEffectSuite.h,31,kPrSDKStreamLabelEffectSuiteVersion1,1
+Headers\PrSDKStreamLabelEffectSuite.h,32,kPrSDKStreamLabelEffectSuiteVersion,kPrSDKStreamLabelEffectSuiteVersion1
+Headers\PrSDKStringSuite.h,39,kPrSDKStringSuite,"""MediaCore StringSuite"""
+Headers\PrSDKStringSuite.h,40,kPrSDKStringSuiteVersion,1
+Headers\PrSDKThreadedWorkSuite.h,39,kPrSDKThreadedWorkSuite,"""Premiere Threaded Work Suite"""
+Headers\PrSDKThreadedWorkSuite.h,40,kPrSDKThreadedWorkSuiteVersion2,2
+Headers\PrSDKThreadedWorkSuite.h,41,kPrSDKThreadedWorkSuiteVersion3,3
+Headers\PrSDKTimeSuite.h,42,kPrSDKTimeSuite,"""Premiere Time Suite"""
+Headers\PrSDKTimeSuite.h,43,kPrSDKTimeSuiteVersion,1
+Headers\PrSDKTransmitInvocationSuite.h,50,kPrSDKTransmitInvocationSuite,"""MediaCore Transmit Invocation Suite"""
+Headers\PrSDKTransmitInvocationSuite.h,51,kPrSDKTransmitInvocationSuiteVersion,1
+Headers\PrSDKVideoSegmentRenderSuite.h,54,kPrSDKVideoSegmentRenderSuite,"""MediaCore Video Segment Render Suite"""
+Headers\PrSDKVideoSegmentRenderSuite.h,55,kPrSDKVideoSegmentRenderSuiteVersion5,5	// 11.0
+Headers\PrSDKVideoSegmentRenderSuite.h,56,kPrSDKVideoSegmentRenderSuiteVersion6,"6	// 13.0, color managed and captioning version of APIs"
+Headers\PrSDKVideoSegmentRenderSuite.h,57,kPrSDKVideoSegmentRenderSuiteVersion7,7	// added api for distant prefetching
+Headers\PrSDKVideoSegmentRenderSuite.h,58,kPrSDKVideoSegmentRenderSuiteVersion,kPrSDKVideoSegmentRenderSuiteVersion7
+Headers\PrSDKVideoSegmentSuite.h,50,kPrSDKVideoSegmentSuite,"""MediaCore Video Segment Suite"""
+Headers\PrSDKVideoSegmentSuite.h,51,kPrSDKVideoSegmentSuiteVersion4,4
+Headers\PrSDKVideoSegmentSuite.h,52,kPrSDKVideoSegmentSuiteVersion5,5 //Added StreamLabels
+Headers\PrSDKVideoSegmentSuite.h,53,kPrSDKVideoSegmentSuiteVersion6,6 //Added AcquireFirstNodeInTimeRange
+Headers\PrSDKVideoSegmentSuite.h,54,kPrSDKVideoSegmentSuiteVersion7,7 //Added Graphics Transforms
+Headers\PrSDKVideoSegmentSuite.h,55,kPrSDKVideoSegmentSuiteVersion8,8 // added color managed version of GetVideoSegmentsProperties
+Headers\PrSDKVideoSegmentSuite.h,56,kPrSDKVideoSegmentSuiteVersion9,9 // added GetNodeTimeScale
+Headers\PrSDKVideoSegmentSuite.h,58,kPrSDKVideoSegmentSuiteVersion,kPrSDKVideoSegmentSuiteVersion9
+Headers\PrSDKWindowSuite.h,36,kPrSDKWindowSuite,"""Premiere Window Suite"""
+Headers\PrSDKWindowSuite.h,37,kPrSDKWindowSuiteVersion,1
+Headers\SPAccess.h,49,kSPAccessSuite,"""SP Access Suite"""
+Headers\SPAccess.h,51,kSPAccessSuiteVersion,3
+Headers\SPAdapts.h,48,kSPAdaptersSuite,"""SP Adapters Suite"""
+Headers\SPAdapts.h,50,kSPAdaptersSuiteVersion,3
+Headers\SPAdapts.h,136,kSPAdaptersAcquireSuiteHostSelector,"""Acquire Suite"""
+Headers\SPAdapts.h,138,kSPAdaptersReleaseSuiteHostSelector,"""Release Suite"""
+Headers\SPBasic.h,44,kSPBasicSuite,"""SP Basic Suite"""
+Headers\SPBasic.h,46,kSPBasicSuiteVersion,4
+Headers\SPCaches.h,44,kSPCachesSuite,"""SP Caches Suite"""
+Headers\SPCaches.h,46,kSPCachesSuiteVersion,2
+Headers\SPErrorCodes.h,158,kSPSuiteNotFoundError,'S!Fd'
+Headers\SPErrorCodes.h,161,kSPSuiteAlreadyExistsError,'SExi'
+Headers\SPErrorCodes.h,164,kSPSuiteAlreadyReleasedError,'SRel'
+Headers\SPErrorCodes.h,167,kSPBadSuiteListIteratorError,'SLIt'
+Headers\SPErrorCodes.h,170,kSPBadSuiteInternalVersionError,'SIVs'
+Headers\SPFiles.h,44,kSPFilesSuite,"""SP Files Suite"""
+Headers\SPFiles.h,46,kSPFilesSuiteVersion,3
+Headers\SPPlugs.h,47,kSPPluginsSuite,"""SP Plug-ins Suite"""
+Headers\SPPlugs.h,49,kSPPluginsSuiteVersion4,4
+Headers\SPPlugs.h,51,kSPPluginsSuiteVersion5,5
+Headers\SPPlugs.h,53,kSPPluginsSuiteVersion,kSPPluginsSuiteVersion4
+Headers\SPProps.h,46,kSPPropertiesSuite,"""SP Properties Suite"""
+Headers\SPProps.h,48,kSPPropertiesSuiteVersion2,2
+Headers\SPProps.h,50,kSPPropertiesSuiteVersion,kSPPropertiesSuiteVersion2	// minimal is default
+Headers\SPProps.h,52,kSPPropertiesSuiteVersion3,3
+Headers\SPStrngs.h,43,kSPStringsSuite,"""SP Strings Suite"""
+Headers\SPStrngs.h,45,kSPStringsSuiteVersion,2
+Headers\SPSuites.h,46,kSPSuitesSuite,"""SP Suites Suite"""
+Headers\SPSuites.h,48,kSPSuitesSuiteVersion,2
+Headers\SPSuites.h,55,kSPRuntimeSuiteList,((SPSuiteListRef)NULL)
+Headers\adobesdk\AdobesdkStringSuite.h,32,kADOBESDK_StringSuite,"""ADOBESDK StringSuite"""
+Headers\adobesdk\AdobesdkStringSuite.h,33,kADOBESDK_StringSuite_Version1,1
+Headers\adobesdk\AdobesdkStringSuite.h,35,kADOBESDK_StringSuite_VersionCurrent,kADOBESDK_StringSuite_Version1
+Headers\adobesdk\AdobesdkStringSuite.h,36,kADOBESDK_StringSuiteCurrent,ADOBESDK_StringSuite1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostCommandSuite.h,29,kADOBESDK_ControlSurfaceHostCommandSuite,"""ADOBESDK ControlSurfaceHost Command Suite"""
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostCommandSuite.h,30,kADOBESDK_ControlSurfaceHostCommandSuite_Version1,1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostCommandSuite.h,32,kADOBESDK_ControlSurfaceHostCommandSuite_VersionCurrent,kADOBESDK_ControlSurfaceHostCommandSuite_Version1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostCommandSuite.h,33,kADOBESDK_ControlSurfaceHostCommandSuiteCurrent,ADOBESDK_ControlSurfaceHostCommandSuite1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostLumetriSuite.h,29,kADOBESDK_ControlSurfaceHostLumetriSuite,"""ADOBESDK ControlSurfaceHost Lumetri Suite"""
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostLumetriSuite.h,30,kADOBESDK_ControlSurfaceHostLumetriSuite_Version1,1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostLumetriSuite.h,32,kADOBESDK_ControlSurfaceHostLumetriSuite_VersionCurrent,kADOBESDK_ControlSurfaceHostLumetriSuite_Version1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostLumetriSuite.h,33,kADOBESDK_ControlSurfaceHostLumetriSuiteCurrent,ADOBESDK_ControlSurfaceHostLumetriSuite1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostMarkerSuite.h,29,kADOBESDK_ControlSurfaceHostMarkerSuite,"""ADOBESDK ControlSurfaceHost Marker Suite"""
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostMarkerSuite.h,30,kADOBESDK_ControlSurfaceHostMarkerSuite_Version1,1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostMarkerSuite.h,32,kADOBESDK_ControlSurfaceHostMarkerSuite_VersionCurrent,kADOBESDK_ControlSurfaceHostMarkerSuite_Version1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostMarkerSuite.h,33,kADOBESDK_ControlSurfaceHostMarkerSuiteCurrent,ADOBESDK_ControlSurfaceHostMarkerSuite1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostMixerSuite.h,29,kADOBESDK_ControlSurfaceHostMixerSuite,"""ADOBESDK ControlSurfaceHost Mixer Suite"""
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostMixerSuite.h,30,kADOBESDK_ControlSurfaceHostMixerSuite_Version1,1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostMixerSuite.h,32,kADOBESDK_ControlSurfaceHostMixerSuite_VersionCurrent,kADOBESDK_ControlSurfaceHostMixerSuite_Version1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostMixerSuite.h,33,kADOBESDK_ControlSurfaceHostMixerSuiteCurrent,ADOBESDK_ControlSurfaceHostMixerSuite1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostSuite.h,29,kADOBESDK_ControlSurfaceHostSuite,"""ADOBESDK ControlSurfaceHost Suite"""
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostSuite.h,30,kADOBESDK_ControlSurfaceHostSuite_Version1,1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostSuite.h,31,kADOBESDK_ControlSurfaceHostSuite_Version2,2
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostSuite.h,33,kADOBESDK_ControlSurfaceHostSuite_VersionCurrent,kADOBESDK_ControlSurfaceHostSuite_Version2
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostSuite.h,34,kADOBESDK_ControlSurfaceHostSuiteCurrent,ADOBESDK_ControlSurfaceHostSuite2
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostTransportSuite.h,29,kADOBESDK_ControlSurfaceHostTransportSuite,"""ADOBESDK ControlSurfaceHost Transport Suite"""
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostTransportSuite.h,30,kADOBESDK_ControlSurfaceHostTransportSuite_Version1,1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostTransportSuite.h,32,kADOBESDK_ControlSurfaceHostTransportSuite_VersionCurrent,kADOBESDK_ControlSurfaceHostTransportSuite_Version1
+Headers\adobesdk\controlsurface\host\ControlSurfaceHostTransportSuite.h,33,kADOBESDK_ControlSurfaceHostTransportSuiteCurrent,ADOBESDK_ControlSurfaceHostTransportSuite1
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceCommandSuite.h,28,kADOBESDK_ControlSurfaceCommandSuite,"""ADOBESDK ControlSurface Command Suite"""
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceCommandSuite.h,29,kADOBESDK_ControlSurfaceCommandSuite_Version1,1
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceCommandSuite.h,31,kADOBESDK_ControlSurfaceCommandSuite_VersionCurrent,kADOBESDK_ControlSurfaceCommandSuite_Version1
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceCommandSuite.h,32,kADOBESDK_ControlSurfaceCommandSuiteCurrent,ADOBESDK_ControlSurfaceCommandSuite1
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceLumetriSuite.h,29,kADOBESDK_ControlSurfaceLumetriSuite,"""ADOBESDK ControlSurface Lumetri Suite"""
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceLumetriSuite.h,30,kADOBESDK_ControlSurfaceLumetriSuite_Version1,1
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceLumetriSuite.h,32,kADOBESDK_ControlSurfaceLumetriSuite_VersionCurrent,kADOBESDK_ControlSurfaceLumetriSuite_Version1
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceLumetriSuite.h,33,kADOBESDK_ControlSurfaceLumetriSuiteCurrent,ADOBESDK_ControlSurfaceLumetriSuite1
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceMarkerSuite.h,29,kADOBESDK_ControlSurfaceMarkerSuite,"""ADOBESDK ControlSurface Marker Suite"""
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceMarkerSuite.h,30,kADOBESDK_ControlSurfaceMarkerSuite_Version1,1
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceMarkerSuite.h,32,kADOBESDK_ControlSurfaceMarkerSuite_VersionCurrent,kADOBESDK_ControlSurfaceMarkerSuite_Version1
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceMarkerSuite.h,33,kADOBESDK_ControlSurfaceMarkerSuiteCurrent,ADOBESDK_ControlSurfaceMarkerSuite1
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceMixerSuite.h,29,kADOBESDK_ControlSurfaceMixerSuite,"""ADOBESDK ControlSurface Mixer Suite"""
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceMixerSuite.h,30,kADOBESDK_ControlSurfaceMixerSuite_Version1,1
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceMixerSuite.h,31,kADOBESDK_ControlSurfaceMixerSuite_Version2,2
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceMixerSuite.h,33,kADOBESDK_ControlSurfaceMixerSuite_VersionCurrent,kADOBESDK_ControlSurfaceMixerSuite_Version2
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceMixerSuite.h,34,kADOBESDK_ControlSurfaceMixerSuiteCurrent,ADOBESDK_ControlSurfaceMixerSuite2
+Headers\adobesdk\controlsurface\plugin\ControlSurfacePluginSuite.h,33,kADOBESDK_ControlSurfacePluginSuite,"""ADOBESDK ControlSurfacePlugin Suite"""
+Headers\adobesdk\controlsurface\plugin\ControlSurfacePluginSuite.h,34,kADOBESDK_ControlSurfacePluginSuite_Version1,1
+Headers\adobesdk\controlsurface\plugin\ControlSurfacePluginSuite.h,36,kADOBESDK_ControlSurfacePluginSuite_VersionCurrent,kADOBESDK_ControlSurfacePluginSuite_Version1
+Headers\adobesdk\controlsurface\plugin\ControlSurfacePluginSuite.h,37,kADOBESDK_ControlSurfacePluginSuiteCurrent,ADOBESDK_ControlSurfacePluginSuite1
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceSuite.h,29,kADOBESDK_ControlSurfaceSuite,"""ADOBESDK ControlSurface Suite"""
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceSuite.h,30,kADOBESDK_ControlSurfaceSuite_Version1,1
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceSuite.h,31,kADOBESDK_ControlSurfaceSuite_Version2,2
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceSuite.h,33,kADOBESDK_ControlSurfaceSuite_VersionCurrent,kADOBESDK_ControlSurfaceSuite_Version2
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceSuite.h,34,kADOBESDK_ControlSurfaceSuiteCurrent,ADOBESDK_ControlSurfaceSuite2
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceTransportSuite.h,29,kADOBESDK_ControlSurfaceTransportSuite,"""ADOBESDK ControlSurface Transport Suite"""
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceTransportSuite.h,30,kADOBESDK_ControlSurfaceTransportSuite_Version1,1
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceTransportSuite.h,32,kADOBESDK_ControlSurfaceTransportSuite_VersionCurrent,kADOBESDK_ControlSurfaceTransportSuite_Version1
+Headers\adobesdk\controlsurface\plugin\ControlSurfaceTransportSuite.h,33,kADOBESDK_ControlSurfaceTransportSuiteCurrent,ADOBESDK_ControlSurfaceTransportSuite1

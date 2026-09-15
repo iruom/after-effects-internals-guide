@@ -1,0 +1,725 @@
+kind,path,host,version,runtime,entry,evidence
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\CSXS\manifest.xml,AEFT,"[23.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\CSXS\manifest.xml,DRWV,"[21.2,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\CSXS\manifest.xml,FLPR,"[23.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\CSXS\manifest.xml,IDSN,"[18.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\CSXS\manifest.xml,ILST,"[27.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\CSXS\manifest.xml,KBRG,"[13.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\CSXS\manifest.xml,PHSP,"[24.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\CSXS\manifest.xml,PHXS,"[24.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\CSXS\manifest.xml,PPRO,"[23.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\CSXS\manifest.xml,STGR,"[4.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\extensions\capture\CSXS\manifest.xml,IDSN,"[14.0,99.9]",CSXS 9.0,com.adobe.capture.extension.test,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\extensions\capture\CSXS\manifest.xml,ILST,19,CSXS 9.0,com.adobe.capture.extension.test,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\extensions\capture\CSXS\manifest.xml,PHXS,19,CSXS 9.0,com.adobe.capture.extension.test,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\extensions\stock-panel-licensing\CSXS\manifest.xml,AEFT,"[16.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\extensions\stock-panel-licensing\CSXS\manifest.xml,FLPR,"[20.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\extensions\stock-panel-licensing\CSXS\manifest.xml,IDSN,"[14.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\extensions\stock-panel-licensing\CSXS\manifest.xml,ILST,"[23.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\extensions\stock-panel-licensing\CSXS\manifest.xml,PHSP,"[20.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\extensions\stock-panel-licensing\CSXS\manifest.xml,PHXS,"[20.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Libraries\extensions\stock-panel-licensing\CSXS\manifest.xml,PPRO,"[13.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\com.adobe.LABOR.LearningPanel\CSXS\manifest.xml,AEFT,"[22,99.9]",CSXS 11.0,com.adobe.LABOR.LearningPanel.AEFT;com.adobe.LABORLearningPanel.course,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\com.adobe.LABOR.LearningPanel\CSXS\manifest.xml,AEFT,,CSXS 11.0,com.adobe.LABOR.LearningPanel.AEFT;com.adobe.LABORLearningPanel.course,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\com.adobe.LABOR.LearningPanel\CSXS\manifest.xml,PPRO,"[22,99.9]",CSXS 11.0,com.adobe.LABOR.LearningPanel.AEFT;com.adobe.LABORLearningPanel.course,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\com.adobe.LABOR.LearningPanel\CSXS\manifest.xml,PPRO,,CSXS 11.0,com.adobe.LABOR.LearningPanel.AEFT;com.adobe.LABORLearningPanel.course,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\com.adobe.frameio\CSXS\manifest.xml,AEFT,15.0,CSXS 6.0,com.adobe.frameio,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\com.adobe.frameio\CSXS\manifest.xml,PPRO,13.0,CSXS 6.0,com.adobe.frameio,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\com.adobe.susi-dva.extension\CSXS\manifest.xml,AEFT,"[13.5,99.9]",CSXS 6.0,com.adobe.susi-dva.extension,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\com.adobe.susi-dva.extension\CSXS\manifest.xml,AME,"[9.0,99.9]",CSXS 6.0,com.adobe.susi-dva.extension,manifest
+cep-csxs-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\com.adobe.susi-dva.extension\CSXS\manifest.xml,PPRO,"[9.0,99.9]",CSXS 6.0,com.adobe.susi-dva.extension,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\CSXS\manifest.xml,AEFT,"[17.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\CSXS\manifest.xml,DRWV,"[20.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\CSXS\manifest.xml,FLPR,"[20.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\CSXS\manifest.xml,IDSN,"[15.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\CSXS\manifest.xml,ILST,"[24.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\CSXS\manifest.xml,KBRG,"[10.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\CSXS\manifest.xml,PHSP,"[21.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\CSXS\manifest.xml,PHXS,"[21.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\CSXS\manifest.xml,PPRO,"[14.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\CSXS\manifest.xml,STGR,"[1.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\extensions\capture\CSXS\manifest.xml,IDSN,"[14.0,99.9]",CSXS 9.0,com.adobe.capture.extension.test,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\extensions\capture\CSXS\manifest.xml,ILST,19,CSXS 9.0,com.adobe.capture.extension.test,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\extensions\capture\CSXS\manifest.xml,PHXS,19,CSXS 9.0,com.adobe.capture.extension.test,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\extensions\stock-panel-licensing\CSXS\manifest.xml,AEFT,"[16.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\extensions\stock-panel-licensing\CSXS\manifest.xml,FLPR,"[20.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\extensions\stock-panel-licensing\CSXS\manifest.xml,IDSN,"[14.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\extensions\stock-panel-licensing\CSXS\manifest.xml,ILST,"[23.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\extensions\stock-panel-licensing\CSXS\manifest.xml,PHSP,"[20.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\extensions\stock-panel-licensing\CSXS\manifest.xml,PHXS,"[20.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_13_164\extensions\stock-panel-licensing\CSXS\manifest.xml,PPRO,"[13.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\CSXS\manifest.xml,AEFT,"[18.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\CSXS\manifest.xml,DRWV,"[21.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\CSXS\manifest.xml,FLPR,"[21.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\CSXS\manifest.xml,IDSN,"[16.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\CSXS\manifest.xml,ILST,"[25.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\CSXS\manifest.xml,KBRG,"[11.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\CSXS\manifest.xml,PHSP,"[22.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\CSXS\manifest.xml,PHXS,"[22.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\CSXS\manifest.xml,PPRO,"[15.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\CSXS\manifest.xml,STGR,"[1.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\extensions\capture\CSXS\manifest.xml,IDSN,"[14.0,99.9]",CSXS 9.0,com.adobe.capture.extension.test,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\extensions\capture\CSXS\manifest.xml,ILST,19,CSXS 9.0,com.adobe.capture.extension.test,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\extensions\capture\CSXS\manifest.xml,PHXS,19,CSXS 9.0,com.adobe.capture.extension.test,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\extensions\stock-panel-licensing\CSXS\manifest.xml,AEFT,"[16.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\extensions\stock-panel-licensing\CSXS\manifest.xml,FLPR,"[20.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\extensions\stock-panel-licensing\CSXS\manifest.xml,IDSN,"[14.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\extensions\stock-panel-licensing\CSXS\manifest.xml,ILST,"[23.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\extensions\stock-panel-licensing\CSXS\manifest.xml,PHSP,"[20.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\extensions\stock-panel-licensing\CSXS\manifest.xml,PHXS,"[20.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_25_28\extensions\stock-panel-licensing\CSXS\manifest.xml,PPRO,"[13.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_8_299\CSXS\manifest.xml,AEFT,"[16.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.inapp.typekit.purchase;com.adobe.capture.extension,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_8_299\CSXS\manifest.xml,DRWV,"[19.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.inapp.typekit.purchase;com.adobe.capture.extension,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_8_299\CSXS\manifest.xml,ESHR,"[1.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.inapp.typekit.purchase;com.adobe.capture.extension,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_8_299\CSXS\manifest.xml,FLPR,"[19.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.inapp.typekit.purchase;com.adobe.capture.extension,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_8_299\CSXS\manifest.xml,IDSN,"[14.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.inapp.typekit.purchase;com.adobe.capture.extension,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_8_299\CSXS\manifest.xml,ILST,"[23.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.inapp.typekit.purchase;com.adobe.capture.extension,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_8_299\CSXS\manifest.xml,KBRG,"[9.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.inapp.typekit.purchase;com.adobe.capture.extension,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_8_299\CSXS\manifest.xml,PHSP,"[20.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.inapp.typekit.purchase;com.adobe.capture.extension,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_8_299\CSXS\manifest.xml,PHXS,"[20.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.inapp.typekit.purchase;com.adobe.capture.extension,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_8_299\CSXS\manifest.xml,PPRO,"[13.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.inapp.typekit.purchase;com.adobe.capture.extension,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_8_299\extensions\capture\CSXS\manifest.xml,IDSN,"[14.0,99.9]",CSXS 9.0,com.adobe.capture.extension.test,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_8_299\extensions\capture\CSXS\manifest.xml,ILST,19,CSXS 9.0,com.adobe.capture.extension.test,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_3_8_299\extensions\capture\CSXS\manifest.xml,PHXS,19,CSXS 9.0,com.adobe.capture.extension.test,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\CSXS\manifest.xml,AEFT,"[24.6,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\CSXS\manifest.xml,DRWV,"[21.2,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\CSXS\manifest.xml,FLPR,"[23.0.2,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\CSXS\manifest.xml,IDSN,"[18.3,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\CSXS\manifest.xml,ILST,"[29.2,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\CSXS\manifest.xml,KBRG,"[14.1.3,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\CSXS\manifest.xml,PHSP,"[25.12,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\CSXS\manifest.xml,PHXS,"[25.12,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\CSXS\manifest.xml,PPRO,"[24.6,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\CSXS\manifest.xml,STGR,"[4.0,99.9]",CSXS 5.0,com.adobe.DesignLibraries.angular;com.adobe.DesignLibraries.touch;com.adobe.capture.extension;com.adobe.stock.panel.licensing-embedded;com.adobe.cclibraries.manager,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\extensions\capture\CSXS\manifest.xml,IDSN,"[14.0,99.9]",CSXS 9.0,com.adobe.capture.extension.test,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\extensions\capture\CSXS\manifest.xml,ILST,19,CSXS 9.0,com.adobe.capture.extension.test,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\extensions\capture\CSXS\manifest.xml,PHXS,19,CSXS 9.0,com.adobe.capture.extension.test,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\extensions\stock-panel-licensing\CSXS\manifest.xml,AEFT,"[16.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\extensions\stock-panel-licensing\CSXS\manifest.xml,FLPR,"[20.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\extensions\stock-panel-licensing\CSXS\manifest.xml,IDSN,"[14.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\extensions\stock-panel-licensing\CSXS\manifest.xml,ILST,"[23.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\extensions\stock-panel-licensing\CSXS\manifest.xml,PHSP,"[20.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\extensions\stock-panel-licensing\CSXS\manifest.xml,PHXS,"[20.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\CC_LIBRARIES_PANEL_EXTENSION_4_14_50\extensions\stock-panel-licensing\CSXS\manifest.xml,PPRO,"[13.0,99.9]",CSXS 9.0,com.adobe.stock.panel.licensing-embedded,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\com.laforge.cep\CSXS\manifest.xml,AEFT,"[18.0,30.9]",CSXS 9.0,com.productionCrate.laforge.hidden_CEP;com.productionCrate.laforge.cep_GUI;com.laforge.modaldialog,manifest
+cep-csxs-manifest,C:\Program Files\Common Files\Adobe\CEP\extensions\com.laforge.cep\CSXS\manifest.xml,PPRO,"[15.0,30.9]",CSXS 9.0,com.productionCrate.laforge.hidden_CEP;com.productionCrate.laforge.cep_GUI;com.laforge.modaldialog,manifest
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFX.exe,KERNEL32.dll,,,58D SetUnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFX.exe,KERNEL32.dll,,,5CE UnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFX.exe,VCRUNTIME140.dll,,,1 _CxxThrowException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFX.exe,VCRUNTIME140.dll,,,1B __current_exception,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFX.exe,VCRUNTIME140.dll,,,1C __current_exception_context,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFX.exe,VCRUNTIME140.dll,,,21 __std_exception_copy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFX.exe,VCRUNTIME140.dll,,,22 __std_exception_destroy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,BEE.dll,,,1099 ?BEE_IsSubstancePin@@YA_NV?$shared_ptr@VPIN_SeqSpec@@@boost@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,BEE.dll,,,11E2 ?BEE_StreamName_ACCEPTS_LIGHTS@@3V?$TDB_DerivedMatchName@V?$TDB_CheckBoxStream@U?$TDB_CheckboxTraits@VTDB_DefaultTrue@@V?$BEE_StrLookup@$0BFG@@@$0A@$0A@$0A@@@@@@@B,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,BEE.dll,,,11E3 ?BEE_StreamName_ACCEPTS_SHADOWS@@3V?$TDB_DerivedMatchName@V?$TDB_CheckBoxStream@U?$TDB_CheckboxTraits@VTDB_DefaultTrue@@V?$BEE_StrLookup@$0BFF@@@$0A@$0A@$00@@@@@@B,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,BEE.dll,,,155A ?ConvertSourcePointToWorldOrScreen@BEE_BoundingBox@@QEAAXPEAV?$M_Vector3T@N@@_N1@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,BEE.dll,,,2C8B ?IdenticalExceptForTime@BEE_ItemRenderOptions@@QEBA_NAEBV1@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,BEE.dll,,,2C8C ?IdenticalExceptForTime@BEE_LayerRenderOptions@@QEBA_NAEBV1@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,BEE.dll,,,3317 ?SnapSourcePointToScreenBoundingBox@BEE_BoundingBox@@QEAA_NPEAV?$M_Vector3T@N@@V?$shared_ptr@V?$function@$$A6AXAEBV?$M_Vector2T@N@@PEAV1@@Z@std@@@std@@N_N22PEAHPEAN@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,BEE.dll,,,3500 ?kSubstancePresetsMatchname@@3VTDB_MatchName@@B,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,BEE.dll,,,3501 ?kSubstancePropertyMatchname@@3VTDB_MatchName@@B,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,BEE.dll,,,F18 ?BEE_GetAcceptsLightsStreamIDPath@@YA?AVTDB_StreamIDPath@@PEBVBEE_Layer@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,BEE.dll,,,F19 ?BEE_GetAcceptsShadowsStreamIDPath@@YA?AVTDB_StreamIDPath@@PEBVBEE_Layer@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,COR.dll,,,21 ?ACEProfileToDVAColorSpace@@YA?AUColorSpace@color@dvamediatypes@@V?$shared_ptr@VCOR_ACE_Profile@@@boost@@_N@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,COR.dll,,,28 ?COR_ACEProfilesMatch@@YA_NV?$shared_ptr@VCOR_ACE_Profile@@@boost@@0@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,COR.dll,,,3 ??0COR_ACE_Profile@@QEAA@PEAVACEProfile@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,COR.dll,,,3B ?COR_Conception@@YAH_N@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,COR.dll,,,5C ?DVAColorSpaceToACEProfile@@YA?AV?$shared_ptr@VCOR_ACE_Profile@@@boost@@AEBUColorSpace@color@dvamediatypes@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,COR.dll,,,6 ??0COR_ACE_Transform@@QEAA@PEAVACEProfile@@0@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,COR.dll,,,6A ?GetProfile@COR_ACE_Profile@@QEBAAEBQEAVACEProfile@@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,DisplaySurface.dll,,,A ?CreateOrUpdateMonitorColorSpaceByID@DS@@YAXPEAXAEAV?$shared_ptr@PEAVACEProfile@@@std@@AEAV?$shared_ptr@UColorSpace@color@dvamediatypes@@@3@PEA_N@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,KERNEL32.dll,,,472 RaiseException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,KERNEL32.dll,,,58D SetUnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,KERNEL32.dll,,,5CE UnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,MSK.dll,,,4 ?MSK_NewMasksFromWorld@@YAXPEBVPF_World@@PEBUMSK_AutoTraceParams@@AEAV?$vector@V?$shared_ptr@VOM_Shape@@@boost@@V?$allocator@V?$shared_ptr@VOM_Shape@@@boost@@@std@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,MSVCP140.dll,,,190 ?ReportUnhandledError@_ExceptionHolder@details@Concurrency@@AEAAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,MSVCP140.dll,,,262 ?_ReportUnobservedException@details@Concurrency@@YAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,MSVCP140.dll,,,293 ?__ExceptionPtrAssign@@YAXPEAXPEBX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,MSVCP140.dll,,,295 ?__ExceptionPtrCopy@@YAXPEAXPEBX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,MSVCP140.dll,,,296 ?__ExceptionPtrCopyException@@YAXPEAXPEBX1@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,MSVCP140.dll,,,297 ?__ExceptionPtrCreate@@YAXPEAX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,MSVCP140.dll,,,298 ?__ExceptionPtrCurrentException@@YAXPEAX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,MSVCP140.dll,,,299 ?__ExceptionPtrDestroy@@YAXPEAX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,MSVCP140.dll,,,29A ?__ExceptionPtrRethrow@@YAXPEBX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,MSVCP140.dll,,,29C ?__ExceptionPtrToBool@@YA_NPEBX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,MSVCP140.dll,,,35C ?exceptions@ios_base@std@@QEAAXH@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,MSVCP140.dll,,,51E ?uncaught_exception@std@@YA_NXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,PF.dll,,,129 PF_ClearAlphaExceptRect,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,PIN.dll,,,192 ?PIN_GetNewOutputColorSpaceProfile@@YAHPEAVPIN_OutSpec@@AEBV?$shared_ptr@$$CBVPF_ColorSettings@@@std@@_NPEAPEAVCOR_ACE_Profile@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,PIN.dll,,,1ED ?PIN_ReportSMExcept@@YAHAEBVSM_Exception@SM@BE@@PEAUFILE_Spec@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,U.dll,,,2CD ?TranslateAndThrowATLException@@YAXAEAVCAtlException@ATL@@PEBDH@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,U.dll,,,30E ?U_RegisterExceptionTranslatorImpl@@YAIV?$function@$$A6A_NPEAVexception@std@@PEAH@Z@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,U.dll,,,324 ?U_TranslateAndReportException@@YAHAEAVexception@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,U.dll,,,4C3 U_InvokeUnhandledExceptionOrHardwareErrorHandler,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,U.dll,,,4E8 U_SetGlobalUnhandledExceptionOrHardwareErrorHandler,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,VCRUNTIME140.dll,,,1 _CxxThrowException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,VCRUNTIME140.dll,,,1B __current_exception,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,VCRUNTIME140.dll,,,1C __current_exception_context,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,VCRUNTIME140.dll,,,21 __std_exception_copy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,VCRUNTIME140.dll,,,22 __std_exception_destroy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvaaudiodeviceui.dll,,,45 ?Create@AudioDevicePrefsView@dvaaudiodeviceui@@SA?AV?$IntrusivePtr@VAudioDevicePrefsView@dvaaudiodeviceui@@@RefCountedInterface@utility@dvacore@@PEBUSupplierInterface@drawbot@dvaui@@V?$function@$$A6AXXZ@std@@_N@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvacore.dll,,,1D9 ??0dva_exception@config@dvacore@@QEAA@AEBV012@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvacore.dll,,,1DC ??0dva_exception@config@dvacore@@QEAA@PEBDH@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvacore.dll,,,2AB ??1dva_exception@config@dvacore@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvacore.dll,,,62B ?DoThrowNullPtrException@config@dvacore@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvacore.dll,,,671 ?ExtractResultFromException@config@dvacore@@YAHAEBVexception_ptr@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvacore.dll,,,68B ?FormatErrorMessage@dva_exception@config@dvacore@@MEBA?AV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@QEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvacore.dll,,,690 ?FormatStringValue@dva_exception@config@dvacore@@MEBA?AVStringValue@utility@3@AEBV453@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvacore.dll,,,743 ?GetErrorMessage@dva_exception@config@dvacore@@QEBA?AV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvacore.dll,,,764 ?GetInstanceP0@ConsoleLogFile@console@dvacore@@SAPEAV123@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvacore.dll,,,8B3 ?InternalHiddenFilterWindowsSEHException@exceptions@utility@dvacore@@YAJI_NPEBDH1@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvacore.dll,,,E1A ?what@dva_exception@config@dvacore@@UEBAPEBDXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvacore.dll,,,F ??$LogException@Vexception_ptr@std@@@logging@dvacore@@YAXAEBVexception_ptr@std@@VStringValue@utility@1@PEAV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@3@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvamlprocessing.dll,,,17 ?GetModelEvaluatorRef@dvamlprocessing@@YA?AV?$Future@V?$InterfaceRef@UIModelEvaluator@dvamlprocessing@@@classref@dvacore@@@async@dvacore@@AEBVImmutableString@utility@4@W4EvaluatorType@1@VInferencePriorityMap@1@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvamlprocessing.dll,,,6 ??0InferencePriorityMap@dvamlprocessing@@QEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvaui.dll,,,2E5C ?ForcePointerEventsToDefaultProc@OS_NodeManager@ui@dvaui@@UEAAX_NH@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvaui.dll,,,5251 ?ShouldForcePointerEventsToDefaultProc@OS_NodeManager@ui@dvaui@@UEBA_NXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,0 Index of first forwarder reference,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,0 time date stamp,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,18188F6D0 Import Address Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,181ED33F8 Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,24 ?AsyncGetDunamisSessionIDAndOptOut@dvauxphost@@YAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,26 ?AttachHostView@dvauxphost@@YAPEAVUI_Node@ui@dvaui@@AEBVImmutableString@utility@dvacore@@AEBV?$shared_ptr@VUXPInstance@dvauxphost@@@std@@AEBQEAV234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,2E ?CreateHostView@dvauxphost@@YAPEAVUI_Node@ui@dvaui@@AEBVImmutableString@utility@dvacore@@0AEBV?$shared_ptr@VUXPInstance@dvauxphost@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,3C ?ExecuteOnMainThreadWhenReady@dvauxphost@@YA_NV?$function@$$A6AXXZ@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,3F ?GenerateUniqueCallId@utilities@dvauxphost@@YA?AVImmutableString@utility@dvacore@@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,6D ?LoadExtensionById@dvauxphost@@YA?AV?$shared_ptr@VUXPInstance@dvauxphost@@@std@@AEBVImmutableString@utility@dvacore@@0000$$QEAV?$function@$$A6AXAEBV?$shared_ptr@VUXPInstance@dvauxphost@@@std@@AEBHAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@2@@Z@3@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,81 ?SendEventToJS@dvauxphost@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,83 ?SetClientHostAPIObject@dvauxphost@@YAXAEBUClientHostAPIInfo@1@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,B4 ?kDefaultExtensionCommand@dvauxphost@@3VImmutableString@utility@dvacore@@B,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,B5 ?kDefaultExtensionType@dvauxphost@@3VImmutableString@utility@dvacore@@B,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxphost.dll,,,dvauxphost.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxpui.dll,,,,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxpui.dll,,,0 time date stamp,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxpui.dll,,,0000000000000000 Unload Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxpui.dll,,,00000001 Characteristics,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxpui.dll,,,0000000180E619D2    F5 ?GetViewUniqueID@helper@dvauxpui@@YA?AV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@PEAVUI_Node@ui@dvaui@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxpui.dll,,,0000000180E619E4    E8 ?GetHostView@helper@dvauxpui@@YA?AV?$IntrusivePtr@VUI_Node@ui@dvaui@@@RefCountedInterface@utility@dvacore@@AEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxpui.dll,,,0000000180E619F6    B1 ?CloseHostWindow@helper@dvauxpui@@YA_NPEAVUI_Node@ui@dvaui@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxpui.dll,,,0000000181E518A8 Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxpui.dll,,,0000000181E53388 Bound Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxpui.dll,,,000000018202BE98 Import Address Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxpui.dll,,,00000001820C1E08 Address of HMODULE,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvauxpui.dll,,,dvauxpui.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvavulcansupport.dll,,,,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvavulcansupport.dll,,,0 ??0IVulcanClient@dvavulcansupport@@QEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvavulcansupport.dll,,,0 Index of first forwarder reference,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvavulcansupport.dll,,,0 time date stamp,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvavulcansupport.dll,,,12 ?ReceiveANSNotification@IVulcanClient@dvavulcansupport@@UEAAXAEBVImmutableString@utility@dvacore@@0AEBV?$map@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@V?$shared_ptr@Vany@std@@@2@U?$less@X@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@V?$shared_ptr@Vany@std@@@2@@std@@@allocator@dvacore@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvavulcansupport.dll,,,13 ?ReceiveRawSubscribedMessage@IVulcanClient@dvavulcansupport@@UEAAXAEBVImmutableString@utility@dvacore@@AEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@7@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvavulcansupport.dll,,,14 ?ReceiveResponse@IVulcanClient@dvavulcansupport@@UEAAXAEBVImmutableString@utility@dvacore@@AEBVGuid@45@AEBV?$map@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@V?$shared_ptr@Vany@std@@@2@U?$less@X@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@V?$shared_ptr@Vany@std@@@2@@std@@@allocator@dvacore@@@std@@AEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@8@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvavulcansupport.dll,,,15 ?ReceiveSubscribedMessage@IVulcanClient@dvavulcansupport@@UEAAXAEBVImmutableString@utility@dvacore@@AEBV?$map@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@V?$shared_ptr@Vany@std@@@2@U?$less@X@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@V?$shared_ptr@Vany@std@@@2@@std@@@allocator@dvacore@@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@7@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvavulcansupport.dll,,,18188F728 Import Address Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvavulcansupport.dll,,,181ED3450 Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvavulcansupport.dll,,,19 ?SendVulcanMessage@dvavulcansupport@@YA_NAEBVImmutableString@utility@dvacore@@AEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@6@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvavulcansupport.dll,,,1E ?SubscribeToMessage@dvavulcansupport@@YAXAEBV?$weak_ptr@VIVulcanClient@dvavulcansupport@@@std@@AEBVImmutableString@utility@dvacore@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvavulcansupport.dll,,,20 ?UnsubscribeFromMessage@dvavulcansupport@@YAXAEBV?$weak_ptr@VIVulcanClient@dvavulcansupport@@@std@@AEBVImmutableString@utility@dvacore@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvavulcansupport.dll,,,5 ??1IVulcanClient@dvavulcansupport@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvavulcansupport.dll,,,dvavulcansupport.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvaworkspace.dll,,,2F ??0BuiltInWorkspaceProviderBase@workspace@dvaworkspace@@QEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvaworkspace.dll,,,4D ??0Manager@workspace@dvaworkspace@@QEAA@AEAVWorkspace@12@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@11PEAVBuiltInWorkspaceProviderBase@12@_N3@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvaworkspace.dll,,,4EB ?CanBeTaggedAsNew@BuiltInWorkspaceProviderBase@workspace@dvaworkspace@@UEBA_NAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvaworkspace.dll,,,66E ?GetCustomMenuIdFromWorkspace@BuiltInWorkspaceProviderBase@workspace@dvaworkspace@@UEBAIAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvaworkspace.dll,,,670 ?GetCustomSortedWorkspaces@WorkspaceProviderBase@workspace@dvaworkspace@@UEBAXAEAV?$vector@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@U?$STLAllocator@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@allocator@dvacore@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvaworkspace.dll,,,7BF ?GetWorkspaceStringKeys@BuiltInWorkspaceProviderBase@workspace@dvaworkspace@@UEBA?AV?$list@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@U?$STLAllocator@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@allocator@dvacore@@@std@@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvaworkspace.dll,,,A71 ?SupportsLocalizedWorkspaceNames@BuiltInWorkspaceProviderBase@workspace@dvaworkspace@@UEBA_NXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AfterFXLib.dll,dvaworkspace.dll,,,BA ??1BuiltInWorkspaceProviderBase@workspace@dvaworkspace@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,,,,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,AfterFXLib.dll,,,13F ??1EGG_ScAllowScriptingException@@QEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,AfterFXLib.dll,,,142A ?SetUXPGetCCXUserJSONDataFunction@WelcomeScreenManager@@SAXV?$function@$$A6A?AV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@XZ@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,AfterFXLib.dll,,,142B ?SetUXPTutorialLauncherFunction@WelcomeScreenManager@@SAXV?$function@$$A6AXPEBD@Z@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,AfterFXLib.dll,,,40A ?CEP_CopyFileIntoPlace@@YA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@0PEAV12@_N@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,AfterFXLib.dll,,,40F ?CEP_Set_Cmd_To_ID@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@J@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,AfterFXLib.dll,,,AC ??0EGG_ScAllowScriptingException@@QEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,KERNEL32.dll,,,472 RaiseException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,KERNEL32.dll,,,58D SetUnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,KERNEL32.dll,,,5CE UnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,MSVCP140.dll,,,35C ?exceptions@ios_base@std@@QEAAXH@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,MSVCP140.dll,,,51E ?uncaught_exception@std@@YA_NXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,0 Index of first forwarder reference,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,0 time date stamp,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,18 PlugPlugLoadExtension,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,18009C740 Import Address Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,1800C22D8 Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,19 PlugPlugLoadExtensionEx,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,1A PlugPlugMenuCall,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,1B PlugPlugNotifyStateChange,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,1C PlugPlugPurgeJobs,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,1D PlugPlugRemoveEventListener,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,21 PlugPlugSetNglProfileData,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,23 PlugPlugSetup,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,25 PlugPlugTerminate,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,26 PlugPlugUnloadExtension,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,4 PlugPlugAddEventListener,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,6 PlugPlugDispatchEvent,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,B PlugPlugGetJobs,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,PlugPlug.dll,,,PlugPlug.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,U.dll,,,324 ?U_TranslateAndReportException@@YAHAEAVexception@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VCRUNTIME140.dll,,,1 _CxxThrowException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VCRUNTIME140.dll,,,1B __current_exception,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VCRUNTIME140.dll,,,1C __current_exception_context,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VCRUNTIME140.dll,,,21 __std_exception_copy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VCRUNTIME140.dll,,,22 __std_exception_destroy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanControl.dll,,,,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanControl.dll,,,0 Index of first forwarder reference,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanControl.dll,,,0 time date stamp,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanControl.dll,,,18009C9D0 Import Address Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanControl.dll,,,1800C2568 Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanControl.dll,,,9 ?GetInstance@IVulcanController@api5@vulcan@adobe@@SA?AW4VulcanControlErrorCode@@PEAPEAV1234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanControl.dll,,,B ?ReleaseInstance@IVulcanController@api5@vulcan@adobe@@SAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanControl.dll,,,VulcanControl.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,0 Index of first forwarder reference,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,0 time date stamp,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,12 ??1IVulcanMessageListener@api5@vulcan@adobe@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,13 ??1SuiteMessage@api5@vulcan@adobe@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,18009C9E8 Import Address Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,1800C2580 Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,41 ?GetError@ErrorMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,42 ?GetErrorSize@ErrorMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,43 ?GetFault@ErrorMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,44 ?GetFaultSize@ErrorMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,47 ?GetInstance@IVulcanMessageDispatcher@api5@vulcan@adobe@@SA?AW4VulcanMessageErrorCode@@PEAPEAV1234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,48 ?GetPayload@SuiteMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,49 ?GetPayloadSize@SuiteMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,57 ?ReleaseInstance@IVulcanMessageDispatcher@api5@vulcan@adobe@@SAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,5C ?SetConfig@IVulcanMessageDispatcher@api5@vulcan@adobe@@SA?AW4VulcanMessageErrorCode@@PEBD0@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,63 ?SetPayload@SuiteMessage@api5@vulcan@adobe@@QEAAXPEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,66 ?SetSource@SuiteMessage@api5@vulcan@adobe@@QEAAXAEBVEndPoint@234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,9 ??0IVulcanMessageListener@api5@vulcan@adobe@@QEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,B ??0SuiteMessage@api5@vulcan@adobe@@QEAA@PEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,E ??1EndPoint@api5@vulcan@adobe@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,VulcanMessage5.dll,,,VulcanMessage5.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\Plug-ins\Extensions\CEPManager.aex,dvacore.dll,,,62B ?DoThrowNullPtrException@config@dvacore@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,,,,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,KERNEL32.dll,,,468 RaiseException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,KERNEL32.dll,,,57F SetUnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,KERNEL32.dll,,,5C0 UnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,MSVCP140.dll,,,35C ?exceptions@ios_base@std@@QEAAXH@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,MSVCP140.dll,,,51E ?uncaught_exception@std@@YA_NXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VCRUNTIME140.dll,,,1 _CxxThrowException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VCRUNTIME140.dll,,,1B __current_exception,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VCRUNTIME140.dll,,,1C __current_exception_context,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VCRUNTIME140.dll,,,21 __std_exception_copy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VCRUNTIME140.dll,,,22 __std_exception_destroy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanControl.dll,,,,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanControl.dll,,,0 Index of first forwarder reference,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanControl.dll,,,0 time date stamp,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanControl.dll,,,180349CE0 Import Address Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanControl.dll,,,18044EE50 Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanControl.dll,,,7 ?GetInstance@IVulcanController@api5@vulcan@adobe@@SA?AW4VulcanControlErrorCode@@PEAPEAV1234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanControl.dll,,,8 ?ReleaseInstance@IVulcanController@api5@vulcan@adobe@@SAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanControl.dll,,,VulcanControl.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,0 ??0EndPoint@api5@vulcan@adobe@@QEAA@AEBV0123@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,0 Index of first forwarder reference,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,0 time date stamp,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,12 ??1IVulcanMessageListener@api5@vulcan@adobe@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,13 ??1SuiteMessage@api5@vulcan@adobe@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,15 ??4EndPoint@api5@vulcan@adobe@@QEAAAEAV0123@AEBV0123@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,180349CF8 Import Address Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,18044EE68 Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,2E ?GetAppId@EndPoint@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,2F ?GetAppId@VulcanMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,30 ?GetAppIdSize@EndPoint@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,31 ?GetAppIdSize@VulcanMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,32 ?GetAppVersion@EndPoint@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,33 ?GetAppVersion@VulcanMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,34 ?GetAppVersionSize@EndPoint@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,35 ?GetAppVersionSize@VulcanMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,36 ?GetConfig@IVulcanMessageDispatcher@api5@vulcan@adobe@@SA?AW4VulcanMessageErrorCode@@PEAPEAD0@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,45 ?GetInstance@IVulcanMessageDispatcher@api5@vulcan@adobe@@SA?AW4VulcanMessageErrorCode@@PEAPEAV1234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,46 ?GetPayload@SuiteMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,47 ?GetPayloadSize@SuiteMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,4A ?GetScope@VulcanMessage@api5@vulcan@adobe@@QEBA?AW4MessageScope@234@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,4D ?GetType@VulcanMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,4E ?GetTypeSize@VulcanMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,53 ?IsSuiteMessage@SuiteMessage@api5@vulcan@adobe@@SA_NAEBVVulcanMessage@234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,54 ?ReleaseInstance@IVulcanMessageDispatcher@api5@vulcan@adobe@@SAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,59 ?SetConfig@IVulcanMessageDispatcher@api5@vulcan@adobe@@SA?AW4VulcanMessageErrorCode@@PEBD0@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,5E ?SetDestinations@SuiteMessage@api5@vulcan@adobe@@QEAAXPEBVEndPoint@234@_K@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,60 ?SetPayload@SuiteMessage@api5@vulcan@adobe@@QEAAXPEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,63 ?SetSource@SuiteMessage@api5@vulcan@adobe@@QEAAXAEBVEndPoint@234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,9 ??0IVulcanMessageListener@api5@vulcan@adobe@@QEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,B ??0SuiteMessage@api5@vulcan@adobe@@QEAA@PEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,E ??1EndPoint@api5@vulcan@adobe@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlug.dll,VulcanMessage5.dll,,,VulcanMessage5.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlugExternalObject.dll,,,,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlugExternalObject.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlugExternalObject.dll,KERNEL32.dll,,,57F SetUnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlugExternalObject.dll,KERNEL32.dll,,,5C0 UnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlugExternalObject.dll,VCRUNTIME140.dll,,,1 _CxxThrowException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlugExternalObject.dll,VCRUNTIME140.dll,,,21 __std_exception_copy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\PlugPlugExternalObject.dll,VCRUNTIME140.dll,,,22 __std_exception_destroy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\VulcanControl.dll,,,,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\VulcanControl.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\VulcanControl.dll,KERNEL32.dll,,,466 RaiseException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\VulcanControl.dll,api-ms-win-core-errorhandling-l1-1-0.dll,,,11 UnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\VulcanControl.dll,api-ms-win-core-errorhandling-l1-1-0.dll,,,F SetUnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\VulcanMessage5.dll,,,,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\VulcanMessage5.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\VulcanMessage5.dll,KERNEL32.dll,,,466 RaiseException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\VulcanMessage5.dll,KERNEL32.dll,,,57B SetUnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\VulcanMessage5.dll,KERNEL32.dll,,,5BC UnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,,,,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,KERNEL32.dll,,,58D SetUnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,KERNEL32.dll,,,5CE UnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,MSVCP140.dll,,,51E ?uncaught_exception@std@@YA_NXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,0 Index of first forwarder reference,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,0 time date stamp,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,18001B2E8 Import Address Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,180028DC0 Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,19 PlugPlugLoadExtensionEx,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,1A PlugPlugMenuCall,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,1B PlugPlugNotifyStateChange,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,1C PlugPlugPurgeJobs,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,1D PlugPlugRemoveEventListener,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,21 PlugPlugSetNglProfileData,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,23 PlugPlugSetup,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,25 PlugPlugTerminate,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,26 PlugPlugUnloadExtension,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,4 PlugPlugAddEventListener,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,6 PlugPlugDispatchEvent,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,8 PlugPlugExtensionCall,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,B PlugPlugGetJobs,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,PlugPlug.dll,,,PlugPlug.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,VCRUNTIME140.dll,,,1 _CxxThrowException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,VCRUNTIME140.dll,,,1B __current_exception,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,VCRUNTIME140.dll,,,1C __current_exception_context,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,VCRUNTIME140.dll,,,21 __std_exception_copy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,VCRUNTIME140.dll,,,22 __std_exception_destroy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\csxsmanager.dll,dvacore.dll,,,62B ?DoThrowNullPtrException@config@dvacore@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,,,,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,KERNEL32.dll,,,472 RaiseException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,KERNEL32.dll,,,58D SetUnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,KERNEL32.dll,,,5CE UnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,MSVCP140.dll,,,293 ?__ExceptionPtrAssign@@YAXPEAXPEBX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,MSVCP140.dll,,,295 ?__ExceptionPtrCopy@@YAXPEAXPEBX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,MSVCP140.dll,,,296 ?__ExceptionPtrCopyException@@YAXPEAXPEBX1@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,MSVCP140.dll,,,297 ?__ExceptionPtrCreate@@YAXPEAX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,MSVCP140.dll,,,298 ?__ExceptionPtrCurrentException@@YAXPEAX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,MSVCP140.dll,,,299 ?__ExceptionPtrDestroy@@YAXPEAX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,MSVCP140.dll,,,29A ?__ExceptionPtrRethrow@@YAXPEBX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,MSVCP140.dll,,,29C ?__ExceptionPtrToBool@@YA_NPEBX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,MSVCP140.dll,,,35C ?exceptions@ios_base@std@@QEAAXH@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,MSVCP140.dll,,,51E ?uncaught_exception@std@@YA_NXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VCRUNTIME140.dll,,,1 _CxxThrowException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VCRUNTIME140.dll,,,1B __current_exception,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VCRUNTIME140.dll,,,1C __current_exception_context,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VCRUNTIME140.dll,,,21 __std_exception_copy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VCRUNTIME140.dll,,,22 __std_exception_destroy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanControl.dll,,,,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanControl.dll,,,0 Index of first forwarder reference,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanControl.dll,,,0 time date stamp,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanControl.dll,,,180270B28 Import Address Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanControl.dll,,,1803264D8 Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanControl.dll,,,9 ?GetInstance@IVulcanController@api5@vulcan@adobe@@SA?AW4VulcanControlErrorCode@@PEAPEAV1234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanControl.dll,,,B ?ReleaseInstance@IVulcanController@api5@vulcan@adobe@@SAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanControl.dll,,,VulcanControl.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,0 ??0EndPoint@api5@vulcan@adobe@@QEAA@AEBV0123@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,0 Index of first forwarder reference,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,0 time date stamp,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,1 ??0EndPoint@api5@vulcan@adobe@@QEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,12 ??1IVulcanMessageListener@api5@vulcan@adobe@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,13 ??1SuiteMessage@api5@vulcan@adobe@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,15 ??4EndPoint@api5@vulcan@adobe@@QEAAAEAV0123@AEBV0123@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,180270B40 Import Address Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,1803264F0 Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,20 ??8EndPoint@api5@vulcan@adobe@@QEBA_NAEBV0123@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,21 ??9EndPoint@api5@vulcan@adobe@@QEBA_NAEBV0123@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,2B ?Clone@SuiteMessage@api5@vulcan@adobe@@UEBAPEAV1234@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,2C ?Create@EndPoint@api5@vulcan@adobe@@SA?AV1234@PEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,30 ?GetAppId@EndPoint@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,31 ?GetAppId@VulcanMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,32 ?GetAppIdSize@EndPoint@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,33 ?GetAppIdSize@VulcanMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,34 ?GetAppVersion@EndPoint@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,35 ?GetAppVersion@VulcanMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,36 ?GetAppVersionSize@EndPoint@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,37 ?GetAppVersionSize@VulcanMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,3B ?GetData@SuiteMessage@api5@vulcan@adobe@@UEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,3E ?GetDataSize@SuiteMessage@api5@vulcan@adobe@@UEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,3F ?GetDestinationCount@SuiteMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,40 ?GetDestinations@SuiteMessage@api5@vulcan@adobe@@QEBAXPEAVEndPoint@234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,41 ?GetError@ErrorMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,42 ?GetErrorSize@ErrorMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,43 ?GetFault@ErrorMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,44 ?GetFaultSize@ErrorMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,45 ?GetId@EndPoint@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,46 ?GetIdSize@EndPoint@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,47 ?GetInstance@IVulcanMessageDispatcher@api5@vulcan@adobe@@SA?AW4VulcanMessageErrorCode@@PEAPEAV1234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,48 ?GetPayload@SuiteMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,49 ?GetPayloadSize@SuiteMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,4C ?GetScope@VulcanMessage@api5@vulcan@adobe@@QEBA?AW4MessageScope@234@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,4D ?GetSource@SuiteMessage@api5@vulcan@adobe@@QEBA?AVEndPoint@234@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,4F ?GetType@VulcanMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,50 ?GetTypeSize@VulcanMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,51 ?GetXmlSize@EndPoint@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,52 ?GetXmlSize@VulcanMessage@api5@vulcan@adobe@@UEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,53 ?INVALID_ENDPOINT@EndPoint@api5@vulcan@adobe@@2V1234@B,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,55 ?IsSuiteMessage@SuiteMessage@api5@vulcan@adobe@@SA_NAEBVVulcanMessage@234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,57 ?ReleaseInstance@IVulcanMessageDispatcher@api5@vulcan@adobe@@SAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,58 ?SetAppId@EndPoint@api5@vulcan@adobe@@QEAAXPEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,5A ?SetAppVersion@EndPoint@api5@vulcan@adobe@@QEAAXPEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,5C ?SetConfig@IVulcanMessageDispatcher@api5@vulcan@adobe@@SA?AW4VulcanMessageErrorCode@@PEBD0@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,5F ?SetData@SuiteMessage@api5@vulcan@adobe@@UEAAXPEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,61 ?SetDestinations@SuiteMessage@api5@vulcan@adobe@@QEAAXPEBVEndPoint@234@_K@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,62 ?SetId@EndPoint@api5@vulcan@adobe@@QEAAXPEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,63 ?SetPayload@SuiteMessage@api5@vulcan@adobe@@QEAAXPEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,64 ?SetPayload@SuiteMessage@api5@vulcan@adobe@@QEAAXPEBD_K@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,66 ?SetSource@SuiteMessage@api5@vulcan@adobe@@QEAAXAEBVEndPoint@234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,6B ?ToXml@EndPoint@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,6C ?ToXml@VulcanMessage@api5@vulcan@adobe@@UEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,9 ??0IVulcanMessageListener@api5@vulcan@adobe@@QEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,B ??0SuiteMessage@api5@vulcan@adobe@@QEAA@PEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,E ??1EndPoint@api5@vulcan@adobe@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,VulcanMessage5.dll,,,VulcanMessage5.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dvacore.dll,,,1D1 ??0dir_exception@filesupport@dvacore@@QEAA@AEBV012@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dvacore.dll,,,1D9 ??0dva_exception@config@dvacore@@QEAA@AEBV012@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dvacore.dll,,,1DC ??0dva_exception@config@dvacore@@QEAA@PEBDH@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dvacore.dll,,,2A9 ??1dir_exception@filesupport@dvacore@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dvacore.dll,,,2AB ??1dva_exception@config@dvacore@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dvacore.dll,,,4B6 ?AddAdditionalData@dva_exception@config@dvacore@@QEAAX$$QEAVDictionary@utility@3@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dvacore.dll,,,62B ?DoThrowNullPtrException@config@dvacore@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dvacore.dll,,,666 ?ExecuteOnInitializationCompleted@config@dvacore@@YA_NPEBDAEBV?$function@$$A6AXXZ@std@@AEBV?$function@$$A6AXAEBVexception_ptr@std@@H@Z@4@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dvacore.dll,,,F ??$LogException@Vexception_ptr@std@@@logging@dvacore@@YAXAEBVexception_ptr@std@@VStringValue@utility@1@PEAV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@3@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dynamic-torqnative.dll,,,347 ?enableDevtools@UxpInitializer@torqnative@torq@@QEAA_N_NAEBV?$shared_ptr@VDevToolsClientDelegate@pm@torq@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dynamic-torqnative.dll,,,3FB ?initializeAnalytics@UxpInitializer@torqnative@torq@@QEAAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dynamic-torqnative.dll,,,416 ?initialized@UxpUpicClient@upic@torq@@SA_NXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dynamic-torqnative.dll,,,476 ?logException@Context@seal_napi@torq@@QEBAXAEBQEAUnapi_value__@@PEBVMessageSource@23@_NPEAU4@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dynamic-torqnative.dll,,,50E ?prepareCppException@Context@seal_napi@torq@@QEAAXVexception_ptr@std@@PEAPEAUnapi_value__@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dynamic-torqnative.dll,,,58B ?setAnalyticsDelegate@UxpInitializeParams@torqnative@torq@@QEAAXAEBV?$shared_ptr@VAnalyticsDelegate@analytics@torq@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,dynamic-torqnative.dll,,,698 ?uxpWorkflowsEnabled@UpicHost@upic@@QEBA_NXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxphost.dll,libdynamic-napi.dll,,,5E napi_get_and_clear_last_exception,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,,,,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,KERNEL32.dll,,,472 RaiseException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,KERNEL32.dll,,,58D SetUnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,KERNEL32.dll,,,5CE UnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,MSVCP140.dll,,,295 ?__ExceptionPtrCopy@@YAXPEAXPEBX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,MSVCP140.dll,,,297 ?__ExceptionPtrCreate@@YAXPEAX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,MSVCP140.dll,,,298 ?__ExceptionPtrCurrentException@@YAXPEAX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,MSVCP140.dll,,,299 ?__ExceptionPtrDestroy@@YAXPEAX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,MSVCP140.dll,,,35C ?exceptions@ios_base@std@@QEAAXH@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,MSVCP140.dll,,,51E ?uncaught_exception@std@@YA_NXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,VCRUNTIME140.dll,,,1 _CxxThrowException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,VCRUNTIME140.dll,,,1B __current_exception,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,VCRUNTIME140.dll,,,1C __current_exception_context,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,VCRUNTIME140.dll,,,21 __std_exception_copy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,VCRUNTIME140.dll,,,22 __std_exception_destroy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvacore.dll,,,62B ?DoThrowNullPtrException@config@dvacore@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvacore.dll,,,F ??$LogException@Vexception_ptr@std@@@logging@dvacore@@YAXAEBVexception_ptr@std@@VStringValue@utility@1@PEAV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@3@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvaui.dll,,,2A34 ?CreateCustomControlView@uxp@dvaui@@YAPEAVUI_ControlView@controls@2@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvaui.dll,,,4584 ?RegisterCustomControlViewCreator@uxp@dvaui@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$function@$$A6APEAVUI_ControlView@controls@dvaui@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z@4@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvaui.dll,,,5A4D ?kUXPType@datatransfer@dvaui@@3V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@B,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,0 Index of first forwarder reference,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,0 time date stamp,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,180159FE0 Import Address Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,1801E73E8 Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,19 ??1UXPDescriptor@dvauxphost@@QEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,1D ??4UXPDescriptor@dvauxphost@@QEAAAEAV01@AEBV01@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,26 ?AttachHostView@dvauxphost@@YAPEAVUI_Node@ui@dvaui@@AEBVImmutableString@utility@dvacore@@AEBV?$shared_ptr@VUXPInstance@dvauxphost@@@std@@AEBQEAV234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,27 ?AttachView@UXPInstance@dvauxphost@@QEAAXAEBVImmutableString@utility@dvacore@@PEAVUI_Node@ui@dvaui@@Vtorq_uxp_island_alpaca_ref@api@torq@@0@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,28 ?AttachViewData@UXPInstance@dvauxphost@@QEAAXAEBQEAVUI_Node@ui@dvaui@@AEBV?$tuple@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,33 ?DVAUTF8ToTorqString@utilities@dvauxphost@@YA?AVtorq_string@api@torq@@AEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,37 ?DetachView@UXPInstance@dvauxphost@@QEAA_NAEBVImmutableString@utility@dvacore@@PEAVUI_Node@ui@dvaui@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,3B ?ExecuteCommand@UXPInstance@dvauxphost@@QEAAXAEBVImmutableString@utility@dvacore@@PEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,3C ?ExecuteOnMainThreadWhenReady@dvauxphost@@YA_NV?$function@$$A6AXXZ@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,3D ?ExecuteOnScriptContextAvailable@UXPInstance@dvauxphost@@QEAAX$$QEAV?$function@$$A6AXH@Z@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,3F ?GenerateUniqueCallId@utilities@dvauxphost@@YA?AVImmutableString@utility@dvacore@@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,41 ?GetCallIdByHostView@UXPInstance@dvauxphost@@QEAA?AVImmutableString@utility@dvacore@@AEBQEAVUI_Node@ui@dvaui@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,43 ?GetDescriptor@UXPInstance@dvauxphost@@QEAA?AVUXPDescriptor@2@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,45 ?GetEntryPointByCallId@UXPInstance@dvauxphost@@QEBA?AUEntryPointData@12@AEBVImmutableString@utility@dvacore@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,46 ?GetExtension@UXPInstance@dvauxphost@@QEBA?AVtorq_plugin_ref@api@torq@@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,49 ?GetHostViewForIsland@UXPInstance@dvauxphost@@QEAAPEAVUI_Node@ui@dvaui@@AEBVtorq_uxp_island_alpaca_ref@api@torq@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,4A ?GetHostViewForPanelId@UXPInstance@dvauxphost@@QEAAPEAVUI_Node@ui@dvaui@@AEBVImmutableString@utility@dvacore@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,4B ?GetId@UXPDescriptor@dvauxphost@@QEBA?AVImmutableString@utility@dvacore@@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,4D ?GetIslandFromPanelIdOrView@UXPInstance@dvauxphost@@QEAA?AVtorq_uxp_island_alpaca_ref@api@torq@@AEBVImmutableString@utility@dvacore@@PEAVUI_Node@ui@dvaui@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,4F ?GetMainThreadTaskQueue@utilities@dvauxphost@@YAAEAVtorq_task_queue_ref@api@torq@@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,50 ?GetMenuItemInfoByPanelId@UXPInstance@dvauxphost@@QEAAAEAV?$vector@UUXPMenuItemInfo@dvauxphost@@U?$STLAllocator@UUXPMenuItemInfo@dvauxphost@@@allocator@dvacore@@@std@@AEBVImmutableString@utility@dvacore@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,52 ?GetName@UXPDescriptor@dvauxphost@@QEBA?AVImmutableString@utility@dvacore@@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,53 ?GetPanelInfoPositions@UXPDescriptor@dvauxphost@@QEBAAEBUUXPPositionsInfo@2@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,55 ?GetPluginTypes@UXPDescriptor@dvauxphost@@QEBA?BW4UXPPluginType@2@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,56 ?GetReferenceNodeId@UXPDescriptor@dvauxphost@@QEBAAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,5A ?GetScriptContextHandle@UXPInstance@dvauxphost@@QEBAHXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,5B ?GetUIEntryPoints@UXPDescriptor@dvauxphost@@QEBAAEBV?$vector@UUXPUIEntryPoint@dvauxphost@@U?$STLAllocator@UUXPUIEntryPoint@dvauxphost@@@allocator@dvacore@@@std@@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,5D ?GetUXPDescriptorById@dvauxphost@@YA?AVUXPDescriptor@1@AEBVImmutableString@utility@dvacore@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,5F ?GetUXPInstanceByPluginID@dvauxphost@@YA?AV?$shared_ptr@VUXPInstance@dvauxphost@@@std@@VImmutableString@utility@dvacore@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,60 ?GetUXPManifest@UXPDescriptor@dvauxphost@@QEBA?AV?$shared_ptr@VUXPManifest@dvauxphost@@@std@@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,66 ?IfUXPHostAlive@dvauxphost@@YAXV?$function@$$A6AXXZ@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,6B ?IsValid@UXPDescriptor@dvauxphost@@QEBA_NXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,6D ?LoadExtensionById@dvauxphost@@YA?AV?$shared_ptr@VUXPInstance@dvauxphost@@@std@@AEBVImmutableString@utility@dvacore@@0000$$QEAV?$function@$$A6AXAEBV?$shared_ptr@VUXPInstance@dvauxphost@@@std@@AEBHAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@2@@Z@3@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,6F ?OverrideInitialization@dvauxphost@@YA?AV?$function@$$A6AXXZ@std@@V23@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,75 ?RegisterHostViewCloser@dvauxphost@@YAXV?$function@$$A6AXPEAVUI_Node@ui@dvaui@@@Z@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,78 ?RegisterLoaderDelegateAttachmentCreator_1P@dvauxphost@@YAXV?$function@$$A6A?AV?$shared_ptr@VLoaderDelegateAttachment@dvauxphost@@@std@@AEBVUXPDescriptor@dvauxphost@@@Z@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,7C ?RegisterRemovePluginListeners@dvauxphost@@YAXV?$function@$$A6AXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@Z@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,7E ?RegisterViewAttacher@dvauxphost@@YAXV?$function@$$A6APEAVUI_Node@ui@dvaui@@AEBVImmutableString@utility@dvacore@@AEBV?$shared_ptr@VUXPInstance@dvauxphost@@@std@@AEBQEAV123@@Z@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,7F ?RegisterViewCreator@dvauxphost@@YAXPEBDAEBV?$function@$$A6APEAVUI_Node@ui@dvaui@@AEBVImmutableString@utility@dvacore@@AEBV?$shared_ptr@VUXPInstance@dvauxphost@@@std@@@Z@std@@W4RegisterViewCreatorModes@1@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,80 ?RegisterViewDestructor@UXPInstance@dvauxphost@@QEAAXAEBQEAVUI_Node@ui@dvaui@@V?$function@$$A6AXXZ@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,81 ?SendEventToJS@dvauxphost@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,89 ?SetMenuItemInfoByPanelId@UXPInstance@dvauxphost@@QEAAXAEBVImmutableString@utility@dvacore@@AEBV?$vector@UUXPMenuItemInfo@dvauxphost@@U?$STLAllocator@UUXPMenuItemInfo@dvauxphost@@@allocator@dvacore@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,8D ?SetUIThemeInfoAPIObject@dvauxphost@@YAXAEBUUIThemeInfo@1@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,90 ?TorqToDVAUTF8String@utilities@dvauxphost@@YA?AV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@AEBVtorq_string@api@torq@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,95 ?UpdateTheme@dvauxphost@@YAXH@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,98 ?allowDebugging@UXPPluginLoaderDelegate@dvauxphost@@QEAA_NAEBVtorq_plugin_runtime_ref@api@torq@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,99 ?assertMessage@AssertAdapter@adapters@dvauxphost@@SAXAEBVtorq_string@api@torq@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,9F ?didCreateJsContext@UXPPluginLoaderDelegate@dvauxphost@@QEAAXAEBVtorq_plugin_runtime_ref@api@torq@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,A0 ?didCreateJsRuntime@UXPPluginLoaderDelegate@dvauxphost@@QEAAXAEBVtorq_plugin_runtime_ref@api@torq@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,A1 ?didDestroyPluginRuntime@UXPPluginLoaderDelegate@dvauxphost@@QEAAXAEBVtorq_plugin_runtime_ref@api@torq@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,AB ?invokeCommandForPlugin@UXPPluginLoaderDelegate@dvauxphost@@QEAA?AVtorq_string@api@torq@@AEBVtorq_plugin_runtime_ref@45@AEBVtorq_plugin_ref@45@AEBV345@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,AF ?kCommandLineArgumentKey_Extension@dvauxphost@@3V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@B,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,B2 ?kCommandLineArgumentKey_PanelId@dvauxphost@@3V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@B,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,B3 ?kCommandLineArgumentKey_Type@dvauxphost@@3V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@B,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,B4 ?kDefaultExtensionCommand@dvauxphost@@3VImmutableString@utility@dvacore@@B,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,C2 ?lockWeakRef@?$ref_counted@VAssertAdapter@adapters@dvauxphost@@@api_impl@torq@@QEAAPEAVAssertAdapter@adapters@dvauxphost@@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,C3 ?lockWeakRef@?$ref_counted@VTaskQueueBase@queue@dvauxphost@@@api_impl@torq@@QEAAPEAVTaskQueueBase@queue@dvauxphost@@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,C4 ?lockWeakRef@?$ref_counted@VUXPPluginLoaderDelegate@dvauxphost@@@api_impl@torq@@QEAAPEAVUXPPluginLoaderDelegate@dvauxphost@@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,CB ?onUncaughtException@UXPPluginLoaderDelegate@dvauxphost@@QEAA_NAEBVtorq_plugin_runtime_ref@api@torq@@AEBVtorq_string@45@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,CC ?overrideRuntimeCreate@UXPPluginLoaderDelegate@dvauxphost@@QEAA_NAEBVtorq_plugin_runtime_ref@api@torq@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,CD ?release@?$ref_counted@VAssertAdapter@adapters@dvauxphost@@@api_impl@torq@@QEAAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,CE ?release@?$ref_counted@VTaskQueueBase@queue@dvauxphost@@@api_impl@torq@@QEAAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,CF ?release@?$ref_counted@VUXPPluginLoaderDelegate@dvauxphost@@@api_impl@torq@@QEAAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,D1 ?retain@?$ref_counted@VAssertAdapter@adapters@dvauxphost@@@api_impl@torq@@QEAAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,D2 ?retain@?$ref_counted@VTaskQueueBase@queue@dvauxphost@@@api_impl@torq@@QEAAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,D3 ?retain@?$ref_counted@VUXPPluginLoaderDelegate@dvauxphost@@@api_impl@torq@@QEAAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,D7 ?showErrorMessage@AssertAdapter@adapters@dvauxphost@@SAXAEBVtorq_string@api@torq@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,D8 ?showExceptionMessage@AssertAdapter@adapters@dvauxphost@@SAXAEBVtorq_string@api@torq@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,D9 ?showPanelForPlugin@UXPPluginLoaderDelegate@dvauxphost@@QEAA?AVtorq_string@api@torq@@AEBVtorq_plugin_runtime_ref@45@AEBVtorq_plugin_ref@45@AEBV345@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,DE ?weakRelease@?$ref_counted@VAssertAdapter@adapters@dvauxphost@@@api_impl@torq@@QEAAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,DF ?weakRelease@?$ref_counted@VTaskQueueBase@queue@dvauxphost@@@api_impl@torq@@QEAAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,E0 ?weakRelease@?$ref_counted@VUXPPluginLoaderDelegate@dvauxphost@@@api_impl@torq@@QEAAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,E2 ?weakRetain@?$ref_counted@VAssertAdapter@adapters@dvauxphost@@@api_impl@torq@@QEAAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,E3 ?weakRetain@?$ref_counted@VTaskQueueBase@queue@dvauxphost@@@api_impl@torq@@QEAAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,E4 ?weakRetain@?$ref_counted@VUXPPluginLoaderDelegate@dvauxphost@@@api_impl@torq@@QEAAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,E8 ?willDestroyJsContext@UXPPluginLoaderDelegate@dvauxphost@@QEAAXAEBVtorq_plugin_runtime_ref@api@torq@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,E9 ?willInitializePluginRuntime@UXPPluginLoaderDelegate@dvauxphost@@QEAAXAEBVtorq_plugin_runtime_ref@api@torq@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,F ??0UXPDescriptor@dvauxphost@@QEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvauxphost.dll,,,dvauxphost.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,dvaworkspace.dll,,,980 ?SetAcceptsTabs@TopLevelWindow@workspace@dvaworkspace@@QEAAX_N@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvauxpui.dll,libdynamic-napi.dll,,,5E napi_get_and_clear_last_exception,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,,,,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,KERNEL32.dll,,,58D SetUnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,KERNEL32.dll,,,5CE UnhandledExceptionFilter,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,MSVCP140.dll,,,293 ?__ExceptionPtrAssign@@YAXPEAXPEBX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,MSVCP140.dll,,,295 ?__ExceptionPtrCopy@@YAXPEAXPEBX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,MSVCP140.dll,,,296 ?__ExceptionPtrCopyException@@YAXPEAXPEBX1@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,MSVCP140.dll,,,297 ?__ExceptionPtrCreate@@YAXPEAX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,MSVCP140.dll,,,298 ?__ExceptionPtrCurrentException@@YAXPEAX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,MSVCP140.dll,,,299 ?__ExceptionPtrDestroy@@YAXPEAX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,MSVCP140.dll,,,29C ?__ExceptionPtrToBool@@YA_NPEBX@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,MSVCP140.dll,,,51E ?uncaught_exception@std@@YA_NXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VCRUNTIME140.dll,,,1 _CxxThrowException,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VCRUNTIME140.dll,,,1B __current_exception,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VCRUNTIME140.dll,,,1C __current_exception_context,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VCRUNTIME140.dll,,,21 __std_exception_copy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VCRUNTIME140.dll,,,22 __std_exception_destroy,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanControl.dll,,,,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanControl.dll,,,0 Index of first forwarder reference,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanControl.dll,,,0 time date stamp,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanControl.dll,,,18004C418 Import Address Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanControl.dll,,,18005E210 Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanControl.dll,,,9 ?GetInstance@IVulcanController@api5@vulcan@adobe@@SA?AW4VulcanControlErrorCode@@PEAPEAV1234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanControl.dll,,,B ?ReleaseInstance@IVulcanController@api5@vulcan@adobe@@SAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanControl.dll,,,VulcanControl.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,0 ??0EndPoint@api5@vulcan@adobe@@QEAA@AEBV0123@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,0 Index of first forwarder reference,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,0 time date stamp,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,12 ??1IVulcanMessageListener@api5@vulcan@adobe@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,13 ??1SuiteMessage@api5@vulcan@adobe@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,15 ??4EndPoint@api5@vulcan@adobe@@QEAAAEAV0123@AEBV0123@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,18004C430 Import Address Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,18005E228 Import Name Table,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,21 ??9EndPoint@api5@vulcan@adobe@@QEBA_NAEBV0123@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,30 ?GetAppId@EndPoint@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,31 ?GetAppId@VulcanMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,32 ?GetAppIdSize@EndPoint@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,33 ?GetAppIdSize@VulcanMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,41 ?GetError@ErrorMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,42 ?GetErrorSize@ErrorMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,43 ?GetFault@ErrorMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,44 ?GetFaultSize@ErrorMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,47 ?GetInstance@IVulcanMessageDispatcher@api5@vulcan@adobe@@SA?AW4VulcanMessageErrorCode@@PEAPEAV1234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,48 ?GetPayload@SuiteMessage@api5@vulcan@adobe@@QEBAXPEAD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,49 ?GetPayloadSize@SuiteMessage@api5@vulcan@adobe@@QEBA_KXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,53 ?INVALID_ENDPOINT@EndPoint@api5@vulcan@adobe@@2V1234@B,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,57 ?ReleaseInstance@IVulcanMessageDispatcher@api5@vulcan@adobe@@SAXXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,5C ?SetConfig@IVulcanMessageDispatcher@api5@vulcan@adobe@@SA?AW4VulcanMessageErrorCode@@PEBD0@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,60 ?SetDestination@SuiteMessage@api5@vulcan@adobe@@QEAAXAEBVEndPoint@234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,63 ?SetPayload@SuiteMessage@api5@vulcan@adobe@@QEAAXPEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,66 ?SetSource@SuiteMessage@api5@vulcan@adobe@@QEAAXAEBVEndPoint@234@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,9 ??0IVulcanMessageListener@api5@vulcan@adobe@@QEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,B ??0SuiteMessage@api5@vulcan@adobe@@QEAA@PEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,E ??1EndPoint@api5@vulcan@adobe@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,VulcanMessage5.dll,,,VulcanMessage5.dll,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,dvacore.dll,,,1D9 ??0dva_exception@config@dvacore@@QEAA@AEBV012@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,dvacore.dll,,,1DA ??0dva_exception@config@dvacore@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,dvacore.dll,,,1DC ??0dva_exception@config@dvacore@@QEAA@PEBDH@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,dvacore.dll,,,2AB ??1dva_exception@config@dvacore@@UEAA@XZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,dvacore.dll,,,35C ??4dva_exception@config@dvacore@@QEAAAEAV012@AEBV012@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,dvacore.dll,,,62B ?DoThrowNullPtrException@config@dvacore@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,dvacore.dll,,,68B ?FormatErrorMessage@dva_exception@config@dvacore@@MEBA?AV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@QEBD@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,dvacore.dll,,,690 ?FormatStringValue@dva_exception@config@dvacore@@MEBA?AVStringValue@utility@3@AEBV453@@Z,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,dvacore.dll,,,E1A ?what@dva_exception@config@dvacore@@UEBAPEBDXZ,dumpbin
+pe-import,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvavulcansupport.dll,dvacore.dll,,,F ??$LogException@Vexception_ptr@std@@@logging@dvacore@@YAXAEBVexception_ptr@std@@VStringValue@utility@1@PEAV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@3@@Z,dumpbin
+uxp-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\UXP\plugins\com.adobe.ccx.start\cc-photos-importer-uxp\manifest.json,PS,23.0.0,,lrimporter,manifest
+uxp-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\UXP\plugins\com.adobe.ccx.start\manifest.json,AI,28.2.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\UXP\plugins\com.adobe.ccx.start\manifest.json,AN,20.0.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\UXP\plugins\com.adobe.ccx.start\manifest.json,ID,19.3.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\UXP\plugins\com.adobe.ccx.start\manifest.json,PS,25.1.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\UXP\plugins\com.adobe.ccx.start\manifest.json,XD,57.2.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\UXP\plugins\com.adobe.ccx.start\manifest.json,aftereffects,22.5.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\UXP\plugins\com.adobe.ccx.start\manifest.json,indesign,19.3.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\UXP\plugins\com.adobe.ccx.start\manifest.json,premierepro,22.5.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\cc-photos-importer-uxp\manifest.json,PS,23.0.0,,lrimporter,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\express-template-picker\manifest.json,AI,29.5.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\express-template-picker\manifest.json,ID,20.5.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\express-template-picker\manifest.json,PS,26.10.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\express-template-picker\manifest.json,aftereffects,25.4.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\express-template-picker\manifest.json,premierepro,25.3.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\manifest.json,AI,29.2.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\manifest.json,ID,19.3.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\manifest.json,PS,25.1.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\manifest.json,XD,57.2.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\manifest.json,aftereffects,24.0.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\manifest.json,indesign,19.3.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\manifest.json,premierepro,26.0.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\uxp-plugin-account-menu-trigger\dist\manifest.json,AI,29.5.1,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\uxp-plugin-account-menu-trigger\dist\manifest.json,ID,20.3.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\uxp-plugin-account-menu-trigger\dist\manifest.json,PS,26.6.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\uxp-plugin-account-menu-trigger\dist\manifest.json,indesign,20.3.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.10.0\uxp-plugin-account-menu-trigger\dist\manifest.json,premierepro,25.2.3,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\cc-photos-importer-uxp\manifest.json,PS,23.0.0,,lrimporter,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\express-template-picker\manifest.json,AI,29.5.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\express-template-picker\manifest.json,ID,20.5.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\express-template-picker\manifest.json,PS,26.10.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\express-template-picker\manifest.json,aftereffects,25.4.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\express-template-picker\manifest.json,premierepro,25.3.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\manifest.json,AI,29.2.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\manifest.json,ID,19.3.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\manifest.json,PS,25.1.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\manifest.json,XD,57.2.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\manifest.json,aftereffects,24.0.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\manifest.json,indesign,19.3.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\manifest.json,premierepro,26.0.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\uxp-plugin-account-menu-trigger\dist\manifest.json,AI,29.5.1,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\uxp-plugin-account-menu-trigger\dist\manifest.json,ID,20.3.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\uxp-plugin-account-menu-trigger\dist\manifest.json,PS,26.6.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\uxp-plugin-account-menu-trigger\dist\manifest.json,indesign,20.3.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-10.14.0\uxp-plugin-account-menu-trigger\dist\manifest.json,premierepro,25.2.3,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-9.1.1\cc-photos-importer-uxp\manifest.json,PS,23.0.0,,lrimporter,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-9.1.1\manifest.json,AI,29.2.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-9.1.1\manifest.json,AN,20.0.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-9.1.1\manifest.json,ID,19.3.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-9.1.1\manifest.json,PS,25.1.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-9.1.1\manifest.json,XD,57.2.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-9.1.1\manifest.json,aftereffects,22.5.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-9.1.1\manifest.json,indesign,19.3.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-9.1.1\manifest.json,premierepro,25.3.0,5,homescreen;welcome;welcome-picker;import-picker;link-assets;saveas-picker;relink-assets;close-saveas-picker;close-import-picker;popover,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-9.1.1\uxp-plugin-account-menu-trigger\dist\manifest.json,AI,29.5.1,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-9.1.1\uxp-plugin-account-menu-trigger\dist\manifest.json,ID,20.3.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-9.1.1\uxp-plugin-account-menu-trigger\dist\manifest.json,PS,26.6.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-9.1.1\uxp-plugin-account-menu-trigger\dist\manifest.json,indesign,20.3.0,5,,manifest
+uxp-manifest,C:\Program Files\Common Files\Adobe\UXP\extensions\com.adobe.ccx.start-9.1.1\uxp-plugin-account-menu-trigger\dist\manifest.json,premierepro,25.2.3,5,,manifest

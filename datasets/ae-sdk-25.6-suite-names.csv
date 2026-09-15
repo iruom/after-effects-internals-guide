@@ -1,0 +1,49 @@
+suite_macro,suite_name,source,line
+kAEGPArtisanUtilSuite,AEGP Artisan Util Suite,AE_GeneralPlug.h,3871
+kAEGPCameraSuite,AEGP Camera Suite,AE_GeneralPlug.h,3911
+kAEGPCanvasSuite,AEGP Canvas Suite,AE_GeneralPlug.h,3511
+kAEGPCollectionSuite,AEGP Collection Suite,AE_GeneralPlug.h,4904
+kAEGPCommandSuite,AEGP Command Suite,AE_GeneralPlug.h,2866
+kAEGPCompSuite,AEGP Comp Suite,AE_GeneralPlug.h,649
+kAEGPCompositeSuite,AEGP Composite Suite,AE_GeneralPlug.h,4095
+kAEGPDynamicStreamSuite,AEGP Dynamic Stream Suite,AE_GeneralPlug.h,1637
+kAEGPEffectSuite,AEGP Effect Suite,AE_GeneralPlug.h,2123
+kAEGPFIMSuite,AEGP File Import Manager Suite,AE_GeneralPlug.h,4682
+kAEGPFootageSuite,AEGP Footage Suite,AE_GeneralPlug.h,2541
+kAEGPGuideSuite,AEGP Guide Suite,Guide-26.5-known-gap,
+kAEGPIOInSuite,AEGP IO In Suite,AE_GeneralPlug.h,4264
+kAEGPIOOutSuite,AEGP IO Out Suite,AE_GeneralPlug.h,4462
+kAEGPItemSuite,AEGP Item Suite,AE_GeneralPlug.h,433
+kAEGPItemViewSuite,AEGP Item View Suite,AE_GeneralPlug.h,551
+kAEGPIterateSuite,AEGP Iterate Suite,AE_GeneralPlug.h,4148
+kAEGPKeyframeSuite,AEGP Keyframe Suite,AE_GeneralPlug.h,1816
+kAEGPMaskSuite,AEGP Layer Mask Suite,AE_GeneralPlug.h,2268
+kAEGPLayerRenderOptionsSuite,AEGP Layer Render Options Suite,AE_GeneralPlug.h,5243
+kAEGPLayerSuite,AEGP Layer Suite,AE_GeneralPlug.h,1005
+kAEGPLightSuite,AEGP Light Suite,AE_GeneralPlug.h,3959
+kAEGPMarkerSuite,AEGP Marker Suite,AE_GeneralPlug.h,1970
+kAEGPMaskOutlineSuite,AEGP Mask Outline Suite,AE_GeneralPlug.h,2382
+kAEGPMathSuite,AEGP Math Suite,AE_GeneralPlug.h,3070
+kAEGPMemorySuite,AEGP Memory Suite,AE_GeneralPlug.h,868
+kAEGPOutputModuleSuite,AEGP Output Module Suite,AE_GeneralPlug.h,3388
+kAEGPPFInterfaceSuite,AEGP PF Interface Suite,AE_GeneralPlug.h,4199
+kAEGPPersistentDataSuite,AEGP Persistent Data Suite,AE_GeneralPlug.h,4748
+kAEGPProjSuite,AEGP Proj Suite,AE_GeneralPlug.h,285
+kAEGPQueryXformSuite,AEGP QueryXform Suite,AE_GeneralPlug.h,3987
+kAEGPRegisterSuite,AEGP Register Suite,AE_GeneralPlug.h,2742
+kAEGPRenderAsyncManagerSuite,AEGP Render Asyc Manager Suite,AE_GeneralPlug.h,5452
+kAEGPRenderOptionsSuite,AEGP Render Options Suite,AE_GeneralPlug.h,5128
+kAEGPRQItemSuite,AEGP Render Queue Item Suite,AE_GeneralPlug.h,3309
+kAEGPRenderQueueSuite,AEGP Render Queue Suite,AE_GeneralPlug.h,3199
+kAEGPRenderSuite,AEGP Render Suite,AE_GeneralPlug.h,5330
+kAEGPRenderQueueMonitorSuite,AEGP RenderQueue Monitor Suite,AE_GeneralPlug.h,5562
+kAEGPSoundDataSuite,AEGP Sound Data Suite,AE_GeneralPlug.h,567
+kAEGPStreamSuite,AEGP Stream Suite,AE_GeneralPlug.h,1456
+kAEGPTextDocumentSuite,AEGP Text Document Suite,AE_GeneralPlug.h,1951
+kAEGPTextLayerSuite,AEGP Text Layer Suite,AE_GeneralPlug.h,2078
+kAEGPTrackerSuite,AEGP Tracker Suite,AE_GeneralPlug.h,5480
+kAEGPTrackerUtilitySuite,AEGP Tracker Utility Suite,AE_GeneralPlug.h,5531
+kAEGPUtilitySuite,AEGP Utility Suite,AE_GeneralPlug.h,2922
+kAEGPWorldSuite,AEGP World Suite,AE_GeneralPlug.h,5037
+kAEGPColorSettingsSuite,PF Color Settings Suite,AE_GeneralPlug.h,3097
+kPFEffectSequenceDataSuite,PF Effect Sequence Data Suite,AE_GeneralPlug.h,5710

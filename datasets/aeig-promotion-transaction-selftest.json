@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "date": "2026-09-16",
+  "checks": {
+    "all_steps_passed": true,
+    "version_1_0": true,
+    "coverage_27_27": true,
+    "post_static_rc": true,
+    "post_release_audit": true,
+    "source_repository_unchanged": true
+  },
+  "steps": [
+    {
+      "script": "freeze_aeig_static_rc.py",
+      "exit": 0,
+      "tail": "prediction lock 7 rows D:\\Developer\\After Effects Internals Guide\\scratch\\promotion-transaction-selftest\\datasets\\aeig-prediction-lock.csv\nstatic RC artifacts 56 manifest D:\\Developer\\After Effects Internals Guide\\scratch\\promotion-transaction-selftest\\datasets\\aeig-static-rc-manifest.csv\n"
+    },
+    {
+      "script": "compute_static_rc_fingerprint.py",
+      "exit": 0,
+      "tail": "artifacts 56\nsha256 B974BE915838888D437B03FEE0F162B17EB72187464FD53D008961D3AEAE12D3\nwrote D:\\Developer\\After Effects Internals Guide\\scratch\\promotion-transaction-selftest\\datasets\\aeig-static-rc-fingerprint.txt\n"
+    },
+    {
+      "script": "verify_aeig_static_rc.py",
+      "exit": 0,
+      "tail": "AEIG static RC verification: PASS\nartifacts 56 predictions 7\nfingerprint B974BE915838888D437B03FEE0F162B17EB72187464FD53D008961D3AEAE12D3\n"
+    },
+    {
+      "script": "promote_aeig_1_0.py",
+      "exit": 0,
+      "tail": "c_rc.py] exit=0\nAEIG static RC verification: PASS\nartifacts 56 predictions 7\nfingerprint B974BE915838888D437B03FEE0F162B17EB72187464FD53D008961D3AEAE12D3\n[audit_repository_integrity.py] exit=0\ndocs-frontmatter PASS docs=217 missing=0\ndocs-seed-state PASS seed=0 statuses={'active': 155, 'researched-seed': 3, 'generated': 29, 'seed-map': 1, 'active-hypothesis': 3, 'release': 1, 'reference-generated': 2, 'index': 23}\npython-compile PASS files=109 failed=0\njson-parse PASS files=18 failed=0\ndataset-csv-structure PASS files=69 malformed=0 empty=0\ncanonical-user-run-package PASS package_files=7/7 | aex_sha256=9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98 | python_compile=24/24 | manifest_json=ok | jsx_syntax=ok | AEIG-L5 package audit: GREEN\ndocs-build-dependencies PASS requirements-docs.txt=present; mkdocs_local=no\ndocs-strict-build WARN isolated docs venv not prepared; requirements are declared but strict build was not executed\nwrote D:\\Developer\\After Effects Internals Guide\\scratch\\promotion-transaction-selftest\\datasets\\aeig-repository-integrity.csv\n[audit_release_readiness.py] exit=0\nrelease checks {'PASS': 12, 'INFO': 1, 'WARN': 1}\nPASS domain-targets 27/27 domains meet target; unmet=\nPASS finding-registry findings=127 duplicate_rows=0 missing_frontmatter=0\nPASS observatory-manifests valid=7 invalid=0\nINFO observatory-evidence observed_or_replicated=6 runnable=0\nPASS api-surface-completeness identifiers=5023 parser_gap=0 surface_unresolved=0\nPASS api-guide-relations reviewed=113 open=0\nPASS master-surface-registry rows=53728 classes=13 missing= blanks={'name': 0, 'support_class': 0, 'host_scope': 0, 'source': 0}\nPASS predictive-validation prospective=7 locked=7 confirmed=7 unresolved=0 refuted_unrevised=0\nPASS l5-user-run-package package_files=7/7 | aex_sha256=9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98 | python_compile=24/24 | manifest_json=ok | jsx_syntax=ok | AEIG-L5 package audit: GREEN\nPASS static-rc-freeze AEIG static RC verification: PASS | artifacts 56 predictions 7 | fingerprint B974BE915838888D437B03FEE0F162B17EB72187464FD53D008961D3AEAE12D3\nPASS seed-pages seed_pages=0\nPASS doc-todo-markers docs_with_todo_like_markers=0\nPASS markdown-local-links checked=0 broken=0\nWARN inline-artifact-references checked=149 unresolved=2\nwrote D:\\Developer\\After Effects Internals Guide\\scratch\\promotion-transaction-selftest\\datasets\\aeig-release-readiness.csv\nwrote D:\\Developer\\After Effects Internals Guide\\scratch\\promotion-transaction-selftest\\docs\\reference\\release-readiness.md\nAEIG 1.0 PROMOTION: PASS\ncoverage 27 / 27 {'L1': 0, 'L2': 7, 'L3': 11, 'L4': 3, 'L5': 6, 'L6': 0, 'L7': 0}\nprospective predictions confirmed 7 / 7\nrelease page D:\\Developer\\After Effects Internals Guide\\scratch\\promotion-transaction-selftest\\docs\\reference\\aeig-1.0-release.md\ncoverage backup D:\\Developer\\After Effects Internals Guide\\scratch\\promotion-transaction-selftest\\datasets\\history\\aeig-domain-coverage-pre-1.0-20260916-035740.csv\n"
+    }
+  ],
+  "version": "1.0",
+  "coverage": "27/27"
+}

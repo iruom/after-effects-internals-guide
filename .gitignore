@@ -1,0 +1,21 @@
+# Generated documentation/site output
+site/
+.cache/
+
+# Local scratch space: venvs, cloned references, generated test repositories
+scratch/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Optional private/local-only captures
+raw-evidence/private/
+datasets/local-private/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

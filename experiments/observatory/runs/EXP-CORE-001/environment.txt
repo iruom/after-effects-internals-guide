@@ -1,0 +1,7 @@
+﻿capture_note=environment reconstructed from the installed binary used by sample module paths; not a contemporaneous snapshot
+afterfx_path=D:\Adobe\Adobe After Effects 2026\Support Files\AfterFX.exe
+file_version=26.3
+product_version=26.3
+os=Microsoft Windows 10 Home 10.0.19045
+cpu=Intel(R) Core(TM) i9-10900 CPU @ 2.80GHz
+gpu=Parsec Virtual Display Adapter; NVIDIA GeForce RTX 2070 SUPER

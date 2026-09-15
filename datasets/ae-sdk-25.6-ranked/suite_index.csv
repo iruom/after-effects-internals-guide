@@ -1,0 +1,396 @@
+﻿path,line,macro,definition
+Headers\AE_AdvEffectSuites.h,48,kPFAdvAppSuite,"""PF AE Adv App Suite"""
+Headers\AE_AdvEffectSuites.h,49,kPFAdvAppSuiteVersion1,1	/* frozen in AE 5.0 */
+Headers\AE_AdvEffectSuites.h,94,kPFAdvAppSuiteVersion2,2/* to be frozen in  AE 6.0 */
+Headers\AE_AdvEffectSuites.h,167,kPFAdvTimeSuite,"""PF AE Adv Time Suite"""
+Headers\AE_AdvEffectSuites.h,168,kPFAdvTimeSuiteVersion4,4	//frozen for ae15.0
+Headers\AE_AdvEffectSuites.h,203,kPFAdvTimeSuite,"""PF AE Adv Time Suite"""
+Headers\AE_AdvEffectSuites.h,204,kPFAdvTimeSuiteVersion3,3	//frozen for ae14.2
+Headers\AE_AdvEffectSuites.h,234,kPFAdvTimeSuiteVersion2,2
+Headers\AE_AdvEffectSuites.h,278,kPFAdvTimeSuiteVersion1,1 /* frozen in AE 5.0 */
+Headers\AE_AdvEffectSuites.h,317,kPFAdvItemSuite,"""PF AE Adv Item Suite"""
+Headers\AE_AdvEffectSuites.h,318,kPFAdvItemSuiteVersion1,1	/* frozen in AE 5.0 */
+Headers\AE_CacheOnLoadSuite.h,29,kPFCacheOnLoadSuite,"""PF Cache On Load Suite"""
+Headers\AE_CacheOnLoadSuite.h,30,kPFCacheOnLoadSuiteVersion1,1
+Headers\AE_ChannelSuites.h,92,kPFChannelSuite1,"""PF AE Channel Suite"""
+Headers\AE_ChannelSuites.h,93,kPFChannelSuiteVersion1,1	/* frozen in AE 5.0 */
+Headers\AE_ComputeCacheSuite.h,82,kAEGPComputeCacheSuite,"""AEGP Compute Cache"""
+Headers\AE_ComputeCacheSuite.h,83,kAEGPComputeCacheSuiteVersion1,1	/* frozen in AE 18.2 */
+Headers\AE_EffectCBSuites.h,52,kPFHandleSuite,"""PF Handle Suite"""
+Headers\AE_EffectCBSuites.h,53,kPFHandleSuiteVersion1,2	/* frozen in AE 10.0 */
+Headers\AE_EffectCBSuites.h,81,kPFANSISuite,"""PF ANSI Suite"""
+Headers\AE_EffectCBSuites.h,82,kPFANSISuiteVersion1,1	/* frozen in AE 5.0 */
+Headers\AE_EffectCBSuites.h,109,kPFPixelDataSuite,"""PF Pixel Data Suite"""
+Headers\AE_EffectCBSuites.h,110,kPFPixelDataSuiteVersion1,1	/* frozen in AE 7.0 */
+Headers\AE_EffectCBSuites.h,133,kPFPixelDataSuiteVersion2,2	/* frozen in AE 16.0 */
+Headers\AE_EffectCBSuites.h,159,kPFColorCallbacksSuite,"""PF Color Suite"""
+Headers\AE_EffectCBSuites.h,160,kPFColorCallbacksSuiteVersion1,1	/* frozen in AE 5.0 */
+Headers\AE_EffectCBSuites.h,206,kPFColorCallbacks16Suite,"""PF Color16 Suite"""
+Headers\AE_EffectCBSuites.h,207,kPFColorCallbacks16SuiteVersion1,1	/* frozen in AE 5.0 */
+Headers\AE_EffectCBSuites.h,256,kPFColorCallbacksFloatSuite,"""PF ColorFloat Suite"""
+Headers\AE_EffectCBSuites.h,257,kPFColorCallbacksFloatSuiteVersion1,1	/* frozen in AE 7.0 */
+Headers\AE_EffectCBSuites.h,305,kPFBatchSamplingSuite,"""PF Batch Sampling Suite"""
+Headers\AE_EffectCBSuites.h,306,kPFBatchSamplingSuiteVersion1,1	/* frozen in AE 5.0 */
+Headers\AE_EffectCBSuites.h,339,kPFSampling8Suite,"""PF Sampling8 Suite"""
+Headers\AE_EffectCBSuites.h,340,kPFSampling8SuiteVersion1,1	/* frozen in AE 5.0 */
+Headers\AE_EffectCBSuites.h,368,kPFSampling16Suite,"""PF Sampling16 Suite"""
+Headers\AE_EffectCBSuites.h,369,kPFSampling16SuiteVersion1,1	/* frozen in AE 5.0 */
+Headers\AE_EffectCBSuites.h,398,kPFSamplingFloatSuite,"""PF SamplingFloat Suite"""
+Headers\AE_EffectCBSuites.h,399,kPFSamplingFloatSuiteVersion1,1	/* frozen in AE 7.0 */
+Headers\AE_EffectCBSuites.h,430,kPFWorldSuite,"""PF World Suite"""
+Headers\AE_EffectCBSuites.h,431,kPFWorldSuiteVersion2,2	/* frozen in AE 7.0 */
+Headers\AE_EffectCBSuites.h,460,kPFPixelFormatSuite,"""PF Pixel Format Suite"""
+Headers\AE_EffectCBSuites.h,461,kPFPixelFormatSuiteVersion2,2
+Headers\AE_EffectCBSuites.h,482,kPFWorldSuite,"""PF World Suite"""
+Headers\AE_EffectCBSuites.h,483,kPFWorldSuiteVersion1,1	/* frozen in AE 5.0 */
+Headers\AE_EffectCBSuites.h,504,kPFIterate8Suite,"""PF Iterate8 Suite"""
+Headers\AE_EffectCBSuites.h,505,kPFIterate8SuiteVersion1,1	/* frozen in AE 5.0 */
+Headers\AE_EffectCBSuites.h,564,kPFIterate8SuiteVersion2,2	/* frozen in AE 22.0 */
+Headers\AE_EffectCBSuites.h,623,kPFIterate16Suite,"""PF iterate16 Suite"""
+Headers\AE_EffectCBSuites.h,624,kPFIterate16SuiteVersion1,1	/* frozen in AE 5.0 */
+Headers\AE_EffectCBSuites.h,663,kPFIterate16SuiteVersion2,2	/* frozen in AE 22.0 */
+Headers\AE_EffectCBSuites.h,701,kPFIterateFloatSuite,"""PF iterateFloat Suite"""
+Headers\AE_EffectCBSuites.h,702,kPFIterateFloatSuiteVersion1,1	/* frozen in AE 7.0 */
+Headers\AE_EffectCBSuites.h,741,kPFIterateFloatSuiteVersion2,2	/* frozen in AE 22.0 */
+Headers\AE_EffectCBSuites.h,779,kPFWorldTransformSuite,"""PF World Transform Suite"""
+Headers\AE_EffectCBSuites.h,780,kPFWorldTransformSuiteVersion1,1	/* frozen in AE 5.0 */
+Headers\AE_EffectCBSuites.h,860,kPFFillMatteSuite,"""PF Fill Matte Suite"""
+Headers\AE_EffectCBSuites.h,863,kPFFillMatteSuiteVersion2,2	/* frozen in AE 7.0 */
+Headers\AE_EffectGPUSuites.h,50,kPFGPUDeviceSuite,"""PF GPU Device Suite"""
+Headers\AE_EffectGPUSuites.h,51,kPFGPUDeviceSuiteVersion1,1	/* frozen in AE 16.0 */
+Headers\AE_EffectSuites.h,49,kPFPathQuerySuite,"""PF Path Query Suite"""
+Headers\AE_EffectSuites.h,50,kPFPathQuerySuiteVersion1,1	/* frozen in AE 5.0 */
+Headers\AE_EffectSuites.h,84,kPFPathDataSuite,"""PF Path Data Suite"""
+Headers\AE_EffectSuites.h,85,kPFPathDataSuiteVersion1,1	/* frozen in AE 5.0 */
+Headers\AE_EffectSuites.h,176,kPFParamUtilsSuite,"""PF Param Utils Suite"""
+Headers\AE_EffectSuites.h,177,kPFParamUtilsSuiteVersion3,3	// Frozen in AE CS6 [aka AE11.0]
+Headers\AE_EffectSuites.h,312,kPFColorParamSuite,"""PF ColorParamSuite"""
+Headers\AE_EffectSuites.h,313,kPFColorParamSuiteVersion1,1		/* frozen in AE 7.0 */
+Headers\AE_EffectSuites.h,340,kPFPointParamSuite,"""PF PointParamSuite"""
+Headers\AE_EffectSuites.h,341,kPFPointParamSuiteVersion1,1	/* frozen in AE 10.5 */
+Headers\AE_EffectSuites.h,361,kPFAngleParamSuite,"""PF AngleParamSuite"""
+Headers\AE_EffectSuites.h,362,kPFAngleParamSuiteVersion1,1	/* frozen in AE 11.0.x */
+Headers\AE_EffectSuites.h,382,kPFAppSuite,"""PF AE App Suite"""
+Headers\AE_EffectSuites.h,383,kPFAppSuiteVersion6,1	/* frozen in AE 13.1 */
+Headers\AE_EffectSuites.h,633,kPFEffectUISuite,"""PF Effect UI Suite"""
+Headers\AE_EffectSuites.h,634,kPFEffectUISuiteVersion1,1 /* frozen in 5.5 */
+Headers\AE_EffectSuites.h,646,kPFEffectCustomUISuite,"""PF Effect Custom UI Suite"""
+Headers\AE_EffectSuites.h,647,kPFEffectCustomUISuiteVersion2,2 /* frozen in 13.5 */
+Headers\AE_EffectSuites.h,670,kPFEffectCustomUIOverlayThemeSuite,"""PF Effect Custom UI Overlay Theme Suite"""
+Headers\AE_EffectSuites.h,671,kPFEffectCustomUIOverlayThemeSuiteVersion1,1 /* frozen in 10.0 */
+Headers\AE_EffectSuitesHelper.h,62,kPFHelperSuite,"""AE Plugin Helper Suite"""
+Headers\AE_EffectSuitesHelper.h,63,kPFHelperSuiteVersion1,1
+Headers\AE_EffectSuitesHelper.h,64,kPFHelperSuiteVersion,kPFHelperSuiteVersion1
+Headers\AE_EffectSuitesHelper.h,150,kPFHelperSuite2,"""AE Plugin Helper Suite2"""
+Headers\AE_EffectSuitesHelper.h,151,kPFHelperSuite2Version1,1
+Headers\AE_EffectSuitesHelper.h,152,kPFHelperSuite2Version2,2
+Headers\AE_EffectSuitesHelper.h,153,kPFHelperSuite2Version,kPFHelperSuite2Version2
+Headers\AE_EffectSuitesOld.h,60,kPFParamUtilsSuiteVersion1,2	/* 64-bit version frozen in AE 10.0 */
+Headers\AE_EffectSuitesOld.h,146,kPFAppSuite,"""PF AE App Suite"""
+Headers\AE_EffectSuitesOld.h,147,kPFAppSuiteVersion4,6	/* frozen in AE 10.0 */
+Headers\AE_EffectSuitesOld.h,208,kPFAppSuiteVersion5,7	/* frozen in AE 12.0 */
+Headers\AE_EffectSuitesOld.h,270,kPFEffectCustomUISuite,"""PF Effect Custom UI Suite"""
+Headers\AE_EffectSuitesOld.h,271,kPFEffectCustomUISuiteVersion1,1 /* frozen in 10.0 */
+Headers\AE_GeneralPlug.h,285,kAEGPProjSuite,"""AEGP Proj Suite"""
+Headers\AE_GeneralPlug.h,286,kAEGPProjSuiteVersion6,9	/* frozen in AE 10.5 */
+Headers\AE_GeneralPlug.h,433,kAEGPItemSuite,"""AEGP Item Suite"""
+Headers\AE_GeneralPlug.h,434,kAEGPItemSuiteVersion9,14	/* frozen in AE 14.1 */
+Headers\AE_GeneralPlug.h,551,kAEGPItemViewSuite,"""AEGP Item View Suite"""
+Headers\AE_GeneralPlug.h,552,kAEGPItemViewSuiteVersion1,1 /* frozen in AE 13.6 */
+Headers\AE_GeneralPlug.h,567,kAEGPSoundDataSuite,"""AEGP Sound Data Suite"""
+Headers\AE_GeneralPlug.h,649,kAEGPCompSuite,"""AEGP Comp Suite"""
+Headers\AE_GeneralPlug.h,650,kAEGPCompSuiteVersion12,26 /* frozen in AE 24.0 */
+Headers\AE_GeneralPlug.h,868,kAEGPMemorySuite,"""AEGP Memory Suite"""
+Headers\AE_GeneralPlug.h,869,kAEGPMemorySuiteVersion1,1 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlug.h,1005,kAEGPLayerSuite,"""AEGP Layer Suite"""
+Headers\AE_GeneralPlug.h,1007,kAEGPLayerSuiteVersion9,15	/* frozen AE 23.0 */
+Headers\AE_GeneralPlug.h,1456,kAEGPStreamSuite,"""AEGP Stream Suite"""
+Headers\AE_GeneralPlug.h,1457,kAEGPStreamSuiteVersion6,11 /* frozen in AE 22.5 */
+Headers\AE_GeneralPlug.h,1637,kAEGPDynamicStreamSuite,"""AEGP Dynamic Stream Suite"""
+Headers\AE_GeneralPlug.h,1638,kAEGPDynamicStreamSuiteVersion4,5	/* frozen in AE 9.0 */
+Headers\AE_GeneralPlug.h,1816,kAEGPKeyframeSuite,"""AEGP Keyframe Suite"""
+Headers\AE_GeneralPlug.h,1817,kAEGPKeyframeSuiteVersion5,5 	/* frozen in 22.5 */
+Headers\AE_GeneralPlug.h,1951,kAEGPTextDocumentSuite,"""AEGP Text Document Suite"""
+Headers\AE_GeneralPlug.h,1952,kAEGPTextDocumentSuiteVersion1,1 /* frozen in AE 6.0 */
+Headers\AE_GeneralPlug.h,1970,kAEGPMarkerSuite,"""AEGP Marker Suite"""
+Headers\AE_GeneralPlug.h,1971,kAEGPMarkerSuiteVersion3,3 /* frozen in AE 16.0 */
+Headers\AE_GeneralPlug.h,2078,kAEGPTextLayerSuite,"""AEGP Text Layer Suite"""
+Headers\AE_GeneralPlug.h,2079,kAEGPTextLayerSuiteVersion1,1 /* frozen in AE 6.0 */
+Headers\AE_GeneralPlug.h,2123,kAEGPEffectSuite,"""AEGP Effect Suite"""
+Headers\AE_GeneralPlug.h,2124,kAEGPEffectSuiteVersion5,5 /* frozen in AE 24.1 */
+Headers\AE_GeneralPlug.h,2268,kAEGPMaskSuite,"""AEGP Layer Mask Suite"""
+Headers\AE_GeneralPlug.h,2269,kAEGPMaskSuiteVersion6,7 /* frozen AE 11 */
+Headers\AE_GeneralPlug.h,2382,kAEGPMaskOutlineSuite,"""AEGP Mask Outline Suite"""
+Headers\AE_GeneralPlug.h,2383,kAEGPMaskOutlineSuiteVersion3,5 /* frozen in AE 11 */
+Headers\AE_GeneralPlug.h,2541,kAEGPFootageSuite,"""AEGP Footage Suite"""
+Headers\AE_GeneralPlug.h,2543,kAEGPFootageSuiteVersion5,11 /* frozen in AE 10.0 */
+Headers\AE_GeneralPlug.h,2742,kAEGPRegisterSuite,"""AEGP Register Suite"""
+Headers\AE_GeneralPlug.h,2743,kAEGPRegisterSuiteVersion5,6 /* frozen AE 10.0 */
+Headers\AE_GeneralPlug.h,2866,kAEGPCommandSuite,"""AEGP Command Suite"""
+Headers\AE_GeneralPlug.h,2867,kAEGPCommandSuiteVersion1,1 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlug.h,2922,kAEGPUtilitySuite,"""AEGP Utility Suite"""
+Headers\AE_GeneralPlug.h,2923,kAEGPUtilitySuiteVersion6,13 /* frozen in AE 12.0 */
+Headers\AE_GeneralPlug.h,3070,kAEGPMathSuite,"""AEGP Math Suite"""
+Headers\AE_GeneralPlug.h,3071,kAEGPMathSuiteVersion1,1	/* frozen AE 15.0 */
+Headers\AE_GeneralPlug.h,3097,kAEGPColorSettingsSuite,"""PF Color Settings Suite"""
+Headers\AE_GeneralPlug.h,3098,kAEGPColorSettingsSuiteVersion6,"7	// frozen in AE 25.1; Add APIs to get color management settings (LUTInterpolationMethod , GraphicsWhite, ColorSpaceAware) and working color space for a project opened from PR ."
+Headers\AE_GeneralPlug.h,3199,kAEGPRenderQueueSuite,"""AEGP Render Queue Suite"""
+Headers\AE_GeneralPlug.h,3200,kAEGPRenderQueueSuiteVersion1,1 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlug.h,3309,kAEGPRQItemSuite,"""AEGP Render Queue Item Suite"""
+Headers\AE_GeneralPlug.h,3310,kAEGPRQItemSuiteVersion4,5	/* frozen in AE 14.1 */
+Headers\AE_GeneralPlug.h,3388,kAEGPOutputModuleSuite,"""AEGP Output Module Suite"""
+Headers\AE_GeneralPlug.h,3389,kAEGPOutputModuleSuiteVersion4,4 /* frozen in AE 10.0 */
+Headers\AE_GeneralPlug.h,3511,kAEGPCanvasSuite,"""AEGP Canvas Suite"""
+Headers\AE_GeneralPlug.h,3512,kAEGPCanvasSuiteVersion8,14	/* frozen in AE 12.0*/
+Headers\AE_GeneralPlug.h,3871,kAEGPArtisanUtilSuite,"""AEGP Artisan Util Suite"""
+Headers\AE_GeneralPlug.h,3872,kAEGPArtisanUtilSuiteVersion1,1 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlug.h,3911,kAEGPCameraSuite,"""AEGP Camera Suite"""
+Headers\AE_GeneralPlug.h,3912,kAEGPCameraSuiteVersion2,2 /* frozen in AE 5.5 */
+Headers\AE_GeneralPlug.h,3945,kAEGPLightSuiteVersion2,2 /* frozen in AE 5.5 */
+Headers\AE_GeneralPlug.h,3959,kAEGPLightSuite,"""AEGP Light Suite"""
+Headers\AE_GeneralPlug.h,3960,kAEGPLightSuiteVersion3,3 /* frozen in AE 24.4 */
+Headers\AE_GeneralPlug.h,3987,kAEGPQueryXformSuite,"""AEGP QueryXform Suite"""
+Headers\AE_GeneralPlug.h,3988,kAEGPQueryXformSuiteVersion2,4 /* frozen in AE 6.0 */
+Headers\AE_GeneralPlug.h,4095,kAEGPCompositeSuite,"""AEGP Composite Suite"""
+Headers\AE_GeneralPlug.h,4096,kAEGPCompositeSuiteVersion2,4 /* frozen in AE 10.0 */
+Headers\AE_GeneralPlug.h,4148,kAEGPIterateSuite,"""AEGP Iterate Suite"""
+Headers\AE_GeneralPlug.h,4149,kAEGPIterateSuiteVersion2,2 /* frozen in AE 22.0 */
+Headers\AE_GeneralPlug.h,4199,kAEGPPFInterfaceSuite,"""AEGP PF Interface Suite"""
+Headers\AE_GeneralPlug.h,4200,kAEGPPFInterfaceSuiteVersion1,1 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlug.h,4264,kAEGPIOInSuite,"""AEGP IO In Suite"""
+Headers\AE_GeneralPlug.h,4265,kAEGPIOInSuiteVersion7,8 /* frozen in AE 25.3 */
+Headers\AE_GeneralPlug.h,4462,kAEGPIOOutSuite,"""AEGP IO Out Suite"""
+Headers\AE_GeneralPlug.h,4463,kAEGPIOOutSuiteVersion6,9 /* frozen in AE 25.2 */
+Headers\AE_GeneralPlug.h,4682,kAEGPFIMSuite,"""AEGP File Import Manager Suite"""
+Headers\AE_GeneralPlug.h,4683,kAEGPFIMSuiteVersion4,4 /* frozen in AE 17.0 */
+Headers\AE_GeneralPlug.h,4748,kAEGPPersistentDataSuite,"""AEGP Persistent Data Suite"""
+Headers\AE_GeneralPlug.h,4749,kAEGPPersistentDataSuiteVersion4,4 /* frozen in AE 12.0 */
+Headers\AE_GeneralPlug.h,4904,kAEGPCollectionSuite,"""AEGP Collection Suite"""
+Headers\AE_GeneralPlug.h,4905,kAEGPCollectionSuiteVersion2,2 /* frozen in AE 6.5 */
+Headers\AE_GeneralPlug.h,5037,kAEGPWorldSuite,"""AEGP World Suite"""
+Headers\AE_GeneralPlug.h,5038,kAEGPWorldSuiteVersion3,3 /* frozen in AE 7.0 */
+Headers\AE_GeneralPlug.h,5128,kAEGPRenderOptionsSuite,"""AEGP Render Options Suite"""
+Headers\AE_GeneralPlug.h,5129,kAEGPRenderOptionsSuiteVersion4,4 /* frozen in AE 10.5 */
+Headers\AE_GeneralPlug.h,5243,kAEGPLayerRenderOptionsSuite,"""AEGP Layer Render Options Suite"""
+Headers\AE_GeneralPlug.h,5244,kAEGPLayerRenderOptionsSuiteVersion2,2 /* frozen in 13.5 */
+Headers\AE_GeneralPlug.h,5330,kAEGPRenderSuite,"""AEGP Render Suite"""
+Headers\AE_GeneralPlug.h,5331,kAEGPRenderSuiteVersion5,8 /* frozen in 13.5 */
+Headers\AE_GeneralPlug.h,5452,kAEGPRenderAsyncManagerSuite,"""AEGP Render Asyc Manager Suite"""
+Headers\AE_GeneralPlug.h,5453,kAEGPRenderAsyncManagerSuiteVersion1,1       /* frozen in 13.5 */
+Headers\AE_GeneralPlug.h,5480,kAEGPTrackerSuite,"""AEGP Tracker Suite"""
+Headers\AE_GeneralPlug.h,5481,kAEGPTrackerSuiteVersion1,1    /* frozen in AE 6.0 */
+Headers\AE_GeneralPlug.h,5531,kAEGPTrackerUtilitySuite,"""AEGP Tracker Utility Suite"""
+Headers\AE_GeneralPlug.h,5532,kAEGPTrackerUtilitySuiteVersion1,1 /* frozen in AE 6.0 */
+Headers\AE_GeneralPlug.h,5562,kAEGPRenderQueueMonitorSuite,"""AEGP RenderQueue Monitor Suite"""
+Headers\AE_GeneralPlug.h,5563,kAEGPRenderQueueMonitorSuiteVersion1,1 /* frozen AE 11.0 */
+Headers\AE_GeneralPlug.h,5710,kPFEffectSequenceDataSuite,"""PF Effect Sequence Data Suite"""
+Headers\AE_GeneralPlug.h,5711,kPFEffectSequenceDataSuiteVersion1,1 /* frozen in 18.2 */
+Headers\AE_GeneralPlugOld.h,57,kAEGPCanvasSuiteVersion1,4	/* frozen in AE 5.0 */
+Headers\AE_GeneralPlugOld.h,170,kAEGPRQItemSuiteVersion3,4	/* frozen in AE 7.0 */
+Headers\AE_GeneralPlugOld.h,247,kAEGPRQItemSuiteVersion2,3	/* frozen in AE 6.5 */
+Headers\AE_GeneralPlugOld.h,321,kAEGPRQItemSuiteVersion1,1	/* frozen in AE 6.0 */
+Headers\AE_GeneralPlugOld.h,385,kAEGPCanvasSuiteVersion2,6 /* frozen in AE 5.5 */
+Headers\AE_GeneralPlugOld.h,522,kAEGPCanvasSuiteVersion4,9	/* frozen AE 6.0 */
+Headers\AE_GeneralPlugOld.h,771,kAEGPCanvasSuiteVersion5,10	/* frozen in AE 6.5 */
+Headers\AE_GeneralPlugOld.h,1024,kAEGPCanvasSuiteVersion6,11	/* frozen in AE 7.0 */
+Headers\AE_GeneralPlugOld.h,1296,kAEGPCanvasSuiteVersion7,"13	/* frozen in AE 8.0, source code-compatible additions in 64-bit AE 10.0*/"
+Headers\AE_GeneralPlugOld.h,1591,kAEGPMaskOutlineSuite,"""AEGP Mask Outline Suite"""
+Headers\AE_GeneralPlugOld.h,1592,kAEGPMaskOutlineSuiteVersion2,3 /* frozen in AE 5.5 */
+Headers\AE_GeneralPlugOld.h,1632,kAEGPMaskOutlineSuiteVersion1,2 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlugOld.h,1669,kAEGPCompSuite,"""AEGP Comp Suite"""
+Headers\AE_GeneralPlugOld.h,1670,kAEGPCompSuiteVersion11,25 /* frozen in AE 23.5 */
+Headers\AE_GeneralPlugOld.h,1883,kAEGPCompSuiteVersion10,21 /* frozen in AE 12 */
+Headers\AE_GeneralPlugOld.h,2092,kAEGPCompSuiteVersion9,19 /* frozen in AE 11 */
+Headers\AE_GeneralPlugOld.h,2274,kAEGPCompSuiteVersion8,18 /* frozen in AE 10.5 */
+Headers\AE_GeneralPlugOld.h,2455,kAEGPCompSuiteVersion7,15 /* frozen in AE 9.0 */
+Headers\AE_GeneralPlugOld.h,2621,kAEGPCompSuiteVersion6,14 /* frozen in AE 8.0 */
+Headers\AE_GeneralPlugOld.h,2787,kAEGPCompSuiteVersion5,11 /* frozen AE 7.0 */
+Headers\AE_GeneralPlugOld.h,2934,kAEGPCompSuiteVersion4,9 /* frozen AE 6.5 */
+Headers\AE_GeneralPlugOld.h,3075,kAEGPCompSuiteVersion3,7 /* frozen AE 6.0 */
+Headers\AE_GeneralPlugOld.h,3204,kAEGPCompSuiteVersion2,6 /* frozen in AE 5.5 */
+Headers\AE_GeneralPlugOld.h,3318,kAEGPCompSuiteVersion1,4 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlugOld.h,3408,kAEGPLayerSuite,"""AEGP Layer Suite"""
+Headers\AE_GeneralPlugOld.h,3410,kAEGPLayerSuiteVersion8,14	/* frozen AE 12.0 x300 */
+Headers\AE_GeneralPlugOld.h,3642,kAEGPLayerSuiteVersion7,13	/* frozen AE 10.0 build 396 */
+Headers\AE_GeneralPlugOld.h,3862,kAEGPLayerSuiteVersion6,12	/* frozen AE 9.0 */
+Headers\AE_GeneralPlugOld.h,4074,kAEGPLayerSuiteVersion5,11	/* frozen AE 7.0 */
+Headers\AE_GeneralPlugOld.h,4286,kAEGPLayerSuiteVersion4,10	/* frozen AE 6.5 */
+Headers\AE_GeneralPlugOld.h,4491,kAEGPLayerSuiteVersion3,8	/* frozen AE 6.0 */
+Headers\AE_GeneralPlugOld.h,4731,kAEGPStreamSuite,"""AEGP Stream Suite"""
+Headers\AE_GeneralPlugOld.h,4733,kAEGPStreamSuiteVersion5,10 /* frozen in AE 15 */
+Headers\AE_GeneralPlugOld.h,4857,kAEGPStreamSuiteVersion4,9 /* frozen in AE 9 */
+Headers\AE_GeneralPlugOld.h,4983,kAEGPStreamSuiteVersion3,8 /* frozen in AE 8 */
+Headers\AE_GeneralPlugOld.h,5107,kAEGPStreamSuiteVersion2,7 /* frozen in AE 6.5 */
+Headers\AE_GeneralPlugOld.h,5229,kAEGPStreamSuite,"""AEGP Stream Suite"""
+Headers\AE_GeneralPlugOld.h,5230,kAEGPStreamSuiteVersion1,4 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlugOld.h,5347,kAEGPLayerSuiteVersion1,5		/* frozen in AE 5.0 */
+Headers\AE_GeneralPlugOld.h,5528,kAEGPLayerSuiteVersion2,7	/* frozen in AE 5.5 */
+Headers\AE_GeneralPlugOld.h,5726,kAEGPEffectSuite,"""AEGP Effect Suite"""
+Headers\AE_GeneralPlugOld.h,5727,kAEGPEffectSuiteVersion1,1 /* frozen in AE 5.5 */
+Headers\AE_GeneralPlugOld.h,5810,kAEGPEffectSuiteVersion2,2 /* frozen in AE 6.5 */
+Headers\AE_GeneralPlugOld.h,5894,kAEGPEffectSuiteVersion3,3 /* frozen in AE 7.0 */
+Headers\AE_GeneralPlugOld.h,5978,kAEGPEffectSuiteVersion4,4 /* frozen in AE 13.0 */
+Headers\AE_GeneralPlugOld.h,6088,kAEGPLightSuite,"""AEGP Light Suite"""
+Headers\AE_GeneralPlugOld.h,6089,kAEGPLightSuiteVersion1,1 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlugOld.h,6104,kAEGPMaskSuite,"""AEGP Layer Mask Suite"""
+Headers\AE_GeneralPlugOld.h,6105,kAEGPMaskSuiteVersion5,6 /* frozen AE 10 */
+Headers\AE_GeneralPlugOld.h,6190,kAEGPMaskSuiteVersion4,5 /* frozen AE 6.5 */
+Headers\AE_GeneralPlugOld.h,6280,kAEGPMaskSuiteVersion3,4 /* frozen AE 6.0 */
+Headers\AE_GeneralPlugOld.h,6366,kAEGPMaskSuiteVersion1,2 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlugOld.h,6408,kAEGPMaskSuiteVersion2,3 /* frozen in AE 5.5 */
+Headers\AE_GeneralPlugOld.h,6469,kAEGPCameraSuite,"""AEGP Camera Suite"""
+Headers\AE_GeneralPlugOld.h,6470,kAEGPCameraSuiteVersion1,1 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlugOld.h,6493,kAEGPItemSuite,"""AEGP Item Suite"""
+Headers\AE_GeneralPlugOld.h,6495,kAEGPItemSuiteVersion8,13	/* frozen in AE 9.0 */
+Headers\AE_GeneralPlugOld.h,6614,kAEGPItemSuiteVersion7,11	/* frozen in AE 8.0 */
+Headers\AE_GeneralPlugOld.h,6733,kAEGPItemSuiteVersion6,10	/* frozen in AE 7.0 */
+Headers\AE_GeneralPlugOld.h,6848,kAEGPItemSuiteVersion5,7	/* frozen in AE 6.5 */
+Headers\AE_GeneralPlugOld.h,6946,kAEGPItemSuiteVersion4,6	/* frozen in AE 6.0 */
+Headers\AE_GeneralPlugOld.h,7040,kAEGPItemSuite,"""AEGP Item Suite"""
+Headers\AE_GeneralPlugOld.h,7041,kAEGPItemSuiteVersion3,5	/* frozen in 5.5.1 */
+Headers\AE_GeneralPlugOld.h,7136,kAEGPKeyframeSuite,"""AEGP Keyframe Suite"""
+Headers\AE_GeneralPlugOld.h,7137,kAEGPKeyframeSuiteVersion4,4 	/* frozen in 8 */
+Headers\AE_GeneralPlugOld.h,7258,kAEGPKeyframeSuiteVersion3,3 	/* frozen in 6.5 */
+Headers\AE_GeneralPlugOld.h,7382,kAEGPKeyframeSuiteVersion2,2 	/* frozen in 5.5 */
+Headers\AE_GeneralPlugOld.h,7503,kAEGPKeyframeSuiteVersion1,1 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlugOld.h,7605,kAEGPItemSuiteVersion2,4
+Headers\AE_GeneralPlugOld.h,7708,kAEGPItemSuiteVersion1,3 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlugOld.h,7803,kAEGPUtilitySuiteVersion5,11 /* frozen in AE 8.0 */
+Headers\AE_GeneralPlugOld.h,7938,kAEGPUtilitySuiteVersion4,10 /* frozen in AE 7.0 */
+Headers\AE_GeneralPlugOld.h,8071,kAEGPUtilitySuiteVersion3,7 /* frozen in AE 6.5 */
+Headers\AE_GeneralPlugOld.h,8177,kAEGPUtilitySuiteVersion2,5 /* frozen in AE 6.0 */
+Headers\AE_GeneralPlugOld.h,8248,kAEGPUtilitySuiteVersion1,3 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlugOld.h,8290,kAEGPQueryXformSuiteVersion1,1 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlugOld.h,8337,kAEGPRenderSuiteVersion1,1 /* frozen in AE 5.5.1 */
+Headers\AE_GeneralPlugOld.h,8379,kAEGPRenderSuiteVersion2,2 /* frozen in 6.5 */
+Headers\AE_GeneralPlugOld.h,8454,kAEGPRenderSuiteVersion3,3 /* frozen in 11.0 */
+Headers\AE_GeneralPlugOld.h,8527,kAEGPRenderSuiteVersion4,5 /* frozen in 13.0 */
+Headers\AE_GeneralPlugOld.h,8608,kAEGPWorldSuiteVersion2,2 /* frozen in AE 6.5 */
+Headers\AE_GeneralPlugOld.h,8671,kAEGPWorldSuite,"""AEGP World Suite"""
+Headers\AE_GeneralPlugOld.h,8672,kAEGPWorldSuiteVersion1,1 /* frozen AE 6.0 */
+Headers\AE_GeneralPlugOld.h,8731,kAEGPCollectionSuiteVersion1,1 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlugOld.h,8761,kAEGPDynamicStreamSuiteVersion1,1	/* frozen in AE 6.0 */
+Headers\AE_GeneralPlugOld.h,8850,kAEGPDynamicStreamSuiteVersion2,2	/* frozen in AE 6.5 */
+Headers\AE_GeneralPlugOld.h,8941,kAEGPDynamicStreamSuiteVersion3,3	/* frozen in AE 7.0 */
+Headers\AE_GeneralPlugOld.h,9039,kAEGPRenderOptionsSuite,"""AEGP Render Options Suite"""
+Headers\AE_GeneralPlugOld.h,9040,kAEGPRenderOptionsSuiteVersion3,3 /* frozen in AE 7.01 */
+Headers\AE_GeneralPlugOld.h,9143,kAEGPRenderOptionsSuite,"""AEGP Render Options Suite"""
+Headers\AE_GeneralPlugOld.h,9144,kAEGPRenderOptionsSuiteVersion2,2 /* frozen in AE 7.0 */
+Headers\AE_GeneralPlugOld.h,9238,kAEGPRenderOptionsSuite,"""AEGP Render Options Suite"""
+Headers\AE_GeneralPlugOld.h,9239,kAEGPRenderOptionsSuiteVersion1,1 /* frozen in AE 5.5.1 */
+Headers\AE_GeneralPlugOld.h,9328,kAEGPLayerRenderOptionsSuite,"""AEGP Layer Render Options Suite"""
+Headers\AE_GeneralPlugOld.h,9329,kAEGPLayerRenderOptionsSuiteVersion1,1 /* frozen in 13.0 */
+Headers\AE_GeneralPlugOld.h,9409,kAEGPColorSettingsSuiteVersion1,1	// frozen in AE 7.0
+Headers\AE_GeneralPlugOld.h,9419,kAEGPColorSettingsSuiteVersion2,3	// frozen in AE 8.0
+Headers\AE_GeneralPlugOld.h,9471,kAEGPColorSettingsSuiteVersion3,4	// frozen in AE 16.1; adding an API to set working color space
+Headers\AE_GeneralPlugOld.h,9526,kAEGPColorSettingsSuiteVersion4,5	// frozen in AE 22.6; get OCIO Color information
+Headers\AE_GeneralPlugOld.h,9588,kAEGPColorSettingsSuiteVersion5,"6	// frozen in AE 23.2; Add APIs to get OCIO Config file, Display and Working Color Space information"
+Headers\AE_GeneralPlugOld.h,9665,kAEGPMarkerSuiteVersion1,1 /* frozen in AE 8.0 */
+Headers\AE_GeneralPlugOld.h,9732,kAEGPMarkerSuiteVersion2,2 /* frozen in AE 9.0 */
+Headers\AE_GeneralPlugOld.h,9809,kAEGPProjSuiteVersion5,8	/* frozen in AE 10.0 */
+Headers\AE_GeneralPlugOld.h,9870,kAEGPPersistentDataSuiteVersion3,3 /* frozen in AE 10.0 */
+Headers\AE_GeneralPlugOld.h,9996,kAEGPIterateSuite,"""AEGP Iterate Suite"""
+Headers\AE_GeneralPlugOld.h,9997,kAEGPIterateSuiteVersion1,1 /* frozen in AE 5.0 */
+Headers\AE_GeneralPlugOld.h,10015,kAEGPIOInSuite,"""AEGP IO In Suite"""
+Headers\AE_GeneralPlugOld.h,10017,kAEGPIOInSuiteVersion6,7 /* frozen in AE 25 */
+Headers\AE_GeneralPlugOld.h,10202,kAEGPIOInSuiteVersion5,6 /* frozen in AE 12 */
+Headers\AE_GeneralPlugOld.h,10378,kAEGPIOInSuiteVersion4,5 /* frozen in AE 10 */
+Headers\AE_GeneralPlugOld.h,10530,kAEGPIOOutSuiteVersion5,8 /* frozen in AE 17.0 */
+Headers\AE_GeneralPlugOld.h,10688,kAEGPIOOutSuiteVersion4,7 /* frozen in AE 10.0 */
+Headers\AE_GeneralPlugOld.h,10834,kAEGPFIMSuiteVersion3,3 /* frozen in AE 10.0 */
+Headers\AE_GeneralPlugPanels.h,105,kAEGPPanelSuite,"""AEGP Workspace Panel Suite"""
+Headers\AE_GeneralPlugPanels.h,106,kAEGPPanelSuiteVersion1,1 /* frozen in AE 8.0 */
+Headers\AE_HashSuite.h,31,kAEGPHashSuite,"""AEGP Hash Suite"""
+Headers\AE_HashSuite.h,32,kAEGPHashSuiteVersion1,1	/* frozen in AE 17.5.1 */
+Headers\PF_Masks.h,23,kPF_MaskSuite,"""AEGP Mask Suite"""
+Headers\PF_Masks.h,24,kPF_MaskSuiteVersion1,1
+Headers\PrSDKAESupport.h,100,kPFPixelFormatSuite,"""PF Pixel Format Suite"""
+Headers\PrSDKAESupport.h,101,kPFPixelFormatSuiteVersion1,1
+Headers\PrSDKAESupport.h,102,kPFPixelFormatSuiteVersion,kPFPixelFormatSuiteVersion1
+Headers\PrSDKAESupport.h,183,kPFBackgroundFrameSuite,"""PF Background Frame Suite"""
+Headers\PrSDKAESupport.h,184,kPFBackgroundFrameSuiteVersion1,1
+Headers\PrSDKAESupport.h,185,kPFBackgroundFrameSuiteVersion,kPFBackgroundFrameSuiteVersion1
+Headers\PrSDKAESupport.h,212,kPFUtilitySuite,"""PF Utility Suite"""
+Headers\PrSDKAESupport.h,213,kPFUtilitySuiteVersion2,2
+Headers\PrSDKAESupport.h,214,kPFUtilitySuiteVersion3,3
+Headers\PrSDKAESupport.h,215,kPFUtilitySuiteVersion4,4
+Headers\PrSDKAESupport.h,216,kPFUtilitySuiteVersion5,5
+Headers\PrSDKAESupport.h,217,kPFUtilitySuiteVersion6,6
+Headers\PrSDKAESupport.h,218,kPFUtilitySuiteVersion7,7
+Headers\PrSDKAESupport.h,219,kPFUtilitySuiteVersion8,8
+Headers\PrSDKAESupport.h,220,kPFUtilitySuiteVersion9,9
+Headers\PrSDKAESupport.h,221,kPFUtilitySuiteVersion,kPFUtilitySuiteVersion9
+Headers\PrSDKAESupport.h,479,kPFSourceSettingsSuite,"""PF Source Settings Suite"""
+Headers\PrSDKAESupport.h,480,kPFSourceSettingsSuiteVersion,1
+Headers\PrSDKAESupport.h,508,kPFTransitionSuite,"""PF Transition Suite"""
+Headers\PrSDKAESupport.h,509,kPFTransitionSuiteVersion1,1
+Headers\PrSDKAESupport.h,510,kPFTransitionSuiteVersion2,2	// Added RegisterTransitionStartParam and RegisterTransitionEndParam
+Headers\PrSDKAESupport.h,511,kPFTransitionSuiteVersion,kPFTransitionSuiteVersion2
+Util\DuckSuite.h,8,kDuckSuite1,"""AEGP Duck Suite"""
+Util\DuckSuite.h,9,kDuckSuiteVersion1,1
+Headers\adobesdk\DrawbotSuite.h,113,kDRAWBOT_DrawSuite,"""DRAWBOT Draw Suite"""
+Headers\adobesdk\DrawbotSuite.h,114,kDRAWBOT_DrawSuite_Version1,1
+Headers\adobesdk\DrawbotSuite.h,116,kDRAWBOT_DrawSuite_VersionCurrent,kDRAWBOT_DrawSuite_Version1
+Headers\adobesdk\DrawbotSuite.h,117,DRAWBOT_DrawbotSuiteCurrent,DRAWBOT_DrawbotSuite1
+Headers\adobesdk\DrawbotSuite.h,130,kDRAWBOT_SupplierSuite,"""DRAWBOT Supplier Suite"""
+Headers\adobesdk\DrawbotSuite.h,131,kDRAWBOT_SupplierSuite_Version1,1
+Headers\adobesdk\DrawbotSuite.h,133,kDRAWBOT_SupplierSuite_VersionCurrent,kDRAWBOT_SupplierSuite_Version1
+Headers\adobesdk\DrawbotSuite.h,134,DRAWBOT_SupplierSuiteCurrent,DRAWBOT_SupplierSuite1
+Headers\adobesdk\DrawbotSuite.h,200,kDRAWBOT_SurfaceSuite,"""DRAWBOT Surface Suite"""
+Headers\adobesdk\DrawbotSuite.h,201,kDRAWBOT_SurfaceSuite_Version1,1
+Headers\adobesdk\DrawbotSuite.h,202,kDRAWBOT_SurfaceSuite_Version2,2
+Headers\adobesdk\DrawbotSuite.h,204,kDRAWBOT_SurfaceSuite_VersionCurrent,kDRAWBOT_SurfaceSuite_Version2
+Headers\adobesdk\DrawbotSuite.h,205,DRAWBOT_SurfaceSuiteCurrent,DRAWBOT_SurfaceSuite2
+Headers\adobesdk\DrawbotSuite.h,280,kDRAWBOT_PathSuite,"""DRAWBOT Path Suite"""
+Headers\adobesdk\DrawbotSuite.h,281,kDRAWBOT_PathSuite_Version1,1
+Headers\adobesdk\DrawbotSuite.h,283,kDRAWBOT_PathSuite_VersionCurrent,kDRAWBOT_PathSuite_Version1
+Headers\adobesdk\DrawbotSuite.h,284,DRAWBOT_PathSuiteCurrent,DRAWBOT_PathSuite1
+Headers\adobesdk\DrawbotSuite.h,320,kDRAWBOT_PenSuite,"""DRAWBOT Pen Suite"""
+Headers\adobesdk\DrawbotSuite.h,321,kDRAWBOT_PenSuite_Version1,1
+Headers\adobesdk\DrawbotSuite.h,323,kDRAWBOT_PenSuite_VersionCurrent,kDRAWBOT_PenSuite_Version1
+Headers\adobesdk\DrawbotSuite.h,324,DRAWBOT_PenSuiteCurrent,DRAWBOT_PenSuite1
+Headers\adobesdk\DrawbotSuite.h,334,kDRAWBOT_ImageSuite,"""DRAWBOT Image Suite"""
+Headers\adobesdk\DrawbotSuite.h,335,kDRAWBOT_ImageSuite_Version1,1
+Headers\adobesdk\DrawbotSuite.h,337,kDRAWBOT_ImageSuite_VersionCurrent,kDRAWBOT_ImageSuite_Version1
+Headers\adobesdk\DrawbotSuite.h,338,DRAWBOT_ImageSuiteCurrent,DRAWBOT_ImageSuite1
+Headers\SP\SPAccess.h,48,kSPAccessSuite,"""SP Access Suite"""
+Headers\SP\SPAccess.h,50,kSPAccessSuiteVersion,3
+Headers\SP\SPAdapts.h,46,kSPAdaptersSuite,"""SP Adapters Suite"""
+Headers\SP\SPAdapts.h,48,kSPAdaptersSuiteVersion,3
+Headers\SP\SPAdapts.h,134,kSPAdaptersAcquireSuiteHostSelector,"""Acquire Suite"""
+Headers\SP\SPAdapts.h,136,kSPAdaptersReleaseSuiteHostSelector,"""Release Suite"""
+Headers\SP\SPBasic.h,43,kSPBasicSuite,"""SP Basic Suite"""
+Headers\SP\SPBasic.h,45,kSPBasicSuiteVersion,4
+Headers\SP\SPBckDbg.h,42,kSPBlockDebugSuite,"""SP Block Debug Suite"""
+Headers\SP\SPBckDbg.h,44,kSPBlockDebugSuiteVersion,2
+Headers\SP\SPBlocks.h,45,kSPBlocksSuite,"""SP Blocks Suite"""
+Headers\SP\SPBlocks.h,47,kSPBlocksSuiteVersion,2
+Headers\SP\SPCaches.h,43,kSPCachesSuite,"""SP Caches Suite"""
+Headers\SP\SPCaches.h,45,kSPCachesSuiteVersion,2
+Headers\SP\SPErrorCodes.h,157,kSPSuiteNotFoundError,'S!Fd'
+Headers\SP\SPErrorCodes.h,160,kSPSuiteAlreadyExistsError,'SExi'
+Headers\SP\SPErrorCodes.h,163,kSPSuiteAlreadyReleasedError,'SRel'
+Headers\SP\SPErrorCodes.h,166,kSPBadSuiteListIteratorError,'SLIt'
+Headers\SP\SPErrorCodes.h,169,kSPBadSuiteInternalVersionError,'SIVs'
+Headers\SP\SPFiles.h,80,kSPFilesSuite,"""SP Files Suite"""
+Headers\SP\SPFiles.h,82,kSPFilesSuitePrevVers,3
+Headers\SP\SPFiles.h,83,kSPFilesSuiteVersion,4
+Headers\SP\SPInterf.h,47,kSPInterfaceSuite,"""SP Interface Suite"""
+Headers\SP\SPInterf.h,49,kSPInterfaceSuiteVersion,2
+Headers\SP\SPPlugs.h,46,kSPPluginsSuite,"""SP Plug-ins Suite"""
+Headers\SP\SPPlugs.h,48,kSPPluginsSuiteVersion4,4
+Headers\SP\SPPlugs.h,50,kSPPluginsSuiteVersion5,5
+Headers\SP\SPPlugs.h,52,kSPPluginsSuiteVersion6,6
+Headers\SP\SPPlugs.h,54,kSPPluginsSuiteVersion,kSPPluginsSuiteVersion4
+Headers\SP\SPProps.h,45,kSPPropertiesSuite,"""SP Properties Suite"""
+Headers\SP\SPProps.h,47,kSPPropertiesSuiteVersion2,2
+Headers\SP\SPProps.h,49,kSPPropertiesSuiteVersion,kSPPropertiesSuiteVersion2 // minimal is default
+Headers\SP\SPProps.h,51,kSPPropertiesSuiteVersion3,3
+Headers\SP\SPRuntme.h,48,kSPRuntimeSuite,"""SP Runtime Suite"""
+Headers\SP\SPRuntme.h,49,kSPRuntimeSuiteVersion,5
+Headers\SP\SPRuntme.h,50,kSPRuntimeSuiteXPlatVersion,6
+Headers\SP\SPStrngs.h,42,kSPStringsSuite,"""SP Strings Suite"""
+Headers\SP\SPStrngs.h,44,kSPStringsSuiteVersion,2
+Headers\SP\SPSuites.h,45,kSPSuitesSuite,"""SP Suites Suite"""
+Headers\SP\SPSuites.h,47,kSPSuitesSuiteVersion,2
+Headers\SP\SPSuites.h,54,kSPRuntimeSuiteList,((SPSuiteListRef)NULL)

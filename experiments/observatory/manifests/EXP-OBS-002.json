@@ -1,0 +1,54 @@
+{
+  "experiment_id": "EXP-OBS-002",
+  "title": "dvacore trace threshold semantics",
+  "status": "replicated",
+  "domains": ["observability"],
+  "question": "Does the installed AE 25.6 dvacore trace manager enforce runtime master/category thresholds through TraceEnabled, and is the behavior reproducible?",
+  "source_note": "Runs in a disposable standalone process against the installed dvacore.dll and reads the existing 25.6 Trace Database without modifying the profile file.",
+  "environment": {
+    "ae_version": "25.6.4",
+    "os": "Microsoft Windows 10 Home 10.0.19045",
+    "hardware": "Intel Core i9-10900",
+    "gpu": "NVIDIA GeForce RTX 2070 SUPER; Parsec Virtual Display Adapter",
+    "notes": "MSVC 14.44.35207; raw environment captured in runs/EXP-OBS-002/environment.txt"
+  },
+  "hypotheses": [
+    {
+      "id": "H1",
+      "prediction": "Lowering master trace volume below a message level makes TraceEnabled false even when the category volume allows it.",
+      "falsified_by": "TraceEnabled remains true for level 4 with master volume 3 and category volume 5."
+    },
+    {
+      "id": "H2",
+      "prediction": "The effective trace threshold is bounded by both master and category volume.",
+      "falsified_by": "Level 6 becomes enabled with master 10 while category volume remains 5, or level 4 remains enabled with master 3."
+    }
+  ],
+  "factors": ["master trace volume: 3 vs 10", "category volume: observed 5", "trace levels: 2, 4, 6"],
+  "captures": [
+    "runs/EXP-OBS-002/replicate-a.stdout.txt",
+    "runs/EXP-OBS-002/replicate-a.stderr.txt",
+    "runs/EXP-OBS-002/replicate-b.stdout.txt",
+    "runs/EXP-OBS-002/replicate-b.stderr.txt",
+    "runs/EXP-OBS-002/environment.txt",
+    "runs/EXP-OBS-002/sha256.txt"
+  ],
+  "procedure": [
+    "Load installed dvacore.dll in a standalone disposable process.",
+    "Load the existing AE 25.6 Trace Database text into the runtime trace manager.",
+    "Install MasterTraceToStdErr and query category volume through GetTraceVolume.",
+    "Set master volume to 3 and conditionally emit levels 2 and 4 only when TraceEnabled returns true.",
+    "Set master volume to 10 and conditionally emit levels 4 and 6.",
+    "Repeat in a second fresh process and preserve stdout/stderr plus SHA-256 hashes."
+  ],
+  "result": {
+    "conclusion": "Replicated: with category volume 5, master=3 produced enabled246=100 and emitted only level 2; master=10 produced enabled246=110 and added level 4 while level 6 remained disabled. Runtime trace filtering is therefore bounded by both master and category thresholds through TraceEnabled.",
+    "surviving_hypotheses": ["H1", "H2"],
+    "raw_outputs": ["replicate-a.stdout.txt", "replicate-a.stderr.txt", "replicate-b.stdout.txt", "replicate-b.stderr.txt"],
+    "hashes": {
+      "replicate-a.stdout.txt": "985C33C82F46DC2EDF874508BF1683F9D522B0E04E496F3C81657070289EB969",
+      "replicate-b.stdout.txt": "985C33C82F46DC2EDF874508BF1683F9D522B0E04E496F3C81657070289EB969"
+    },
+    "notes": "The low-level Trace emitter itself does not filter; callers are expected to consult TraceEnabled. Category-level SetTraceVolume changed TraceChangeCount but did not change GetTraceVolume in this standalone context, so dynamic per-category mutation remains an open question."
+  }
+}

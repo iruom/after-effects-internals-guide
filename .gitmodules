@@ -1,0 +1,15 @@
+[submodule "research/external-sources/aex"]
+	path = research/external-sources/aex
+	url = https://github.com/ePi5131/aex.git
+[submodule "research/external-sources/aexlo"]
+	path = research/external-sources/aexlo
+	url = https://github.com/potistudio/aexlo.git
+[submodule "research/external-sources/after-defects"]
+	path = research/external-sources/after-defects
+	url = https://github.com/mathi-vignesh/after-defects.git
+[submodule "research/external-sources/after-effects-rs"]
+	path = research/external-sources/after-effects-rs
+	url = https://github.com/virtualritz/after-effects.git
+[submodule "research/external-sources/aftereffects-aep-parser"]
+	path = research/external-sources/aftereffects-aep-parser
+	url = https://github.com/boltframe/aftereffects-aep-parser.git

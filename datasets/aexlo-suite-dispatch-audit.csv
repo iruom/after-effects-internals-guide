@@ -1,0 +1,9 @@
+suite,aexlo_accepts,returned_table,verdict,evidence,note
+PF Iterate8 Suite,1..=2,PF_Iterate8Suite2,compatible,AE_EffectCBSuites.h; prefix dataset,v1->v2 prefix=True; ordered public slots unchanged
+PF iterate16 Suite,1..=2,PF_iterate16Suite2,compatible-header-review,AE_EffectCBSuites.h,v1/v2 expose the same three ordered callbacks; spelling/case differs in typedef names
+PF iterateFloat Suite,1..=2,PF_iterateFloatSuite2,compatible-header-review,AE_EffectCBSuites.h,v1/v2 expose the same three ordered callbacks
+PF Pixel Data Suite,1..=2,PF_PixelDataSuite2,compatible,AE_EffectCBSuites.h; prefix dataset,v1->v2 prefix=True; v2 appends GPU accessor
+PF AE App Suite,1..=6,PFAppSuite6,incompatible,AE_EffectSuitesOld.h; AE_EffectSuites.h; prefix dataset,"PICA v6 selects Suite4, v7 selects Suite5, v1 selects Suite6; Suite4->5 inserts a slot"
+PF Param Utils Suite,1..=3,PF_ParamUtilsSuite3,incompatible,AE_EffectSuitesOld.h; AE_EffectSuites.h; prefix dataset,published PICA v2 old table -> v3 prefix=False; obsolete state slots were replaced
+PF Utility Suite,1..=18,PF_UtilitySuite,incompatible-at-v4,PrSDKAESupport.h,Adobe explicitly gives v4 a separate table because GetClipName was versioned incorrectly
+AEGP Utility Suite,1..=18,AEGPUtilitySuiteCompatV11,unsafe-range-alias,AE_GeneralPlugOld.h; AE_GeneralPlug.h; aexlo utility.rs,"published 25.6 PICA versions are 3,5,7,10,11,13; aexlo returns one hand-built v11-offset table for the whole numeric range"

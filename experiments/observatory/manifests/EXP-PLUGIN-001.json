@@ -1,0 +1,59 @@
+{
+  "experiment_id": "EXP-PLUGIN-001",
+  "title": "Runtime PICA suite selector negotiation matrix",
+  "status": "observed",
+  "domains": [
+    "plugin-host"
+  ],
+  "question": "Which integer selectors does the running AE host accept for each distributed AEGP suite name, and can an SDK-25.6-built plug-in observe newer host suite selectors without dereferencing unknown tables?",
+  "source_note": "At AEGP EntryPoint the probe attempts AcquireSuite for 48 suite-name families and selectors 1..32. Every success is immediately balanced with ReleaseSuite; acquired tables are never dereferenced by this matrix probe.",
+  "environment": {
+    "ae_version": "26.3x87",
+    "os": "Windows/64 10.0",
+    "hardware": "not a manipulated factor",
+    "gpu": "not a manipulated factor",
+    "notes": "Canonical probe SHA-256: 9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98.",
+    "captured_build_number": "87",
+    "captured_build_name": "26.3x87",
+    "captured_gpu_accel_type": "1813"
+  },
+  "hypotheses": [
+    {
+      "id": "H1",
+      "prediction": "Accepted selector integers are scoped to suite name and do not form a single monotonic generation namespace.",
+      "falsified_by": "Every tested suite follows one global monotonic selector sequence matching table generation numbers."
+    },
+    {
+      "id": "H2",
+      "prediction": "The running host exposes at least some selector behavior not inferable by treating the SDK 25.6 latest table as a universal alias.",
+      "falsified_by": "Every suite accepts only one universal latest-table selector pattern with no family-specific behavior."
+    }
+  ],
+  "factors": [
+    "48 suite-name families",
+    "PICA selector integer 1..32",
+    "host major/minor version passed to AEGP EntryPoint"
+  ],
+  "captures": [
+    "runs/EXP-PLUGIN-001/suite-acquisition.tsv",
+    "datasets/exp-plugin-001-suite-acquisition.csv",
+    "datasets/ae-sdk-25.6-suite-names.csv",
+    "datasets/ae-suite-negotiation-matrix.csv",
+    "experiments/user-run/AEIG-1.0-L5/plugin/AEGP/AEIGReceiptArtie.aex"
+  ],
+  "procedure": [
+    "User installs the canonical probe while AE is closed and launches a disposable blank session.",
+    "At AEGP EntryPoint the probe logs every 48-suite x selector-1..32 acquisition attempt.",
+    "Every successful acquisition is immediately released without dereferencing its table.",
+    "User runs the paired L5 fixture once, then closes AE and removes the probe.",
+    "analyze_plugin_host_experiment.py requires all 1536 attempts to be present before the capture is accepted as complete."
+  ],
+  "result": {
+    "conclusion": "attempts=1536; families=48; selector_patterns=26",
+    "raw_hashes": {
+      "suite-acquisition.tsv": "DD7CF7D12FCAD388761D8449684D20840A9D94407B134CB0D938D99AB062422A",
+      "environment.txt": "2311F6DAA8A3DD24EA18FD59E44652C7B89930293D93D8E42EC883614E34B48D"
+    },
+    "finalized_by": "finalize_aeig_l5_user_run.py"
+  }
+}

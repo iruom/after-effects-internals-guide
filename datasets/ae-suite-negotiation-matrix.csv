@@ -1,0 +1,159 @@
+suite_macro_base,family,generation,pica_version,previous_generation,previous_pica,pica_relation,adjacent_prefix_safe,first_difference,source,header_comment,recommended_dispatch
+kAEGPArtisanUtilSuite,AEGP_ArtisanUtilSuite,1,1,,,first,,,AE_GeneralPlug.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPCameraSuite,AEGP_CameraSuite,1,1,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPCameraSuite,AEGP_CameraSuite,2,2,1,1,increase,unknown,,AE_GeneralPlug.h,frozen in AE 5.5,exact-name+exact-version
+kAEGPCanvasSuite,AEGP_CanvasSuite,1,4,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPCanvasSuite,AEGP_CanvasSuite,2,6,1,4,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 5.5,exact-name+exact-version
+kAEGPCanvasSuite,AEGP_CanvasSuite,4,9,2,6,increase,unknown,,AE_GeneralPlugOld.h,frozen AE 6.0,exact-name+exact-version
+kAEGPCanvasSuite,AEGP_CanvasSuite,5,10,4,9,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 6.5,exact-name+exact-version
+kAEGPCanvasSuite,AEGP_CanvasSuite,6,11,5,10,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 7.0,exact-name+exact-version
+kAEGPCanvasSuite,AEGP_CanvasSuite,7,13,6,11,increase,unknown,,AE_GeneralPlugOld.h,"frozen in AE 8.0, source code-compatible additions in 64-bit AE 10.0",exact-name+exact-version
+kAEGPCanvasSuite,AEGP_CanvasSuite,8,14,7,13,increase,unknown,,AE_GeneralPlug.h,frozen in AE 12.0,exact-name+exact-version
+kAEGPCollectionSuite,AEGP_CollectionSuite,1,1,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPCollectionSuite,AEGP_CollectionSuite,2,2,1,1,increase,unknown,,AE_GeneralPlug.h,frozen in AE 6.5,exact-name+exact-version
+kAEGPColorSettingsSuite,AEGP_ColorSettingsSuite,1,1,,,first,,,AE_GeneralPlugOld.h,,exact-name+exact-version
+kAEGPColorSettingsSuite,AEGP_ColorSettingsSuite,2,3,1,1,increase,unknown,,AE_GeneralPlugOld.h,,exact-name+exact-version
+kAEGPColorSettingsSuite,AEGP_ColorSettingsSuite,3,4,2,3,increase,unknown,,AE_GeneralPlugOld.h,,exact-name+exact-version
+kAEGPColorSettingsSuite,AEGP_ColorSettingsSuite,4,5,3,4,increase,unknown,,AE_GeneralPlugOld.h,,exact-name+exact-version
+kAEGPColorSettingsSuite,AEGP_ColorSettingsSuite,5,6,4,5,increase,unknown,,AE_GeneralPlugOld.h,,exact-name+exact-version
+kAEGPColorSettingsSuite,AEGP_ColorSettingsSuite,6,7,5,6,increase,unknown,,AE_GeneralPlug.h,,exact-name+exact-version
+kAEGPCommandSuite,AEGP_CommandSuite,1,1,,,first,,,AE_GeneralPlug.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPCompSuite,AEGP_CompSuite,1,4,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPCompSuite,AEGP_CompSuite,2,6,1,4,increase,False,index 3: AEGP_GetCompBGColor -> AEGP_SetCompDownsampleFactor,AE_GeneralPlugOld.h,frozen in AE 5.5,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPCompSuite,AEGP_CompSuite,3,7,2,6,increase,False,index 7: AEGP_GetCompShutterAnglePhase -> AEGP_SetCompFrameRate,AE_GeneralPlugOld.h,frozen AE 6.0,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPCompSuite,AEGP_CompSuite,4,9,3,7,increase,True,,AE_GeneralPlugOld.h,frozen AE 6.5,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPCompSuite,AEGP_CompSuite,5,11,4,9,increase,False,index 5: AEGP_GetCompFlags -> AEGP_SetCompBGColor,AE_GeneralPlugOld.h,frozen AE 7.0,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPCompSuite,AEGP_CompSuite,6,14,5,11,increase,False,index 11: AEGP_GetCompWorkAreaStart -> AEGP_GetCompSuggestedMotionBlurSamples,AE_GeneralPlugOld.h,frozen in AE 8.0,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPCompSuite,AEGP_CompSuite,7,15,6,14,increase,True,,AE_GeneralPlugOld.h,frozen in AE 9.0,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPCompSuite,AEGP_CompSuite,8,18,7,15,increase,False,index 28: AEGP_SetCompDimensions -> AEGP_CreateBoxTextLayerInComp,AE_GeneralPlugOld.h,frozen in AE 10.5,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPCompSuite,AEGP_CompSuite,9,19,8,18,increase,True,,AE_GeneralPlugOld.h,frozen in AE 11,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPCompSuite,AEGP_CompSuite,10,21,9,19,increase,False,index 7: AEGP_GetCompFramerate -> AEGP_GetShowLayerNameOrSourceName,AE_GeneralPlugOld.h,frozen in AE 12,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPCompSuite,AEGP_CompSuite,11,25,10,21,increase,True,,AE_GeneralPlugOld.h,frozen in AE 23.5,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPCompSuite,AEGP_CompSuite,12,26,11,25,increase,True,,AE_GeneralPlug.h,frozen in AE 24.0,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPCompositeSuite,AEGP_CompositeSuite,2,4,,,first,,,AE_GeneralPlug.h,frozen in AE 10.0,exact-name+exact-version
+kAEGPDynamicStreamSuite,AEGP_DynamicStreamSuite,1,1,,,first,,,AE_GeneralPlugOld.h,frozen in AE 6.0,exact-name+exact-version
+kAEGPDynamicStreamSuite,AEGP_DynamicStreamSuite,2,2,1,1,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 6.5,exact-name+exact-version
+kAEGPDynamicStreamSuite,AEGP_DynamicStreamSuite,3,3,2,2,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 7.0,exact-name+exact-version
+kAEGPDynamicStreamSuite,AEGP_DynamicStreamSuite,4,5,3,3,increase,unknown,,AE_GeneralPlug.h,frozen in AE 9.0,exact-name+exact-version
+kAEGPEffectSuite,AEGP_EffectSuite,1,1,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.5,exact-name+exact-version
+kAEGPEffectSuite,AEGP_EffectSuite,2,2,1,1,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 6.5,exact-name+exact-version
+kAEGPEffectSuite,AEGP_EffectSuite,3,3,2,2,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 7.0,exact-name+exact-version
+kAEGPEffectSuite,AEGP_EffectSuite,4,4,3,3,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 13.0,exact-name+exact-version
+kAEGPEffectSuite,AEGP_EffectSuite,5,5,4,4,increase,unknown,,AE_GeneralPlug.h,frozen in AE 24.1,exact-name+exact-version
+kAEGPFIMSuite,AEGP_FIMSuite,3,3,,,first,,,AE_GeneralPlugOld.h,frozen in AE 10.0,exact-name+exact-version
+kAEGPFIMSuite,AEGP_FIMSuite,4,4,3,3,increase,unknown,,AE_GeneralPlug.h,frozen in AE 17.0,exact-name+exact-version
+kAEGPFootageSuite,AEGP_FootageSuite,5,11,,,first,,,AE_GeneralPlug.h,frozen in AE 10.0,exact-name+exact-version
+kAEGPIOInSuite,AEGP_IOInSuite,4,5,,,first,,,AE_GeneralPlugOld.h,frozen in AE 10,exact-name+exact-version
+kAEGPIOInSuite,AEGP_IOInSuite,5,6,4,5,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 12,exact-name+exact-version
+kAEGPIOInSuite,AEGP_IOInSuite,6,7,5,6,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 25,exact-name+exact-version
+kAEGPIOInSuite,AEGP_IOInSuite,7,8,6,7,increase,unknown,,AE_GeneralPlug.h,frozen in AE 25.3,exact-name+exact-version
+kAEGPIOOutSuite,AEGP_IOOutSuite,4,7,,,first,,,AE_GeneralPlugOld.h,frozen in AE 10.0,exact-name+exact-version
+kAEGPIOOutSuite,AEGP_IOOutSuite,5,8,4,7,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 17.0,exact-name+exact-version
+kAEGPIOOutSuite,AEGP_IOOutSuite,6,9,5,8,increase,unknown,,AE_GeneralPlug.h,frozen in AE 25.2,exact-name+exact-version
+kAEGPItemSuite,AEGP_ItemSuite,1,3,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPItemSuite,AEGP_ItemSuite,2,4,1,3,increase,False,index 17: AEGP_CreateNewFolder -> AEGP_SetSolidColor,AE_GeneralPlugOld.h,,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPItemSuite,AEGP_ItemSuite,3,5,2,4,increase,False,new table shorter,AE_GeneralPlugOld.h,frozen in 5.5.1,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPItemSuite,AEGP_ItemSuite,4,6,3,5,increase,False,index 16: AEGP_GetItemSolidColor -> AEGP_CreateNewFolder,AE_GeneralPlugOld.h,frozen in AE 6.0,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPItemSuite,AEGP_ItemSuite,5,7,4,6,increase,False,index 11: AEGP_GetItemDuration -> AEGP_SetItemParentFolder,AE_GeneralPlugOld.h,frozen in AE 6.5,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPItemSuite,AEGP_ItemSuite,6,10,5,7,increase,False,index 0: AEGP_GetNextItem -> AEGP_GetFirstProjItem,AE_GeneralPlugOld.h,frozen in AE 7.0,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPItemSuite,AEGP_ItemSuite,7,11,6,10,increase,True,,AE_GeneralPlugOld.h,frozen in AE 8.0,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPItemSuite,AEGP_ItemSuite,8,13,7,11,increase,True,,AE_GeneralPlugOld.h,frozen in AE 9.0,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPItemSuite,AEGP_ItemSuite,9,14,8,13,increase,False,index 21: AEGP_GetItemCommentLength -> AEGP_GetItemComment,AE_GeneralPlug.h,frozen in AE 14.1,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPItemViewSuite,AEGP_ItemViewSuite,1,1,,,first,,,AE_GeneralPlug.h,frozen in AE 13.6,exact-name+exact-version
+kAEGPIterateSuite,AEGP_IterateSuite,1,1,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPIterateSuite,AEGP_IterateSuite,2,2,1,1,increase,unknown,,AE_GeneralPlug.h,frozen in AE 22.0,exact-name+exact-version
+kAEGPKeyframeSuite,AEGP_KeyframeSuite,1,1,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPKeyframeSuite,AEGP_KeyframeSuite,2,2,1,1,increase,unknown,,AE_GeneralPlugOld.h,frozen in 5.5,exact-name+exact-version
+kAEGPKeyframeSuite,AEGP_KeyframeSuite,3,3,2,2,increase,unknown,,AE_GeneralPlugOld.h,frozen in 6.5,exact-name+exact-version
+kAEGPKeyframeSuite,AEGP_KeyframeSuite,4,4,3,3,increase,unknown,,AE_GeneralPlugOld.h,frozen in 8,exact-name+exact-version
+kAEGPKeyframeSuite,AEGP_KeyframeSuite,5,5,4,4,increase,unknown,,AE_GeneralPlug.h,frozen in 22.5,exact-name+exact-version
+kAEGPLayerRenderOptionsSuite,AEGP_LayerRenderOptionsSuite,1,1,,,first,,,AE_GeneralPlugOld.h,frozen in 13.0,exact-name+exact-version
+kAEGPLayerRenderOptionsSuite,AEGP_LayerRenderOptionsSuite,2,2,1,1,increase,unknown,,AE_GeneralPlug.h,frozen in 13.5,exact-name+exact-version
+kAEGPLayerSuite,AEGP_LayerSuite,1,5,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPLayerSuite,AEGP_LayerSuite,2,7,1,5,increase,False,index 34: AEGP_GetLayerDancingRandValue -> AEGP_ConvertLayerToCompTime,AE_GeneralPlugOld.h,frozen in AE 5.5,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPLayerSuite,AEGP_LayerSuite,3,8,2,7,increase,True,,AE_GeneralPlugOld.h,frozen AE 6.0,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPLayerSuite,AEGP_LayerSuite,4,10,3,8,increase,False,index 5: AEGP_GetLayerParentComp -> AEGP_GetLayerSourceItemID,AE_GeneralPlugOld.h,frozen AE 6.5,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPLayerSuite,AEGP_LayerSuite,5,11,4,10,increase,True,,AE_GeneralPlugOld.h,frozen AE 7.0,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPLayerSuite,AEGP_LayerSuite,6,12,5,11,increase,True,,AE_GeneralPlugOld.h,frozen AE 9.0,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPLayerSuite,AEGP_LayerSuite,7,13,6,12,increase,True,,AE_GeneralPlugOld.h,frozen AE 10.0 build 396,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPLayerSuite,AEGP_LayerSuite,8,14,7,13,increase,True,,AE_GeneralPlugOld.h,frozen AE 12.0 x300,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPLayerSuite,AEGP_LayerSuite,9,15,8,14,increase,True,,AE_GeneralPlug.h,frozen AE 23.0,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPLightSuite,AEGP_LightSuite,1,1,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPLightSuite,AEGP_LightSuite,2,2,1,1,increase,unknown,,AE_GeneralPlug.h,frozen in AE 5.5,exact-name+exact-version
+kAEGPLightSuite,AEGP_LightSuite,3,3,2,2,increase,unknown,,AE_GeneralPlug.h,frozen in AE 24.4,exact-name+exact-version
+kAEGPMarkerSuite,AEGP_MarkerSuite,1,1,,,first,,,AE_GeneralPlugOld.h,frozen in AE 8.0,exact-name+exact-version
+kAEGPMarkerSuite,AEGP_MarkerSuite,2,2,1,1,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 9.0,exact-name+exact-version
+kAEGPMarkerSuite,AEGP_MarkerSuite,3,3,2,2,increase,unknown,,AE_GeneralPlug.h,frozen in AE 16.0,exact-name+exact-version
+kAEGPMaskOutlineSuite,AEGP_MaskOutlineSuite,1,2,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPMaskOutlineSuite,AEGP_MaskOutlineSuite,2,3,1,2,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 5.5,exact-name+exact-version
+kAEGPMaskOutlineSuite,AEGP_MaskOutlineSuite,3,5,2,3,increase,unknown,,AE_GeneralPlug.h,frozen in AE 11,exact-name+exact-version
+kAEGPMaskSuite,AEGP_MaskSuite,1,2,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPMaskSuite,AEGP_MaskSuite,2,3,1,2,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 5.5,exact-name+exact-version
+kAEGPMaskSuite,AEGP_MaskSuite,3,4,2,3,increase,unknown,,AE_GeneralPlugOld.h,frozen AE 6.0,exact-name+exact-version
+kAEGPMaskSuite,AEGP_MaskSuite,4,5,3,4,increase,unknown,,AE_GeneralPlugOld.h,frozen AE 6.5,exact-name+exact-version
+kAEGPMaskSuite,AEGP_MaskSuite,5,6,4,5,increase,unknown,,AE_GeneralPlugOld.h,frozen AE 10,exact-name+exact-version
+kAEGPMaskSuite,AEGP_MaskSuite,6,7,5,6,increase,unknown,,AE_GeneralPlug.h,frozen AE 11,exact-name+exact-version
+kAEGPMathSuite,AEGP_MathSuite,1,1,,,first,,,AE_GeneralPlug.h,frozen AE 15.0,exact-name+exact-version
+kAEGPMemorySuite,AEGP_MemorySuite,1,1,,,first,,,AE_GeneralPlug.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPOutputModuleSuite,AEGP_OutputModuleSuite,4,4,,,first,,,AE_GeneralPlug.h,frozen in AE 10.0,exact-name+exact-version
+kAEGPPFInterfaceSuite,AEGP_PFInterfaceSuite,1,1,,,first,,,AE_GeneralPlug.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPPersistentDataSuite,AEGP_PersistentDataSuite,3,3,,,first,,,AE_GeneralPlugOld.h,frozen in AE 10.0,exact-name+exact-version
+kAEGPPersistentDataSuite,AEGP_PersistentDataSuite,4,4,3,3,increase,unknown,,AE_GeneralPlug.h,frozen in AE 12.0,exact-name+exact-version
+kAEGPProjSuite,AEGP_ProjSuite,5,8,,,first,,,AE_GeneralPlugOld.h,frozen in AE 10.0,exact-name+exact-version
+kAEGPProjSuite,AEGP_ProjSuite,6,9,5,8,increase,unknown,,AE_GeneralPlug.h,frozen in AE 10.5,exact-name+exact-version
+kAEGPQueryXformSuite,AEGP_QueryXformSuite,1,1,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPQueryXformSuite,AEGP_QueryXformSuite,2,4,1,1,increase,unknown,,AE_GeneralPlug.h,frozen in AE 6.0,exact-name+exact-version
+kAEGPRQItemSuite,AEGP_RQItemSuite,1,1,,,first,,,AE_GeneralPlugOld.h,frozen in AE 6.0,exact-name+exact-version
+kAEGPRQItemSuite,AEGP_RQItemSuite,2,3,1,1,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 6.5,exact-name+exact-version
+kAEGPRQItemSuite,AEGP_RQItemSuite,3,4,2,3,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 7.0,exact-name+exact-version
+kAEGPRQItemSuite,AEGP_RQItemSuite,4,5,3,4,increase,unknown,,AE_GeneralPlug.h,frozen in AE 14.1,exact-name+exact-version
+kAEGPRegisterSuite,AEGP_RegisterSuite,5,6,,,first,,,AE_GeneralPlug.h,frozen AE 10.0,exact-name+exact-version
+kAEGPRenderAsyncManagerSuite,AEGP_RenderAsyncManagerSuite,1,1,,,first,,,AE_GeneralPlug.h,frozen in 13.5,exact-name+exact-version
+kAEGPRenderOptionsSuite,AEGP_RenderOptionsSuite,1,1,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.5.1,exact-name+exact-version
+kAEGPRenderOptionsSuite,AEGP_RenderOptionsSuite,2,2,1,1,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 7.0,exact-name+exact-version
+kAEGPRenderOptionsSuite,AEGP_RenderOptionsSuite,3,3,2,2,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 7.01,exact-name+exact-version
+kAEGPRenderOptionsSuite,AEGP_RenderOptionsSuite,4,4,3,3,increase,unknown,,AE_GeneralPlug.h,frozen in AE 10.5,exact-name+exact-version
+kAEGPRenderQueueMonitorSuite,AEGP_RenderQueueMonitorSuite,1,1,,,first,,,AE_GeneralPlug.h,frozen AE 11.0,exact-name+exact-version
+kAEGPRenderQueueSuite,AEGP_RenderQueueSuite,1,1,,,first,,,AE_GeneralPlug.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPRenderSuite,AEGP_RenderSuite,1,1,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.5.1,exact-name+exact-version
+kAEGPRenderSuite,AEGP_RenderSuite,2,2,1,1,increase,unknown,,AE_GeneralPlugOld.h,frozen in 6.5,exact-name+exact-version
+kAEGPRenderSuite,AEGP_RenderSuite,3,3,2,2,increase,unknown,,AE_GeneralPlugOld.h,frozen in 11.0,exact-name+exact-version
+kAEGPRenderSuite,AEGP_RenderSuite,4,5,3,3,increase,unknown,,AE_GeneralPlugOld.h,frozen in 13.0,exact-name+exact-version
+kAEGPRenderSuite,AEGP_RenderSuite,5,8,4,5,increase,unknown,,AE_GeneralPlug.h,frozen in 13.5,exact-name+exact-version
+kAEGPStreamSuite,AEGP_StreamSuite,1,4,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPStreamSuite,AEGP_StreamSuite,2,7,1,4,increase,False,index 2: AEGP_GetNewLayerStream -> AEGP_GetValidInterpolations,AE_GeneralPlugOld.h,frozen in AE 6.5,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPStreamSuite,AEGP_StreamSuite,3,8,2,7,increase,True,,AE_GeneralPlugOld.h,frozen in AE 8,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPStreamSuite,AEGP_StreamSuite,4,9,3,8,increase,True,,AE_GeneralPlugOld.h,frozen in AE 9,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPStreamSuite,AEGP_StreamSuite,5,10,4,9,increase,True,,AE_GeneralPlugOld.h,frozen in AE 15,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPStreamSuite,AEGP_StreamSuite,6,11,5,10,increase,True,,AE_GeneralPlug.h,frozen in AE 22.5,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPTextDocumentSuite,AEGP_TextDocumentSuite,1,1,,,first,,,AE_GeneralPlug.h,frozen in AE 6.0,exact-name+exact-version
+kAEGPTextLayerSuite,AEGP_TextLayerSuite,1,1,,,first,,,AE_GeneralPlug.h,frozen in AE 6.0,exact-name+exact-version
+kAEGPTrackerSuite,AEGP_TrackerSuite,1,1,,,first,,,AE_GeneralPlug.h,frozen in AE 6.0,exact-name+exact-version
+kAEGPTrackerUtilitySuite,AEGP_TrackerUtilitySuite,1,1,,,first,,,AE_GeneralPlug.h,frozen in AE 6.0,exact-name+exact-version
+kAEGPUtilitySuite,AEGP_UtilitySuite,1,3,,,first,,,AE_GeneralPlugOld.h,frozen in AE 5.0,exact-name+exact-version
+kAEGPUtilitySuite,AEGP_UtilitySuite,2,5,1,3,increase,True,,AE_GeneralPlugOld.h,frozen in AE 6.0,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPUtilitySuite,AEGP_UtilitySuite,3,7,2,5,increase,True,,AE_GeneralPlugOld.h,frozen in AE 6.5,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPUtilitySuite,AEGP_UtilitySuite,4,10,3,7,increase,False,index 5: AEGP_StartUndoGroup -> AEGP_GetLastErrorMessage,AE_GeneralPlugOld.h,frozen in AE 7.0,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPUtilitySuite,AEGP_UtilitySuite,5,11,4,10,increase,True,,AE_GeneralPlugOld.h,frozen in AE 8.0,exact-name+exact-version; adjacent-table prefix-safe only
+kAEGPUtilitySuite,AEGP_UtilitySuite,6,13,5,11,increase,False,index 1: AEGP_GetDriverPluginInitFuncVersion -> AEGP_ReportInfoUnicode,AE_GeneralPlug.h,frozen in AE 12.0,exact-name+exact-version; aliasing to adjacent generation unsafe
+kAEGPWorldSuite,AEGP_WorldSuite,1,1,,,first,,,AE_GeneralPlugOld.h,frozen AE 6.0,exact-name+exact-version
+kAEGPWorldSuite,AEGP_WorldSuite,2,2,1,1,increase,unknown,,AE_GeneralPlugOld.h,frozen in AE 6.5,exact-name+exact-version
+kAEGPWorldSuite,AEGP_WorldSuite,3,3,2,2,increase,unknown,,AE_GeneralPlug.h,frozen in AE 7.0,exact-name+exact-version
+kPFEffectSequenceDataSuite,PFEffectSequenceDataSuite,1,1,,,first,,,AE_GeneralPlug.h,frozen in 18.2,exact-name+exact-version
+,PFAppSuite,4,6,,,first,,,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version
+,PFAppSuite,5,7,4,6,increase,False,index 2: PF_GetPersonalInfo -> PF_AppGetLanguage,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version; aliasing to adjacent generation unsafe
+,PFAppSuite,6,1,5,7,reset/decrease,True,,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version; adjacent-table prefix-safe only; numeric ordering is explicitly non-generational
+,PF_EffectCustomUISuite,1,1,,,first,,,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version
+,PF_EffectCustomUISuite,2,2,1,1,increase,True,,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version; adjacent-table prefix-safe only
+,PF_Iterate8Suite,1,1,,,first,,,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version
+,PF_Iterate8Suite,2,2,1,1,increase,True,,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version; adjacent-table prefix-safe only
+,PF_ParamUtilsSuite,1,2,,,first,,,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version
+,PF_ParamUtilsSuite,3,3,1,2,increase,False,index 1: PF_GetCurrentStateObsolete -> PF_GetCurrentState,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version; aliasing to adjacent generation unsafe
+,PF_PixelDataSuite,1,1,,,first,,,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version
+,PF_PixelDataSuite,2,2,1,1,increase,True,,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version; adjacent-table prefix-safe only
+,PF_WorldSuite,1,1,,,first,,,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version
+,PF_WorldSuite,2,2,1,1,increase,False,index 0: new_world -> PF_NewWorld,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version; aliasing to adjacent generation unsafe
+,PF_iterate16Suite,1,1,,,first,,,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version
+,PF_iterate16Suite,2,2,1,1,increase,True,,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version; adjacent-table prefix-safe only
+,PF_iterateFloatSuite,1,1,,,first,,,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version
+,PF_iterateFloatSuite,2,2,1,1,increase,True,,ae-sdk-25.6-effect-suite-prefix-compat.csv,,exact-name+exact-version; adjacent-table prefix-safe only

@@ -1,0 +1,21 @@
+ae_version,dll,symbol,abi_form,decorated_export
+25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvacore.dll,GetMasterTraceHandler,stable-non-string-view,?GetMasterTraceHandler@debug@dvacore@@YAPEAVTraceHandler@12@XZ
+25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvacore.dll,GetMasterTraceVolume,stable-non-string-view,?GetMasterTraceVolume@debug@dvacore@@YAHXZ
+25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvacore.dll,GetTraceVolume,const-ref-string_view,?GetTraceVolume@debug@dvacore@@YAHAEBV?$basic_string_view@DU?$char_traits@D@std@@@std@@@Z
+25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvacore.dll,GetTraceVolume,const-ref-string_view,?GetTraceVolume@debug@dvacore@@YAHAEBV?$basic_string_view@EU?$char_traits@E@std@@@std@@@Z
+25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvacore.dll,InstallMasterTraceHandler,stable-non-string-view,?InstallMasterTraceHandler@debug@dvacore@@YAXPEAVTraceHandler@12@@Z
+25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvacore.dll,MasterTraceToStdErr,stable-non-string-view,?MasterTraceToStdErr@debug@dvacore@@YAXXZ
+25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvacore.dll,RemoveMasterTraceHandler,stable-non-string-view,?RemoveMasterTraceHandler@debug@dvacore@@YAXXZ
+25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvacore.dll,SetMasterTraceVolume,stable-non-string-view,?SetMasterTraceVolume@debug@dvacore@@YAXH@Z
+25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvacore.dll,SetTraceVolume,const-ref-string_view,?SetTraceVolume@debug@dvacore@@YAXAEBV?$basic_string_view@DU?$char_traits@D@std@@@std@@H@Z
+25.6,C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvacore.dll,SetTraceVolume,const-ref-string_view,?SetTraceVolume@debug@dvacore@@YAXAEBV?$basic_string_view@EU?$char_traits@E@std@@@std@@H@Z
+26.3,D:\Adobe\Adobe After Effects 2026\Support Files\dvacore.dll,GetMasterTraceHandler,stable-non-string-view,?GetMasterTraceHandler@debug@dvacore@@YAPEAVTraceHandler@12@XZ
+26.3,D:\Adobe\Adobe After Effects 2026\Support Files\dvacore.dll,GetMasterTraceVolume,stable-non-string-view,?GetMasterTraceVolume@debug@dvacore@@YAHXZ
+26.3,D:\Adobe\Adobe After Effects 2026\Support Files\dvacore.dll,GetTraceVolume,by-value-string_view,?GetTraceVolume@debug@dvacore@@YAHV?$basic_string_view@DU?$char_traits@D@std@@@std@@@Z
+26.3,D:\Adobe\Adobe After Effects 2026\Support Files\dvacore.dll,GetTraceVolume,by-value-string_view,?GetTraceVolume@debug@dvacore@@YAHV?$basic_string_view@EU?$char_traits@E@std@@@std@@@Z
+26.3,D:\Adobe\Adobe After Effects 2026\Support Files\dvacore.dll,InstallMasterTraceHandler,stable-non-string-view,?InstallMasterTraceHandler@debug@dvacore@@YAXPEAVTraceHandler@12@@Z
+26.3,D:\Adobe\Adobe After Effects 2026\Support Files\dvacore.dll,MasterTraceToStdErr,stable-non-string-view,?MasterTraceToStdErr@debug@dvacore@@YAXXZ
+26.3,D:\Adobe\Adobe After Effects 2026\Support Files\dvacore.dll,RemoveMasterTraceHandler,stable-non-string-view,?RemoveMasterTraceHandler@debug@dvacore@@YAXXZ
+26.3,D:\Adobe\Adobe After Effects 2026\Support Files\dvacore.dll,SetMasterTraceVolume,stable-non-string-view,?SetMasterTraceVolume@debug@dvacore@@YAXH@Z
+26.3,D:\Adobe\Adobe After Effects 2026\Support Files\dvacore.dll,SetTraceVolume,by-value-string_view,?SetTraceVolume@debug@dvacore@@YAXV?$basic_string_view@DU?$char_traits@D@std@@@std@@H@Z
+26.3,D:\Adobe\Adobe After Effects 2026\Support Files\dvacore.dll,SetTraceVolume,by-value-string_view,?SetTraceVolume@debug@dvacore@@YAXV?$basic_string_view@EU?$char_traits@E@std@@@std@@H@Z

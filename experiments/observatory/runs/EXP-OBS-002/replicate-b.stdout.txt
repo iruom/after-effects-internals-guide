@@ -1,0 +1,8 @@
+db_bytes=6187
+category=BEE_Cache volume=5 enabled1=1 enabled5=1 enabled6=0
+category=BEE_WorkQueue volume=5 enabled1=1 enabled5=1 enabled6=0
+category=DiskCache volume=5 enabled1=1 enabled5=1 enabled6=0
+category=GPUFoundation volume=5 enabled1=1 enabled5=1 enabled6=0
+category=NoSuchAEIGCategory volume=5 enabled1=1 enabled5=1 enabled6=0
+mutation before=5 low=5 e123=111 high=5 e678=000 change=1->3
+master=10->3 enabled246=100 ->10 enabled246=110

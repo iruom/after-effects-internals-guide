@@ -1,0 +1,161 @@
+# After Effects 25.6 SDK Deep Mining Queue
+
+- Files: 284
+- Scored developer-comment leads: 388
+- API/Suite usage records: 5680
+
+## Top research targets
+
+- score   30.35 | comment    7 | internal   0 | suites 462 | flags 115 |   624 lines | `Util\AEGP_SuiteHandler.h`
+- score   16.75 | comment  150 | internal   3 | suites 149 | flags 1478 |  5741 lines | `Headers\AE_GeneralPlug.h`
+- score   12.55 | comment  169 | internal   2 | suites   5 | flags  16 |   175 lines | `Headers\AE_ComputeCacheSuite.h`
+- score   10.64 | comment  288 | internal   1 | suites  14 | flags   0 |   504 lines | `Headers\SP\SPRuntme.h`
+- score    8.96 | comment  306 | internal   0 | suites 204 | flags 773 | 10882 lines | `Headers\AE_GeneralPlugOld.h`
+- score    8.74 | comment  277 | internal   0 | suites  16 | flags   0 |   654 lines | `Headers\SP\SPPlugs.h`
+- score    7.61 | comment  144 | internal   0 | suites  18 | flags   0 |   315 lines | `Headers\SP\SPSuites.h`
+- score    6.91 | comment  164 | internal   0 | suites  12 | flags   0 |   406 lines | `Headers\SP\SPAdapts.h`
+- score    6.03 | comment  132 | internal   0 | suites   8 | flags   0 |   337 lines | `Headers\SP\SPProps.h`
+- score    5.76 | comment  129 | internal   0 | suites  11 | flags   0 |   379 lines | `Headers\SP\SPAccess.h`
+- score    5.49 | comment   64 | internal   0 | suites  16 | flags   0 |   182 lines | `Headers\SP\SPBasic.h`
+- score    4.84 | comment  136 | internal   0 | suites   9 | flags   0 |   540 lines | `Headers\SP\SPFiles.h`
+- score    4.56 | comment   48 | internal   0 | suites   7 | flags   0 |   115 lines | `Headers\SP\SPBckDbg.h`
+- score    4.54 | comment    0 | internal   0 | suites  16 | flags 127 |   643 lines | `AEGP\ProjDumper\ProjDumper.cpp`
+- score    4.46 | comment   36 | internal   0 | suites  35 | flags  22 |   447 lines | `UI\HistoGrid\HistoGrid_UI_Handler.cpp`
+- score    4.38 | comment   73 | internal  18 | suites   8 | flags 104 |  3236 lines | `Headers\AE_Effect.h`
+- score    4.32 | comment   48 | internal   0 | suites   7 | flags   0 |   127 lines | `Headers\SP\SPCaches.h`
+- score    4.27 | comment    0 | internal   0 | suites   7 | flags  79 |   271 lines | `AEGP\Queuebert\QueueBert.cpp`
+- score    4.21 | comment    0 | internal   2 | suites   6 | flags   5 |    52 lines | `Headers\AE_HashSuite.h`
+- score    4.21 | comment    0 | internal   0 | suites  15 | flags  82 |   390 lines | `AEGP\Mangler\Mangler.cpp`
+- score    4.02 | comment   13 | internal   3 | suites  40 | flags   6 |   547 lines | `Headers\PrSDKAESupport.h`
+- score    3.97 | comment    0 | internal   0 | suites  20 | flags 117 |   801 lines | `AEGP\Projector\Projector.cpp`
+- score    3.84 | comment    0 | internal   0 | suites   6 | flags  16 |    37 lines | `Util\AEGP_Utils.cpp`
+- score    3.60 | comment    0 | internal   0 | suites   8 | flags  45 |   172 lines | `AEGP\Text_Twiddler\Text_Twiddler.cpp`
+- score    3.51 | comment    0 | internal   0 | suites  13 | flags  76 |   457 lines | `AEGP\Easy_Cheese\Easy_Cheese.cpp`
+- score    3.43 | comment    0 | internal   1 | suites   0 | flags   0 |     7 lines | `AEGP\ProjDumper\GP_Vers.h`
+- score    3.38 | comment   40 | internal   0 | suites   9 | flags   0 |   176 lines | `Headers\SP\SPInterf.h`
+- score    3.37 | comment   32 | internal   0 | suites   7 | flags   0 |   116 lines | `Headers\SP\SPBlocks.h`
+- score    3.36 | comment    6 | internal   6 | suites  18 | flags  23 |   717 lines | `Effect\PathMaster\PathMaster.cpp`
+- score    3.22 | comment    0 | internal   0 | suites   8 | flags  43 |   198 lines | `AEGP\Grabba\Grabba.cpp`
+- score    3.06 | comment    0 | internal   0 | suites  66 | flags   0 |   936 lines | `Headers\AE_EffectCBSuites.h`
+- score    3.00 | comment   37 | internal   0 | suites  11 | flags   8 |   283 lines | `Headers\AE_EffectSuitesOld.h`
+- score    3.00 | comment    0 | internal   0 | suites   8 | flags  49 |   268 lines | `AEGP\Streamie\Streamie.cpp`
+- score    2.90 | comment    4 | internal   7 | suites  27 | flags  16 |  1210 lines | `Effect\SDK_Invert_ProcAmp\SDK_Invert_ProcAmp.cpp`
+- score    2.90 | comment   37 | internal   0 | suites  35 | flags   4 |   756 lines | `Headers\AE_EffectSuites.h`
+- score    2.85 | comment   24 | internal   0 | suites   0 | flags   0 |    48 lines | `Headers\SP\SPSTSPrp.h`
+- score    2.84 | comment    0 | internal   0 | suites  30 | flags   9 |   331 lines | `GPUUtils\PrGPUFilterModule.h`
+- score    2.72 | comment   12 | internal   0 | suites  17 | flags   0 |   171 lines | `Headers\SP\SPErrorCodes.h`
+- score    2.60 | comment    0 | internal   1 | suites   4 | flags  24 |   157 lines | `Headers\AE_GeneralPlugPanels.h`
+- score    2.53 | comment    0 | internal   0 | suites  13 | flags   2 |    79 lines | `AEGP\Sweetie\Sweetie.cpp`
+- score    2.45 | comment    0 | internal   0 | suites   6 | flags  26 |   146 lines | `AEGP\Panelator\Panelator.cpp`
+- score    2.40 | comment    8 | internal   3 | suites  23 | flags  35 |  1208 lines | `UI\Supervisor\Supervisor.cpp`
+- score    2.29 | comment    0 | internal   0 | suites   5 | flags  30 |   181 lines | `AEGP\Commando\Commando.cpp`
+- score    2.19 | comment   50 | internal   0 | suites   1 | flags   0 |   317 lines | `Headers\SP\SPPiPL.h`
+- score    2.10 | comment    0 | internal   0 | suites   5 | flags  26 |   176 lines | `AEGP\Persisto\Persisto.cpp`
+- score    2.05 | comment    0 | internal   0 | suites  15 | flags   1 |   139 lines | `Util\AEFX_SuiteHelper.c`
+- score    2.05 | comment    6 | internal   2 | suites  22 | flags  30 |  1176 lines | `Effect\SmartyPants\SmartyPants.cpp`
+- score    1.99 | comment    4 | internal   0 | suites  11 | flags  38 |   552 lines | `Effect\Resizer\Resizer.cpp`
+- score    1.95 | comment    0 | internal   0 | suites   4 | flags   0 |    13 lines | `Util\DuckSuite.h`
+- score    1.95 | comment   13 | internal   2 | suites  12 | flags  16 |   725 lines | `UI\ColorGrid\ColorGrid.cpp`
+
+## Highest-scoring developer comments
+
+- 15 | `Headers\AE_GeneralPlug.h:3636` | not thread safe on MacOS
+- 15 | `Headers\AE_GeneralPlugOld.h:1370` | not thread safe on MacOS
+- 15 | `Headers\AE_GeneralPlugOld.h:1092` | not thread safe on MacOS
+- 15 | `Headers\AE_GeneralPlugOld.h:839` | not thread safe on MacOS
+- 15 | `Headers\AE_GeneralPlugOld.h:590` | not thread safe on MacOS
+- 15 | `Headers\AE_GeneralPlugOld.h:460` | not thread safe on MacOS
+- 15 | `Headers\AE_GeneralPlugOld.h:121` | not thread safe on MacOS
+- 15 | `Headers\SP\SPAdapts.h:135` | * @deprecated Used internally.   */
+- 15 | `Headers\SP\SPAdapts.h:133` | * @deprecated Used internally.   */
+- 15 | `Headers\SP\SPAdapts.h:131` | * @deprecated Used internally.  */
+- 15 | `Headers\SP\SPAdapts.h:129` | * @deprecated Used internally. */
+- 13 | `Headers\AE_Effect.h:2087` | PF_Arbitrary_UNFLATTEN_FUNC
+- 13 | `UI\ColorGrid\ColorGrid.cpp:582` | (extra->u.unflatten_func_params.arbPH) = handle;
+- 11 | `Headers\AE_ComputeCacheSuite.h:160` | Get the cache value from a checkout receipt.
+- 11 | `Headers\AE_ComputeCacheSuite.h:105` | If a render call only needs one cache value then set wait_for_other_threadB to true. The checkout call will return a receipt,
+- 11 | `Headers\AE_GeneralPlug.h:5427` | checking in to the cache. a speculative renderer should check this twice:
+- 11 | `Headers\AE_GeneralPlugOld.h:8587` | checking in to the cache. a speculative renderer should check this twice:
+- 11 | `Headers\AE_GeneralPlugOld.h:8507` | checking in to the cache. a speculative renderer should check this twice:
+- 11 | `Headers\AE_GeneralPlugOld.h:8437` | checking in to the cache. a speculative renderer should check this twice:
+- 10 | `Headers\AE_ComputeCacheSuite.h:41` | GUID used as the cache key.
+-  9 | `Headers\AE_EffectCB.h:263` | confusing -- you probably want PF_TransferMode_ZERO_SRC_ALPHA_CLEARS_DST_ALPHA
+-  9 | `Headers\AE_EffectSuites.h:244` | IMPORTANT: as of 13.5 to avoid threading deadlock problems, PF_GetCurrentState() returns a random state
+-  9 | `Headers\AE_GeneralPlug.h:5362` | render_plain_layer_frameB was confusing and is not the design we want going forward
+-  8 | `Headers\AE_Effect.h:67` | End of A_INTERNAL consistency check.
+-  8 | `Headers\AE_Effect.h:53` | You can define A_SUPPRESS_A_INTERNAL_WARNING if you have a plugin
+-  8 | `Headers\AE_Effect.h:51` | this file with contradictory settings of A_INTERNAL. It must
+-  8 | `Headers\AE_EffectSuites.h:673` | This suite should be used for stroking/filling paths, vertices etc on Comp/Layer window. After Effects is internally using it
+-  8 | `Headers\PrSDKAESupport.h:73` | other than PPRO because PREMIERE_INTERNAL
+-  8 | `Util\DirectXUtils.cpp:42` | Subtle: The ComPtr constructor does an internal AddRef which would balance the RelaseRef when DXContext is deleted
+-  8 | `UI\HistoGrid\HistoGrid_UI_Handler.cpp:191` | ask the async manager to checkout the desired frame. if this isn't in cache,
+-  8 | `Headers\SP\SPAccess.h:364` | * Internal */
+-  8 | `Headers\SP\SPAccess.h:362` | * Internal */
+-  8 | `Headers\SP\SPAccess.h:358` | * Internal */
+-  8 | `Headers\SP\SPAccess.h:355` | * Internal */
+-  8 | `Headers\SP\SPAccess.h:353` | * Internal */
+-  8 | `Headers\SP\SPAccess.h:350` | * Internal */
+-  8 | `Headers\SP\SPAccess.h:348` | * Internal */
+-  8 | `Headers\SP\SPAccess.h:346` | * Internal */
+-  8 | `Headers\SP\SPAccess.h:344` | * Internal */
+-  8 | `Headers\SP\SPAccess.h:342` | * Internal */
+-  8 | `Headers\SP\SPAccess.h:339` | * Internal */
+-  8 | `Headers\SP\SPAccess.h:337` | * Internal */
+-  8 | `Headers\SP\SPAccess.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SP\SPAdapts.h:391` | * Internal */
+-  8 | `Headers\SP\SPAdapts.h:389` | * Internal */
+-  8 | `Headers\SP\SPAdapts.h:387` | * Internal */
+-  8 | `Headers\SP\SPAdapts.h:384` | * Internal */
+-  8 | `Headers\SP\SPAdapts.h:382` | * Internal */
+-  8 | `Headers\SP\SPAdapts.h:380` | * Internal */
+-  8 | `Headers\SP\SPAdapts.h:377` | * Internal */
+-  8 | `Headers\SP\SPAdapts.h:373` | * Internal */
+-  8 | `Headers\SP\SPAdapts.h:370` | * Internal */
+-  8 | `Headers\SP\SPAdapts.h:368` | * Internal */
+-  8 | `Headers\SP\SPAdapts.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SP\SPBasic.h:167` | * Internal */
+-  8 | `Headers\SP\SPBasic.h:165` | * Internal */
+-  8 | `Headers\SP\SPBasic.h:163` | * Internal */
+-  8 | `Headers\SP\SPBasic.h:161` | * Internal */
+-  8 | `Headers\SP\SPBasic.h:159` | * Internal */
+-  8 | `Headers\SP\SPBasic.h:157` | * Internal */
+-  8 | `Headers\SP\SPBasic.h:155` | * Internal */
+-  8 | `Headers\SP\SPBasic.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SP\SPBckDbg.h:100` | * Internal */
+-  8 | `Headers\SP\SPBckDbg.h:98` | * Internal */
+-  8 | `Headers\SP\SPBckDbg.h:96` | * Internal */
+-  8 | `Headers\SP\SPBckDbg.h:94` | * Internal */
+-  8 | `Headers\SP\SPBckDbg.h:92` | * Internal */
+-  8 | `Headers\SP\SPBckDbg.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SP\SPBlocks.h:101` | * Internal */
+-  8 | `Headers\SP\SPBlocks.h:99` | * Internal */
+-  8 | `Headers\SP\SPBlocks.h:97` | * Internal */
+-  8 | `Headers\SP\SPBlocks.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SP\SPCaches.h:120` | * Internal */
+-  8 | `Headers\SP\SPCaches.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SP\SPConfig.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SP\SPErrorCodes.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SP\SPErrors.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SP\SPFiles.h:525` | * Internal */
+-  8 | `Headers\SP\SPFiles.h:523` | * Internal */
+-  8 | `Headers\SP\SPFiles.h:520` | * Internal */
+-  8 | `Headers\SP\SPFiles.h:518` | * Internal */
+-  8 | `Headers\SP\SPFiles.h:516` | * Internal */
+-  8 | `Headers\SP\SPFiles.h:514` | * Internal */
+-  8 | `Headers\SP\SPFiles.h:512` | * Internal */
+-  8 | `Headers\SP\SPFiles.h:509` | * Internal */
+-  8 | `Headers\SP\SPFiles.h:507` | * Internal */
+-  8 | `Headers\SP\SPFiles.h:505` | * Internal */
+-  8 | `Headers\SP\SPFiles.h:502` | * Internal */
+-  8 | `Headers\SP\SPFiles.h:500` | * Internal */
+-  8 | `Headers\SP\SPFiles.h:498` | * Internal */
+-  8 | `Headers\SP\SPFiles.h:496` | * Internal */
+-  8 | `Headers\SP\SPFiles.h:296` | * Internal */
+-  8 | `Headers\SP\SPFiles.h:283` | * Internal ? */
+-  8 | `Headers\SP\SPFiles.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SP\SPHost.h:14` | for their internal use. Any reproduction or dissemination of this   */
+-  8 | `Headers\SP\SPInterf.h:161` | * Internal */
+-  8 | `Headers\SP\SPInterf.h:158` | * Internal */
+-  8 | `Headers\SP\SPInterf.h:156` | * Internal */
+-  8 | `Headers\SP\SPInterf.h:152` | * Internal */
+-  8 | `Headers\SP\SPInterf.h:14` | for their internal use. Any reproduction or dissemination of this   */

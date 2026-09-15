@@ -1,0 +1,317 @@
+module,relation,entry
+ColorSpaceConverter.dll,export,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\ColorSpaceConverter.dll
+ColorSpaceConverter.dll,export,Section contains the following exports for ColorSpaceConverter.dll
+ColorSpaceConverter.dll,export,1    0 00051B00 ??0ColorAccuracyObject@Scripting@CSC@@QEAA@XZ
+ColorSpaceConverter.dll,export,2    1 00056CE0 ??0ColorSpaceObject@Scripting@CSC@@QEAA@XZ
+ColorSpaceConverter.dll,export,7    6 00051F40 ??1ColorAccuracyObject@Scripting@CSC@@UEAA@XZ
+ColorSpaceConverter.dll,export,8    7 00056F30 ??1ColorSpaceObject@Scripting@CSC@@UEAA@XZ
+ColorSpaceConverter.dll,export,23   16 000C1380 ??_7ColorAccuracyObject@Scripting@CSC@@6BRefCountedInterface@utility@dvacore@@@
+ColorSpaceConverter.dll,export,24   17 000C12C8 ??_7ColorAccuracyObject@Scripting@CSC@@6BRefCountedObjectWithWeakPtr@utility@dvacore@@@
+ColorSpaceConverter.dll,export,25   18 000C1800 ??_7ColorSpaceObject@Scripting@CSC@@6BRefCountedInterface@utility@dvacore@@@
+ColorSpaceConverter.dll,export,26   19 000C1748 ??_7ColorSpaceObject@Scripting@CSC@@6BRefCountedObjectWithWeakPtr@utility@dvacore@@@
+ColorSpaceConverter.dll,export,27   1A 000C1398 ??_8ColorAccuracyObject@Scripting@CSC@@7B@
+ColorSpaceConverter.dll,export,28   1B 000C1818 ??_8ColorSpaceObject@Scripting@CSC@@7B@
+ColorSpaceConverter.dll,export,29   1C 00052650 ??_DColorAccuracyObject@Scripting@CSC@@QEAAXXZ
+ColorSpaceConverter.dll,export,30   1D 000570E0 ??_DColorSpaceObject@Scripting@CSC@@QEAAXXZ
+ColorSpaceConverter.dll,export,31   1E 0002CFD0 ?ACEConvertFrame@CSC@@YAHAEBV?$shared_ptr@VDevice@GF@@@std@@PEAVACETransform@@1AEAV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEBVGuid@utility@7@AEBUColorSpace@color@dvamediatypes@@AEBV?$shared_ptr@UColorConvertParams@GF@@@3@@Z
+ColorSpaceConverter.dll,export,32   1F 00036710 ?ACEOptMatrixRGBtoRGB@GF@@YAHAEBV?$shared_ptr@VDevice@GF@@@std@@PEBXHUPixelFormat@dvamediatypes@@HH1H2HH1H2HHAEBUACEOptMatrixRGBtoRGB_Parameters@1@AEBVGuid@utility@dvacore@@AEBV?$shared_ptr@UColorConvertParams@GF@@@3@@Z
+ColorSpaceConverter.dll,export,33   20 00039D70 ?ACEOptMatrixRGBtoRGBOverRange@GF@@YAHAEBV?$shared_ptr@VDevice@GF@@@std@@PEBXHUPixelFormat@dvamediatypes@@HH1H2HH1H2HHAEBUMatrixRGBtoRGBOverRangeTables@1@AEBUACEOptMatrixRGBtoRGB_Parameters@1@AEBVGuid@utility@dvacore@@AEBV?$shared_ptr@UColorConvertParams@GF@@@3@@Z
+ColorSpaceConverter.dll,export,34   21 0003CCF0 ?ACEOptPreciseMatrixMk2RGBtoRGBOverRange@GF@@YAHAEBV?$shared_ptr@VDevice@GF@@@std@@PEBXHUPixelFormat@dvamediatypes@@HH1H2HHAEBUACEOptMatrixRGBtoRGB_Parameters_3x4@1@AEBVGuid@utility@dvacore@@AEBV?$shared_ptr@UColorConvertParams@GF@@@3@@Z
+ColorSpaceConverter.dll,export,35   22 0003E980 ?ACEOptRGBtoRGB@GF@@YAHAEBV?$shared_ptr@VDevice@GF@@@std@@PEBXHUPixelFormat@dvamediatypes@@HH1H2HH1H2HHHAEBVGuid@utility@dvacore@@AEBV?$shared_ptr@UColorConvertParams@GF@@@3@@Z
+ColorSpaceConverter.dll,export,36   23 0003F7D0 ?ACEOptRGBtoRGBOverRange@GF@@YAHAEBV?$shared_ptr@VDevice@GF@@@std@@PEBXHUPixelFormat@dvamediatypes@@HH1H2HH1H2HHHAEBVGuid@utility@dvacore@@AEBV?$shared_ptr@UColorConvertParams@GF@@@3@@Z
+ColorSpaceConverter.dll,export,37   24 000421D0 ?AllocateHostFrameForUpload@GPUFrameManipulators@VF@@YA?AV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEBV?$shared_ptr@VDevice@GF@@@std@@AEBV345@W4RenderQuality@dvamediatypes@@AEBV?$RectT@H@geom@5@@Z
+ColorSpaceConverter.dll,export,39   26 00007760 ?AreColorSpacesEquivalent@CSC@@YA_NAEBUColorSpace@color@dvamediatypes@@0AEBUPixelFormat@4@1AEBW4MatchColorSpaceFlag@ColorTags@MF@@@Z
+ColorSpaceConverter.dll,export,42   29 000583F0 ?CalculateAlphaBounds@VideoFrameManipulators@VF@@YAXAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEAV?$RectT@H@geom@5@@Z
+ColorSpaceConverter.dll,export,43   2A 00042FF0 ?Composite@GPUFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@00MW4IR_BlendMode@@@Z
+ColorSpaceConverter.dll,export,44   2B 0004CE10 ?CompressPNG@VF@@YA?AV?$shared_ptr@VRecycledMemory@allocator@dvacore@@@std@@AEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@@Z
+ColorSpaceConverter.dll,export,45   2C 0004DCC0 ?CompressPNG@VF@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@AEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@@Z
+ColorSpaceConverter.dll,export,46   2D 000078E0 ?ConvertFrame@CSC@@YAHAEAV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEBUColorSpace@color@dvamediatypes@@UPixelFormat@7@12AEBUColorManagementSettings@67@@Z
+ColorSpaceConverter.dll,export,47   2E 000079E0 ?ConvertFrame@CSC@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEAV234@AEBUColorManagementSettings@color@dvamediatypes@@W4FieldType@7@@Z
+ColorSpaceConverter.dll,export,48   2F 00007B80 ?ConvertFrame@CSC@@YAHPEAX0HHAEBUColorSpace@color@dvamediatypes@@UPixelFormat@4@H12HAEBUColorManagementSettings@34@@Z
+ColorSpaceConverter.dll,export,49   30 000438A0 ?ConvertFrame@GPUFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@0W4RenderQuality@dvamediatypes@@V?$shared_ptr@UColorConvertParams@GF@@@std@@AEBVGuid@utility@5@@Z
+ColorSpaceConverter.dll,export,50   31 00007CD0 ?ConvertSignalToLinearValue@CSC@@YAMAEBUColorSpace@color@dvamediatypes@@AEBUColorManagementSettings@34@M@Z
+ColorSpaceConverter.dll,export,51   32 00058FE0 ?CopyField@VideoFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@0HW4RenderQuality@dvamediatypes@@@Z
+ColorSpaceConverter.dll,export,52   33 00044180 ?CopyFrame@GPUFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@0W4RenderQuality@dvamediatypes@@AEBUColorManagementSettings@color@7@@Z
+ColorSpaceConverter.dll,export,53   34 00059780 ?CopyFrame@VideoFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEAV345@W4RenderQuality@dvamediatypes@@AEBUColorManagementSettings@color@7@@Z
+ColorSpaceConverter.dll,export,54   35 00045D20 ?CopyFrameRect@GPUFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEBV?$RectT@H@geom@5@01W4RenderQuality@dvamediatypes@@@Z
+ColorSpaceConverter.dll,export,55   36 000597A0 ?CopyFrameWithFields@VideoFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEAV345@W4RenderQuality@dvamediatypes@@W4FieldType@7@AEBUColorManagementSettings@color@7@@Z
+ColorSpaceConverter.dll,export,56   37 0005AAA0 ?CopyRect@VideoFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEBV?$RectT@H@geom@5@AEAV345@1W4RenderQuality@dvamediatypes@@HAEBUColorManagementSettings@color@9@@Z
+ColorSpaceConverter.dll,export,57   38 000464B0 ?CopyToDevice@GPUFrameManipulators@VF@@YA?AV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEBV?$shared_ptr@VDevice@GF@@@std@@AEBV345@_N@Z
+ColorSpaceConverter.dll,export,58   39 00046F60 ?CopyToHostFrame@GPUFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@0W4RenderQuality@dvamediatypes@@@Z
+ColorSpaceConverter.dll,export,59   3A 0002A4A0 ?DVAColorSpaceFromColorSpaceString@CSC@@YA?AUColorSpace@color@dvamediatypes@@AEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@_N@Z
+ColorSpaceConverter.dll,export,60   3B 0002A5E0 ?DVAColorSpaceToEquivalentLinearColorSpace@CSC@@YA?AUColorSpace@color@dvamediatypes@@AEBU234@@Z
+ColorSpaceConverter.dll,export,61   3C 0002AAD0 ?DVADisplayColorSpaceToEquivalentSceneColorSpace@CSC@@YA?AUColorSpace@color@dvamediatypes@@AEBU234@@Z
+ColorSpaceConverter.dll,export,62   3D 0004DE70 ?DecompressPNG@VF@@YA?AV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@Z
+ColorSpaceConverter.dll,export,63   3E 0004E090 ?DecompressPNG@VF@@YA?AV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEBV?$shared_ptr@$$CBVRecycledMemory@allocator@dvacore@@@std@@@Z
+ColorSpaceConverter.dll,export,64   3F 0004E870 ?DecompressPNG@VF@@YA_NAEBV?$shared_ptr@$$CBVRecycledMemory@allocator@dvacore@@@std@@V?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@@Z
+ColorSpaceConverter.dll,export,65   40 000536C0 ?DefineObject@ColorAccuracyObject@Scripting@CSC@@SAXXZ
+ColorSpaceConverter.dll,export,66   41 00057290 ?DefineObject@ColorSpaceObject@Scripting@CSC@@SAXXZ
+ColorSpaceConverter.dll,export,67   42 00047C50 ?DeinterlaceFrame@GPUFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@W4IR_DeinterlaceField@@@Z
+ColorSpaceConverter.dll,export,68   43 0005B520 ?DeinterlaceVideoFrame@VideoFrameManipulators@VF@@YAXAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@H@Z
+ColorSpaceConverter.dll,export,70   45 0005BCD0 ?GetBytesPerPixelForFrame@VideoFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@@Z
+ColorSpaceConverter.dll,export,71   46 00053AF0 ?GetClassname@ColorAccuracyObject@Scripting@CSC@@SAPEBDXZ
+ColorSpaceConverter.dll,export,72   47 00057710 ?GetClassname@ColorSpaceObject@Scripting@CSC@@SAPEBDXZ
+ColorSpaceConverter.dll,export,73   48 00008EC0 ?GetColorConverterParams@CSC@@YAXAEBUColorSpace@color@dvamediatypes@@AEBUPixelFormat@4@01_NAEBUColorManagementSettings@34@AEAV?$shared_ptr@UColorConvertParams@GF@@@std@@AEAVGuid@utility@dvacore@@@Z
+ColorSpaceConverter.dll,export,74   49 00009150 ?GetColorConverterParamsForColorSpace@CSC@@YAXAEBUColorSpace@color@dvamediatypes@@_NAEBUColorManagementSettings@34@AEAV?$shared_ptr@UColorConvertParams@GF@@@std@@AEAVGuid@utility@dvacore@@@Z
+ColorSpaceConverter.dll,export,75   4A 00057720 ?GetColorMatrixEquationsCode@ColorSpaceObject@Scripting@CSC@@QEAAIXZ
+ColorSpaceConverter.dll,export,76   4B 00057770 ?GetColorPrimariesCode@ColorSpaceObject@Scripting@CSC@@QEAAIXZ
+ColorSpaceConverter.dll,export,77   4C 000577C0 ?GetColorSpace@ColorSpaceObject@Scripting@CSC@@QEBA?AUColorSpace@color@dvamediatypes@@XZ
+ColorSpaceConverter.dll,export,78   4D 000577F0 ?GetColorSpaceName@ColorSpaceObject@Scripting@CSC@@QEBA?AV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@XZ
+ColorSpaceConverter.dll,export,79   4E 00057890 ?GetColorTransferCharacteristicsCode@ColorSpaceObject@Scripting@CSC@@QEAAIXZ
+ColorSpaceConverter.dll,export,80   4F 00053B00 ?GetDeltaITP@ColorAccuracyObject@Scripting@CSC@@AEBA?AV?$vector@MU?$STLAllocator@M@allocator@dvacore@@@std@@AEBV?$IntrusivePtr@VScriptObject@dvascripting@@@RefCountedInterface@utility@dvacore@@0AEBV?$vector@IU?$STLAllocator@I@allocator@dvacore@@@5@1I@Z
+ColorSpaceConverter.dll,export,81   50 00053D90 ?GetDescription@ColorAccuracyObject@Scripting@CSC@@SAPEBDXZ
+ColorSpaceConverter.dll,export,82   51 000578E0 ?GetDescription@ColorSpaceObject@Scripting@CSC@@SAPEBDXZ
+ColorSpaceConverter.dll,export,83   52 00009430 ?GetIRDataRangeConvertParams@CSC@@YAXAEBW4VideoRange@ColorTags@MF@@AEBW4ColorType@34@AEBW4EncodingBitDepth@34@2AEAUIR_ColorConvertParams@@@Z
+ColorSpaceConverter.dll,export,84   53 00053DA0 ?GetITPValuesForTestPoints@ColorAccuracyObject@Scripting@CSC@@AEBA?AV?$vector@MU?$STLAllocator@M@allocator@dvacore@@@std@@AEBV?$IntrusivePtr@VScriptObject@dvascripting@@@RefCountedInterface@utility@dvacore@@AEBV?$vector@IU?$STLAllocator@I@allocator@dvacore@@@5@1I@Z
+ColorSpaceConverter.dll,export,85   54 000578F0 ?GetInitialized@ColorSpaceObject@Scripting@CSC@@QEAA_NXZ
+ColorSpaceConverter.dll,export,86   55 0001FE50 ?GetLinearToSignalTransferFn@CSC@@YA?AV?$function@$$A6AXPEAMM@Z@std@@AEBW4TransferCharacteristic@ColorTags@MF@@AEBW4VideoColorimetry@56@@Z
+ColorSpaceConverter.dll,export,87   56 00009710 ?GetMainDisplayColorSpace@CSC@@YA?AUColorSpace@color@dvamediatypes@@XZ
+ColorSpaceConverter.dll,export,89   58 00057900 ?GetPeakLuminance@ColorSpaceObject@Scripting@CSC@@QEAAHXZ
+ColorSpaceConverter.dll,export,90   59 0000A070 ?GetRGBYUVConversionMatrices@CSC@@YA?AURGBYUVConversionMatrices@1@AEBUColorSpace@color@dvamediatypes@@AEBW4ColorAwareEffectsEnabled@45@@Z
+ColorSpaceConverter.dll,export,91   5A 0000A3E0 ?GetRGBYUVConversionMatrices@CSC@@YA?AURGBYUVConversions@GF@@AEBUColorSpace@color@dvamediatypes@@AEAVGuid@utility@dvacore@@AEBW4ColorAwareEffectsEnabled@56@@Z
+ColorSpaceConverter.dll,export,92   5B 00020140 ?GetRGBtoXYZMatrix@CSC@@YA?AV?$array@M$08@std@@AEBUColorSpace@color@dvamediatypes@@@Z
+ColorSpaceConverter.dll,export,93   5C 0005BDC0 ?GetRowBytesForFrame@VideoFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@@Z
+ColorSpaceConverter.dll,export,94   5D 00020330 ?GetSignalToLinearTransferFn@CSC@@YA?AV?$function@$$A6AXPEAMM@Z@std@@AEBW4TransferCharacteristic@ColorTags@MF@@AEBW4VideoColorimetry@56@@Z
+ColorSpaceConverter.dll,export,95   5E 00020360 ?GetSignalValueForGraphicsWhiteLevel@CSC@@YAMAEBUColorSpace@color@dvamediatypes@@AEBUColorManagementSettings@34@@Z
+ColorSpaceConverter.dll,export,96   5F 0005BEC0 ?GetSupportedPixelFormatRepresentation@VideoFrameManipulators@VF@@YA?AV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEBV345@@Z
+ColorSpaceConverter.dll,export,98   61 0000A520 ?ICCEquivalentColorSpaceForColorSpace@CSC@@YA?AV?$shared_ptr@UColorSpace@color@dvamediatypes@@@std@@AEBUColorSpace@color@dvamediatypes@@@Z
+ColorSpaceConverter.dll,export,99   62 0000AD50 ?ICCProfileDescriptionForModelColorSpace@CSC@@YA?AV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@AEBUColorSpace@color@dvamediatypes@@AEBW4GraphicsWhiteLuminance@56@_N@Z
+ColorSpaceConverter.dll,export,100   63 00057930 ?Initialize@ColorSpaceObject@Scripting@CSC@@QEAAXAEBUColorSpace@color@dvamediatypes@@@Z
+ColorSpaceConverter.dll,export,101   64 00048350 ?InterlaceFrames@GPUFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@00W4FieldType@dvamediatypes@@@Z
+ColorSpaceConverter.dll,export,102   65 0005C330 ?InterpFieldToFrame@VideoFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@0H@Z
+ColorSpaceConverter.dll,export,103   66 0005C370 ?InvertAlpha@VideoFrameManipulators@VF@@YAXAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@@Z
+ColorSpaceConverter.dll,export,104   67 00057970 ?IsEmpty@ColorSpaceObject@Scripting@CSC@@QEBA_NXZ
+ColorSpaceConverter.dll,export,105   68 00057990 ?IsEqual@ColorSpaceObject@Scripting@CSC@@UEBA_NAEBV?$IntrusivePtr@VScriptObject@dvascripting@@@RefCountedInterface@utility@dvacore@@@Z
+ColorSpaceConverter.dll,export,108   6B 00057A80 ?IsSceneReferred@ColorSpaceObject@Scripting@CSC@@QEBA_NXZ
+ColorSpaceConverter.dll,export,109   6C 0000B510 ?IsSourceDynamicRangeBigger@CSC@@YAMAEBUColorSpace@color@dvamediatypes@@0@Z
+ColorSpaceConverter.dll,export,110   6D 0000B840 ?IsSourceGamutBigger@CSC@@YA_NAEBUColorSpace@color@dvamediatypes@@0@Z
+ColorSpaceConverter.dll,export,112   6F 0005C590 ?LoadExternal@VideoFrameManipulators@VF@@YAXAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@PEAXH@Z
+ColorSpaceConverter.dll,export,113   70 0005C610 ?LoadExternal@VideoFrameManipulators@VF@@YAXAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@PEAXHHH@Z
+ColorSpaceConverter.dll,export,114   71 0005C8C0 ?MakeAddressableVideoFrame@VideoFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEAV345@UPixelFormat@dvamediatypes@@W4RenderQuality@7@@Z
+ColorSpaceConverter.dll,export,115   72 0005CCA0 ?MakeWriteableVideoFrame@VideoFrameManipulators@VF@@YA?AV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@V345@W4RenderQuality@dvamediatypes@@@Z
+ColorSpaceConverter.dll,export,116   73 0005CF20 ?MergePulldownFrames@VideoFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@0@Z
+ColorSpaceConverter.dll,export,117   74 0005D2F0 ?OpaqueAlpha@VideoFrameManipulators@VF@@YAXAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@@Z
+ColorSpaceConverter.dll,export,118   75 00049100 ?ReadBackFrame@GPUFrameManipulators@VF@@YA?AV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEBV345@UPixelFormat@dvamediatypes@@V?$RectT@H@geom@5@VPixelAspectRatio@7@W4FieldType@7@W4RenderQuality@7@_NAEBU67@AEBUColorSpace@color@7@AEBUColorManagementSettings@color@7@@Z
+ColorSpaceConverter.dll,export,119   76 0004AA90 ?ReadFromSSG@GPUFrameManipulators@VF@@YA_NAEAV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEBVGuid@utility@5@AEBV?$shared_ptr@VDevice@GF@@@std@@UPixelFormat@dvamediatypes@@IIVPixelAspectRatio@dvamediatypes@@W4FieldType@dvamediatypes@@II@Z
+ColorSpaceConverter.dll,export,121   78 00057AF0 ?SetPeakLuminance@ColorSpaceObject@Scripting@CSC@@QEAA_NH@Z
+ColorSpaceConverter.dll,export,122   79 0005D5C0 ?StoreExternal@VideoFrameManipulators@VF@@YAXAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@PEAXH@Z
+ColorSpaceConverter.dll,export,123   7A 0005D640 ?StoreExternal@VideoFrameManipulators@VF@@YAXAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@PEAXHHH@Z
+ColorSpaceConverter.dll,export,124   7B 0005D900 ?SwapFields@VideoFrameManipulators@VF@@YAXAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEAV345@@Z
+ColorSpaceConverter.dll,export,125   7C 0004B0C0 ?UnpremultiplyFrame@GPUFrameManipulators@VF@@YAHAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@V?$ParamColor@E@ASL@@@Z
+ColorSpaceConverter.dll,export,126   7D 0004B580 ?UploadFrameImmediate@GPUFrameManipulators@VF@@YA?AV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEBV?$shared_ptr@VDevice@GF@@@std@@AEBV345@UPixelFormat@dvamediatypes@@W4RenderQuality@9@AEBV?$RectT@H@geom@5@@Z
+ColorSpaceConverter.dll,export,127   7E 0005DAA0 ?VerticalConvolve@VideoFrameManipulators@VF@@YAXAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@0@Z
+ColorSpaceConverter.dll,export,128   7F 0000C330 ?WorkingModelColorSpaceEquivalentForICCProfile@CSC@@YA_NAEBUColorSpace@color@dvamediatypes@@AEAU234@AEAW4GraphicsWhiteLuminance@34@@Z
+ColorSpaceConverter.dll,export,129   80 0004BE30 ?WriteToSSG@GPUFrameManipulators@VF@@YA_NAEBV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@AEBVGuid@utility@5@AEBV?$shared_ptr@VDevice@GF@@@std@@UPixelFormat@dvamediatypes@@IIVPixelAspectRatio@dvamediatypes@@W4FieldType@dvamediatypes@@II@Z
+ColorSpaceConverter.dll,depends,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\ColorSpaceConverter.dll
+ColorSpaceConverter.dll,depends,KERNEL32.dll
+ColorSpaceConverter.dll,depends,dvacore.dll
+ColorSpaceConverter.dll,depends,dvaappsupport.dll
+ColorSpaceConverter.dll,depends,dvascripting.dll
+ColorSpaceConverter.dll,depends,dvabravoinitializer.dll
+ColorSpaceConverter.dll,depends,dvamediatypes.dll
+ColorSpaceConverter.dll,depends,ASLFoundation.dll
+ColorSpaceConverter.dll,depends,PRM.dll
+ColorSpaceConverter.dll,depends,OCIOAPIProvider.dll
+ColorSpaceConverter.dll,depends,MediaFoundation.dll
+ColorSpaceConverter.dll,depends,ImageRenderer.dll
+ColorSpaceConverter.dll,depends,VideoFrame.dll
+ColorSpaceConverter.dll,depends,ACEWrapper.dll
+ColorSpaceConverter.dll,depends,MSVCP140.dll
+ColorSpaceConverter.dll,depends,VCRUNTIME140.dll
+ColorSpaceConverter.dll,depends,VCRUNTIME140_1.dll
+ColorSpaceConverter.dll,depends,api-ms-win-crt-heap-l1-1-0.dll
+ColorSpaceConverter.dll,depends,api-ms-win-crt-runtime-l1-1-0.dll
+ColorSpaceConverter.dll,depends,api-ms-win-crt-math-l1-1-0.dll
+ColorSpaceConverter.dll,depends,api-ms-win-crt-stdio-l1-1-0.dll
+ColorSpaceConverter.dll,depends,api-ms-win-crt-string-l1-1-0.dll
+ColorSpaceConverter.dll,depends,api-ms-win-crt-filesystem-l1-1-0.dll
+ColorSpaceConverter.dll,depends,api-ms-win-crt-time-l1-1-0.dll
+ColorSpaceConverter.dll,depends,api-ms-win-crt-convert-l1-1-0.dll
+ColorSpaceConverter.dll,depends,GPUFoundation.dll
+OCIOWrapper.dll,export,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\OCIOWrapper.dll
+OCIOWrapper.dll,export,Section contains the following exports for OCIOWrapper.dll
+OCIOWrapper.dll,export,1    0 0000DD90 ?ApplyCDLTransformCPU@OCIOW@@YAHPEBXHAEBUPixelFormat@dvamediatypes@@PEAXH1HHAEBUOCIOCDLTransformSettings@OCIOAPIProvider@@@Z
+OCIOWrapper.dll,export,2    1 0000E020 ?ApplyCDLTransformGPU@OCIOW@@YAHAEBV?$shared_ptr@VDevice@GF@@@std@@PEBXHAEBUPixelFormat@dvamediatypes@@PEAXH2HHAEBUOCIOCDLTransformSettings@OCIOAPIProvider@@@Z
+OCIOWrapper.dll,export,3    2 0000E2C0 ?ApplyFileTransformCPU@OCIOW@@YAHPEBXHAEBUPixelFormat@dvamediatypes@@PEAXH1HHAEBUOCIOFileTransformSettings@OCIOAPIProvider@@@Z
+OCIOWrapper.dll,export,4    3 0000E550 ?ApplyFileTransformGPU@OCIOW@@YAHAEBV?$shared_ptr@VDevice@GF@@@std@@PEBXHAEBUPixelFormat@dvamediatypes@@PEAXH2HHAEBUOCIOFileTransformSettings@OCIOAPIProvider@@@Z
+OCIOWrapper.dll,export,5    4 0000E7F0 ?ApplyLookTransformCPU@OCIOW@@YAHPEBXHAEBUColorSpace@color@dvamediatypes@@AEBUPixelFormat@4@PEAXH12HHAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@_N4@Z
+OCIOWrapper.dll,export,6    5 0000EA90 ?ApplyLookTransformGPU@OCIOW@@YAHAEBV?$shared_ptr@VDevice@GF@@@std@@PEBXHAEBUColorSpace@color@dvamediatypes@@AEBUPixelFormat@6@PEAXH23HHAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@3@_N5@Z
+OCIOWrapper.dll,export,7    6 0000ED40 ?AreColorSpacesEquivalent@OCIOW@@YA_NAEBUColorSpace@color@dvamediatypes@@0@Z
+OCIOWrapper.dll,export,8    7 0000EEF0 ?ConvertFrameCPU@OCIOW@@YAHPEBXHAEBUPixelFormat@dvamediatypes@@AEBUColorSpace@color@3@PEAXH12HHAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@Z
+OCIOWrapper.dll,export,9    8 0000F190 ?ConvertFrameGPU@OCIOW@@YAHAEBV?$shared_ptr@VDevice@GF@@@std@@PEBXHAEBUPixelFormat@dvamediatypes@@AEBUColorSpace@color@5@PEAXH23HHAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@3@@Z
+OCIOWrapper.dll,export,10    9 0000F940 ?GetBuiltInOCIOConfigurations@OCIOW@@YAXAEAV?$vector@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@U?$STLAllocator@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@allocator@dvacore@@@std@@@Z
+OCIOWrapper.dll,export,11    A 0000F950 ?GetCCCIDListForOCIOCDLTransform@OCIOW@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@AEAV?$vector@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@U?$STLAllocator@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@allocator@dvacore@@@3@@Z
+OCIOWrapper.dll,export,12    B 0000FDA0 ?GetColorSpaceForOCIORole@OCIOW@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@0AEAUColorSpace@color@dvamediatypes@@@Z
+OCIOWrapper.dll,export,13    C 0000FE20 ?GetColorSpaces@OCIOW@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@AEAV?$vector@UColorSpace@color@dvamediatypes@@U?$STLAllocator@UColorSpace@color@dvamediatypes@@@allocator@dvacore@@@3@@Z
+OCIOWrapper.dll,export,14    D 0000FEA0 ?GetDefaultOCIOConfiguration@OCIOW@@YA?AV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@XZ
+OCIOWrapper.dll,export,15    E 0000FEC0 ?GetDisplayViewColorSpaces@OCIOW@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@AEAV?$vector@UColorSpace@color@dvamediatypes@@U?$STLAllocator@UColorSpace@color@dvamediatypes@@@allocator@dvacore@@@3@@Z
+OCIOWrapper.dll,export,16    F 0000FF40 ?GetLookColorSpaces@OCIOW@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@AEAV?$vector@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@U?$STLAllocator@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@allocator@dvacore@@@3@@Z
+OCIOWrapper.dll,export,17   10 0000FFC0 ?GetOCIOColorSpaceBasedOnFileRule@OCIOW@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@0AEAUColorSpace@color@dvamediatypes@@@Z
+OCIOWrapper.dll,export,18   11 00010050 ?GetOCIOConfigurationAbsoluteFilePath@OCIOW@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@AEAV23@@Z
+OCIOWrapper.dll,export,19   12 000100D0 ?GetOCIODisplayColorSpaces@OCIOW@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@AEAV?$vector@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@U?$STLAllocator@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@allocator@dvacore@@@3@@Z
+OCIOWrapper.dll,export,20   13 00010150 ?GetOCIODisplayViewColorSpaceComponents@OCIOW@@YAXAEBUColorSpace@color@dvamediatypes@@AEAV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@1@Z
+OCIOWrapper.dll,export,21   14 00010250 ?GetOCIODisplayViewColorSpaceFromComponents@OCIOW@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@00AEAUColorSpace@color@dvamediatypes@@@Z
+OCIOWrapper.dll,export,22   15 000102F0 ?GetOCIORoles@OCIOW@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@AEAV?$vector@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@U?$STLAllocator@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@allocator@dvacore@@@3@@Z
+OCIOWrapper.dll,export,23   16 00010370 ?GetOCIOViewTransforms@OCIOW@@YAXAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@0AEAV?$vector@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@U?$STLAllocator@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@allocator@dvacore@@@3@@Z
+OCIOWrapper.dll,export,24   17 00010480 ?GetSupportedCDLTransformExtensions@OCIOW@@YAXAEAV?$vector@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@U?$STLAllocator@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@allocator@dvacore@@@std@@@Z
+OCIOWrapper.dll,export,25   18 000104F0 ?GetSupportedFileTransformExtensions@OCIOW@@YAXAEAV?$vector@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@U?$STLAllocator@V?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@allocator@dvacore@@@std@@@Z
+OCIOWrapper.dll,export,26   19 00010AD0 ?OCIOInit@OCIOW@@YAXXZ
+OCIOWrapper.dll,export,27   1A 00010B40 ?ReloadOCIOConfigurationFile@OCIOW@@YA_NAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@Z
+OCIOWrapper.dll,export,28   1B 000112E0 ?ValidateOCIOCDLTransform@OCIOW@@YA_NAEBUOCIOCDLTransformSettings@OCIOAPIProvider@@@Z
+OCIOWrapper.dll,export,29   1C 00011430 ?ValidateOCIOColorSpace@OCIOW@@YA_NAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@AEBUColorSpace@color@dvamediatypes@@@Z
+OCIOWrapper.dll,export,30   1D 000114D0 ?ValidateOCIOConfigurationFile@OCIOW@@YA_NAEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@_N@Z
+OCIOWrapper.dll,export,31   1E 000114E0 ?ValidateOCIOFileTransform@OCIOW@@YA_NAEBUOCIOFileTransformSettings@OCIOAPIProvider@@@Z
+OCIOWrapper.dll,depends,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\OCIOWrapper.dll
+OCIOWrapper.dll,depends,KERNEL32.dll
+OCIOWrapper.dll,depends,USER32.dll
+OCIOWrapper.dll,depends,GDI32.dll
+OCIOWrapper.dll,depends,OPENGL32.dll
+OCIOWrapper.dll,depends,GLU32.dll
+OCIOWrapper.dll,depends,dvacore.dll
+OCIOWrapper.dll,depends,dvamediatypes.dll
+OCIOWrapper.dll,depends,OCIOAPIProvider.dll
+OCIOWrapper.dll,depends,MediaFoundation.dll
+OCIOWrapper.dll,depends,ImageRenderer.dll
+OCIOWrapper.dll,depends,MSVCP140.dll
+OCIOWrapper.dll,depends,VCRUNTIME140.dll
+OCIOWrapper.dll,depends,VCRUNTIME140_1.dll
+OCIOWrapper.dll,depends,api-ms-win-crt-runtime-l1-1-0.dll
+OCIOWrapper.dll,depends,api-ms-win-crt-heap-l1-1-0.dll
+OCIOWrapper.dll,depends,api-ms-win-crt-stdio-l1-1-0.dll
+OCIOWrapper.dll,depends,api-ms-win-crt-filesystem-l1-1-0.dll
+OCIOWrapper.dll,depends,api-ms-win-crt-string-l1-1-0.dll
+OCIOWrapper.dll,depends,api-ms-win-crt-convert-l1-1-0.dll
+OCIOWrapper.dll,depends,api-ms-win-crt-locale-l1-1-0.dll
+OCIOWrapper.dll,depends,api-ms-win-crt-environment-l1-1-0.dll
+OCIOWrapper.dll,depends,api-ms-win-crt-math-l1-1-0.dll
+OCIOWrapper.dll,depends,api-ms-win-crt-time-l1-1-0.dll
+OCIOWrapper.dll,depends,api-ms-win-crt-utility-l1-1-0.dll
+OCIOWrapper.dll,depends,ADVAPI32.dll
+OCIOWrapper.dll,depends,CRYPT32.dll
+OCIOWrapper.dll,depends,GPUFoundation.dll
+COR.dll,export,1    0 000038F0 ??0ACEState@@IEAA@PEAVU_Context@@@Z
+COR.dll,export,3    2 00003B20 ??0COR_ACE_Profile@@QEAA@AEBV0@@Z
+COR.dll,export,4    3 00003B50 ??0COR_ACE_Profile@@QEAA@PEAVACEProfile@@@Z
+COR.dll,export,5    4 00003D10 ??0COR_ACE_ProfilePool@@QEAA@XZ
+COR.dll,export,6    5 00003D70 ??0COR_ACE_Transform@@QEAA@AEBV0@@Z
+COR.dll,export,7    6 00003DB0 ??0COR_ACE_Transform@@QEAA@PEAVACEProfile@@0@Z
+COR.dll,export,8    7 00003ED0 ??0COR_ACE_Transform@@QEAA@PEAVACEProfile@@0W4ACE_RenderIntent@@PEBU_t_ACE_Options@@@Z
+COR.dll,export,9    8 00003F70 ??0COR_ACE_Transform@@QEAA@XZ
+COR.dll,export,18   11 000045D0 ??1ACEState@@UEAA@XZ
+COR.dll,export,20   13 00004650 ??1COR_ACE_Profile@@QEAA@XZ
+COR.dll,export,21   14 000046A0 ??1COR_ACE_ProfilePool@@QEAA@XZ
+COR.dll,export,22   15 000046E0 ??1COR_ACE_Transform@@QEAA@XZ
+COR.dll,export,28   1B 00004930 ??4COR_ACE_Transform@@QEAAAEBV0@AEBV0@@Z
+COR.dll,export,31   1E 000A6968 ??_7ACEState@@6B@
+COR.dll,export,33   20 00004F80 ?ACEProfileToDVAColorProfile@@YA?AUColorProfile@dvamediatypes@@V?$shared_ptr@VCOR_ACE_Profile@@@boost@@@Z
+COR.dll,export,34   21 000050D0 ?ACEProfileToDVAColorSpace@@YA?AUColorSpace@color@dvamediatypes@@V?$shared_ptr@VCOR_ACE_Profile@@@boost@@_N@Z
+COR.dll,export,35   22 000A6838 ?ACE_EmptyProfile_ID@@3U_t_ACE_ID@@B
+COR.dll,export,36   23 000055B0 ?AddEmptyProfile@COR_ACE_ProfilePool@@AEAAXXZ
+COR.dll,export,37   24 00005660 ?AddProfile@COR_ACE_ProfilePool@@QEAA?AU_t_ACE_ID@@V?$shared_ptr@VCOR_ACE_Profile@@@boost@@@Z
+COR.dll,export,41   28 000057D0 ?COR_ACEProfilesMatch@@YA_NV?$shared_ptr@VCOR_ACE_Profile@@@boost@@0@Z
+COR.dll,export,42   29 00005920 ?COR_ACEStringToUTF16String@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@PEAVACEString@@@Z
+COR.dll,export,43   2A 00005BE0 ?COR_ACE_ETX@@YAXW4ACE_Error@@@Z
+COR.dll,export,44   2B 00005C10 ?COR_ACE_GetDefaultProfile@@YA?AV?$shared_ptr@VCOR_ACE_Profile@@@boost@@AEBV?$shared_ptr@VCOR_ACE_ProfilePool@@@std@@W4COR_ACE_WorkingGamma@@@Z
+COR.dll,export,45   2C 00005C40 ?COR_ACE_GetDefaultProfile@@YA?AV?$shared_ptr@VCOR_ACE_Profile@@@boost@@W4COR_ACE_WorkingGamma@@@Z
+COR.dll,export,46   2D 00005CC0 ?COR_ACE_GetLinearRGBProfile@@YA?AV?$shared_ptr@VCOR_ACE_Profile@@@boost@@V12@@Z
+COR.dll,export,47   2E 00006480 ?COR_ACE_GetProfileFromDescription@@YA?AV?$shared_ptr@VCOR_ACE_Profile@@@boost@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBV?$shared_ptr@VCOR_ACE_ProfilePool@@@4@_N@Z
+COR.dll,export,48   2F 000066F0 ?COR_ACE_GetRec709Gamma24ReferenceProfile@@YA?AV?$shared_ptr@VCOR_ACE_Profile@@@boost@@AEBV?$shared_ptr@VCOR_ACE_ProfilePool@@@std@@@Z
+COR.dll,export,49   30 000069B0 ?COR_ACE_GetRec709Gamma24ReferenceProfile@@YA?AV?$shared_ptr@VCOR_ACE_Profile@@@boost@@XZ
+COR.dll,export,50   31 00006A20 ?COR_ACE_GetSRGBProfile@@YA?AV?$shared_ptr@VCOR_ACE_Profile@@@boost@@XZ
+COR.dll,export,51   32 00006AC0 ?COR_ACE_GetWorkingGammaAsFloat@@YAMW4COR_ACE_WorkingGamma@@@Z
+COR.dll,export,52   33 00006AF0 ?COR_ACE_UTF16StringToAceString@@YAXAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@PEAPEAVACEString@@@Z
+COR.dll,export,63   3E 00006C20 ?COR_EqualACEIDs@@YA_NAEBU_t_ACE_ID@@0@Z
+COR.dll,export,65   40 00006C40 ?COR_GetACERenderIntentForTransform@@YA?AW4ACE_RenderIntent@@V?$shared_ptr@VCOR_ACE_Profile@@@boost@@0@Z
+COR.dll,export,68   43 00006D70 ?COR_GetDefaultACEOptions@@YA?AU_t_ACE_Options@@PEA_N@Z
+COR.dll,export,69   44 00006DD0 ?COR_GetFastACEOptions@@YA?AU_t_ACE_Options@@XZ
+COR.dll,export,71   46 00006E10 ?COR_GetProPhotoOrAdobeRGBProfile@@YA?AV?$shared_ptr@VCOR_ACE_Profile@@@boost@@XZ
+COR.dll,export,72   47 00006F30 ?COR_GetProfileACERenderIntent@@YA?AW4ACE_RenderIntent@@V?$shared_ptr@VCOR_ACE_Profile@@@boost@@@Z
+COR.dll,export,75   4A 00007010 ?COR_LessThanACEIDs@@YA_NAEBU_t_ACE_ID@@0@Z
+COR.dll,export,76   4B 00007060 ?COR_MakeAGMProfile@@YA?AVCAGMColorProfile@BIB_T_MT@@AEBV?$shared_ptr@VCOR_ACE_Profile@@@boost@@@Z
+COR.dll,export,84   53 0000A980 ?COR_SetAGMColor@@YAXPEAVCAGMRasterPort@BIB_T_MT@@AEBVPF_PixelFloat@@@Z
+COR.dll,export,87   56 00007100 ?Clear@COR_ACE_ProfilePool@@QEAAXXZ
+COR.dll,export,89   58 00007180 ?Create@ACEState@@SA?AV?$shared_ptr@VACEState@@@boost@@PEAVU_Context@@@Z
+COR.dll,export,92   5B 00007310 ?DVAColorProfileToACEPrfoile@@YA?AV?$shared_ptr@VCOR_ACE_Profile@@@boost@@AEBUColorProfile@dvamediatypes@@@Z
+COR.dll,export,93   5C 00007420 ?DVAColorSpaceToACEProfile@@YA?AV?$shared_ptr@VCOR_ACE_Profile@@@boost@@AEBUColorSpace@color@dvamediatypes@@@Z
+COR.dll,export,94   5D 00007930 ?DoAutomaticRendering@ACEState@@QEBA_NXZ
+COR.dll,export,95   5E 00007940 ?EnsureProfileExists@COR_ACE_ProfilePool@@QEAAXAEBU_t_ACE_ID@@@Z
+COR.dll,export,97   60 00007A60 ?Get@COR_ACE_Transform@@QEBAAEBQEAVACETransform@@XZ
+COR.dll,export,100   63 00007A90 ?GetFlat@COR_ACE_Profile@@QEBA?AV?$shared_array@E@boost@@PEAI@Z
+COR.dll,export,101   64 00007B90 ?GetFlatSize@COR_ACE_Profile@@QEBAIXZ
+COR.dll,export,102   65 00007C00 ?GetID@COR_ACE_Profile@@QEBA?AU_t_ACE_ID@@XZ
+COR.dll,export,103   66 00007C10 ?GetKodak5218Profile@@YA?AV?$shared_ptr@VCOR_ACE_Profile@@@boost@@XZ
+COR.dll,export,104   67 00007CB0 ?GetName@ACEState@@UEBAAEBVImmutableString@utility@dvacore@@XZ
+COR.dll,export,106   69 00007CD0 ?GetName@COR_ACE_Profile@@QEBA?AV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@XZ
+COR.dll,export,107   6A 00007D90 ?GetProfile@COR_ACE_Profile@@QEBAAEBQEAVACEProfile@@XZ
+COR.dll,export,108   6B 00007DA0 ?GetProfile@COR_ACE_ProfilePool@@QEBA?AV?$shared_ptr@VCOR_ACE_Profile@@@boost@@AEBU_t_ACE_ID@@PEA_N@Z
+COR.dll,export,109   6C 00007FF0 ?GetProfileColorSpace@COR_ACE_Profile@@QEBA?AW4ACE_ColorSpace@@XZ
+COR.dll,export,110   6D 00008060 ?GetProfileFromDescription@COR_ACE_ProfilePool@@QEBA?AV?$shared_ptr@VCOR_ACE_Profile@@@boost@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@Z
+COR.dll,export,111   6E 00008300 ?GetProfilePoolContents@COR_ACE_ProfilePool@@QEBAXAEAV?$map@U_t_ACE_ID@@V?$shared_ptr@VCOR_ACE_Profile@@@boost@@VACE_ID_LessThan@COR_ACE_ProfilePool@@V?$allocator@U?$pair@$$CBU_t_ACE_ID@@V?$shared_ptr@VCOR_ACE_Profile@@@boost@@@std@@@std@@@std@@@Z
+COR.dll,export,113   70 00008410 ?IsOverRange@COR_ACE_Profile@@QEBA_NXZ
+COR.dll,export,114   71 00008420 ?IsRGBColorSpace@COR_ACE_Profile@@QEBA_NXZ
+COR.dll,export,115   72 00008440 ?IsValid@COR_ACE_Transform@@QEBA_NXZ
+COR.dll,export,117   74 00008450 ?Make@COR_ACE_Profile@@SAPEAV1@PEBXI@Z
+COR.dll,export,119   76 00008760 ?Reset@COR_ACE_Transform@@QEAAXPEAVACETransform@@@Z
+COR.dll,export,120   77 000ED248 ?S_Name@ACEState@@2VImmutableString@utility@dvacore@@A
+COR.dll,export,124   7B 000087C0 ?SafeUnReferenence@COR_ACE_Transform@@AEAAXXZ
+COR.dll,export,126   7D 00008820 ?SetAutomaticRendering@ACEState@@QEAAX_N@Z
+COR.dll,export,129   80 00008840 ?TranslateACEError@@YAHW4ACE_Error@@@Z
+COR.dll,depends,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\COR.dll
+COR.dll,depends,KERNEL32.dll
+COR.dll,depends,JP2KLib.dll
+COR.dll,depends,AdobePIE.dll
+COR.dll,depends,ARE.dll
+COR.dll,depends,dvacore.dll
+COR.dll,depends,dvabravoinitializer.dll
+COR.dll,depends,dvamediatypes.dll
+COR.dll,depends,MediaFoundation.dll
+COR.dll,depends,ColorSpaceConverter.dll
+COR.dll,depends,ACEWrapper.dll
+COR.dll,depends,U.dll
+COR.dll,depends,SLU.dll
+COR.dll,depends,PREF.dll
+COR.dll,depends,MSVCP140.dll
+COR.dll,depends,VCRUNTIME140.dll
+COR.dll,depends,VCRUNTIME140_1.dll
+COR.dll,depends,api-ms-win-crt-runtime-l1-1-0.dll
+COR.dll,depends,api-ms-win-crt-heap-l1-1-0.dll
+COR.dll,depends,api-ms-win-crt-string-l1-1-0.dll
+COR.dll,depends,api-ms-win-crt-math-l1-1-0.dll
+COR.dll,depends,api-ms-win-crt-stdio-l1-1-0.dll
+COR.dll,depends,api-ms-win-crt-filesystem-l1-1-0.dll
+COR.dll,depends,api-ms-win-crt-time-l1-1-0.dll
+COR.dll,depends,USER32.dll
+COR.dll,depends,AdobePDFL.dll
+BEE.dll,depends-color-substrate,dvamediatypes.dll
+BEE.dll,depends-color-substrate,MediaFoundation.dll
+BEE.dll,depends-color-substrate,ColorSpaceConverter.dll
+BEE.dll,depends-color-substrate,VideoFrame.dll
+BEE.dll,depends-color-substrate,COR.dll
+BEE.dll,depends-color-substrate,GPUFoundation.dll
+PF.dll,depends-color-substrate,dvamediatypes.dll
+PF.dll,depends-color-substrate,MediaFoundation.dll
+PF.dll,depends-color-substrate,VideoFrame.dll
+PF.dll,depends-color-substrate,ColorSpaceConverter.dll
+PF.dll,depends-color-substrate,COR.dll
+PF.dll,depends-color-substrate,GPUFoundation.dll
+VideoRenderer.dll,depends-color-substrate,dvamediatypes.dll
+VideoRenderer.dll,depends-color-substrate,MediaFoundation.dll
+VideoRenderer.dll,depends-color-substrate,VideoFrame.dll
+VideoRenderer.dll,depends-color-substrate,ColorSpaceConverter.dll
+AfterFXLib.dll,depends-color-substrate,dvamediatypes.dll
+AfterFXLib.dll,depends-color-substrate,MediaFoundation.dll
+AfterFXLib.dll,depends-color-substrate,VideoFrame.dll
+AfterFXLib.dll,depends-color-substrate,ColorSpaceConverter.dll
+AfterFXLib.dll,depends-color-substrate,COR.dll
+AfterFXLib.dll,depends-color-substrate,GPUFoundation.dll
+aelib.dll,depends-color-substrate,dvamediatypes.dll
+aelib.dll,depends-color-substrate,MediaFoundation.dll
+aelib.dll,depends-color-substrate,VideoFrame.dll
+aelib.dll,depends-color-substrate,ColorSpaceConverter.dll
+aelib.dll,depends-color-substrate,COR.dll
+DisplaySurface.dll,depends-color-substrate,dvamediatypes.dll
+DisplaySurface.dll,depends-color-substrate,ACEWrapper.dll
+DisplaySurface.dll,depends-color-substrate,MediaFoundation.dll
+DisplaySurface.dll,depends-color-substrate,VideoFrame.dll
+DisplaySurface.dll,depends-color-substrate,ColorSpaceConverter.dll
+DisplaySurface.dll,depends-color-substrate,GPUFoundation.dll

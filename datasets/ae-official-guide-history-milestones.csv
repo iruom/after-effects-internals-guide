@@ -1,0 +1,9 @@
+milestone,commit,date,title,evidence
+2018-initial-guide,4da9a2b820b5e7c9c21ae3aa3d9c9245ef402ad2,2018-10-05,Initial commit,official-guide-git-history
+2020-mfr,49caa75cf74ae1e93ace9e8a9b2aae105d263c8b,2020-06-03,Add everything about the Multi-Frame Rendering to the SDK guide.,official-guide-git-history
+2021-mfr-sequence-compute-cache,aa72147b005f2122a6e0fb743be934117ec96ac7,2021-03-31,Update MFR documentation for sequence_data changes and Compute Cache system,official-guide-git-history
+2021-ae22,27e401cd011452ff0e8b2ef8c3eae0a90a8927a8,2021-10-26,2021 MAX update,official-guide-git-history
+2023-ocio-color-suite5,1ae6dd3ba8f9baa71bbeb81818ac0425d9ce13ce,2023-04-27,Updated documentation for the AEGP_ColorSettingsSuite5 which includes OCIO access.,official-guide-git-history
+2025-ae25_2,d70d6a8582732c853f4485f89b39df976f62c2a2,2025-02-24,Update SDK for After Effects 25.2,official-guide-git-history
+2025-ae25_6,94e85b09243d22d2146963822241930166ef286c,2025-09-24,Merge pull request #13 from docsforadobe/user/colombo/update-25.6,official-guide-git-history
+2026-ae26_5,6d9b285d9755d1fbf8ead7680ba49de24f94b547,2026-09-10,Merge pull request #17 from JessiMcM/26.5-sdk-docs-update,official-guide-git-history

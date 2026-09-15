@@ -1,0 +1,869 @@
+module,relation,entry
+AudioRenderer.dll,export,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AudioRenderer.dll
+AudioRenderer.dll,export,Section contains the following exports for AudioRenderer.dll
+AudioRenderer.dll,export,1    0 0012715C ?$TSS0@?1??CreateClassRefInternal@AudioRendererFactory@AR@@SA?AV?$InterfaceRef@VAudioRendererFactory@AR@@@classref@dvacore@@_N@Z@4HA
+AudioRenderer.dll,export,2    1 00127158 ?$TSS0@?1??GetUnknownTypeName@AudioRendererFactory@AR@@UEBAAEBVImmutableString@utility@dvacore@@XZ@4HA
+AudioRenderer.dll,export,3    2 0009A850 ??0?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@IEAA@PEBD@Z
+AudioRenderer.dll,export,4    3 0009A930 ??0?$ScriptCastInterface@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@QEAA@AEBV01@@Z
+AudioRenderer.dll,export,5    4 0009A940 ??0?$ScriptCastInterface@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@QEAA@XZ
+AudioRenderer.dll,export,6    5 000927F0 ??0AudioFilterControl@AR@@QEAA@V?$InterfaceRef@UIAudioFilter@AR@@@classref@dvacore@@I@Z
+AudioRenderer.dll,export,7    6 00046920 ??0AudioFilterException@AR@@QEAA@AEBV01@@Z
+AudioRenderer.dll,export,8    7 00092DE0 ??0AudioFilterException@AR@@QEAA@AEBV?$InterfaceRef@UIAudioFilter@AR@@@classref@dvacore@@PEBD@Z
+AudioRenderer.dll,export,9    8 00009DD0 ??0AudioRenderContextParameters@AR@@QEAA@$$QEAV01@@Z
+AudioRenderer.dll,export,10    9 00009F20 ??0AudioRenderContextParameters@AR@@QEAA@AEBV01@@Z
+AudioRenderer.dll,export,11    A 00030190 ??0AudioRenderContextParameters@AR@@QEAA@W4RenderMode@1@@Z
+AudioRenderer.dll,export,12    B 000318B0 ??0AudioRendererFactory@AR@@QEAA@XZ
+AudioRenderer.dll,export,13    C 0009ABE0 ??0AudioWaveformGeneratorObject@Scripting@AR@@QEAA@XZ
+AudioRenderer.dll,export,14    D 0006C2E0 ??0PrefetchRange@AR@@QEAA@AEBVTickTime@dvamediatypes@@0@Z
+AudioRenderer.dll,export,16    F 0006D390 ??0PrefetchRequestAccumulator@AR@@QEAA@W4CapacityMode@01@PEAV?$vector@USynchronousPrefetchRequest@AR@@U?$STLAllocator@USynchronousPrefetchRequest@AR@@@allocator@dvacore@@@std@@PEAV?$vector@UPrefetchRequest@AudioPrefetch@AR@@U?$STLAllocator@UPrefetchRequest@AudioPrefetch@AR@@@allocator@dvacore@@@4@@Z
+AudioRenderer.dll,export,17   10 0009B050 ??1?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@UEAA@XZ
+AudioRenderer.dll,export,18   11 00046CF0 ??1AudioFilterException@AR@@UEAA@XZ
+AudioRenderer.dll,export,19   12 0000A5F0 ??1AudioRenderContextParameters@AR@@QEAA@XZ
+AudioRenderer.dll,export,20   13 00031BC0 ??1AudioRendererFactory@AR@@UEAA@XZ
+AudioRenderer.dll,export,21   14 0009B7B0 ??1AudioWaveformGeneratorObject@Scripting@AR@@UEAA@XZ
+AudioRenderer.dll,export,22   15 0009B9E0 ??4?$ScriptCastInterface@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@QEAAAEAV01@$$QEAV01@@Z
+AudioRenderer.dll,export,23   16 0009B9F0 ??4?$ScriptCastInterface@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@QEAAAEAV01@AEBV01@@Z
+AudioRenderer.dll,export,24   17 000A1D40 ??4?$TransformObjectIntoScriptingObject@V?$InterfaceRef@UIAudioSourceFile@AR@@@classref@dvacore@@@utility@dvascripting@@QEAAAEAU012@$$QEAU012@@Z
+AudioRenderer.dll,export,25   18 000A1D50 ??4?$TransformObjectIntoScriptingObject@V?$InterfaceRef@UIAudioSourceFile@AR@@@classref@dvacore@@@utility@dvascripting@@QEAAAEAU012@AEBU012@@Z
+AudioRenderer.dll,export,26   19 0009BA00 ??4?$TransformObjectIntoScriptingObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@utility@dvascripting@@QEAAAEAU012@$$QEAU012@@Z
+AudioRenderer.dll,export,27   1A 0009BA10 ??4?$TransformObjectIntoScriptingObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@utility@dvascripting@@QEAAAEAU012@AEBU012@@Z
+AudioRenderer.dll,export,28   1B 00046E40 ??4AudioFilterException@AR@@QEAAAEAV01@AEBV01@@Z
+AudioRenderer.dll,export,29   1C 0000A8C0 ??4AudioRenderContextParameters@AR@@QEAAAEAV01@$$QEAV01@@Z
+AudioRenderer.dll,export,30   1D 0000A9D0 ??4AudioRenderContextParameters@AR@@QEAAAEAV01@AEBV01@@Z
+AudioRenderer.dll,export,31   1E 00030220 ??8AudioRenderContextParameters@AR@@QEBA_NAEBV01@@Z
+AudioRenderer.dll,export,34   21 00031BD0 ??BAudioRendererFactory@AR@@UEAA?AV?$InterfaceRef@UUnknownBase@classref@dvacore@@@classref@dvacore@@XZ
+AudioRenderer.dll,export,36   23 0006C3C0 ??GPrefetchRange@AR@@QEBA?AU01@AEBVTickTime@dvamediatypes@@@Z
+AudioRenderer.dll,export,37   24 0006C420 ??HPrefetchRange@AR@@QEBA?AU01@AEBVTickTime@dvamediatypes@@@Z
+AudioRenderer.dll,export,39   26 000A1E80 ??R?$TransformObjectIntoScriptingObject@V?$InterfaceRef@UIAudioSourceFile@AR@@@classref@dvacore@@@utility@dvascripting@@QEBA?AV?$IntrusivePtr@VScriptObject@dvascripting@@@RefCountedInterface@1dvacore@@AEBV?$InterfaceRef@UIAudioSourceFile@AR@@@classref@5@H@Z
+AudioRenderer.dll,export,40   27 0009C710 ??R?$TransformObjectIntoScriptingObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@utility@dvascripting@@QEBA?AV?$IntrusivePtr@VScriptObject@dvascripting@@@RefCountedInterface@1dvacore@@AEBV?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@5@H@Z
+AudioRenderer.dll,export,42   29 0006C510 ??YPrefetchRange@AR@@QEAAAEAU01@AEBVTickTime@dvamediatypes@@@Z
+AudioRenderer.dll,export,43   2A 0006C550 ??ZPrefetchRange@AR@@QEAAAEAU01@AEBVTickTime@dvamediatypes@@@Z
+AudioRenderer.dll,export,45   2C 000BFE88 ??_7?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@6B?$ScriptCastInterface@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@1@@
+AudioRenderer.dll,export,46   2D 000BFEA8 ??_7?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@6BRefCountedInterface@utility@dvacore@@@
+AudioRenderer.dll,export,47   2E 000BFDC8 ??_7?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@6BRefCountedObjectWithWeakPtr@utility@dvacore@@@
+AudioRenderer.dll,export,48   2F 000BFE98 ??_7?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@6BScriptCastInterfaceUnknownRef@1@@
+AudioRenderer.dll,export,49   30 000BFDB8 ??_7?$ScriptCastInterface@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@6B@
+AudioRenderer.dll,export,50   31 000B9E18 ??_7AudioFilterException@AR@@6B@
+AudioRenderer.dll,export,51   32 000B83B0 ??_7AudioRendererFactory@AR@@6B@
+AudioRenderer.dll,export,52   33 000B84B0 ??_7AudioRendererFactory@AR@@6BSharedAsVirtualBase@detail@utility@dvacore@@@
+AudioRenderer.dll,export,53   34 000B84C0 ??_7AudioRendererFactory@AR@@6BUnknownBase@classref@dvacore@@@
+AudioRenderer.dll,export,54   35 000BFF90 ??_7AudioWaveformGeneratorObject@Scripting@AR@@6B?$ScriptCastInterface@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@@
+AudioRenderer.dll,export,55   36 000BFFB0 ??_7AudioWaveformGeneratorObject@Scripting@AR@@6BRefCountedInterface@utility@dvacore@@@
+AudioRenderer.dll,export,56   37 000BFED0 ??_7AudioWaveformGeneratorObject@Scripting@AR@@6BRefCountedObjectWithWeakPtr@utility@dvacore@@@
+AudioRenderer.dll,export,57   38 000BFFA0 ??_7AudioWaveformGeneratorObject@Scripting@AR@@6BScriptCastInterfaceUnknownRef@dvascripting@@@
+AudioRenderer.dll,export,58   39 000BFEC0 ??_8?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@7B@
+AudioRenderer.dll,export,59   3A 000B84D0 ??_8AudioRendererFactory@AR@@7BUnknown@classref@dvacore@@@
+AudioRenderer.dll,export,60   3B 000B84DC ??_8AudioRendererFactory@AR@@7BUnknownBase@classref@dvacore@@@
+AudioRenderer.dll,export,61   3C 000BFFC8 ??_8AudioWaveformGeneratorObject@Scripting@AR@@7B@
+AudioRenderer.dll,export,62   3D 0009C7E0 ??_D?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@QEAAXXZ
+AudioRenderer.dll,export,63   3E 00031C10 ??_DAudioRendererFactory@AR@@QEAAXXZ
+AudioRenderer.dll,export,64   3F 0009C810 ??_DAudioWaveformGeneratorObject@Scripting@AR@@QEAAXXZ
+AudioRenderer.dll,export,76   4B 00090CB0 ?Abort@AudioWaveformQueue@AR@@YAXXZ
+AudioRenderer.dll,export,77   4C 0006D450 ?AddPrefetchRequest@PrefetchRequestAccumulator@AR@@QEAAXW4PrefetchType@2@V?$InterfaceRef@UIAsyncAudioSource@AR@@@classref@dvacore@@VTickTime@dvamediatypes@@I@Z
+AudioRenderer.dll,export,78   4D 0006C660 ?AdjustPrefetchRangeToInPosition@AR@@YA?AV?$static_vector@UPrefetchRange@AR@@$01X@container@boost@@AEBUPrefetchRange@1@_NAEBVTickTime@dvamediatypes@@2@Z
+AudioRenderer.dll,export,79   4E 0006C940 ?AdjustPrefetchRangeToOutPosition@AR@@YA?AV?$static_vector@UPrefetchRange@AR@@$01X@container@boost@@AEBUPrefetchRange@1@_NAEBVTickTime@dvamediatypes@@2@Z
+AudioRenderer.dll,export,80   4F 00031DD0 ?AllocateClassInstance@AudioRendererFactory@AR@@SA@XZ
+AudioRenderer.dll,export,81   50 0003D770 ?AppendAudioTrackRenderableItem@AR@@YAXAEBV?$InterfaceRef@UIAudioTrackRenderableItem@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@AEAV?$vector@V?$InterfaceRef@UIAudioTrackRenderableItem@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIAudioTrackRenderableItem@AR@@@classref@dvacore@@@allocator@3@@std@@@Z
+AudioRenderer.dll,export,83   52 0009CCA0 ?CastTo@?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@UEBA_NAEAV?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@Z
+AudioRenderer.dll,export,84   53 0009CD80 ?CastTo@?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@UEBA_NAEAV?$InterfaceRef@UUnknownBase@classref@dvacore@@@classref@dvacore@@@Z
+AudioRenderer.dll,export,85   54 0006C5E0 ?Contains@PrefetchRange@AR@@QEBA_NAEBVTickTime@dvamediatypes@@@Z
+AudioRenderer.dll,export,87   56 00031E20 ?CreateAELibAudioStreamRenderer@AudioRendererFactory@AR@@UEBAHAEAV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@AEBV?$InterfaceRef@UIAudioSource@AR@@@45@HNAEBVBinaryData@MF@@PEAV?$InterfaceRef@UIAudioGenerator@AR@@@45@@Z
+AudioRenderer.dll,export,88   57 00031EF0 ?CreateAlignToFrameRateAudioGeneratorDecorator@AudioRendererFactory@AR@@UEBAHAEBV?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@PEAV345@@Z
+AudioRenderer.dll,export,90   59 00031F10 ?CreateAudioChannelMatrixRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@AEBV?$map@_KV?$set@_KU?$less@_K@std@@U?$STLAllocator@_K@allocator@dvacore@@@std@@U?$less@_K@2@U?$STLAllocator@U?$pair@$$CB_KV?$set@_KU?$less@_K@std@@U?$STLAllocator@_K@allocator@dvacore@@@std@@@std@@@allocator@dvacore@@@std@@PEAV?$InterfaceRef@UIAudioProcessor@AR@@@45@@Z
+AudioRenderer.dll,export,91   5A 00031FA0 ?CreateAudioClipRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@AEBV?$map@V?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@V?$map@_K_KU?$less@_K@std@@U?$STLAllocator@U?$pair@$$CB_K_K@std@@@allocator@dvacore@@@std@@U?$less@V?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@@5@U?$STLAllocator@U?$pair@$$CBV?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@V?$map@_K_KU?$less@_K@std@@U?$STLAllocator@U?$pair@$$CB_K_K@std@@@allocator@dvacore@@@std@@@std@@@allocator@3@@std@@AEBV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@9@AEBVTickTime@7@MNPEAV?$InterfaceRef@UIAudioGenerator@AR@@@45@@Z
+AudioRenderer.dll,export,92   5B 00032070 ?CreateAudioClipTrackRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@AEBV?$vector@V?$InterfaceRef@UIAudioTrackRenderableItem@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIAudioTrackRenderableItem@AR@@@classref@dvacore@@@allocator@3@@std@@V?$InterfaceRef@UUnknownBase@classref@dvacore@@@45@V?$shared_ptr@U?$AtomicIntegral@H$0A@@threads@dvacore@@@9@AEBV?$vector@V?$InterfaceRef@UIAudioProcessor@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIAudioProcessor@AR@@@classref@dvacore@@@allocator@3@@9@V?$InterfaceRef@UIAudioPanProcessor@AR@@@45@AEBV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@9@PEAV?$InterfaceRef@UIAudioGenerator@AR@@@45@@Z
+AudioRenderer.dll,export,93   5C 00032590 ?CreateAudioContentMulticamRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@1AEBV?$vector@V?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@@allocator@3@@std@@V?$shared_ptr@U?$AtomicIntegral@H$0A@@threads@dvacore@@@9@_NAEBVTickTime@7@5PEAV?$InterfaceRef@UIAudioGenerator@AR@@@45@@Z
+AudioRenderer.dll,export,94   5D 000326D0 ?CreateAudioContentRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@1AEBV?$InterfaceRef@UIAudioGenerator@AR@@@45@_NAEBVTickTime@7@4V?$InterfaceRef@UUnknownBase@classref@dvacore@@@45@PEAV845@@Z
+AudioRenderer.dll,export,95   5E 000327F0 ?CreateAudioFaderRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@AEBV?$vector@V?$InterfaceRef@UIRenderableAudioComponentParam@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIRenderableAudioComponentParam@AR@@@classref@dvacore@@@allocator@3@@std@@PEAV?$InterfaceRef@UIAudioProcessor@AR@@@45@@Z
+AudioRenderer.dll,export,96   5F 00032880 ?CreateAudioFilterRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@V?$InterfaceRef@UIAudioFilter@AR@@@45@_NAEBV?$vector@V?$InterfaceRef@UIRenderableAudioComponentParam@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIRenderableAudioComponentParam@AR@@@classref@dvacore@@@allocator@3@@std@@AEBV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@std@@PEAV?$InterfaceRef@UIAudioProcessor@AR@@@45@@Z
+AudioRenderer.dll,export,97   60 000329F0 ?CreateAudioMeterRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@V?$InterfaceRef@UIAudioMeterSetter@AR@@@45@PEAV?$InterfaceRef@UIAudioProcessor@AR@@@45@@Z
+AudioRenderer.dll,export,98   61 00032B30 ?CreateAudioMixRenderer@AudioRendererFactory@AR@@UEBAHAEBV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBV?$InterfaceRef@UIAudioGenerator@AR@@@45@AEBVFrameRate@dvamediatypes@@12AEBV?$InterfaceRef@UIAudioProcessor@AR@@@45@AEBV?$InterfaceRef@UITimeTransform@MF@@@45@PEAV645@@Z
+AudioRenderer.dll,export,99   62 00032B90 ?CreateAudioMixTrackRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@AEBV?$InterfaceRef@UIAudioGenerator@AR@@@45@V?$InterfaceRef@UUnknownBase@classref@dvacore@@@45@V?$shared_ptr@U?$AtomicIntegral@H$0A@@threads@dvacore@@@std@@AEBV?$vector@V?$InterfaceRef@UIAudioProcessor@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIAudioProcessor@AR@@@classref@dvacore@@@allocator@3@@std@@V?$InterfaceRef@UIAudioPanProcessor@AR@@@45@AEBV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@std@@PEAV845@@Z
+AudioRenderer.dll,export,100   63 00032EE0 ?CreateAudioPanProcessorRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@W4PanProcessorType@2@_NAEBV?$vector@V?$InterfaceRef@UIRenderableAudioComponentParam@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIRenderableAudioComponentParam@AR@@@classref@dvacore@@@allocator@3@@std@@PEAV?$InterfaceRef@UIAudioPanProcessor@AR@@@45@@Z
+AudioRenderer.dll,export,101   64 00033330 ?CreateAudioRenderContext@AudioRendererFactory@AR@@UEBAHAEBVAudioRenderContextParameters@2@PEAV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@@Z
+AudioRenderer.dll,export,102   65 0007F820 ?CreateAudioResampler@AudioResamplerFactory@AR@@YA?AV?$InterfaceRef@UIAudioResampler@AR@@@classref@dvacore@@W4RenderQuality@dvamediatypes@@@Z
+AudioRenderer.dll,export,103   66 00033340 ?CreateAudioSendRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@V?$InterfaceRef@UUnknownBase@classref@dvacore@@@45@AEBV?$vector@V?$InterfaceRef@UIRenderableAudioComponentParam@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIRenderableAudioComponentParam@AR@@@classref@dvacore@@@allocator@3@@std@@V?$InterfaceRef@UIAudioPanProcessor@AR@@@45@PEAV?$InterfaceRef@UIAudioProcessor@AR@@@45@@Z
+AudioRenderer.dll,export,104   67 00033480 ?CreateAudioStreamRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@V?$InterfaceRef@UIAudioSource@AR@@@45@HNV?$InterfaceRef@UUnknownBase@classref@dvacore@@@45@PEAV?$InterfaceRef@UIAudioGenerator@AR@@@45@@Z
+AudioRenderer.dll,export,105   68 000865A0 ?CreateAudioTimeScaler@AudioTimeScalerFactory@AR@@UEAA?AV?$InterfaceRef@UIAudioTimeScaler@AR@@@classref@dvacore@@W4RenderQuality@dvamediatypes@@W4RenderMode@IAudioTimeScalerFactory@2@@Z
+AudioRenderer.dll,export,106   69 000335B0 ?CreateAudioTrackGroupRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@AEBV?$vector@V?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@@allocator@3@@std@@AEBV?$deque@V?$vector@UDelayDependency@AR@@U?$STLAllocator@UDelayDependency@AR@@@allocator@dvacore@@@std@@U?$STLAllocator@V?$vector@UDelayDependency@AR@@U?$STLAllocator@UDelayDependency@AR@@@allocator@dvacore@@@std@@@allocator@dvacore@@@9@AEBV?$vector@VTickTime@dvamediatypes@@U?$STLAllocator@VTickTime@dvamediatypes@@@allocator@dvacore@@@9@AEBV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@9@V?$InterfaceRef@UUnknownBase@classref@dvacore@@@45@PEAV?$InterfaceRef@UIAudioGenerator@AR@@@45@@Z
+AudioRenderer.dll,export,107   6A 000336C0 ?CreateAudioTrackGroupRendererViaCloning@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@V?$InterfaceRef@UUnknownBase@classref@dvacore@@@45@PEAV?$InterfaceRef@UIAudioGenerator@AR@@@45@@Z
+AudioRenderer.dll,export,108   6B 000337A0 ?CreateAudioTrackInletRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@AEBV?$vector@V?$InterfaceRef@UUnknownBase@classref@dvacore@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UUnknownBase@classref@dvacore@@@classref@dvacore@@@allocator@3@@std@@AEBV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@9@PEAV?$InterfaceRef@UIAudioGenerator@AR@@@45@@Z
+AudioRenderer.dll,export,109   6C 00033840 ?CreateAudioTransitionRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@V?$InterfaceRef@UIAudioTransition@AR@@@45@AEBUAudioTransitionParameters@2@AEBV?$InterfaceRef@UIAudioGenerator@AR@@@45@4AEBVTickTime@7@555PEAV?$InterfaceRef@UIAudioGenerator@AR@@@45@@Z
+AudioRenderer.dll,export,110   6D 00089240 ?CreateAudioWaveformGeneratorMixer@AR@@YA?AV?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@V234@0V?$function@$$A6AMXZ@std@@@Z
+AudioRenderer.dll,export,111   6E 0008A660 ?CreateAudioWaveformGeneratorOffsetDecorator@AR@@YA?AV?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@V234@VTickTime@dvamediatypes@@1@Z
+AudioRenderer.dll,export,112   6F 0008BED0 ?CreateAudioWaveformGeneratorScalingDecorator@AR@@YA?AV?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@V234@V?$function@$$A6A?AVWaveformScaleFactor@waveform@dvaaudiotoolkit@@AEBVTickTime@dvamediatypes@@0_K@Z@std@@@Z
+AudioRenderer.dll,export,113   70 000339E0 ?CreateChannelMixerAudioPanProcessorRenderer@AudioRendererFactory@AR@@UEBAHAEBV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@std@@0AEBV?$vector@V?$vector@MU?$STLAllocator@M@allocator@dvacore@@@std@@U?$STLAllocator@V?$vector@MU?$STLAllocator@M@allocator@dvacore@@@std@@@allocator@dvacore@@@4@PEAV?$InterfaceRef@UIAudioPanProcessor@AR@@@classref@dvacore@@@Z
+AudioRenderer.dll,export,114   71 00033A00 ?CreateClassRef@AudioRendererFactory@AR@@SA?AV?$InterfaceRef@VAudioRendererFactory@AR@@@classref@dvacore@@XZ
+AudioRenderer.dll,export,115   72 00033A20 ?CreateClassRefIfSingletonExists@AudioRendererFactory@AR@@SA?AV?$InterfaceRef@VAudioRendererFactory@AR@@@classref@dvacore@@XZ
+AudioRenderer.dll,export,116   73 00033A40 ?CreateClassRefInternal@AudioRendererFactory@AR@@SA?AV?$InterfaceRef@VAudioRendererFactory@AR@@@classref@dvacore@@_N@Z
+AudioRenderer.dll,export,117   74 00033D10 ?CreateDefaultMultiChannelAudioPanProcessorRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@AEBV?$map@_KV?$set@_KU?$less@_K@std@@U?$STLAllocator@_K@allocator@dvacore@@@std@@U?$less@_K@2@U?$STLAllocator@U?$pair@$$CB_KV?$set@_KU?$less@_K@std@@U?$STLAllocator@_K@allocator@dvacore@@@std@@@std@@@allocator@dvacore@@@std@@_NAEBV?$vector@V?$InterfaceRef@UIRenderableAudioComponentParam@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIRenderableAudioComponentParam@AR@@@classref@dvacore@@@allocator@3@@9@AEBV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@9@5PEAV?$InterfaceRef@UIAudioPanProcessor@AR@@@45@@Z
+AudioRenderer.dll,export,118   75 00033DE0 ?CreateDirectAudioPanProcessorRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@W4PanProcessorType@2@HAEBV?$map@_KV?$set@_KU?$less@_K@std@@U?$STLAllocator@_K@allocator@dvacore@@@std@@U?$less@_K@2@U?$STLAllocator@U?$pair@$$CB_KV?$set@_KU?$less@_K@std@@U?$STLAllocator@_K@allocator@dvacore@@@std@@@std@@@allocator@dvacore@@@std@@_NAEBV?$vector@V?$InterfaceRef@UIRenderableAudioComponentParam@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIRenderableAudioComponentParam@AR@@@classref@dvacore@@@allocator@3@@std@@PEAV?$InterfaceRef@UIAudioPanProcessor@AR@@@45@@Z
+AudioRenderer.dll,export,119   76 00033F90 ?CreateGainAudioGeneratorDecorator@AudioRendererFactory@AR@@UEBAHAEBV?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@MPEAV345@@Z
+AudioRenderer.dll,export,120   77 00033FA0 ?CreateInstanceRef@AudioRendererFactory@AR@@SAXAEAV?$InterfaceRef@UUnknownBase@classref@dvacore@@@classref@dvacore@@@Z
+AudioRenderer.dll,export,121   78 00034080 ?CreateNoneAudioPanProcessorRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@std@@PEAV?$InterfaceRef@UIAudioPanProcessor@AR@@@45@@Z
+AudioRenderer.dll,export,122   79 00034110 ?CreateOfflineAudioProcessorAudioGenerator@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBV?$InterfaceRef@UIAudioGenerator@AR@@@45@AEBV?$InterfaceRef@UIAudioPanProcessor@AR@@@45@2AEBVFrameRate@dvamediatypes@@AEBVTickTime@9@4AEBV?$InterfaceRef@UIOfflineAudioProcessor@AR@@@45@PEAV645@@Z
+AudioRenderer.dll,export,123   7A 00034300 ?CreatePartialAudioSourceFileRenderer@AudioRendererFactory@AR@@UEBAHAEBV?$InterfaceRef@UIAudioSourceFile@AR@@@classref@dvacore@@AEBV?$InterfaceRef@UIAudioGenerator@AR@@@45@1AEBVFrameRate@dvamediatypes@@PEAV645@@Z
+AudioRenderer.dll,export,124   7B 00034350 ?CreateRealtimeAudioClipTrackItemRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@AEBV?$InterfaceRef@UIAudioGenerator@AR@@@45@AEBV?$vector@V?$InterfaceRef@UIAudioProcessor@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIAudioProcessor@AR@@@classref@dvacore@@@allocator@3@@std@@V?$InterfaceRef@UIAudioPanProcessor@AR@@@45@NV?$InterfaceRef@UITimeTransform@MF@@@45@AEBVTickTime@7@PEAV845@@Z
+AudioRenderer.dll,export,125   7C 0003DA80 ?CreateSilentAudioTrackRenderableItem@AR@@YA?AV?$InterfaceRef@UIAudioTrackRenderableItem@AR@@@classref@dvacore@@AEBVTickTime@dvamediatypes@@0AEBVFrameRate@6@@Z
+AudioRenderer.dll,export,126   7D 000344C0 ?CreateSilentRenderer@AudioRendererFactory@AR@@UEBAHAEBV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@std@@PEAV?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@@Z
+AudioRenderer.dll,export,127   7E 0007FC80 ?CreateSpecializedResampler@AudioResamplerFactory@AR@@YA?AV?$InterfaceRef@UIAudioResamplerSpecialized@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@0I@Z
+AudioRenderer.dll,export,128   7F 000344D0 ?CreateTimeAlteredAudioClipTrackItemRenderer@AudioRendererFactory@AR@@UEBAHV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@AEBV?$InterfaceRef@UIAudioGenerator@AR@@@45@AEBV?$vector@V?$InterfaceRef@UIAudioProcessor@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIAudioProcessor@AR@@@classref@dvacore@@@allocator@3@@std@@V?$InterfaceRef@UIAudioPanProcessor@AR@@@45@N_N5V?$InterfaceRef@UITimeTransform@MF@@@45@AEBVTickTime@7@7N77PEAV845@@Z
+AudioRenderer.dll,export,129   80 0009CE70 ?DefineObject@AudioWaveformGeneratorObject@Scripting@AR@@SAXXZ
+AudioRenderer.dll,export,133   84 000879B0 ?GenerateWaveform@AR@@YA?AV?$Future@V?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@@async@dvacore@@AEBV?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@4@AEBVTickTime@dvamediatypes@@1_K_N3@Z
+AudioRenderer.dll,export,134   85 0009D210 ?GenerateWaveform@AudioWaveformGeneratorObject@Scripting@AR@@QEBA?AV?$shared_ptr@VNativePromise@dvascripting@@@std@@AEBV?$IntrusivePtr@VScriptObject@dvascripting@@@RefCountedInterface@utility@dvacore@@0I@Z
+AudioRenderer.dll,export,136   87 00030310 ?GetAbort@AudioRenderContextParameters@AR@@QEBA?AV?$InterfaceRef@UIAbort@MF@@@classref@dvacore@@XZ
+AudioRenderer.dll,export,137   88 00092E30 ?GetAudioFilter@AudioFilterException@AR@@QEBA?AV?$InterfaceRef@UIAudioFilter@AR@@@classref@dvacore@@XZ
+AudioRenderer.dll,export,138   89 00086830 ?GetAudioTimeScalerFactory@AR@@YA?AV?$InterfaceRef@UIAudioTimeScalerFactory@AR@@@classref@dvacore@@XZ
+AudioRenderer.dll,export,139   8A 0003DC80 ?GetAudioTrackRenderableItemListContinuity@AR@@YA?AW4AudioTrackRenderableItemListContinuity@1@AEBV?$vector@V?$InterfaceRef@UIAudioTrackRenderableItem@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIAudioTrackRenderableItem@AR@@@classref@dvacore@@@allocator@3@@std@@@Z
+AudioRenderer.dll,export,140   8B 0008CF10 ?GetAvailableDuration@AR@@YA_KAEBV?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@@Z
+AudioRenderer.dll,export,141   8C 0009D6A0 ?GetClassname@AudioWaveformGeneratorObject@Scripting@AR@@SAPEBDXZ
+AudioRenderer.dll,export,142   8D 00030330 ?GetControlInterval@AudioRenderContextParameters@AR@@QEBAIXZ
+AudioRenderer.dll,export,143   8E 0009D6B0 ?GetDescription@AudioWaveformGeneratorObject@Scripting@AR@@SAPEBDXZ
+AudioRenderer.dll,export,144   8F 00030340 ?GetLatency@AudioRenderContextParameters@AR@@QEBA?AVTickTime@dvamediatypes@@XZ
+AudioRenderer.dll,export,145   90 00030350 ?GetLoopRange@AudioRenderContextParameters@AR@@QEBA?AVTimeRange@dvamediatypes@@XZ
+AudioRenderer.dll,export,147   92 00030370 ?GetMaxSampleFrames@AudioRenderContextParameters@AR@@QEBAIXZ
+AudioRenderer.dll,export,150   95 00030380 ?GetPlaybackDirection@AudioRenderContextParameters@AR@@QEBA?AW4PlaybackDirection@2@XZ
+AudioRenderer.dll,export,151   96 00030390 ?GetProgressStation@AudioRenderContextParameters@AR@@QEBA?AVImmutableString@utility@dvacore@@XZ
+AudioRenderer.dll,export,152   97 000303B0 ?GetRecordingRange@AudioRenderContextParameters@AR@@QEBA?AVTimeRange@dvamediatypes@@XZ
+AudioRenderer.dll,export,153   98 000303D0 ?GetRenderMode@AudioRenderContextParameters@AR@@QEBA?AW4RenderMode@2@XZ
+AudioRenderer.dll,export,154   99 000303E0 ?GetRenderQuality@AudioRenderContextParameters@AR@@QEBA?AW4RenderQuality@dvamediatypes@@XZ
+AudioRenderer.dll,export,155   9A 000303F0 ?GetSafeEffects@AudioRenderContextParameters@AR@@QEBA_NXZ
+AudioRenderer.dll,export,156   9B 00030400 ?GetSafeFaders@AudioRenderContextParameters@AR@@QEBA_NXZ
+AudioRenderer.dll,export,157   9C 00030410 ?GetSafePanners@AudioRenderContextParameters@AR@@QEBA_NXZ
+AudioRenderer.dll,export,158   9D 0009D7A0 ?GetSafeRef@?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@QEBA?AV?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@W4ThrowBehavior@12@@Z
+AudioRenderer.dll,export,159   9E 00030420 ?GetSafeSends@AudioRenderContextParameters@AR@@QEBA_NXZ
+AudioRenderer.dll,export,161   A0 0009D980 ?GetStationID@?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@MEBA?AVImmutableString@utility@dvacore@@XZ
+AudioRenderer.dll,export,162   A1 00034690 ?GetUnknownTypeName@AudioRendererFactory@AR@@UEBAAEBVImmutableString@utility@dvacore@@XZ
+AudioRenderer.dll,export,163   A2 0009D9A0 ?Hash@?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@UEBA_KXZ
+AudioRenderer.dll,export,164   A3 0009D9B0 ?Initialize@?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@QEAAXAEBV?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@Z
+AudioRenderer.dll,export,165   A4 0001FED0 ?InitializeAudioFilters@AR@@YAXAEBV?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@@Z
+AudioRenderer.dll,export,166   A5 0009DB30 ?InitializeWithWeakRef@?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@QEAAXAEBV?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@Z
+AudioRenderer.dll,export,170   A9 0009DD40 ?IsEqual@?$InterfaceRefScriptObject@V?$InterfaceRef@UIAudioWaveformGenerator@AR@@@classref@dvacore@@@dvascripting@@UEBA_NAEBV?$IntrusivePtr@VScriptObject@dvascripting@@@RefCountedInterface@utility@dvacore@@@Z
+AudioRenderer.dll,export,171   AA 0008CFD0 ?IsFatalGenerateWaveformResult@AR@@YA_NH@Z
+AudioRenderer.dll,export,172   AB 0003E040 ?IsSilentAudioTrackRenderableItem@AR@@YA_NAEBV?$InterfaceRef@UIAudioTrackRenderableItem@AR@@@classref@dvacore@@@Z
+AudioRenderer.dll,export,173   AC 000801E0 ?IsSpecializedResamplerAvailable@AudioResamplerFactory@AR@@YA_NAEBVFrameRate@dvamediatypes@@0@Z
+AudioRenderer.dll,export,175   AE 0003E150 ?MakeContinuousAudioTrackRenderableItemList@AR@@YA?AV?$vector@V?$InterfaceRef@UIAudioTrackRenderableItem@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIAudioTrackRenderableItem@AR@@@classref@dvacore@@@allocator@3@@std@@AEBV23@AEBVFrameRate@dvamediatypes@@@Z
+AudioRenderer.dll,export,176   AF 0003E460 ?MergeAudioTrackRenderableItems@AR@@YAXAEBV?$vector@V?$InterfaceRef@UIAudioTrackRenderableItem@AR@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIAudioTrackRenderableItem@AR@@@classref@dvacore@@@allocator@3@@std@@AEAV23@AEBVFrameRate@dvamediatypes@@@Z
+AudioRenderer.dll,export,177   B0 0008CFF0 ?MergeGenerateWaveformResults@AR@@YA?AV?$tuple@HV?$vector@UPrefetchRequest@AudioPrefetch@AR@@U?$STLAllocator@UPrefetchRequest@AudioPrefetch@AR@@@allocator@dvacore@@@std@@@std@@H$$QEAV?$vector@UPrefetchRequest@AudioPrefetch@AR@@U?$STLAllocator@UPrefetchRequest@AudioPrefetch@AR@@@allocator@dvacore@@@3@H0@Z
+AudioRenderer.dll,export,178   B1 00092F00 ?PrefetchAudio@AudioPrefetch@AR@@YA?AV?$Future@V?$UniqueValue@V?$vector@VCacheGuard@MF@@U?$STLAllocator@VCacheGuard@MF@@@allocator@dvacore@@@std@@@detail@async@dvacore@@@async@dvacore@@W4PrefetchPriority@12@AEBV?$vector@UPrefetchRequest@AudioPrefetch@AR@@U?$STLAllocator@UPrefetchRequest@AudioPrefetch@AR@@@allocator@dvacore@@@std@@@Z
+AudioRenderer.dll,export,179   B2 00020200 ?PrefetchFromAudioGenerator@AR@@YA?AV?$Future@V?$UniqueValue@V?$vector@VCacheGuard@MF@@U?$STLAllocator@VCacheGuard@MF@@@allocator@dvacore@@@std@@@detail@async@dvacore@@@async@dvacore@@AEBV?$InterfaceRef@UIAudioGenerator@AR@@@classref@4@AEBV?$vector@UPrefetchRange@AR@@U?$STLAllocator@UPrefetchRange@AR@@@allocator@dvacore@@@std@@@Z
+AudioRenderer.dll,export,180   B3 000204F0 ?PrerollAudioGenerator@AR@@YAXV?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@VTickTime@dvamediatypes@@W4PlaybackDirection@1@VFrameRate@6@_KII@Z
+AudioRenderer.dll,export,181   B4 00034790 ?QueryMap@AudioRendererFactory@AR@@MEAAPEAXAEBV?$basic_string_view@DU?$char_traits@D@std@@@std@@@Z
+AudioRenderer.dll,export,183   B6 00030430 ?SetAbort@AudioRenderContextParameters@AR@@QEAAAEAV12@V?$InterfaceRef@UIAbort@MF@@@classref@dvacore@@@Z
+AudioRenderer.dll,export,184   B7 000868F0 ?SetAudioTimeScalerFactory@AR@@YAXV?$InterfaceRef@UIAudioTimeScalerFactory@AR@@@classref@dvacore@@@Z
+AudioRenderer.dll,export,185   B8 000304B0 ?SetControlInterval@AudioRenderContextParameters@AR@@QEAAAEAV12@I@Z
+AudioRenderer.dll,export,186   B9 000304C0 ?SetLatency@AudioRenderContextParameters@AR@@QEAAAEAV12@VTickTime@dvamediatypes@@@Z
+AudioRenderer.dll,export,187   BA 000304E0 ?SetLoopRange@AudioRenderContextParameters@AR@@QEAAAEAV12@VTimeRange@dvamediatypes@@@Z
+AudioRenderer.dll,export,188   BB 00030500 ?SetMaxSampleFrames@AudioRenderContextParameters@AR@@QEAAAEAV12@I@Z
+AudioRenderer.dll,export,189   BC 00030510 ?SetPlaybackDirection@AudioRenderContextParameters@AR@@QEAAAEAV12@W4PlaybackDirection@2@@Z
+AudioRenderer.dll,export,190   BD 00030520 ?SetProgressStation@AudioRenderContextParameters@AR@@QEAAAEAV12@VImmutableString@utility@dvacore@@@Z
+AudioRenderer.dll,export,191   BE 00030560 ?SetRecordingRange@AudioRenderContextParameters@AR@@QEAAAEAV12@VTimeRange@dvamediatypes@@@Z
+AudioRenderer.dll,export,192   BF 00030580 ?SetRenderQuality@AudioRenderContextParameters@AR@@QEAAAEAV12@W4RenderQuality@dvamediatypes@@@Z
+AudioRenderer.dll,export,193   C0 00030590 ?SetSafeEffects@AudioRenderContextParameters@AR@@QEAAAEAV12@_N@Z
+AudioRenderer.dll,export,194   C1 000305A0 ?SetSafeFaders@AudioRenderContextParameters@AR@@QEAAAEAV12@_N@Z
+AudioRenderer.dll,export,195   C2 000305B0 ?SetSafePanners@AudioRenderContextParameters@AR@@QEAAAEAV12@_N@Z
+AudioRenderer.dll,export,196   C3 000305C0 ?SetSafeSends@AudioRenderContextParameters@AR@@QEAAAEAV12@_N@Z
+AudioRenderer.dll,export,197   C4 00020E70 ?ShutdownAudioFilters@AR@@YAXAEBV?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@@Z
+AudioRenderer.dll,export,198   C5 000B84E8 ?queryClass@?2??QueryMap@AudioRendererFactory@AR@@MEAAPEAXAEBV?$basic_string_view@DU?$char_traits@D@std@@@std@@@Z@4V45@B
+AudioRenderer.dll,export,199   C6 000B8598 ?queryClass@?6??QueryMap@AudioRendererFactory@AR@@MEAAPEAXAEBV?$basic_string_view@DU?$char_traits@D@std@@@std@@@Z@4V45@B
+AudioRenderer.dll,export,200   C7 000B8650 ?queryClass@?L@??QueryMap@AudioRendererFactory@AR@@MEAAPEAXAEBV?$basic_string_view@DU?$char_traits@D@std@@@std@@@Z@4V45@B
+AudioRenderer.dll,export,201   C8 00107010 ?sMutex@?1??CreateClassRefInternal@AudioRendererFactory@AR@@SA?AV?$InterfaceRef@VAudioRendererFactory@AR@@@classref@dvacore@@_N@Z@4Vmutex@std@@A
+AudioRenderer.dll,export,202   C9 00127150 ?sTypeName@?1??GetUnknownTypeName@AudioRendererFactory@AR@@UEBAAEBVImmutableString@utility@dvacore@@XZ@4V456@B
+AudioRenderer.dll,export,203   CA 00127128 ?sWeakSingleton@?1??CreateClassRefInternal@AudioRendererFactory@AR@@SA?AV?$InterfaceRef@VAudioRendererFactory@AR@@@classref@dvacore@@_N@Z@4V?$weak_ptr@VAudioRendererFactory@AR@@@std@@A
+AudioRenderer.dll,import,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AudioRenderer.dll
+AudioRenderer.dll,import,D1 ??XFrameRate@dvamediatypes@@QEAAAEAV01@N@Z
+AudioRenderer.dll,import,B2 ??GTickTime@dvamediatypes@@QEBA?AV01@XZ
+AudioRenderer.dll,import,DB ??_0TickTime@dvamediatypes@@QEAAAEAV01@N@Z
+AudioRenderer.dll,import,D4 ??XTickTime@dvamediatypes@@QEAAAEAV01@N@Z
+AudioRenderer.dll,import,BB ??KTickTime@dvamediatypes@@QEBANAEBV01@@Z
+AudioRenderer.dll,import,24A ?GetEnd@TimeRange@dvamediatypes@@QEBAAEBVTickTime@2@XZ
+AudioRenderer.dll,import,27C ?GetStart@TimeRange@dvamediatypes@@QEBAAEBVTickTime@2@XZ
+AudioRenderer.dll,import,13C ?AlignToFrame@TickTime@dvamediatypes@@QEAAXAEBVFrameRate@2@@Z
+AudioRenderer.dll,import,36 ??0TickTime@dvamediatypes@@QEAA@_JAEBVFrameRate@1@@Z
+AudioRenderer.dll,import,D5 ??YTickTime@dvamediatypes@@QEAAAEAV01@AEBV01@@Z
+AudioRenderer.dll,import,344 ?ToFrame32@TickTime@dvamediatypes@@QEBAHAEBVFrameRate@2@@Z
+AudioRenderer.dll,import,B1 ??GTickTime@dvamediatypes@@QEBA?AV01@AEBV01@@Z
+AudioRenderer.dll,import,D6 ??ZTickTime@dvamediatypes@@QEAAAEAV01@AEBV01@@Z
+AudioRenderer.dll,import,345 ?ToFrame64@TickTime@dvamediatypes@@QEBA_JAEBVFrameRate@2@@Z
+AudioRenderer.dll,import,132 ?AddFrames@TickTime@dvamediatypes@@QEAAX_JAEBVFrameRate@2@@Z
+AudioRenderer.dll,import,B4 ??HTickTime@dvamediatypes@@QEBA?AV01@AEBV01@@Z
+AudioRenderer.dll,import,B0 ??DTickTime@dvamediatypes@@QEBA?AV01@N@Z
+AudioRenderer.dll,import,3E ??0TimeRange@dvamediatypes@@QEAA@AEBVTickTime@1@0@Z
+AudioRenderer.dll,import,3B8 ?AddAnnotation@WaveformData@waveform@dvaaudiotoolkit@@QEAAXVWaveformBufferAnnotation@23@@Z
+AudioRenderer.dll,import,475 ?CopyChannel@WaveformData@waveform@dvaaudiotoolkit@@QEAAXAEBV?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@_K111@Z
+AudioRenderer.dll,import,141 ??0WaveformData@waveform@dvaaudiotoolkit@@QEAA@AEBUWaveformDataProperties@12@@Z
+AudioRenderer.dll,import,13B ??0WaveformBufferAnnotation@waveform@dvaaudiotoolkit@@QEAA@H_K0@Z
+AudioRenderer.dll,import,55E ?GetChannelCount@WaveformData@waveform@dvaaudiotoolkit@@QEBA_KXZ
+AudioRenderer.dll,import,586 ?GetDataSlots@WaveformData@waveform@dvaaudiotoolkit@@QEBAIXZ
+AudioRenderer.dll,import,52F ?GetAnnotations@WaveformData@waveform@dvaaudiotoolkit@@QEBA?AV?$vector@VWaveformBufferAnnotation@waveform@dvaaudiotoolkit@@U?$STLAllocator@VWaveformBufferAnnotation@waveform@dvaaudiotoolkit@@@allocator@dvacore@@@std@@XZ
+AudioRenderer.dll,import,3B7 ?Add@WaveformData@waveform@dvaaudiotoolkit@@QEAAXAEBV?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@@Z
+AudioRenderer.dll,import,3EA ?ApplyScaling@WaveformData@waveform@dvaaudiotoolkit@@QEAAXAEBVWaveformChannelScaleFactor@23@_K11@Z
+AudioRenderer.dll,import,3EB ?ApplyScaling@WaveformData@waveform@dvaaudiotoolkit@@QEAAXAEBVWaveformScaleFactor@23@@Z
+AudioRenderer.dll,import,5AD ?GetEnd@WaveformBufferAnnotation@waveform@dvaaudiotoolkit@@QEBA_KXZ
+AudioRenderer.dll,import,6AD ?GetStart@WaveformBufferAnnotation@waveform@dvaaudiotoolkit@@QEBA_KXZ
+AudioRenderer.dll,import,1F6 ??1WaveformScaleFactor@waveform@dvaaudiotoolkit@@QEAA@XZ
+AudioRenderer.dll,import,147 ??0WaveformScaleFactor@waveform@dvaaudiotoolkit@@QEAA@$$QEAVWaveformChannelScaleFactor@12@@Z
+AudioRenderer.dll,import,1F3 ??1WaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEAA@XZ
+AudioRenderer.dll,import,13E ??0WaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEAA@M@Z
+AudioRenderer.dll,import,7A4 ?Process@FixedPositionGainRamp@dvaaudiotoolkit@@QEAAXAEBVTickTime@dvamediatypes@@AEAVAudioBuffer@2@@Z
+AudioRenderer.dll,import,AC ??0FixedPositionGainRamp@dvaaudiotoolkit@@QEAA@VFrameRate@dvamediatypes@@VTickTime@3@MMM@Z
+AudioRenderer.dll,import,6DD ?GetType@WaveformData@waveform@dvaaudiotoolkit@@QEBA?AW4WaveformDataType@23@XZ
+AudioRenderer.dll,import,B0 ??0GainRamp@dvaaudiotoolkit@@QEAA@AEBVFrameRate@dvamediatypes@@MM@Z
+AudioRenderer.dll,import,1F4 ??1WaveformData@waveform@dvaaudiotoolkit@@QEAA@XZ
+AudioRenderer.dll,import,6DB ?GetType@WaveformBufferAnnotation@waveform@dvaaudiotoolkit@@QEBAHXZ
+AudioRenderer.dll,import,294 ??R?$TransformObjectIntoScriptingObject@V?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@@utility@dvascripting@@QEBA?AV?$IntrusivePtr@VScriptObject@dvascripting@@@RefCountedInterface@1dvacore@@AEBV?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@H@Z
+AudioRenderer.dll,import,4B ??1CacheGuard@MF@@QEAA@XZ
+AudioRenderer.dll,import,25F ?MoveAppendCacheGuards@MF@@YAX$$QEAV?$vector@VCacheGuard@MF@@U?$STLAllocator@VCacheGuard@MF@@@allocator@dvacore@@@std@@AEAV23@@Z
+AudioRenderer.dll,import,dvaaudiofilters.dll
+AudioRenderer.dll,import,258 ?GetRightData@HRIR@binauralizer@ambisonics@dvaaudiofilters@@QEBAQEAPEAPEAMXZ
+AudioRenderer.dll,import,1BC ?GetLeftData@HRIR@binauralizer@ambisonics@dvaaudiofilters@@QEBAQEAPEAPEAMXZ
+AudioRenderer.dll,import,16B ?GetDescriptor@HRIR@binauralizer@ambisonics@dvaaudiofilters@@QEBAAEBUAmbisonicsFilterDescriptor@ambi@dvaaudiotoolkit@@XZ
+AudioRenderer.dll,import,168 ?GetDefaultHRIR@binauralizer@ambisonics@dvaaudiofilters@@YA?AV?$shared_ptr@VHRIR@binauralizer@ambisonics@dvaaudiofilters@@@boost@@XZ
+AudioRenderer.dll,dependent,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AudioRenderer.dll
+AudioRenderer.dll,dependent,dvacore.dll
+AudioRenderer.dll,dependent,dvamediatypes.dll
+AudioRenderer.dll,dependent,dvaaudiotoolkit.dll
+AudioRenderer.dll,dependent,MediaFoundation.dll
+AudioRenderer.dll,dependent,dvaaudiofilters.dll
+AudioSupport.dll,export,1    0 0000BEC0 ??0CompilerMixer@ML@@QEAA@V?$InterfaceRef@UIAudioRenderable@BE@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@V?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@std@@VTickTime@6@W4RenderQuality@6@@Z
+AudioSupport.dll,export,3    2 00017700 ??0LandmarkExtractor@ML@@QEAA@V?$InterfaceRef@UIAudioRenderable@BE@@@classref@dvacore@@VImmutableString@utility@4@V?$InterfaceRef@UIAbort@MF@@@34@V?$function@$$A6AX_K@Z@std@@AEBVFrameRate@dvamediatypes@@VTickTime@dvamediatypes@@W4RenderQuality@dvamediatypes@@_K@Z
+AudioSupport.dll,export,10    9 00005AD0 ?GetAudioRenderable@CompilerMixer@ML@@UEBA?AV?$InterfaceRef@UIAudioRenderable@BE@@@classref@dvacore@@XZ
+AudioSupport.dll,export,12    B 00005C90 ?GetCurrentRenderTime@CompilerMixer@ML@@UEBA?AVTickTime@dvamediatypes@@XZ
+AudioSupport.dll,export,15    E 00005CC0 ?GetFrameRate@CompilerMixer@ML@@UEBA?AVFrameRate@dvamediatypes@@XZ
+AudioSupport.dll,export,27   1A 00006E90 ?SetHasThirdPartyAudioFiltersCallback@AudioSupport@ML@@YAXV?$function@$$A6A_NAEBV?$InterfaceRef@UIAudioTrackGroup@BE@@@classref@dvacore@@@Z@std@@@Z
+AudioSupport.dll,import,B4 ??HTickTime@dvamediatypes@@QEBA?AV01@AEBV01@@Z
+AudioSupport.dll,import,132 ?AddFrames@TickTime@dvamediatypes@@QEAAX_JAEBVFrameRate@2@@Z
+AudioSupport.dll,import,36 ??0TickTime@dvamediatypes@@QEAA@_JAEBVFrameRate@1@@Z
+AudioSupport.dll,import,97 ??6dvamediatypes@@YAAEAV?$basic_ostream@_WU?$char_traits@_W@std@@@std@@AEAV12@AEBVFrameRate@0@@Z
+AudioSupport.dll,import,345 ?ToFrame64@TickTime@dvamediatypes@@QEBA_JAEBVFrameRate@2@@Z
+AudioSupport.dll,import,AE ??DTickTime@dvamediatypes@@QEBA?AV01@H@Z
+AudioSupport.dll,import,D5 ??YTickTime@dvamediatypes@@QEAAAEAV01@AEBV01@@Z
+AudioSupport.dll,import,D6 ??ZTickTime@dvamediatypes@@QEAAAEAV01@AEBV01@@Z
+AudioSupport.dll,import,B1 ??GTickTime@dvamediatypes@@QEBA?AV01@AEBV01@@Z
+AudioSupport.dll,import,B2 ??GTickTime@dvamediatypes@@QEBA?AV01@XZ
+AudioSupport.dll,import,3E ??0TimeRange@dvamediatypes@@QEAA@AEBVTickTime@1@0@Z
+AudioSupport.dll,import,27C ?GetStart@TimeRange@dvamediatypes@@QEBAAEBVTickTime@2@XZ
+AudioSupport.dll,import,24A ?GetEnd@TimeRange@dvamediatypes@@QEBAAEBVTickTime@2@XZ
+AudioSupport.dll,import,246 ?GetDuration@TimeRange@dvamediatypes@@QEBA?BVTickTime@2@XZ
+AudioSupport.dll,import,33F ?TimeToTimecode@dvamediatypes@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@VTickTime@1@VFrameRate@1@VTimeDisplay@1@V?$Flags@I@utility@dvacore@@@Z
+AudioSupport.dll,import,BA ??KTickTime@dvamediatypes@@QEBA?AV01@N@Z
+AudioSupport.dll,import,33D ?TimeToRatioTime@dvamediatypes@@YA?AV?$rational@_J@boost@@VTickTime@1@@Z
+AudioSupport.dll,import,344 ?ToFrame32@TickTime@dvamediatypes@@QEBAHAEBVFrameRate@2@@Z
+AudioSupport.dll,import,AudioRenderer.dll
+AudioSupport.dll,import,54 ?Contains@PrefetchRange@AR@@QEBA_NAEBVTickTime@dvamediatypes@@@Z
+AudioSupport.dll,import,6 ??0AudioFilterException@AR@@QEAA@AEBV01@@Z
+AudioSupport.dll,import,88 ?GetAudioFilter@AudioFilterException@AR@@QEBA?AV?$InterfaceRef@UIAudioFilter@AR@@@classref@dvacore@@XZ
+AudioSupport.dll,import,11 ??1AudioFilterException@AR@@UEAA@XZ
+AudioSupport.dll,import,8F ?GetLatency@AudioRenderContextParameters@AR@@QEBA?AVTickTime@dvamediatypes@@XZ
+AudioSupport.dll,import,BE ?SetRecordingRange@AudioRenderContextParameters@AR@@QEAAAEAV12@VTimeRange@dvamediatypes@@@Z
+AudioSupport.dll,import,97 ?GetRecordingRange@AudioRenderContextParameters@AR@@QEBA?AVTimeRange@dvamediatypes@@XZ
+AudioSupport.dll,import,89 ?GetAudioTimeScalerFactory@AR@@YA?AV?$InterfaceRef@UIAudioTimeScalerFactory@AR@@@classref@dvacore@@XZ
+AudioSupport.dll,import,4E ?AdjustPrefetchRangeToOutPosition@AR@@YA?AV?$static_vector@UPrefetchRange@AR@@$01X@container@boost@@AEBUPrefetchRange@1@_NAEBVTickTime@dvamediatypes@@2@Z
+AudioSupport.dll,import,F ??0PrefetchRequestAccumulator@AR@@QEAA@W4CapacityMode@01@PEAV?$vector@USynchronousPrefetchRequest@AR@@U?$STLAllocator@USynchronousPrefetchRequest@AR@@@allocator@dvacore@@@std@@PEAV?$vector@UPrefetchRequest@AudioPrefetch@AR@@U?$STLAllocator@UPrefetchRequest@AudioPrefetch@AR@@@allocator@dvacore@@@4@@Z
+AudioSupport.dll,import,1C ??4AudioRenderContextParameters@AR@@QEAAAEAV01@$$QEAV01@@Z
+AudioSupport.dll,import,9 ??0AudioRenderContextParameters@AR@@QEAA@AEBV01@@Z
+AudioSupport.dll,import,C3 ?SetSafeSends@AudioRenderContextParameters@AR@@QEAAAEAV12@_N@Z
+AudioSupport.dll,import,C0 ?SetSafeEffects@AudioRenderContextParameters@AR@@QEAAAEAV12@_N@Z
+AudioSupport.dll,import,C2 ?SetSafePanners@AudioRenderContextParameters@AR@@QEAAAEAV12@_N@Z
+AudioSupport.dll,import,4D ?AdjustPrefetchRangeToInPosition@AR@@YA?AV?$static_vector@UPrefetchRange@AR@@$01X@container@boost@@AEBUPrefetchRange@1@_NAEBVTickTime@dvamediatypes@@2@Z
+AudioSupport.dll,import,B2 ?PrefetchFromAudioGenerator@AR@@YA?AV?$Future@V?$UniqueValue@V?$vector@VCacheGuard@MF@@U?$STLAllocator@VCacheGuard@MF@@@allocator@dvacore@@@std@@@detail@async@dvacore@@@async@dvacore@@AEBV?$InterfaceRef@UIAudioGenerator@AR@@@classref@4@AEBV?$vector@UPrefetchRange@AR@@U?$STLAllocator@UPrefetchRange@AR@@@allocator@dvacore@@@std@@@Z
+AudioSupport.dll,import,B9 ?SetLatency@AudioRenderContextParameters@AR@@QEAAAEAV12@VTickTime@dvamediatypes@@@Z
+AudioSupport.dll,import,C1 ?SetSafeFaders@AudioRenderContextParameters@AR@@QEAAAEAV12@_N@Z
+AudioSupport.dll,import,A4 ?InitializeAudioFilters@AR@@YAXAEBV?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@@Z
+AudioSupport.dll,import,C4 ?ShutdownAudioFilters@AR@@YAXAEBV?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@@Z
+AudioSupport.dll,import,B3 ?PrerollAudioGenerator@AR@@YAXV?$InterfaceRef@UIAudioGenerator@AR@@@classref@dvacore@@VTickTime@dvamediatypes@@W4PlaybackDirection@1@VFrameRate@6@_KII@Z
+AudioSupport.dll,import,A ??0AudioRenderContextParameters@AR@@QEAA@W4RenderMode@1@@Z
+AudioSupport.dll,import,BB ?SetMaxSampleFrames@AudioRenderContextParameters@AR@@QEAAAEAV12@I@Z
+AudioSupport.dll,import,B8 ?SetControlInterval@AudioRenderContextParameters@AR@@QEAAAEAV12@I@Z
+AudioSupport.dll,import,BD ?SetProgressStation@AudioRenderContextParameters@AR@@QEAAAEAV12@VImmutableString@utility@dvacore@@@Z
+AudioSupport.dll,import,BF ?SetRenderQuality@AudioRenderContextParameters@AR@@QEAAAEAV12@W4RenderQuality@dvamediatypes@@@Z
+AudioSupport.dll,import,B6 ?SetAbort@AudioRenderContextParameters@AR@@QEAAAEAV12@V?$InterfaceRef@UIAbort@MF@@@classref@dvacore@@@Z
+AudioSupport.dll,import,12 ??1AudioRenderContextParameters@AR@@QEAA@XZ
+AudioSupport.dll,import,71 ?CreateClassRef@AudioRendererFactory@AR@@SA?AV?$InterfaceRef@VAudioRendererFactory@AR@@@classref@dvacore@@XZ
+AudioSupport.dll,import,BA ?SetLoopRange@AudioRenderContextParameters@AR@@QEAAAEAV12@VTimeRange@dvamediatypes@@@Z
+AudioSupport.dll,import,BC ?SetPlaybackDirection@AudioRenderContextParameters@AR@@QEAAAEAV12@W4PlaybackDirection@2@@Z
+AudioSupport.dll,import,D ??0PrefetchRange@AR@@QEAA@AEBVTickTime@dvamediatypes@@0@Z
+AudioSupport.dll,import,B1 ?PrefetchAudio@AudioPrefetch@AR@@YA?AV?$Future@V?$UniqueValue@V?$vector@VCacheGuard@MF@@U?$STLAllocator@VCacheGuard@MF@@@allocator@dvacore@@@std@@@detail@async@dvacore@@@async@dvacore@@W4PrefetchPriority@12@AEBV?$vector@UPrefetchRequest@AudioPrefetch@AR@@U?$STLAllocator@UPrefetchRequest@AudioPrefetch@AR@@@allocator@dvacore@@@std@@@Z
+AudioSupport.dll,import,65 ?CreateAudioResampler@AudioResamplerFactory@AR@@YA?AV?$InterfaceRef@UIAudioResampler@AR@@@classref@dvacore@@W4RenderQuality@dvamediatypes@@@Z
+AudioSupport.dll,import,64A ?GetAudioPreviewFileTypeFromContext@BE@@YA?AW4AudioPreviewFileType@1@AEBV?$InterfaceRef@UIAudioRenderContext@AR@@@classref@dvacore@@@Z
+AudioSupport.dll,dependent,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\AudioSupport.dll
+AudioSupport.dll,dependent,dvacore.dll
+AudioSupport.dll,dependent,dvamediatypes.dll
+AudioSupport.dll,dependent,dvaaudiotoolkit.dll
+AudioSupport.dll,dependent,dvaaudiodevice.dll
+AudioSupport.dll,dependent,MediaFoundation.dll
+AudioSupport.dll,dependent,AudioRenderer.dll
+AudioSupport.dll,dependent,atl_audio.dll
+ImporterHost.dll,export,1    0 002D20D4 ?$TSS0@?1??CreateClassRefInternal@AudioSourcePool@ML@@SA?AV?$InterfaceRef@VAudioSourcePool@ML@@@classref@dvacore@@_N@Z@4HA
+ImporterHost.dll,export,3    2 002D20D0 ?$TSS0@?1??GetUnknownTypeName@AudioSourcePool@ML@@UEBAAEBVImmutableString@utility@dvacore@@XZ@4HA
+ImporterHost.dll,export,4    3 002D5AA0 ?$TSS0@?1??GetUnknownTypeName@ConformedAudioSourceFile@ML@@UEBAAEBVImmutableString@utility@dvacore@@XZ@4HA
+ImporterHost.dll,export,10    9 0016ADA0 ??0AudioSourcePool@ML@@QEAA@XZ
+ImporterHost.dll,export,15    E 00177BF0 ??0ConformedAudioSourceFile@ML@@QEAA@XZ
+ImporterHost.dll,export,33   20 0016AFA0 ??1AudioSourcePool@ML@@UEAA@XZ
+ImporterHost.dll,export,36   23 00178440 ??1ConformedAudioSourceFile@ML@@UEAA@XZ
+ImporterHost.dll,export,59   3A 000703D0 ??BAudioSourcePool@ML@@UEAA?AV?$InterfaceRef@UUnknownBase@classref@dvacore@@@classref@dvacore@@XZ
+ImporterHost.dll,export,60   3B 000A1AF0 ??BConformedAudioSourceFile@ML@@UEAA?AV?$InterfaceRef@UUnknownBase@classref@dvacore@@@classref@dvacore@@XZ
+ImporterHost.dll,export,65   40 001FEB30 ??_7AudioSourcePool@ML@@6B@
+ImporterHost.dll,export,66   41 001FEB40 ??_7AudioSourcePool@ML@@6BSharedAsVirtualBase@detail@utility@dvacore@@@
+ImporterHost.dll,export,67   42 001FEB50 ??_7AudioSourcePool@ML@@6BUnknownBase@classref@dvacore@@@
+ImporterHost.dll,export,70   45 001FF028 ??_7ConformedAudioSourceFile@ML@@6BIAsyncAudioSource@AR@@@
+ImporterHost.dll,export,71   46 001FF048 ??_7ConformedAudioSourceFile@ML@@6BIAudioSource@AR@@@
+ImporterHost.dll,export,72   47 001FF088 ??_7ConformedAudioSourceFile@ML@@6BIAudioSourceFile@AR@@@
+ImporterHost.dll,export,73   48 001FF118 ??_7ConformedAudioSourceFile@ML@@6BIFileOwner@BE@@@
+ImporterHost.dll,export,74   49 001FF140 ??_7ConformedAudioSourceFile@ML@@6BIOpenFileOwner@MF@@@
+ImporterHost.dll,export,75   4A 001FEF88 ??_7ConformedAudioSourceFile@ML@@6BISource@MF@@@
+ImporterHost.dll,export,76   4B 001FF158 ??_7ConformedAudioSourceFile@ML@@6BSharedAsVirtualBase@detail@utility@dvacore@@@
+ImporterHost.dll,export,77   4C 001FF168 ??_7ConformedAudioSourceFile@ML@@6BUnknownBase@classref@dvacore@@@
+ImporterHost.dll,export,112   6F 001FEB60 ??_8AudioSourcePool@ML@@7BUnknown@classref@dvacore@@@
+ImporterHost.dll,export,113   70 001FEB6C ??_8AudioSourcePool@ML@@7BUnknownBase@classref@dvacore@@@
+ImporterHost.dll,export,114   71 001FF184 ??_8ConformedAudioSourceFile@ML@@7BUnknown@classref@dvacore@@IAsyncAudioSource@AR@@@
+ImporterHost.dll,export,115   72 001FF190 ??_8ConformedAudioSourceFile@ML@@7BUnknown@classref@dvacore@@IAudioSource@AR@@@
+ImporterHost.dll,export,116   73 001FF19C ??_8ConformedAudioSourceFile@ML@@7BUnknown@classref@dvacore@@IAudioSourceFile@AR@@@
+ImporterHost.dll,export,117   74 001FF1A8 ??_8ConformedAudioSourceFile@ML@@7BUnknown@classref@dvacore@@IFileOwner@BE@@@
+ImporterHost.dll,export,118   75 001FF1B4 ??_8ConformedAudioSourceFile@ML@@7BUnknown@classref@dvacore@@IOpenFileOwner@MF@@@
+ImporterHost.dll,export,119   76 001FF178 ??_8ConformedAudioSourceFile@ML@@7BUnknown@classref@dvacore@@ISource@MF@@@
+ImporterHost.dll,export,120   77 001FF1C0 ??_8ConformedAudioSourceFile@ML@@7BUnknownBase@classref@dvacore@@@
+ImporterHost.dll,export,139   8A 00070510 ??_DAudioSourcePool@ML@@QEAAXXZ
+ImporterHost.dll,export,140   8B 000A1FA0 ??_DConformedAudioSourceFile@ML@@QEAAXXZ
+ImporterHost.dll,export,147   92 0016B270 ?AddAudioSource@AudioSourcePool@ML@@QEAAXV?$InterfaceRef@VAudioSourceImpl@ML@@@classref@dvacore@@AEBVGuid@utility@5@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVFrameRate@dvamediatypes@@AEBVTickTime@dvamediatypes@@1AEBVBinaryData@MF@@@Z
+ImporterHost.dll,export,148   93 0016B960 ?AddAudioSource@AudioSourcePool@ML@@QEAAXV?$InterfaceRef@VAudioSourceImpl@ML@@@classref@dvacore@@AEBVGuid@utility@5@_KAEBVFrameRate@dvamediatypes@@AEBVTickTime@9@1AEBVBinaryData@MF@@@Z
+ImporterHost.dll,export,160   9F 00179170 ?AddToDatabase@ConformedAudioSourceFile@ML@@EEAAXXZ
+ImporterHost.dll,export,162   A1 00070820 ?AllocateClassInstance@AudioSourcePool@ML@@SA@XZ
+ImporterHost.dll,export,163   A2 000A28F0 ?AllocateClassInstance@ConformedAudioSourceFile@ML@@SA@XZ
+ImporterHost.dll,export,170   A9 0000EF60 ?AvoidAudioConform@ImporterModule@ML@@QEBA_NXZ
+ImporterHost.dll,export,180   B3 000A2C30 ?CanAvoidAudioConform@FileImporter@ML@@AEBA_NVFrameRate@dvamediatypes@@_K@Z
+ImporterHost.dll,export,182   B5 000BF2A0 ?CanBeTrimmed@FileImporter@ML@@UEBA_NV?$InterfaceRef@UIProject@BE@@@classref@dvacore@@V?$InterfaceRef@UIMedia@BE@@@45@AEBVBinaryData@MF@@_N3AEAVTickTime@dvamediatypes@@4@Z
+ImporterHost.dll,export,208   CF 0002F870 ?CancelConform@ConformUtils@ML@@SAXAEBV?$InterfaceRef@UIMasterClip@BE@@@classref@dvacore@@@Z
+ImporterHost.dll,export,209   D0 0002FE60 ?CancelConform@ConformUtils@ML@@SAXAEBV?$InterfaceRef@UIProjectItem@BE@@@classref@dvacore@@@Z
+ImporterHost.dll,export,212   D3 00179500 ?CleanupAfterCancel@ConformedAudioSourceFile@ML@@MEAAXAEBV?$lock_guard@Vmutex@std@@@std@@@Z
+ImporterHost.dll,export,215   D6 00179850 ?ClearRenderRequest@ConformedAudioSourceFile@ML@@MEAAXXZ
+ImporterHost.dll,export,220   DB 00179F10 ?Copy@ConformedAudioSourceFile@ML@@UEAAHAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@00@Z
+ImporterHost.dll,export,225   E0 0016BB10 ?Create@AudioSourcePool@ML@@SA?AV?$InterfaceRef@VAudioSourcePool@ML@@@classref@dvacore@@XZ
+ImporterHost.dll,export,226   E1 00179FC0 ?Create@ConformedAudioSourceFile@ML@@SA?AV?$InterfaceRef@UIAudioSource@AR@@@classref@dvacore@@V345@AEBVBinaryData@MF@@AEBVFrameRate@dvamediatypes@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVGuid@utility@5@43_K33AEBVImmutableString@utility@5@@Z
+ImporterHost.dll,export,227   E2 000A4620 ?Create@FileImporter@ML@@SA?AV?$InterfaceRef@VFileImporter@ML@@@classref@dvacore@@V?$InterfaceRef@VImporterModule@ML@@@45@HAEBVFrameRate@dvamediatypes@@1AEBV?$RectT@H@geom@5@AEBVPixelAspectRatio@8@AEBV?$shared_ptr@VStillSequence@MF@@@std@@_N@Z
+ImporterHost.dll,export,230   E5 00180BE0 ?Create@ImportedAudioSource@ML@@SAHV?$InterfaceRef@UIAudioSource@AR@@@classref@dvacore@@AEBVBinaryData@MF@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVFrameRate@dvamediatypes@@AEAV345@2AEBVGuid@utility@5@52_K22AEBVImmutableString@utility@5@_N8@Z
+ImporterHost.dll,export,231   E6 00180EF0 ?Create@ImportedAudioSource@ML@@SAHV?$InterfaceRef@UIAudioSource@AR@@@classref@dvacore@@AEBVBinaryData@MF@@AEBVFrameRate@dvamediatypes@@AEAV345@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVGuid@utility@5@54_K44AEBVImmutableString@utility@5@_N8@Z
+ImporterHost.dll,export,234   E9 00027F50 ?Create@SourceFileGenerator@ML@@SA?AV?$InterfaceRef@VSourceFileGenerator@ML@@@classref@dvacore@@V?$InterfaceRef@UISequence@BE@@@45@AEBV?$InterfaceRef@UIAudioRenderable@BE@@@45@W4AudioPreviewFileType@BE@@V?$InterfaceRef@UIProject@BE@@@45@@Z
+ImporterHost.dll,export,235   EA 001926B0 ?CreateAudioSequenceSourceGenerator@ML@@YA?AV?$InterfaceRef@UIAudioRenderable@BE@@@classref@dvacore@@V?$InterfaceRef@UISequence@BE@@@34@@Z
+ImporterHost.dll,export,236   EB 000708A0 ?CreateClassRef@AudioSourcePool@ML@@SA?AV?$InterfaceRef@VAudioSourcePool@ML@@@classref@dvacore@@XZ
+ImporterHost.dll,export,237   EC 000A4AF0 ?CreateClassRef@ConformedAudioSourceFile@ML@@SA?AV?$InterfaceRef@VConformedAudioSourceFile@ML@@@classref@dvacore@@XZ
+ImporterHost.dll,export,241   F0 000708C0 ?CreateClassRefIfSingletonExists@AudioSourcePool@ML@@SA?AV?$InterfaceRef@VAudioSourcePool@ML@@@classref@dvacore@@XZ
+ImporterHost.dll,export,243   F2 00070E80 ?CreateClassRefInternal@AudioSourcePool@ML@@SA?AV?$InterfaceRef@VAudioSourcePool@ML@@@classref@dvacore@@_N@Z
+ImporterHost.dll,export,247   F6 000F44B0 ?CreateFileMediaInfo@ImporterFactory@ML@@UEAAHAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVFrameRate@dvamediatypes@@1AEBV?$RectT@H@geom@dvacore@@AEBVPixelAspectRatio@6@_NAEA_NAEAV?$InterfaceRef@UIMediaInfo@BE@@@classref@9@AEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@4@44@Z
+ImporterHost.dll,export,248   F7 000F45B0 ?CreateFileMediaInfoInner@ImporterFactory@ML@@AEAAHAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVFrameRate@dvamediatypes@@1AEBV?$RectT@H@geom@dvacore@@AEBVPixelAspectRatio@6@AEBV?$shared_ptr@VStillSequence@MF@@@4@AEA_NAEAV?$InterfaceRef@UIMediaInfo@BE@@@classref@9@AEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@4@_N9@Z
+ImporterHost.dll,export,249   F8 000F46B0 ?CreateFileMediaInfoInnerWithHostMediaSource@ImporterFactory@ML@@AEAAHAEBV?$InterfaceRef@UIHostMediaSource@HostIO@@@classref@dvacore@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVFrameRate@dvamediatypes@@2AEBV?$RectT@H@geom@5@AEBVPixelAspectRatio@9@AEBV?$shared_ptr@VStillSequence@MF@@@7@AEA_NAEAV?$InterfaceRef@UIMediaInfo@BE@@@45@AEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@7@_N_N@Z
+ImporterHost.dll,export,250   F9 000F56B0 ?CreateFileMediaInfoWithHostMediaSource@ImporterFactory@ML@@UEAAHAEBV?$InterfaceRef@UIHostMediaSource@HostIO@@@classref@dvacore@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVFrameRate@dvamediatypes@@2AEBV?$RectT@H@geom@5@AEBVPixelAspectRatio@9@_NAEA_NAEAV?$InterfaceRef@UIMediaInfo@BE@@@45@AEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@7@55@Z
+ImporterHost.dll,export,251   FA 000F5960 ?CreateImporterForMedia@ImporterFactory@ML@@UEBAHAEBV?$InterfaceRef@UIMedia@BE@@@classref@dvacore@@AEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@1AEBVFrameRate@dvamediatypes@@2AEBV?$RectT@H@geom@5@AEBVPixelAspectRatio@9@AEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@7@AEAV?$InterfaceRef@UIMediaInfo@BE@@@45@_N8AEA_N8@Z
+ImporterHost.dll,export,252   FB 000F6010 ?CreateImporterForMediaWithHostMediaSource@ImporterFactory@ML@@UEBAHAEBV?$InterfaceRef@UIHostMediaSource@HostIO@@@classref@dvacore@@AEBV?$InterfaceRef@UIMedia@BE@@@45@AEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@2AEBVFrameRate@dvamediatypes@@3AEBV?$RectT@H@geom@5@AEBVPixelAspectRatio@dvamediatypes@@AEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@8@AEAV?$InterfaceRef@UIMediaInfo@BE@@@45@_N9AEA_N9@Z
+ImporterHost.dll,export,253   FC 00071D60 ?CreateInstanceRef@AudioSourcePool@ML@@SAXAEAV?$InterfaceRef@UUnknownBase@classref@dvacore@@@classref@dvacore@@@Z
+ImporterHost.dll,export,254   FD 000A50D0 ?CreateInstanceRef@ConformedAudioSourceFile@ML@@SAXAEAV?$InterfaceRef@UUnknownBase@classref@dvacore@@@classref@dvacore@@@Z
+ImporterHost.dll,export,258  101 001078A0 ?CreateMediaInfo@ImporterModule@ML@@UEBAHAEAV?$InterfaceRef@UIMediaInfo@BE@@@classref@dvacore@@AEAV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@HAEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@7@AEBVFrameRate@dvamediatypes@@4AEBV?$RectT@H@geom@5@AEBVPixelAspectRatio@dvamediatypes@@AEBV?$shared_ptr@VStillSequence@MF@@@7@AEA_N_N99@Z
+ImporterHost.dll,export,259  102 0000F470 ?CreateMediaInfo@ImporterModule@ML@@UEBAHAEAV?$InterfaceRef@UIMediaInfo@BE@@@classref@dvacore@@AEAV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@HAEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@7@AEBVFrameRate@dvamediatypes@@4AEBV?$RectT@H@geom@5@AEBVPixelAspectRatio@dvamediatypes@@AEBV?$shared_ptr@VStillSequence@MF@@@7@AEA_N_N9@Z
+ImporterHost.dll,export,260  103 000A51B0 ?CreateSourceForStream@FileImporter@ML@@UEBAHAEBV?$lock_guard@VAssertingRecursiveMutex@threads@dvacore@@@std@@VGuid@utility@dvacore@@_KAEBVBinaryData@MF@@AEBVFrameRate@dvamediatypes@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@4@555AEAV?$InterfaceRef@UISource@MF@@@classref@7@@Z
+ImporterHost.dll,export,261  104 000E7560 ?CreateSourceForStream@Importer@ML@@UEBAHVGuid@utility@dvacore@@_KAEBVBinaryData@MF@@AEBVFrameRate@dvamediatypes@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@444AEAV?$InterfaceRef@UISource@MF@@@classref@5@@Z
+ImporterHost.dll,export,262  105 000F6D00 ?CreateStillSequenceMediaInfo@ImporterFactory@ML@@UEAAHAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVFrameRate@dvamediatypes@@1AEBV?$RectT@H@geom@dvacore@@AEBVPixelAspectRatio@6@AEBV?$shared_ptr@VStillSequence@MF@@@4@AEA_NAEAV?$InterfaceRef@UIMediaInfo@BE@@@classref@9@AEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@4@_N@Z
+ImporterHost.dll,export,263  106 000F6D80 ?CreateSyntheticImporter@ImporterFactory@ML@@UEBAHAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@0AEBVFrameRate@dvamediatypes@@1AEBV?$RectT@H@geom@dvacore@@AEBVPixelAspectRatio@6@AEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@4@AEAV?$InterfaceRef@UIMediaInfo@BE@@@classref@9@AEAV34@_N@Z
+ImporterHost.dll,export,264  107 000F6F70 ?CreateSyntheticImporter@ImporterFactory@ML@@UEBAHV?$InterfaceRef@UIMediaModule@ML@@@classref@dvacore@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@1AEBVFrameRate@dvamediatypes@@2AEBV?$RectT@H@geom@5@AEBVPixelAspectRatio@9@AEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@7@AEAV?$InterfaceRef@UIMediaInfo@BE@@@45@_N@Z
+ImporterHost.dll,export,265  108 000F71B0 ?CreateSyntheticImporterImpl@ImporterFactory@ML@@QEBAHAEBV?$InterfaceRef@UIMedia@BE@@@classref@dvacore@@V?$InterfaceRef@UIMediaModule@ML@@@45@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEAV78@AEBVFrameRate@dvamediatypes@@4AEBV?$RectT@H@geom@5@AEBVPixelAspectRatio@dvamediatypes@@AEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@8@AEBV?$shared_ptr@VStillSequence@MF@@@8@AEAV?$InterfaceRef@UIMediaInfo@BE@@@45@_N_N@Z
+ImporterHost.dll,export,268  10B 0017A250 ?DeleteFileW@ConformedAudioSourceFile@ML@@UEAAHAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@Z
+ImporterHost.dll,export,271  10E 00114D90 ?DoAnalysis@Importer@ML@@UEAAHAEBVBinaryData@MF@@_KAEBVTickTime@dvamediatypes@@AEBVFrameRate@6@AEAV?$vector@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@U?$STLAllocator@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@allocator@dvacore@@@std@@_NAEBVPixelAspectRatio@6@VTimeDisplay@6@7_NAEBUColorSpace@color@6@595AEBVGuid@utility@dvacore@@@Z
+ImporterHost.dll,export,279  116 0017A390 ?EndConformationInitOperation@ConformedAudioSourceFile@ML@@SAXXZ
+ImporterHost.dll,export,281  118 0016BB30 ?FindAudioSource@AudioSourcePool@ML@@QEAA?AV?$InterfaceRef@VAudioSourceImpl@ML@@@classref@dvacore@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVGuid@utility@5@0AEBVFrameRate@dvamediatypes@@AEBVTickTime@dvamediatypes@@1AEBVBinaryData@MF@@AEBV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@7@@Z
+ImporterHost.dll,export,282  119 0016C070 ?FindAudioSource@AudioSourcePool@ML@@QEAA?AV?$InterfaceRef@VAudioSourceImpl@ML@@@classref@dvacore@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVGuid@utility@5@_KAEBVFrameRate@dvamediatypes@@AEBVTickTime@dvamediatypes@@1AEBVBinaryData@MF@@AEBV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@7@@Z
+ImporterHost.dll,export,300  12B 000CB1A0 ?GetAltTime@FileImporter@ML@@UEBA?AVTickTime@dvamediatypes@@XZ
+ImporterHost.dll,export,309  134 0017A450 ?GetContentState@ConformedAudioSourceFile@ML@@EEBA?AVGuid@utility@dvacore@@XZ
+ImporterHost.dll,export,314  139 0017A460 ?GetDatabaseLocation@ConformedAudioSourceFile@ML@@EEBAHAEAV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@0@Z
+ImporterHost.dll,export,318  13D 0017A6C0 ?GetDocumentID@ConformedAudioSourceFile@ML@@EEBA?AVGuid@utility@dvacore@@XZ
+ImporterHost.dll,export,326  145 000ABC50 ?GetErrorStation@ConformedAudioSourceFile@ML@@MEBA?AVImmutableString@utility@dvacore@@XZ
+ImporterHost.dll,export,329  148 00112720 ?GetFileAttributesW@Importer@ML@@MEAAH_KAEAVDate@ASL@@AEAVTickTime@dvamediatypes@@AEAVBinaryData@MF@@@Z
+ImporterHost.dll,export,348  15B 00140990 ?GetIdentifierForFrame@VideoSourceFrameCache@ML@@YA?AVGuid@utility@dvacore@@_KAEBUFrameFormat@MF@@AEBVBinaryData@7@AEBV345@VTickTime@dvamediatypes@@4W4RenderQuality@dvamediatypes@@W4FieldType@dvamediatypes@@_N77N@Z
+ImporterHost.dll,export,355  162 000ABF40 ?GetImporterStateBaseHash@FileImporter@ML@@CA?AVGuid@utility@dvacore@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVBinaryData@MF@@AEBV?$shared_ptr@VStillSequence@MF@@@7@VFrameRate@dvamediatypes@@0@Z
+ImporterHost.dll,export,361  168 0017A6D0 ?GetInstanceString@ConformedAudioSourceFile@ML@@MEBA?AV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@XZ
+ImporterHost.dll,export,366  16D 000CD040 ?GetLTCTime@FileImporter@ML@@UEBA?AVTickTime@dvamediatypes@@XZ
+ImporterHost.dll,export,368  16F 0017A700 ?GetLocationPath@ConformedAudioSourceFile@ML@@EEBAHAEAV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@0@Z
+ImporterHost.dll,export,390  185 000CDB30 ?GetOrigTime@FileImporter@ML@@UEBA?AVTickTime@dvamediatypes@@XZ
+ImporterHost.dll,export,403  192 000CE4B0 ?GetRawTimecode@FileImporter@ML@@QEBAXAEAURawTimecodeRec@2@AEAVFrameRate@dvamediatypes@@@Z
+ImporterHost.dll,export,414  19D 000AD6F0 ?GetStreamIndex@ConformedAudioSourceFile@ML@@MEBA_KXZ
+ImporterHost.dll,export,421  1A4 001837E0 ?GetSuppressAudioConforming@ML@@YA_NXZ
+ImporterHost.dll,export,425  1A8 000E85D0 ?GetTargetAudioFrameRate@Importer@ML@@IEBA?AVFrameRate@dvamediatypes@@XZ
+ImporterHost.dll,export,428  1AB 000E8620 ?GetTargetVideoFrameRate@Importer@ML@@IEBA?AVFrameRate@dvamediatypes@@XZ
+ImporterHost.dll,export,432  1AF 000C2730 ?GetTrimmedMediaSize@FileImporter@ML@@UEBAHAEBVBinaryData@MF@@AEBVTickTime@dvamediatypes@@1AEA_K@Z
+ImporterHost.dll,export,433  1B0 000C2A20 ?GetTrimmedMediaSizeFromImporter@FileImporter@ML@@AEBA_NAEBVBinaryData@MF@@AEBVTickTime@dvamediatypes@@1AEA_K@Z
+ImporterHost.dll,export,434  1B1 000C2FA0 ?GetTrimmedNumberedStillsSize@FileImporter@ML@@AEBAHAEBVTickTime@dvamediatypes@@0AEA_K@Z
+ImporterHost.dll,export,436  1B3 00072B60 ?GetUnknownTypeName@AudioSourcePool@ML@@UEBAAEBVImmutableString@utility@dvacore@@XZ
+ImporterHost.dll,export,437  1B4 000AD7B0 ?GetUnknownTypeName@ConformedAudioSourceFile@ML@@UEBAAEBVImmutableString@utility@dvacore@@XZ
+ImporterHost.dll,export,449  1C0 00183910 ?HashPartialPeakValues@ImportedAudioSource@ML@@QEBAXAEAV?$MixHashGuidT@UHashValueMixerState@utility@dvacore@@@utility@dvacore@@AEBVTickTime@dvamediatypes@@1@Z
+ImporterHost.dll,export,463  1CE 0017AF70 ?Init@ConformedAudioSourceFile@ML@@QEAAHAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@000V?$InterfaceRef@UIAudioSource@AR@@@classref@dvacore@@AEBVBinaryData@MF@@AEBVFrameRate@dvamediatypes@@0AEBVGuid@utility@7@40_KAEBVImmutableString@utility@7@@Z
+ImporterHost.dll,export,464  1CF 000E8CB0 ?Init@Importer@ML@@IEAAXAEBV?$InterfaceRef@VImporterModule@ML@@@classref@dvacore@@HAEBVFrameRate@dvamediatypes@@1AEBV?$RectT@H@geom@5@AEBVPixelAspectRatio@7@@Z
+ImporterHost.dll,export,468  1D3 0011CD30 ?InitializeClosedCaptionScan@Importer@ML@@IEAAHAEBV?$lock_guard@VAssertingRecursiveMutex@threads@dvacore@@@std@@AEBUimFileInfoRec9@@V?$InterfaceRef@UIImporterInstance@ML@@@classref@dvacore@@AEBVBinaryData@MF@@AEAVTickTime@dvamediatypes@@@Z
+ImporterHost.dll,export,469  1D4 00030670 ?InitiateAsyncConform@ConformUtils@ML@@SA?AV?$Future@X@async@dvacore@@AEBV?$InterfaceRef@UIClip@BE@@@classref@5@_N1@Z
+ImporterHost.dll,export,470  1D5 00030AE0 ?InitiateAsyncConform@ConformUtils@ML@@SA?AV?$Future@X@async@dvacore@@AEBV?$InterfaceRef@UIMasterClip@BE@@@classref@5@_N1@Z
+ImporterHost.dll,export,471  1D6 00030E30 ?InitiateAsyncConform@ConformUtils@ML@@SA?AV?$Future@X@async@dvacore@@AEBV?$InterfaceRef@UIProjectItemSelection@BE@@@classref@5@_N1@Z
+ImporterHost.dll,export,472  1D7 00030F80 ?InitiateAsyncConform@ConformUtils@ML@@SA?AV?$Future@X@async@dvacore@@AEBV?$InterfaceRef@UISequence@BE@@@classref@5@_N1@Z
+ImporterHost.dll,export,473  1D8 000311A0 ?InitiateAsyncConform@ConformUtils@ML@@SA?AV?$Future@X@async@dvacore@@AEBV?$InterfaceRef@UITrackItem@BE@@@classref@5@_N1@Z
+ImporterHost.dll,export,474  1D9 000316D0 ?InitiateAsyncConform@ConformUtils@ML@@SA?AV?$Future@X@async@dvacore@@AEBV?$InterfaceRef@UITrackItemSelection@BE@@@classref@5@_N1@Z
+ImporterHost.dll,export,475  1DA 00031950 ?InitiateAsyncConform@ConformUtils@ML@@SA?AV?$Future@X@async@dvacore@@AEBV?$map@VFractionalIndex@Utils@BE@@V?$InterfaceRef@UIProjectItem@BE@@@classref@dvacore@@U?$less@VFractionalIndex@Utils@BE@@@std@@U?$STLAllocator@U?$pair@$$CBVFractionalIndex@Utils@BE@@V?$InterfaceRef@UIProjectItem@BE@@@classref@dvacore@@@std@@@allocator@6@@std@@_N1@Z
+ImporterHost.dll,export,476  1DB 00031B50 ?InitiateAsyncConform@ConformUtils@ML@@SA?AV?$Future@X@async@dvacore@@AEBV?$vector@V?$InterfaceRef@UIProjectItem@BE@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UIProjectItem@BE@@@classref@dvacore@@@allocator@3@@std@@_N1@Z
+ImporterHost.dll,export,477  1DC 00031D00 ?InitiateAsyncConform@ConformUtils@ML@@SA?AV?$Future@X@async@dvacore@@AEBV?$vector@V?$InterfaceRef@UITrackItem@BE@@@classref@dvacore@@U?$STLAllocator@V?$InterfaceRef@UITrackItem@BE@@@classref@dvacore@@@allocator@3@@std@@_N1W4SequenceContentBehavior@12@@Z
+ImporterHost.dll,export,488  1E7 00173B80 ?IsMultiThreadedAudioRenderingFeatureEnabled@ML@@YA_NXZ
+ImporterHost.dll,export,503  1F6 000C3DA0 ?MakeNumberedStillsBaseFileName@FileImporter@ML@@UEBA?AV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V?$InterfaceRef@UIMedia@BE@@@classref@dvacore@@AEBV34@AEBVTickTime@dvamediatypes@@@Z
+ImporterHost.dll,export,505  1F8 00159740 ?MetadataForSequence@ImporterHost@@YAHAEBV?$InterfaceRef@UIProject@BE@@@classref@dvacore@@AEBV?$InterfaceRef@UISequence@BE@@@34@VTickTime@dvamediatypes@@2_N3AEAV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@@Z
+ImporterHost.dll,export,506  1F9 00032780 ?NeedsConform@ConformUtils@ML@@SA_NAEBV?$InterfaceRef@UISource@MF@@@classref@dvacore@@_NAEBVImmutableString@utility@5@V?$InterfaceRef@UIAbort@MF@@@45@V?$InterfaceRef@UIProgress@BE@@@45@@Z
+ImporterHost.dll,export,507  1FA 000329D0 ?NeedsConform@ConformUtils@ML@@SA_NAEBV?$map@VFractionalIndex@Utils@BE@@V?$InterfaceRef@UIProjectItem@BE@@@classref@dvacore@@U?$less@VFractionalIndex@Utils@BE@@@std@@U?$STLAllocator@U?$pair@$$CBVFractionalIndex@Utils@BE@@V?$InterfaceRef@UIProjectItem@BE@@@classref@dvacore@@@std@@@allocator@6@@std@@_NAEBVImmutableString@utility@dvacore@@V?$InterfaceRef@UIAbort@MF@@@classref@7@V?$InterfaceRef@UIProgress@BE@@@97@@Z
+ImporterHost.dll,export,508  1FB 00033030 ?NeedsConform@ConformUtils@ML@@SA_NV?$InterfaceRef@UIChildClip@BE@@@classref@dvacore@@_NAEBVImmutableString@utility@5@V?$InterfaceRef@UIAbort@MF@@@45@V?$InterfaceRef@UIProgress@BE@@@45@@Z
+ImporterHost.dll,export,509  1FC 000332B0 ?NeedsConform@ConformUtils@ML@@SA_NV?$InterfaceRef@UIClip@BE@@@classref@dvacore@@_NAEBVImmutableString@utility@5@V?$InterfaceRef@UIAbort@MF@@@45@V?$InterfaceRef@UIProgress@BE@@@45@@Z
+ImporterHost.dll,export,510  1FD 000336D0 ?NeedsConform@ConformUtils@ML@@SA_NV?$InterfaceRef@UIMasterClip@BE@@@classref@dvacore@@_NAEBVImmutableString@utility@5@V?$InterfaceRef@UIAbort@MF@@@45@V?$InterfaceRef@UIProgress@BE@@@45@@Z
+ImporterHost.dll,export,511  1FE 00033960 ?NeedsConform@ConformUtils@ML@@SA_NV?$InterfaceRef@UIProject@BE@@@classref@dvacore@@_NAEBVImmutableString@utility@5@V?$InterfaceRef@UIAbort@MF@@@45@V?$InterfaceRef@UIProgress@BE@@@45@@Z
+ImporterHost.dll,export,512  1FF 00033D90 ?NeedsConform@ConformUtils@ML@@SA_NV?$InterfaceRef@UIProjectItemSelection@BE@@@classref@dvacore@@_NAEBVImmutableString@utility@5@V?$InterfaceRef@UIAbort@MF@@@45@V?$InterfaceRef@UIProgress@BE@@@45@@Z
+ImporterHost.dll,export,513  200 000340E0 ?NeedsConform@ConformUtils@ML@@SA_NV?$InterfaceRef@UISequence@BE@@@classref@dvacore@@_NAEBVImmutableString@utility@5@V?$InterfaceRef@UIAbort@MF@@@45@V?$InterfaceRef@UIProgress@BE@@@45@@Z
+ImporterHost.dll,export,514  201 00034FB0 ?NeedsConform@ConformUtils@ML@@SA_NV?$InterfaceRef@UITrackItemSelection@BE@@@classref@dvacore@@_NAEBVImmutableString@utility@5@V?$InterfaceRef@UIAbort@MF@@@45@V?$InterfaceRef@UIProgress@BE@@@45@@Z
+ImporterHost.dll,export,521  208 000EA510 ?OpenPreferences@Importer@ML@@UEAAHAEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@std@@_KV?$InterfaceRef@UISequence@BE@@@classref@dvacore@@AEBVTickTime@dvamediatypes@@2AEAV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@6@@Z
+ImporterHost.dll,export,530  211 0017B6A0 ?Process@ConformedAudioSourceFile@ML@@UEAA?AW4ProcessState@AudioSourceImpl@2@V?$InterfaceRef@UIAbort@MF@@@classref@dvacore@@AEBVImmutableString@utility@7@_N@Z
+ImporterHost.dll,export,532  213 00074A70 ?QueryMap@AudioSourcePool@ML@@MEAAPEAXAEBV?$basic_string_view@DU?$char_traits@D@std@@@std@@@Z
+ImporterHost.dll,export,533  214 000B1130 ?QueryMap@ConformedAudioSourceFile@ML@@MEAAPEAXAEBV?$basic_string_view@DU?$char_traits@D@std@@@std@@@Z
+ImporterHost.dll,export,540  21B 0017D550 ?QuietFile@ConformedAudioSourceFile@ML@@UEAAXAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@Z
+ImporterHost.dll,export,546  221 000B1640 ?ReadDefaultAnalysis@FileImporter@ML@@MEAAXAEBV?$lock_guard@VAssertingRecursiveMutex@threads@dvacore@@@std@@AEBVBinaryData@MF@@_KAEBVTickTime@dvamediatypes@@AEBVFrameRate@8@AEAV?$vector@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@U?$STLAllocator@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@allocator@dvacore@@@4@_NAEBVPixelAspectRatio@8@VTimeDisplay@8@86AEBUColorSpace@color@8@696AEBVGuid@utility@dvacore@@@Z
+ImporterHost.dll,export,547  222 00115F50 ?ReadDefaultAnalysis@Importer@ML@@IEAAXAEBV?$lock_guard@VAssertingRecursiveMutex@threads@dvacore@@@std@@AEBVBinaryData@MF@@_KAEBVTickTime@dvamediatypes@@AEBVFrameRate@8@AEAV?$vector@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@U?$STLAllocator@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@allocator@dvacore@@@4@_NAEBVPixelAspectRatio@8@6AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@4@VTimeDisplay@8@96AEBUColorSpace@color@8@6AEBUColorSpace@color@8@6AEBVGuid@utility@dvacore@@@Z
+ImporterHost.dll,export,548  223 0017D590 ?ReadDirectFromImporter@ConformedAudioSourceFile@ML@@MEAAX_JAEAVAudioBuffer@dvaaudiotoolkit@@@Z
+ImporterHost.dll,export,551  226 000B1EE0 ?ReadInfo@FileImporter@ML@@MEAAHAEBV?$lock_guard@VAssertingRecursiveMutex@threads@dvacore@@@std@@_NAEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@4@AEBVFrameRate@dvamediatypes@@4AEBV?$RectT@H@geom@dvacore@@AEBVPixelAspectRatio@9@_KAEA_N81AEAV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@4@@Z
+ImporterHost.dll,export,552  227 000EB2E0 ?ReadInfo@Importer@ML@@IEAAHAEBV?$lock_guard@VAssertingRecursiveMutex@threads@dvacore@@@std@@_NAEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@4@_KAEBVFrameRate@dvamediatypes@@5AEBV?$RectT@H@geom@dvacore@@AEBVPixelAspectRatio@9@7AEBW4FieldType@9@AEA_N911AEBV?$shared_ptr@VStillSequence@MF@@@4@HAEAV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@4@AEAUData@SDM@6@W4ImageOrientationType@6@@Z
+ImporterHost.dll,export,553  228 000D0420 ?ReadLegacyTimeInfo@FileImporter@ML@@AEAAHAEBV?$lock_guard@VAssertingRecursiveMutex@threads@dvacore@@@std@@AEAVBinaryData@MF@@AEBVFrameRate@dvamediatypes@@_K@Z
+ImporterHost.dll,export,554  229 000D12F0 ?ReadLinearTimecode@FileImporter@ML@@AEAA_NAEBVFrameRate@dvamediatypes@@_K@Z
+ImporterHost.dll,export,559  22E 000EE490 ?ReadPrefs@Importer@ML@@IEAAHAEBV?$lock_guard@VAssertingRecursiveMutex@threads@dvacore@@@std@@AEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@4@_KHAEBVTickTime@dvamediatypes@@AEAV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@4@@Z
+ImporterHost.dll,export,560  22F 000EEF00 ?ReadPrefs@Importer@ML@@UEAAHAEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@std@@_KHAEBVTickTime@dvamediatypes@@AEAV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@6@@Z
+ImporterHost.dll,export,564  233 000D2640 ?ReadTimeInfo@FileImporter@ML@@AEAAHAEBV?$lock_guard@VAssertingRecursiveMutex@threads@dvacore@@@std@@AEAVBinaryData@MF@@AEBVFrameRate@dvamediatypes@@_K@Z
+ImporterHost.dll,export,569  238 0017D700 ?Reattach@ConformedAudioSourceFile@ML@@QEAAHAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@000V?$InterfaceRef@UIAudioSource@AR@@@classref@dvacore@@AEBVBinaryData@MF@@AEBVFrameRate@dvamediatypes@@0AEBVGuid@utility@7@40_KAEBVImmutableString@utility@7@@Z
+ImporterHost.dll,export,571  23A 0017DE30 ?ReattachOrCreate@ConformedAudioSourceFile@ML@@SA?AV?$InterfaceRef@UIAudioSource@AR@@@classref@dvacore@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@000V345@AEBVBinaryData@MF@@AEBVFrameRate@dvamediatypes@@0AEBVGuid@utility@5@40_KAEBVImmutableString@utility@5@@Z
+ImporterHost.dll,export,573  23C 0017E0A0 ?RefreshFile@ConformedAudioSourceFile@ML@@UEAAHAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEAV?$set@V?$InterfaceRef@UUnknownBase@classref@dvacore@@@classref@dvacore@@U?$less@V?$InterfaceRef@UUnknownBase@classref@dvacore@@@classref@dvacore@@@std@@U?$STLAllocator@V?$InterfaceRef@UUnknownBase@classref@dvacore@@@classref@dvacore@@@allocator@3@@4@@Z
+ImporterHost.dll,export,581  244 0016C1B0 ?RemoveAudioSource@AudioSourcePool@ML@@QEAAXAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVGuid@utility@dvacore@@0AEBVFrameRate@dvamediatypes@@AEBVTickTime@9@1AEBVBinaryData@MF@@AEBV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@4@@Z
+ImporterHost.dll,export,582  245 0016C4D0 ?RemoveAudioSource@AudioSourcePool@ML@@QEAAXAEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVGuid@utility@dvacore@@_KAEBVFrameRate@dvamediatypes@@AEBVTickTime@9@1AEBVBinaryData@MF@@AEBV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@4@@Z
+ImporterHost.dll,export,596  253 000EFDE0 ?SetFileInfoDefaultValues@Importer@ML@@IEAAXAEAUimFileInfoRec9@@AEBVFrameRate@dvamediatypes@@1AEBV?$RectT@H@geom@dvacore@@AEBVPixelAspectRatio@5@@Z
+ImporterHost.dll,export,602  259 000D7590 ?SetTimeInfo@FileImporter@ML@@UEAAHAEBVBinaryData@MF@@AEBVTickTime@dvamediatypes@@1AEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@22AEBVFrameRate@6@_N4@Z
+ImporterHost.dll,export,605  25C 000D8FB0 ?SetXMPMediaCreationDate@FileImporter@ML@@AEAAXAEBVDate@ASL@@AEBVTickTime@dvamediatypes@@@Z
+ImporterHost.dll,export,613  264 0017E0B0 ?StartConformationInitOperation@ConformedAudioSourceFile@ML@@SAXXZ
+ImporterHost.dll,export,616  267 00187D70 ?SuppressAudioConforming@ML@@YAX_N@Z
+ImporterHost.dll,export,619  26A 000C4960 ?TrimMediaFile@FileImporter@ML@@UEBAHV?$InterfaceRef@UIProject@BE@@@classref@dvacore@@V?$InterfaceRef@UIMedia@BE@@@45@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVTickTime@dvamediatypes@@3AEBVBinaryData@MF@@_N5P6A_NMPEAX@Z6@Z
+ImporterHost.dll,export,620  26B 000C52B0 ?TrimNumberedStills@FileImporter@ML@@AEBAHV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@0AEBVTickTime@dvamediatypes@@1VFrameRate@6@P6A_NMPEAX@Z3@Z
+ImporterHost.dll,export,622  26D 000C55E0 ?TrimUsingImporter@FileImporter@ML@@AEBAHV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVTickTime@dvamediatypes@@1AEBVBinaryData@MF@@_N3P6A_NMPEAX@Z4@Z
+ImporterHost.dll,export,627  272 0017E170 ?UseNewSourceFile@ConformedAudioSourceFile@ML@@EEAAXXZ
+ImporterHost.dll,export,628  273 00036B40 ?WaitForPendingMedia@ConformUtils@ML@@SA_NAEBV?$InterfaceRef@UISequence@BE@@@classref@dvacore@@AEBV?$InterfaceRef@UIProgress@BE@@@45@AEBVTickTime@dvamediatypes@@2@Z
+ImporterHost.dll,export,666  299 0029A680 ?kVideoFrameRate@FileImporter@ML@@2PEBDEB
+ImporterHost.dll,export,675  2A2 001F2298 ?queryClass@?2??QueryMap@AudioSourcePool@ML@@MEAAPEAXAEBV?$basic_string_view@DU?$char_traits@D@std@@@std@@@Z@4V45@B
+ImporterHost.dll,export,676  2A3 001F5220 ?queryClass@?2??QueryMap@ConformedAudioSourceFile@ML@@MEAAPEAXAEBV?$basic_string_view@DU?$char_traits@D@std@@@std@@@Z@4V45@B
+ImporterHost.dll,export,681  2A8 001F2348 ?queryClass@?6??QueryMap@AudioSourcePool@ML@@MEAAPEAXAEBV?$basic_string_view@DU?$char_traits@D@std@@@std@@@Z@4V45@B
+ImporterHost.dll,export,686  2AD 001F52D0 ?queryClass@?9??QueryMap@ConformedAudioSourceFile@ML@@MEAAPEAXAEBV?$basic_string_view@DU?$char_traits@D@std@@@std@@@Z@4V45@B
+ImporterHost.dll,export,702  2BD 0029A540 ?sMutex@?1??CreateClassRefInternal@AudioSourcePool@ML@@SA?AV?$InterfaceRef@VAudioSourcePool@ML@@@classref@dvacore@@_N@Z@4Vmutex@std@@A
+ImporterHost.dll,export,704  2BF 002D20C8 ?sTypeName@?1??GetUnknownTypeName@AudioSourcePool@ML@@UEBAAEBVImmutableString@utility@dvacore@@XZ@4V456@B
+ImporterHost.dll,export,705  2C0 002D5A98 ?sTypeName@?1??GetUnknownTypeName@ConformedAudioSourceFile@ML@@UEBAAEBVImmutableString@utility@dvacore@@XZ@4V456@B
+ImporterHost.dll,export,709  2C4 002D1BD8 ?sWeakSingleton@?1??CreateClassRefInternal@AudioSourcePool@ML@@SA?AV?$InterfaceRef@VAudioSourcePool@ML@@@classref@dvacore@@_N@Z@4V?$weak_ptr@VAudioSourcePool@ML@@@std@@A
+ImporterHost.dll,import,36 ??0TickTime@dvamediatypes@@QEAA@_JAEBVFrameRate@1@@Z
+ImporterHost.dll,import,345 ?ToFrame64@TickTime@dvamediatypes@@QEBA_JAEBVFrameRate@2@@Z
+ImporterHost.dll,import,344 ?ToFrame32@TickTime@dvamediatypes@@QEBAHAEBVFrameRate@2@@Z
+ImporterHost.dll,import,BB ??KTickTime@dvamediatypes@@QEBANAEBV01@@Z
+ImporterHost.dll,import,B4 ??HTickTime@dvamediatypes@@QEBA?AV01@AEBV01@@Z
+ImporterHost.dll,import,B1 ??GTickTime@dvamediatypes@@QEBA?AV01@AEBV01@@Z
+ImporterHost.dll,import,132 ?AddFrames@TickTime@dvamediatypes@@QEAAX_JAEBVFrameRate@2@@Z
+ImporterHost.dll,import,296 ?HMSFToTime@dvamediatypes@@YA?AVTickTime@1@III_K_NVFrameRate@1@VTimeDisplay@1@@Z
+ImporterHost.dll,import,254 ?GetFrameRateForTimeDisplay@dvamediatypes@@YA?AVFrameRate@1@VTimeDisplay@1@V21@@Z
+ImporterHost.dll,import,285 ?GetTimeDisplayForFrameRate@dvamediatypes@@YA?AVTimeDisplay@1@VFrameRate@1@_N1W4TimeDisplayType@1@1@Z
+ImporterHost.dll,import,33D ?TimeToRatioTime@dvamediatypes@@YA?AV?$rational@_J@boost@@VTickTime@1@@Z
+ImporterHost.dll,import,2E6 ?RatioTimeToTime@dvamediatypes@@YA?AVTickTime@1@V?$rational@_J@boost@@@Z
+ImporterHost.dll,import,1F4 ?FrameRateToRatio@dvamediatypes@@YA?AV?$rational@_J@boost@@AEBVFrameRate@1@@Z
+ImporterHost.dll,import,D5 ??YTickTime@dvamediatypes@@QEAAAEAV01@AEBV01@@Z
+ImporterHost.dll,import,33F ?TimeToTimecode@dvamediatypes@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@VTickTime@1@VFrameRate@1@VTimeDisplay@1@V?$Flags@I@utility@dvacore@@@Z
+ImporterHost.dll,import,2DD ?MapPulldownFrameTo2997Frame@dvamediatypes@@YA?AVTickTime@1@V21@VFrameRate@1@W4PulldownCadence@1@AEA_N@Z
+ImporterHost.dll,import,D6 ??ZTickTime@dvamediatypes@@QEAAAEAV01@AEBV01@@Z
+ImporterHost.dll,import,13B ??0WaveformBufferAnnotation@waveform@dvaaudiotoolkit@@QEAA@H_K0@Z
+ImporterHost.dll,import,140 ??0WaveformData@waveform@dvaaudiotoolkit@@QEAA@$$QEAV?$vector@MU?$STLAllocator@M@allocator@dvacore@@@std@@W4WaveformDataType@12@_K@Z
+ImporterHost.dll,import,141 ??0WaveformData@waveform@dvaaudiotoolkit@@QEAA@AEBUWaveformDataProperties@12@@Z
+ImporterHost.dll,import,475 ?CopyChannel@WaveformData@waveform@dvaaudiotoolkit@@QEAAXAEBV?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@_K111@Z
+ImporterHost.dll,import,A55 ?SetWaveformSample@WaveformData@waveform@dvaaudiotoolkit@@QEAAX_K0AEBM@Z
+ImporterHost.dll,import,A54 ?SetWaveformPeakValue@WaveformData@waveform@dvaaudiotoolkit@@QEAAX_K0AEBUWaveformPeakValue@23@@Z
+ImporterHost.dll,import,3B8 ?AddAnnotation@WaveformData@waveform@dvaaudiotoolkit@@QEAAXVWaveformBufferAnnotation@23@@Z
+ImporterHost.dll,import,81F ?RecycleWaveformBuffer@WaveformData@waveform@dvaaudiotoolkit@@QEAAAEAV?$vector@MU?$STLAllocator@M@allocator@dvacore@@@std@@AEBUWaveformDataProperties@23@@Z
+ImporterHost.dll,import,6E8 ?GetWaveformBuffer@WaveformData@waveform@dvaaudiotoolkit@@QEBAAEBV?$vector@MU?$STLAllocator@M@allocator@dvacore@@@std@@XZ
+ImporterHost.dll,import,6DD ?GetType@WaveformData@waveform@dvaaudiotoolkit@@QEBA?AW4WaveformDataType@23@XZ
+ImporterHost.dll,import,6A6 ?GetSizePerChannel@WaveformData@waveform@dvaaudiotoolkit@@QEBA_KXZ
+ImporterHost.dll,import,1F4 ??1WaveformData@waveform@dvaaudiotoolkit@@QEAA@XZ
+ImporterHost.dll,import,B29 ?ZeroChannel@WaveformData@waveform@dvaaudiotoolkit@@QEAAX_K00@Z
+ImporterHost.dll,import,153 ?GetBeginTime@CaptionList@dvacaptioning@@QEBA?AVTickTime@dvamediatypes@@XZ
+ImporterHost.dll,import,1A8 ?GetEndTime@CaptionList@dvacaptioning@@QEBA?AVTickTime@dvamediatypes@@XZ
+ImporterHost.dll,import,F5 ?CalculateRequestHash@CaptioningRenderableModel@dvacaptioning@@SA?AVGuid@utility@dvacore@@AEBV345@AEBVTickTime@dvamediatypes@@W4StreamFormat@2@@Z
+ImporterHost.dll,import,1FE ?GetModelFromData@dvacaptioning@@YAXAEBVCaptionTrackList@1@AEBVFrameRate@dvamediatypes@@AEBVTickTime@4@W4StreamFormat@1@AEAV?$shared_ptr@VCaptioningRenderableModel@dvacaptioning@@@std@@AEBV?$RectT@H@geom@dvacore@@HH@Z
+ImporterHost.dll,import,3E ??0DataChunk@dvacaptioning@@QEAA@AEBVTickTime@dvamediatypes@@AEBVBinaryData@1@@Z
+ImporterHost.dll,import,D9 ?StringToTime@Timecode@ASL@@SA?AVTickTime@dvamediatypes@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBVFrameRate@4@VTimeDisplay@4@_N@Z
+ImporterHost.dll,import,D ??0Timecode@ASL@@QEAA@AEBVTickTime@dvamediatypes@@AEBVFrameRate@3@VTimeDisplay@3@@Z
+ImporterHost.dll,import,98 ?GetTime@Timecode@ASL@@QEBA?AVTickTime@dvamediatypes@@XZ
+ImporterHost.dll,import,4D ?ConformTimecode@Timecode@ASL@@SAHAEBV12@AEBVFrameRate@dvamediatypes@@AEBVTimeDisplay@4@AEAV12@@Z
+ImporterHost.dll,import,7F ?GetFrameRate@Timecode@ASL@@QEBA?AVFrameRate@dvamediatypes@@XZ
+ImporterHost.dll,import,E ??0CacheGuard@MF@@QEAA@AEBV?$InterfaceRef@UIPurgeableSupport@MF@@@classref@dvacore@@_K@Z
+ImporterHost.dll,import,D ??0CacheGuard@MF@@QEAA@$$QEAV01@@Z
+ImporterHost.dll,import,4B ??1CacheGuard@MF@@QEAA@XZ
+ImporterHost.dll,import,AudioRenderer.dll
+ImporterHost.dll,import,4B ?Abort@AudioWaveformQueue@AR@@YAXXZ
+ImporterHost.dll,import,7E ?CreateSpecializedResampler@AudioResamplerFactory@AR@@YA?AV?$InterfaceRef@UIAudioResamplerSpecialized@AR@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@0I@Z
+ImporterHost.dll,import,65 ?CreateAudioResampler@AudioResamplerFactory@AR@@YA?AV?$InterfaceRef@UIAudioResampler@AR@@@classref@dvacore@@W4RenderQuality@dvamediatypes@@@Z
+ImporterHost.dll,import,AC ?IsSpecializedResamplerAvailable@AudioResamplerFactory@AR@@YA_NAEBVFrameRate@dvamediatypes@@0@Z
+ImporterHost.dll,import,B5F ?ResetPreviewBuildFlags@AudioSourceUtilities@BE@@YAXXZ
+ImporterHost.dll,import,D56 ?kConformedAudioExtension@BE@@3V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@B
+ImporterHost.dll,import,80D ?GetPEKFilename@AudioSourceUtilities@BE@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBV34@AEBVFrameRate@dvamediatypes@@@Z
+ImporterHost.dll,import,675 ?GetCFAFilename@AudioSourceUtilities@BE@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBV34@AEBVFrameRate@dvamediatypes@@@Z
+ImporterHost.dll,import,714 ?GetFilePartForForPekOrCFAFile@AudioSourceUtilities@BE@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBV34@@Z
+ImporterHost.dll,import,6D4 ?GetDefaultPEKFileFromCFAFile@AudioSourceUtilities@BE@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@AEBV34@@Z
+ImporterHost.dll,import,803 ?GetOrCreateTrack@MarkerUtils@BE@@YAPEAVXMPTrack@dvatemporalxmp@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@0AEAVXMPDocOpsTemporal@4@AEBVFrameRate@dvamediatypes@@@Z
+ImporterHost.dll,import,50 ?ConvertTDBToFrameRate@ML@@YA?AVFrameRate@dvamediatypes@@AEBUTDB_TimeRecord@@@Z
+ImporterHost.dll,import,4F ?ConvertFrameRateToTDB@ML@@YA?AUTDB_TimeRecord@@AEBVFrameRate@dvamediatypes@@@Z
+ImporterHost.dll,import,16 ?GetActiveSequenceAndTime@ML@@YAXAEAV?$InterfaceRef@UISequence@BE@@@classref@dvacore@@AEAVTickTime@dvamediatypes@@@Z
+ImporterHost.dll,import,B ?GetCurrentRenderTime@CompilerMixer@ML@@UEBA?AVTickTime@dvamediatypes@@XZ
+ImporterHost.dll,import,0 ??0CompilerMixer@ML@@QEAA@V?$InterfaceRef@UIAudioRenderable@BE@@@classref@dvacore@@AEBVFrameRate@dvamediatypes@@V?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@std@@VTickTime@6@W4RenderQuality@6@@Z
+ImporterHost.dll,import,9 ?GetAudioRenderable@CompilerMixer@ML@@UEBA?AV?$InterfaceRef@UIAudioRenderable@BE@@@classref@dvacore@@XZ
+ImporterHost.dll,import,E ?GetFrameRate@CompilerMixer@ML@@UEBA?AVFrameRate@dvamediatypes@@XZ
+ImporterHost.dll,dependent,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\ImporterHost.dll
+ImporterHost.dll,dependent,dvacore.dll
+ImporterHost.dll,dependent,dvamediatypes.dll
+ImporterHost.dll,dependent,dvaaudiotoolkit.dll
+ImporterHost.dll,dependent,MediaFoundation.dll
+ImporterHost.dll,dependent,AudioRenderer.dll
+ImporterHost.dll,dependent,VideoFrame.dll
+ImporterHost.dll,dependent,AudioSupport.dll
+ImporterHost.dll,dependent,MediaUtils.dll
+dvaaudiotoolkit.dll,export,57   38 00180A00 ??0?$ScriptCastInterface@V?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@@dvascripting@@QEAA@AEBV01@@Z
+dvaaudiotoolkit.dll,export,58   39 00180A10 ??0?$ScriptCastInterface@V?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@@dvascripting@@QEAA@XZ
+dvaaudiotoolkit.dll,export,89   58 0018BE30 ??0AudioProcessor@dvaaudiotoolkit@@QEAA@XZ
+dvaaudiotoolkit.dll,export,137   88 001833D0 ??0Decoder@smpteltc@dvaaudiotoolkit@@QEAA@AEBVFrameRate@dvamediatypes@@VTimeDisplay@4@@Z
+dvaaudiotoolkit.dll,export,173   AC 00197640 ??0FixedPositionGainRamp@dvaaudiotoolkit@@QEAA@VFrameRate@dvamediatypes@@VTickTime@3@MMM@Z
+dvaaudiotoolkit.dll,export,177   B0 00197760 ??0GainRamp@dvaaudiotoolkit@@QEAA@AEBVFrameRate@dvamediatypes@@MM@Z
+dvaaudiotoolkit.dll,export,282  119 001855E0 ??0SmpteLtcFrame@smpteltc@dvaaudiotoolkit@@QEAA@VTimeDisplay@dvamediatypes@@AEBVTickTime@4@_N@Z
+dvaaudiotoolkit.dll,export,316  13B 001B4100 ??0WaveformBufferAnnotation@waveform@dvaaudiotoolkit@@QEAA@H_K0@Z
+dvaaudiotoolkit.dll,export,317  13C 001B4250 ??0WaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEAA@$$QEAV012@@Z
+dvaaudiotoolkit.dll,export,318  13D 001B4290 ??0WaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEAA@$$QEAV?$vector@MU?$STLAllocator@M@allocator@dvacore@@@std@@@Z
+dvaaudiotoolkit.dll,export,319  13E 001B42D0 ??0WaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEAA@M@Z
+dvaaudiotoolkit.dll,export,320  13F 00180A20 ??0WaveformData@waveform@dvaaudiotoolkit@@QEAA@$$QEAV012@@Z
+dvaaudiotoolkit.dll,export,321  140 001B4B80 ??0WaveformData@waveform@dvaaudiotoolkit@@QEAA@$$QEAV?$vector@MU?$STLAllocator@M@allocator@dvacore@@@std@@W4WaveformDataType@12@_K@Z
+dvaaudiotoolkit.dll,export,322  141 001B4BF0 ??0WaveformData@waveform@dvaaudiotoolkit@@QEAA@AEBUWaveformDataProperties@12@@Z
+dvaaudiotoolkit.dll,export,323  142 00180A90 ??0WaveformData@waveform@dvaaudiotoolkit@@QEAA@AEBV012@@Z
+dvaaudiotoolkit.dll,export,324  143 00180BA0 ??0WaveformData@waveform@dvaaudiotoolkit@@QEAA@XZ
+dvaaudiotoolkit.dll,export,325  144 00180BD0 ??0WaveformDataObject@waveform@dvaaudiotoolkit@@QEAA@XZ
+dvaaudiotoolkit.dll,export,326  145 001B5F70 ??0WaveformScaleFactor@waveform@dvaaudiotoolkit@@QEAA@$$QEAV012@@Z
+dvaaudiotoolkit.dll,export,327  146 001B5FA0 ??0WaveformScaleFactor@waveform@dvaaudiotoolkit@@QEAA@$$QEAV?$vector@VWaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@U?$STLAllocator@VWaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@@allocator@dvacore@@@std@@@Z
+dvaaudiotoolkit.dll,export,328  147 001B6110 ??0WaveformScaleFactor@waveform@dvaaudiotoolkit@@QEAA@$$QEAVWaveformChannelScaleFactor@12@@Z
+dvaaudiotoolkit.dll,export,387  182 0018BEA0 ??1AudioProcessor@dvaaudiotoolkit@@UEAA@XZ
+dvaaudiotoolkit.dll,export,500  1F3 001B4300 ??1WaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEAA@XZ
+dvaaudiotoolkit.dll,export,501  1F4 00180F40 ??1WaveformData@waveform@dvaaudiotoolkit@@QEAA@XZ
+dvaaudiotoolkit.dll,export,502  1F5 00180FD0 ??1WaveformDataObject@waveform@dvaaudiotoolkit@@UEAA@XZ
+dvaaudiotoolkit.dll,export,503  1F6 001B4CD0 ??1WaveformScaleFactor@waveform@dvaaudiotoolkit@@QEAA@XZ
+dvaaudiotoolkit.dll,export,522  209 001810E0 ??4?$ScriptCastInterface@V?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@@dvascripting@@QEAAAEAV01@$$QEAV01@@Z
+dvaaudiotoolkit.dll,export,523  20A 001810F0 ??4?$ScriptCastInterface@V?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@@dvascripting@@QEAAAEAV01@AEBV01@@Z
+dvaaudiotoolkit.dll,export,524  20B 00181100 ??4?$TransformObjectIntoScriptingObject@V?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@@utility@dvascripting@@QEAAAEAU012@$$QEAU012@@Z
+dvaaudiotoolkit.dll,export,525  20C 00181110 ??4?$TransformObjectIntoScriptingObject@V?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@@utility@dvascripting@@QEAAAEAU012@AEBU012@@Z
+dvaaudiotoolkit.dll,export,611  262 001811B0 ??4WaveformBufferAnnotation@waveform@dvaaudiotoolkit@@QEAAAEAV012@$$QEAV012@@Z
+dvaaudiotoolkit.dll,export,612  263 001811D0 ??4WaveformBufferAnnotation@waveform@dvaaudiotoolkit@@QEAAAEAV012@AEBV012@@Z
+dvaaudiotoolkit.dll,export,613  264 001B43C0 ??4WaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEAAAEAV012@$$QEAV012@@Z
+dvaaudiotoolkit.dll,export,614  265 001811F0 ??4WaveformData@waveform@dvaaudiotoolkit@@QEAAAEAV012@$$QEAV012@@Z
+dvaaudiotoolkit.dll,export,615  266 00181300 ??4WaveformData@waveform@dvaaudiotoolkit@@QEAAAEAV012@AEBV012@@Z
+dvaaudiotoolkit.dll,export,616  267 001B6230 ??4WaveformScaleFactor@waveform@dvaaudiotoolkit@@QEAAAEAV012@$$QEAV012@@Z
+dvaaudiotoolkit.dll,export,636  27B 001B43F0 ??8WaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEBA_NAEBV012@@Z
+dvaaudiotoolkit.dll,export,638  27D 001B44A0 ??9WaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEBA_NAEBV012@@Z
+dvaaudiotoolkit.dll,export,661  294 001814A0 ??R?$TransformObjectIntoScriptingObject@V?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@@utility@dvascripting@@QEBA?AV?$IntrusivePtr@VScriptObject@dvascripting@@@RefCountedInterface@1dvacore@@AEBV?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@H@Z
+dvaaudiotoolkit.dll,export,663  296 001B44B0 ??XWaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEAAAEAV012@$$QEAV012@@Z
+dvaaudiotoolkit.dll,export,664  297 001B6250 ??XWaveformScaleFactor@waveform@dvaaudiotoolkit@@QEAAAEAV012@$$QEAV012@@Z
+dvaaudiotoolkit.dll,export,665  298 001B45F0 ??_0WaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEAAAEAV012@$$QEAV012@@Z
+dvaaudiotoolkit.dll,export,666  299 001B6260 ??_0WaveformScaleFactor@waveform@dvaaudiotoolkit@@QEAAAEAV012@$$QEAV012@@Z
+dvaaudiotoolkit.dll,export,687  2AE 0020A520 ??_7?$ScriptCastInterface@V?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@@dvascripting@@6B@
+dvaaudiotoolkit.dll,export,704  2BF 0020B1B0 ??_7AudioProcessor@dvaaudiotoolkit@@6BRefCountedImplementation@utility@dvacore@@@
+dvaaudiotoolkit.dll,export,705  2C0 0020B1F0 ??_7AudioProcessor@dvaaudiotoolkit@@6BRefCountedInterface@utility@dvacore@@@
+dvaaudiotoolkit.dll,export,808  327 0020A5E8 ??_7WaveformDataObject@waveform@dvaaudiotoolkit@@6B@
+dvaaudiotoolkit.dll,export,809  328 0020A5F8 ??_7WaveformDataObject@waveform@dvaaudiotoolkit@@6BRefCountedInterface@utility@dvacore@@@
+dvaaudiotoolkit.dll,export,810  329 0020A530 ??_7WaveformDataObject@waveform@dvaaudiotoolkit@@6BRefCountedObjectWithWeakPtr@utility@dvacore@@@
+dvaaudiotoolkit.dll,export,841  348 0020B208 ??_8AudioProcessor@dvaaudiotoolkit@@7B@
+dvaaudiotoolkit.dll,export,882  371 0020A610 ??_8WaveformDataObject@waveform@dvaaudiotoolkit@@7B@
+dvaaudiotoolkit.dll,export,899  382 00074970 ??_DAudioProcessor@dvaaudiotoolkit@@QEAAXXZ
+dvaaudiotoolkit.dll,export,940  3AB 00181570 ??_DWaveformDataObject@waveform@dvaaudiotoolkit@@QEAAXXZ
+dvaaudiotoolkit.dll,export,951  3B6 001B4600 ??_FWaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEAAXXZ
+dvaaudiotoolkit.dll,export,952  3B7 001B4D80 ?Add@WaveformData@waveform@dvaaudiotoolkit@@QEAAXAEBV?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@@Z
+dvaaudiotoolkit.dll,export,953  3B8 001B4DE0 ?AddAnnotation@WaveformData@waveform@dvaaudiotoolkit@@QEAAXVWaveformBufferAnnotation@23@@Z
+dvaaudiotoolkit.dll,export,975  3CE 0018BFF0 ?Amp2DB@AudioProcessor@dvaaudiotoolkit@@SAMM@Z
+dvaaudiotoolkit.dll,export,996  3E3 00080230 ?AppendSound@?$AudioFeatures@M@classifier@dvaaudiotoolkit@@QEAAXAEBVAudioBuffer@3@M_N@Z
+dvaaudiotoolkit.dll,export,997  3E4 00080370 ?AppendSound@?$AudioFeatures@N@classifier@dvaaudiotoolkit@@QEAAXAEBVAudioBuffer@3@N_N@Z
+dvaaudiotoolkit.dll,export,1000  3E7 0018C030 ?ApplyKaiserWindow@AudioProcessor@dvaaudiotoolkit@@SAXPEAMHNH@Z
+dvaaudiotoolkit.dll,export,1001  3E8 0018C360 ?ApplyKaiserWindow@AudioProcessor@dvaaudiotoolkit@@SAXPEANHNH@Z
+dvaaudiotoolkit.dll,export,1003  3EA 001B4E20 ?ApplyScaling@WaveformData@waveform@dvaaudiotoolkit@@QEAAXAEBVWaveformChannelScaleFactor@23@_K11@Z
+dvaaudiotoolkit.dll,export,1004  3EB 001B4FB0 ?ApplyScaling@WaveformData@waveform@dvaaudiotoolkit@@QEAAXAEBVWaveformScaleFactor@23@@Z
+dvaaudiotoolkit.dll,export,1017  3F8 0018C670 ?BesselI0@AudioProcessor@dvaaudiotoolkit@@CANN@Z
+dvaaudiotoolkit.dll,export,1050  419 00181720 ?CastTo@WaveformDataObject@waveform@dvaaudiotoolkit@@UEBA_NAEAV?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@@Z
+dvaaudiotoolkit.dll,export,1051  41A 0018C770 ?ChangeBufferSize@AudioProcessor@dvaaudiotoolkit@@UEAAXH@Z
+dvaaudiotoolkit.dll,export,1069  42C 001B50D0 ?Clear@WaveformData@waveform@dvaaudiotoolkit@@QEAAXXZ
+dvaaudiotoolkit.dll,export,1101  44C 00184CE0 ?ComputeSampleCountPerBit@smpteltc@dvaaudiotoolkit@@YA?AV?$rational@_J@boost@@MAEBVFrameRate@dvamediatypes@@@Z
+dvaaudiotoolkit.dll,export,1102  44D 00184D80 ?ComputeSampleCountPerBlock@smpteltc@dvaaudiotoolkit@@YA?AV?$rational@_J@boost@@MAEBVFrameRate@dvamediatypes@@@Z
+dvaaudiotoolkit.dll,export,1136  46F 001B5100 ?ConvertToWaveformDataType@WaveformData@waveform@dvaaudiotoolkit@@QEAAXW4WaveformDataType@23@@Z
+dvaaudiotoolkit.dll,export,1142  475 001B5110 ?CopyChannel@WaveformData@waveform@dvaaudiotoolkit@@QEAAXAEBV?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@_K111@Z
+dvaaudiotoolkit.dll,export,1169  490 0018C790 ?DB2Amp@AudioProcessor@dvaaudiotoolkit@@SAMM@Z
+dvaaudiotoolkit.dll,export,1177  498 001B5290 ?DataSlotsToSize@WaveformData@waveform@dvaaudiotoolkit@@AEBA_K_K@Z
+dvaaudiotoolkit.dll,export,1182  49D 00181BB0 ?DefineObject@WaveformDataObject@waveform@dvaaudiotoolkit@@SAXXZ
+dvaaudiotoolkit.dll,export,1284  503 00184850 ?FeedDecoder@Decoder@smpteltc@dvaaudiotoolkit@@QEAA?AW4DecoderState@23@PEAM_KAEBVTickTime@dvamediatypes@@@Z
+dvaaudiotoolkit.dll,export,1291  50A 0018C7A0 ?FindMax@AudioProcessor@dvaaudiotoolkit@@SAHPEBMHH@Z
+dvaaudiotoolkit.dll,export,1328  52F 001B52A0 ?GetAnnotations@WaveformData@waveform@dvaaudiotoolkit@@QEBA?AV?$vector@VWaveformBufferAnnotation@waveform@dvaaudiotoolkit@@U?$STLAllocator@VWaveformBufferAnnotation@waveform@dvaaudiotoolkit@@@allocator@dvacore@@@std@@XZ
+dvaaudiotoolkit.dll,export,1373  55C 00181F80 ?GetChannel@WaveformDataObject@waveform@dvaaudiotoolkit@@QEBA?AV?$vector@V?$IntrusivePtr@VAnonObject@dvascripting@@@RefCountedInterface@utility@dvacore@@U?$STLAllocator@V?$IntrusivePtr@VAnonObject@dvascripting@@@RefCountedInterface@utility@dvacore@@@allocator@4@@std@@I@Z
+dvaaudiotoolkit.dll,export,1375  55E 001B52C0 ?GetChannelCount@WaveformData@waveform@dvaaudiotoolkit@@QEBA_KXZ
+dvaaudiotoolkit.dll,export,1376  55F 00181FB0 ?GetChannelCount@WaveformDataObject@waveform@dvaaudiotoolkit@@QEBAIXZ
+dvaaudiotoolkit.dll,export,1377  560 001B6270 ?GetChannelScaleFactor@WaveformScaleFactor@waveform@dvaaudiotoolkit@@QEBAAEBVWaveformChannelScaleFactor@23@_K@Z
+dvaaudiotoolkit.dll,export,1382  565 00181FC0 ?GetClassname@WaveformDataObject@waveform@dvaaudiotoolkit@@SAPEBDXZ
+dvaaudiotoolkit.dll,export,1391  56E 001B4620 ?GetConstantScale@WaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEBAMXZ
+dvaaudiotoolkit.dll,export,1415  586 001B52D0 ?GetDataSlots@WaveformData@waveform@dvaaudiotoolkit@@QEBAIXZ
+dvaaudiotoolkit.dll,export,1428  593 00181FD0 ?GetDescription@WaveformDataObject@waveform@dvaaudiotoolkit@@SAPEBDXZ
+dvaaudiotoolkit.dll,export,1454  5AD 001B4110 ?GetEnd@WaveformBufferAnnotation@waveform@dvaaudiotoolkit@@QEBA_KXZ
+dvaaudiotoolkit.dll,export,1559  616 000749D0 ?GetLookAhead@AudioProcessor@dvaaudiotoolkit@@QEBAHXZ
+dvaaudiotoolkit.dll,export,1568  61F 000749E0 ?GetMaxBlockSize@AudioProcessor@dvaaudiotoolkit@@QEBAHXZ
+dvaaudiotoolkit.dll,export,1584  62F 001849C0 ?GetNextFrame@Decoder@smpteltc@dvaaudiotoolkit@@QEAA?AW4DecoderState@23@PEAVSmpteLtcFrame@23@PEAVTickTime@dvamediatypes@@@Z
+dvaaudiotoolkit.dll,export,1587  632 000749F0 ?GetNumChannels@AudioProcessor@dvaaudiotoolkit@@QEBAHXZ
+dvaaudiotoolkit.dll,export,1589  634 001B62B0 ?GetNumChannels@WaveformScaleFactor@waveform@dvaaudiotoolkit@@QEBA_KXZ
+dvaaudiotoolkit.dll,export,1665  680 001B52E0 ?GetProperties@WaveformData@waveform@dvaaudiotoolkit@@QEBA?AUWaveformDataProperties@23@XZ
+dvaaudiotoolkit.dll,export,1694  69D 00074A20 ?GetSamplingRate@AudioProcessor@dvaaudiotoolkit@@QEBAHXZ
+dvaaudiotoolkit.dll,export,1702  6A5 001B4630 ?GetSize@WaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEBA_KXZ
+dvaaudiotoolkit.dll,export,1703  6A6 001B5300 ?GetSizePerChannel@WaveformData@waveform@dvaaudiotoolkit@@QEBA_KXZ
+dvaaudiotoolkit.dll,export,1710  6AD 001B4120 ?GetStart@WaveformBufferAnnotation@waveform@dvaaudiotoolkit@@QEBA_KXZ
+dvaaudiotoolkit.dll,export,1722  6B9 00074A30 ?GetSystemDelay@AudioProcessor@dvaaudiotoolkit@@QEBAHXZ
+dvaaudiotoolkit.dll,export,1747  6D2 00185E90 ?GetTime@SmpteLtcFrame@smpteltc@dvaaudiotoolkit@@QEBA?AVTickTime@dvamediatypes@@XZ
+dvaaudiotoolkit.dll,export,1756  6DB 001B4130 ?GetType@WaveformBufferAnnotation@waveform@dvaaudiotoolkit@@QEBAHXZ
+dvaaudiotoolkit.dll,export,1757  6DC 001B4640 ?GetType@WaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEBA?AW4WaveformScaleFactorType@23@XZ
+dvaaudiotoolkit.dll,export,1758  6DD 001B5330 ?GetType@WaveformData@waveform@dvaaudiotoolkit@@QEBA?AW4WaveformDataType@23@XZ
+dvaaudiotoolkit.dll,export,1759  6DE 00181FE0 ?GetType@WaveformDataObject@waveform@dvaaudiotoolkit@@QEBA?AV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@XZ
+dvaaudiotoolkit.dll,export,1768  6E7 00025C40 ?GetWaveform@TonesDSP@tones@dvaaudiotoolkit@@AEAANNHN@Z
+dvaaudiotoolkit.dll,export,1769  6E8 001B5340 ?GetWaveformBuffer@WaveformData@waveform@dvaaudiotoolkit@@QEBAAEBV?$vector@MU?$STLAllocator@M@allocator@dvacore@@@std@@XZ
+dvaaudiotoolkit.dll,export,1770  6E9 001B5350 ?GetWaveformPeakValue@WaveformData@waveform@dvaaudiotoolkit@@QEBA?AUWaveformPeakValue@23@_K0@Z
+dvaaudiotoolkit.dll,export,1771  6EA 001B53D0 ?GetWaveformSample@WaveformData@waveform@dvaaudiotoolkit@@QEBAM_K0@Z
+dvaaudiotoolkit.dll,export,1772  6EB 001B4650 ?GetWaveformScaleVector@WaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@QEBAAEBV?$vector@MU?$STLAllocator@M@allocator@dvacore@@@std@@XZ
+dvaaudiotoolkit.dll,export,1782  6F5 0018C7E0 ?HanningWindow@AudioProcessor@dvaaudiotoolkit@@SAXPEAMHHM@Z
+dvaaudiotoolkit.dll,export,1790  6FD 0018CAE0 ?I0@AudioProcessor@dvaaudiotoolkit@@CANN@Z
+dvaaudiotoolkit.dll,export,1835  72A 00182030 ?Initialize@WaveformDataObject@waveform@dvaaudiotoolkit@@QEAAXAEBV?$shared_ptr@VWaveformData@waveform@dvaaudiotoolkit@@@std@@@Z
+dvaaudiotoolkit.dll,export,1878  755 0018CCD0 ?KBDWindow@AudioProcessor@dvaaudiotoolkit@@SAXPEAMHM@Z
+dvaaudiotoolkit.dll,export,1899  76A 001B4660 ?MulDiv@WaveformChannelScaleFactor@waveform@dvaaudiotoolkit@@AEAAAEAV123@$$QEAV123@W4OperatorType@123@@Z
+dvaaudiotoolkit.dll,export,1900  76B 001B62C0 ?MulDiv@WaveformScaleFactor@waveform@dvaaudiotoolkit@@AEAAAEAV123@$$QEAV123@W4OperatorType@123@@Z
+dvaaudiotoolkit.dll,export,1941  794 0018CFE0 ?Process@AudioProcessor@dvaaudiotoolkit@@UEAAXPEBQEBMHPEBQEAMV?$Flags@_K@utility@dvacore@@@Z
+dvaaudiotoolkit.dll,export,1957  7A4 00197850 ?Process@FixedPositionGainRamp@dvaaudiotoolkit@@QEAAXAEBVTickTime@dvamediatypes@@AEAVAudioBuffer@2@@Z
+dvaaudiotoolkit.dll,export,2080  81F 001B5420 ?RecycleWaveformBuffer@WaveformData@waveform@dvaaudiotoolkit@@QEAAAEAV?$vector@MU?$STLAllocator@M@allocator@dvacore@@@std@@AEBUWaveformDataProperties@23@@Z
+dvaaudiotoolkit.dll,export,2097  830 00076D20 ?Reset@AudioProcessor@dvaaudiotoolkit@@UEAAXXZ
+dvaaudiotoolkit.dll,export,2180  883 001B54B0 ?Reverse@WaveformData@waveform@dvaaudiotoolkit@@QEAAXXZ
+dvaaudiotoolkit.dll,export,2423  976 00076E10 ?SetLookAhead@AudioProcessor@dvaaudiotoolkit@@QEAAXH@Z
+dvaaudiotoolkit.dll,export,2451  992 0018D000 ?SetMode@AudioProcessor@dvaaudiotoolkit@@UEAAXHHH@Z
+dvaaudiotoolkit.dll,export,2617  A38 00076E40 ?SetSystemDelay@AudioProcessor@dvaaudiotoolkit@@QEAAXH@Z
+dvaaudiotoolkit.dll,export,2629  A44 00187FA0 ?SetTime@SmpteLtcFrame@smpteltc@dvaaudiotoolkit@@QEAA_NAEBVTickTime@dvamediatypes@@@Z
+dvaaudiotoolkit.dll,export,2645  A54 001B5630 ?SetWaveformPeakValue@WaveformData@waveform@dvaaudiotoolkit@@QEAAX_K0AEBUWaveformPeakValue@23@@Z
+dvaaudiotoolkit.dll,export,2646  A55 001B56C0 ?SetWaveformSample@WaveformData@waveform@dvaaudiotoolkit@@QEAAX_K0AEBM@Z
+dvaaudiotoolkit.dll,export,2690  A81 00076EA0 ?SoftDecision@AudioProcessor@dvaaudiotoolkit@@SAMMMM@Z
+dvaaudiotoolkit.dll,export,2735  AAE 0018D010 ?TimeToIirA@AudioProcessor@dvaaudiotoolkit@@SAMMM@Z
+dvaaudiotoolkit.dll,export,2858  B29 001B5710 ?ZeroChannel@WaveformData@waveform@dvaaudiotoolkit@@QEAAX_K00@Z
+dvaaudiotoolkit.dll,import,AC ??DFrameRate@dvamediatypes@@QEBA?AV01@H@Z
+dvaaudiotoolkit.dll,import,36 ??0TickTime@dvamediatypes@@QEAA@_JAEBVFrameRate@1@@Z
+dvaaudiotoolkit.dll,import,345 ?ToFrame64@TickTime@dvamediatypes@@QEBA_JAEBVFrameRate@2@@Z
+dvaaudiotoolkit.dll,import,B0 ??DTickTime@dvamediatypes@@QEBA?AV01@N@Z
+dvaaudiotoolkit.dll,import,D5 ??YTickTime@dvamediatypes@@QEAAAEAV01@AEBV01@@Z
+dvaaudiotoolkit.dll,import,B4 ??HTickTime@dvamediatypes@@QEBA?AV01@AEBV01@@Z
+dvaaudiotoolkit.dll,import,B1 ??GTickTime@dvamediatypes@@QEBA?AV01@AEBV01@@Z
+dvaaudiotoolkit.dll,import,254 ?GetFrameRateForTimeDisplay@dvamediatypes@@YA?AVFrameRate@1@VTimeDisplay@1@V21@@Z
+dvaaudiotoolkit.dll,import,342 ?TimecodeToTime@dvamediatypes@@YA?AVTickTime@1@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@VFrameRate@1@VTimeDisplay@1@V?$Flags@I@utility@dvacore@@@Z
+dvaaudiotoolkit.dll,import,33C ?TimeToHMSF@dvamediatypes@@YAXAEAI00AEA_KAEA_NVTickTime@1@VFrameRate@1@VTimeDisplay@1@@Z
+dvaaudiotoolkit.dll,import,344 ?ToFrame32@TickTime@dvamediatypes@@QEBAHAEBVFrameRate@2@@Z
+dvaaudiotoolkit.dll,dependent,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvaaudiotoolkit.dll
+dvaaudiotoolkit.dll,dependent,dvacore.dll
+dvaaudiotoolkit.dll,dependent,dvamediatypes.dll
+dvaaudiofile.dll,export,1    0 00005A10 ??0?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@AEAA@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@0V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@Z
+dvaaudiofile.dll,export,2    1 00005A20 ??0?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@AEAA@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@@Z
+dvaaudiofile.dll,export,3    2 00005A40 ??0?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAA@AEBV012@@Z
+dvaaudiofile.dll,export,4    3 00005A60 ??0?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@AEAA@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@0V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@Z
+dvaaudiofile.dll,export,5    4 00005A70 ??0?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@AEAA@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@@Z
+dvaaudiofile.dll,export,6    5 00005A90 ??0?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAA@AEBV012@@Z
+dvaaudiofile.dll,export,8    7 00005AB0 ??0PeakData@dvaaudiofile@@QEAA@$$QEAV01@@Z
+dvaaudiofile.dll,export,9    8 00005AF0 ??0PeakData@dvaaudiofile@@QEAA@AEBV01@@Z
+dvaaudiofile.dll,export,10    9 00005C10 ??0PeakData@dvaaudiofile@@QEAA@XZ
+dvaaudiofile.dll,export,11    A 00005C50 ??0PeakData@dvaaudiofile@@QEAA@_J@Z
+dvaaudiofile.dll,export,12    B 00005C90 ??0PeakDataSegment@dvaaudiofile@@QEAA@$$QEAV01@@Z
+dvaaudiofile.dll,export,13    C 00005CD0 ??0PeakDataSegment@dvaaudiofile@@QEAA@AEBV01@@Z
+dvaaudiofile.dll,export,14    D 000082C0 ??0PeakDataSegment@dvaaudiofile@@QEAA@XZ
+dvaaudiofile.dll,export,15    E 000082E0 ??0PeakDataSegment@dvaaudiofile@@QEAA@_J0$$QEAV?$vector@UPeakDatum@dvaaudiofile@@U?$STLAllocator@UPeakDatum@dvaaudiofile@@@allocator@dvacore@@@std@@@Z
+dvaaudiofile.dll,export,23   16 0000B370 ??0WaveFormatChunkReader@dvaaudiofile@@QEAA@$$QEAV01@@Z
+dvaaudiofile.dll,export,24   17 0000B400 ??0WaveFormatChunkReader@dvaaudiofile@@QEAA@AEBV01@@Z
+dvaaudiofile.dll,export,25   18 0000B550 ??0WaveFormatChunkReader@dvaaudiofile@@QEAA@VFile@filesupport@dvacore@@AEBURiffChunkInfo@RiffChunkReader@1@_N@Z
+dvaaudiofile.dll,export,26   19 0000B5F0 ??0WaveFormatChunkReader@dvaaudiofile@@QEAA@VFile@filesupport@dvacore@@AEBURiffFileInfo@RiffChunkReader@1@_N@Z
+dvaaudiofile.dll,export,28   1B 00005E50 ??1PeakData@dvaaudiofile@@QEAA@XZ
+dvaaudiofile.dll,export,29   1C 00005E60 ??1PeakDataSegment@dvaaudiofile@@QEAA@XZ
+dvaaudiofile.dll,export,33   20 0000BB60 ??1WaveFormatChunkReader@dvaaudiofile@@QEAA@XZ
+dvaaudiofile.dll,export,34   21 00005EB0 ??4?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAAAEAV012@AEBV012@@Z
+dvaaudiofile.dll,export,35   22 00005ED0 ??4?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAAAEAV012@AEBV012@@Z
+dvaaudiofile.dll,export,37   24 00006030 ??4PeakData@dvaaudiofile@@QEAAAEAV01@$$QEAV01@@Z
+dvaaudiofile.dll,export,38   25 00006110 ??4PeakData@dvaaudiofile@@QEAAAEAV01@AEBV01@@Z
+dvaaudiofile.dll,export,39   26 00006180 ??4PeakDataSegment@dvaaudiofile@@QEAAAEAV01@$$QEAV01@@Z
+dvaaudiofile.dll,export,40   27 00006220 ??4PeakDataSegment@dvaaudiofile@@QEAAAEAV01@AEBV01@@Z
+dvaaudiofile.dll,export,46   2D 0000BEF0 ??4WaveFormatChunkReader@dvaaudiofile@@QEAAAEAV01@$$QEAV01@@Z
+dvaaudiofile.dll,export,47   2E 0000C040 ??4WaveFormatChunkReader@dvaaudiofile@@QEAAAEAV01@AEBV01@@Z
+dvaaudiofile.dll,export,48   2F 00006270 ??8?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEBA_NAEBV012@@Z
+dvaaudiofile.dll,export,49   30 00006290 ??8?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEBA_NAEBV012@@Z
+dvaaudiofile.dll,export,51   32 000062B0 ??9?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEBA_NAEBV012@@Z
+dvaaudiofile.dll,export,52   33 000062D0 ??9?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEBA_NAEBV012@@Z
+dvaaudiofile.dll,export,53   34 000062F0 ??B?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEBA?AV012@XZ
+dvaaudiofile.dll,export,54   35 00006310 ??B?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEBA?AV?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@12@XZ
+dvaaudiofile.dll,export,55   36 00006330 ??D?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAAAEBUPeakDatum@2@XZ
+dvaaudiofile.dll,export,56   37 00006340 ??D?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEBAAEBUPeakDatum@2@XZ
+dvaaudiofile.dll,export,57   38 00006350 ??D?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAAAEAUPeakDatum@2@XZ
+dvaaudiofile.dll,export,58   39 00006360 ??D?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEBAAEBUPeakDatum@2@XZ
+dvaaudiofile.dll,export,59   3A 00006370 ??E?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAA?AV012@H@Z
+dvaaudiofile.dll,export,60   3B 000063B0 ??E?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAAAEAV012@XZ
+dvaaudiofile.dll,export,61   3C 000063E0 ??E?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAA?AV012@H@Z
+dvaaudiofile.dll,export,62   3D 00006420 ??E?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAAAEAV012@XZ
+dvaaudiofile.dll,export,63   3E 00006450 ??F?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAA?AV012@H@Z
+dvaaudiofile.dll,export,64   3F 00006490 ??F?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAAAEAV012@XZ
+dvaaudiofile.dll,export,65   40 000064C0 ??F?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAA?AV012@H@Z
+dvaaudiofile.dll,export,66   41 00006500 ??F?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAAAEAV012@XZ
+dvaaudiofile.dll,export,67   42 00006530 ??G?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAA?AV012@_J@Z
+dvaaudiofile.dll,export,68   43 00006570 ??G?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAA?AV012@_J@Z
+dvaaudiofile.dll,export,69   44 000065B0 ??H?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAA?AV012@_J@Z
+dvaaudiofile.dll,export,70   45 000065F0 ??H?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAA?AV012@_J@Z
+dvaaudiofile.dll,export,71   46 00006630 ??Y?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAAAEAV012@_J@Z
+dvaaudiofile.dll,export,72   47 00006770 ??Y?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAAAEAV012@_J@Z
+dvaaudiofile.dll,export,73   48 000068B0 ??Z?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAAAEAV012@_J@Z
+dvaaudiofile.dll,export,74   49 000068D0 ??Z?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEAAAEAV012@_J@Z
+dvaaudiofile.dll,export,75   4A 00006920 ?Append@PeakData@dvaaudiofile@@QEAAX_J0$$QEAV?$vector@UPeakDatum@dvaaudiofile@@U?$STLAllocator@UPeakDatum@dvaaudiofile@@@allocator@dvacore@@@std@@@Z
+dvaaudiofile.dll,export,76   4B 00008350 ?Append@PeakDataSegment@dvaaudiofile@@QEAA_N$$QEBV12@@Z
+dvaaudiofile.dll,export,77   4C 00008400 ?Append@PeakDataSegment@dvaaudiofile@@QEAA_NAEBV12@@Z
+dvaaudiofile.dll,export,78   4D 000069F0 ?CheckConsistency@PeakData@dvaaudiofile@@AEBAXXZ
+dvaaudiofile.dll,export,79   4E 00006A00 ?Clear@PeakData@dvaaudiofile@@QEAAXXZ
+dvaaudiofile.dll,export,80   4F 00006A30 ?Consolidate@PeakData@dvaaudiofile@@AEAAXXZ
+dvaaudiofile.dll,export,95   5E 00006B50 ?Find@PeakData@dvaaudiofile@@QEAA?AV?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@12@_J@Z
+dvaaudiofile.dll,export,96   5F 00006CB0 ?Find@PeakData@dvaaudiofile@@QEBA?AV?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@12@_J@Z
+dvaaudiofile.dll,export,97   60 0000C4D0 ?FindChunk@WaveFormatChunkReader@dvaaudiofile@@SA?AV?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@URiffChunkInfo@RiffChunkReader@dvaaudiofile@@@std@@@std@@@std@@AEBV?$vector@URiffChunkInfo@RiffChunkReader@dvaaudiofile@@V?$allocator@URiffChunkInfo@RiffChunkReader@dvaaudiofile@@@std@@@4@@Z
+dvaaudiofile.dll,export,104   67 00006E10 ?FixStartOffsets@PeakData@dvaaudiofile@@AEAAXXZ
+dvaaudiofile.dll,export,106   69 0000C500 ?GetAudioCharacteristics@WaveFormatChunkReader@dvaaudiofile@@QEAAAEBUAudioCharacteristics@2@XZ
+dvaaudiofile.dll,export,107   6A 00006E70 ?GetBlockSize@PeakDataSegment@dvaaudiofile@@QEBA_JXZ
+dvaaudiofile.dll,export,112   6F 0000C520 ?GetChannelLayoutFromWaveFormatExtensibleChannelMask@dvaaudiofile@@YAXIAEAV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@std@@H@Z
+dvaaudiofile.dll,export,113   70 0000C610 ?GetChunkID@WaveFormatChunkReader@dvaaudiofile@@SAIXZ
+dvaaudiofile.dll,export,119   76 00006E80 ?GetDuration@PeakData@dvaaudiofile@@QEBA_JXZ
+dvaaudiofile.dll,export,120   77 00006EB0 ?GetEndOffset@?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEBA_JXZ
+dvaaudiofile.dll,export,121   78 00006ED0 ?GetEndOffset@?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEBA_JXZ
+dvaaudiofile.dll,export,122   79 00006EF0 ?GetEndOffset@PeakData@dvaaudiofile@@QEBA_JXZ
+dvaaudiofile.dll,export,123   7A 00006F20 ?GetEndOffset@PeakDataSegment@dvaaudiofile@@QEBA_JXZ
+dvaaudiofile.dll,export,132   83 00006F40 ?GetRange@PeakData@dvaaudiofile@@QEBA?AV?$shared_ptr@VPeakData@dvaaudiofile@@@std@@V?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@12@0@Z
+dvaaudiofile.dll,export,133   84 000084B0 ?GetRange@PeakDataSegment@dvaaudiofile@@QEBA?AV12@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@std@@0@Z
+dvaaudiofile.dll,export,142   8D 000071C0 ?GetStartOffset@?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEBA_JXZ
+dvaaudiofile.dll,export,143   8E 000071E0 ?GetStartOffset@?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@PeakData@dvaaudiofile@@QEBA_JXZ
+dvaaudiofile.dll,export,144   8F 00007200 ?GetStartOffset@PeakData@dvaaudiofile@@QEBA_JXZ
+dvaaudiofile.dll,export,145   90 00007210 ?GetStartOffset@PeakDataSegment@dvaaudiofile@@QEBA_JXZ
+dvaaudiofile.dll,export,148   93 0000C690 ?GetWaveFormatExtensibleChannelMaskFromChannelLayout@dvaaudiofile@@YA_NAEBV?$vector@UAudioChannelDescription@dvamediatypes@@U?$STLAllocator@UAudioChannelDescription@dvamediatypes@@@allocator@dvacore@@@std@@AEAI_N@Z
+dvaaudiofile.dll,export,151   96 00007220 ?Insert@PeakData@dvaaudiofile@@QEAAXAEBV?$shared_ptr@VPeakData@dvaaudiofile@@@std@@@Z
+dvaaudiofile.dll,export,164   A3 000072F0 ?LoadFromStream@PeakData@dvaaudiofile@@QEAAXAEAVIPlatformByteStream@filesupport@dvacore@@@Z
+dvaaudiofile.dll,export,165   A4 000085D0 ?LoadFromStream@PeakDataSegment@dvaaudiofile@@QEAAXAEAVIPlatformByteStream@filesupport@dvacore@@@Z
+dvaaudiofile.dll,export,174   AD 00007450 ?Overwrite@PeakData@dvaaudiofile@@QEAAXAEBV?$shared_ptr@VPeakData@dvaaudiofile@@@std@@@Z
+dvaaudiofile.dll,export,175   AE 0000CFE0 ?ReadChunk@WaveFormatChunkReader@dvaaudiofile@@IEAAXVFile@filesupport@dvacore@@AEBURiffChunkInfo@RiffChunkReader@2@_N@Z
+dvaaudiofile.dll,export,180   B3 00008C60 ?ResamplePeakData@dvaaudiofile@@YAXAEBV?$shared_ptr@VPeakData@dvaaudiofile@@@std@@NN_KPEAM_N@Z
+dvaaudiofile.dll,export,182   B5 00007630 ?RippleDelete@PeakData@dvaaudiofile@@QEAAXV?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@12@0W4RippleDirection@12@@Z
+dvaaudiofile.dll,export,183   B6 000077F0 ?SetStartOffset@PeakData@dvaaudiofile@@QEAAX_J@Z
+dvaaudiofile.dll,export,184   B7 000086A0 ?SetStartOffset@PeakDataSegment@dvaaudiofile@@QEAAX_J@Z
+dvaaudiofile.dll,export,185   B8 00007850 ?Split@PeakData@dvaaudiofile@@QEAAX_J@Z
+dvaaudiofile.dll,export,186   B9 000086B0 ?Split@PeakDataSegment@dvaaudiofile@@QEBA?AV?$vector@VPeakDataSegment@dvaaudiofile@@U?$STLAllocator@VPeakDataSegment@dvaaudiofile@@@allocator@dvacore@@@std@@_J@Z
+dvaaudiofile.dll,export,197   C4 00007AA0 ?WriteToStream@PeakData@dvaaudiofile@@QEBAXAEAVOPlatformByteStream@filesupport@dvacore@@@Z
+dvaaudiofile.dll,export,198   C5 00008B90 ?WriteToStream@PeakDataSegment@dvaaudiofile@@QEBAXAEAVOPlatformByteStream@filesupport@dvacore@@@Z
+dvaaudiofile.dll,export,199   C6 00007B30 ?Zero@PeakData@dvaaudiofile@@QEAAXV?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@12@0@Z
+dvaaudiofile.dll,export,200   C7 00007D30 ?begin@PeakData@dvaaudiofile@@QEAA?AV?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@12@XZ
+dvaaudiofile.dll,export,201   C8 00007D90 ?begin@PeakData@dvaaudiofile@@QEBA?AV?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@12@XZ
+dvaaudiofile.dll,export,202   C9 00007DF0 ?begin@PeakDataSegment@dvaaudiofile@@QEAA?AV?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@std@@XZ
+dvaaudiofile.dll,export,203   CA 00007E00 ?begin@PeakDataSegment@dvaaudiofile@@QEBA?AV?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@std@@XZ
+dvaaudiofile.dll,export,204   CB 00007E30 ?empty@PeakData@dvaaudiofile@@QEBA_NXZ
+dvaaudiofile.dll,export,205   CC 00007E40 ?end@PeakData@dvaaudiofile@@QEAA?AV?$PeakDataIterator@UPeakDatum@dvaaudiofile@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@12@XZ
+dvaaudiofile.dll,export,206   CD 00007E60 ?end@PeakData@dvaaudiofile@@QEBA?AV?$PeakDataIterator@$$CBUPeakDatum@dvaaudiofile@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@VPeakDataSegment@dvaaudiofile@@@std@@@std@@@std@@V?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@4@@12@XZ
+dvaaudiofile.dll,export,207   CE 00007E80 ?end@PeakDataSegment@dvaaudiofile@@QEAA?AV?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@std@@XZ
+dvaaudiofile.dll,export,208   CF 00007E90 ?end@PeakDataSegment@dvaaudiofile@@QEBA?AV?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@UPeakDatum@dvaaudiofile@@@std@@@std@@@std@@XZ
+dvaaudiofile.dll,export,209   D0 00007EA0 ?size@PeakData@dvaaudiofile@@QEBA_KXZ
+dvaaudiofile.dll,export,210   D1 00007F00 ?size@PeakDataSegment@dvaaudiofile@@QEBA_KXZ
+dvaaudiofile.dll,dependent,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\dvaaudiofile.dll
+dvaaudiofile.dll,dependent,dvacore.dll
+dvaaudiofile.dll,dependent,dvamediatypes.dll
+BEE.dll,export,284  11B 0024E1D0 ??0BEE_AudioStreamGroup@@IEAA@AEBV0@AEBUTDB_CloneStreamParams@@@Z
+BEE.dll,export,285  11C 0002A540 ??0BEE_AudioStreamGroup@@QEAA@AEBV0@@Z
+BEE.dll,export,286  11D 0024E200 ??0BEE_AudioStreamGroup@@QEAA@PEBVTDB_MatchName@@PEAVTDB_StreamFactory@@_N@Z
+BEE.dll,export,1137  470 00251C70 ??1BEE_AudioStreamGroup@@UEAA@XZ
+BEE.dll,export,2144  85F 00035B40 ??4BEE_AudioLevelsStreamTraits@@QEAAAEAU0@$$QEAU0@@Z
+BEE.dll,export,2145  860 00035B50 ??4BEE_AudioLevelsStreamTraits@@QEAAAEAU0@AEBU0@@Z
+BEE.dll,export,2988  BAB 00ECB2E0 ??_7BEE_AudioStreamGroup@@6B@
+BEE.dll,export,3047  BE6 00F7EC78 ??_7BEE_LayerMCVideoSource@bee@ae@@6BIAudioSource@AR@@@
+BEE.dll,export,3049  BE8 00F7ECB8 ??_7BEE_LayerMCVideoSource@bee@ae@@6BISequentialAudioSource@AR@@@
+BEE.dll,export,3266  CC1 00F7ED44 ??_8BEE_LayerMCVideoSource@bee@ae@@7BUnknown@classref@dvacore@@IAudioSource@AR@@@
+BEE.dll,export,3268  CC3 00F7ED50 ??_8BEE_LayerMCVideoSource@bee@ae@@7BUnknown@classref@dvacore@@ISequentialAudioSource@AR@@@
+BEE.dll,export,3751  EA6 00446BA0 ?BEE_ConformLayerRO@@YA?AVBEE_LayerRenderOptions@@PEBVBEE_AVLayer@@AEBV1@@Z
+BEE.dll,export,3752  EA7 004848A0 ?BEE_ConformLayerRenderOptionsForCaching@@YAHPEBVBEE_AVLayer@@AEAVBEE_LayerRenderOptions@@@Z
+BEE.dll,export,3848  F07 003A1860 ?BEE_FrameRate2LegalDuration@@YAHHPEAUT_Time@@@Z
+BEE.dll,export,3959  F76 003D0630 ?BEE_GetDefaultProjectSoundFormat@@YAXPEAUSND_FormatInfo@@@Z
+BEE.dll,export,4108 100B 003D1CC0 ?BEE_GetProjectSoundFormat@@YAXPEBVBEE_Project@@PEAUSND_FormatInfo@@@Z
+BEE.dll,export,4130 1021 0043BA20 ?BEE_GetSoundBeats@@YAHPEAPEAUSND_World@@AEAV?$vector@NV?$allocator@N@std@@@std@@1@Z
+BEE.dll,export,4174 104D 00367F90 ?BEE_GetWaveformDisplayName@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@XZ
+BEE.dll,export,4397 112C 0043BFA0 ?BEE_RenderCompSound@@YAHPEBVBEE_Item@@E_NPEBUT_Time@@2PEBUSND_FormatInfo@@PEAPEAPEAUSND_World@@PEBVTDB_ParamBag@@@Z
+BEE.dll,export,4398 112D 0043C370 ?BEE_RenderItemSound@@YAHPEBVBEE_Item@@H_NPEBUT_Time@@2PEBUSND_FormatInfo@@PEAVBEE_ProgressInfo@@PEAPEAPEAUSND_World@@PEBVTDB_ParamBag@@@Z
+BEE.dll,export,4401 1130 0043C8B0 ?BEE_RenderLayerSound@@YAHPEBVBEE_Layer@@EEPEBUT_Time@@1PEBUSND_FormatInfo@@PEAVBEE_ProgressInfo@@PEAPEAPEAUSND_World@@PEBVTDB_ParamBag@@@Z
+BEE.dll,export,4480 117F 003D4650 ?BEE_SetProjectSoundFormat@@YAXPEAVBEE_Project@@PEBUSND_FormatInfo@@@Z
+BEE.dll,export,4504 1197 015EBF00 ?BEE_StreamGroupName_AUDIO@@3V?$TDB_DerivedMatchName@VBEE_AudioStreamGroup@@@@B
+BEE.dll,export,4505 1198 015ED018 ?BEE_StreamGroupName_AUDIO_WAVEFORM_GROUP@@3VTDB_MatchName@@B
+BEE.dll,export,4594 11F1 015EBEF0 ?BEE_StreamName_AUDIO_LEVELS@@3V?$TDB_DerivedMatchName@VBEE_AudioLevelsStream@@@@B
+BEE.dll,export,4595 11F2 015ED028 ?BEE_StreamName_AUDIO_WAVEFORM@@3VTDB_MatchName@@B
+BEE.dll,export,5173 1434 003776E0 ?CancelAsyncIO@BEE_LayerMCVideoSource@bee@ae@@UEAAXAEBVTickTime@dvamediatypes@@AEBUFrameFormat@MF@@AEBVBinaryData@7@@Z
+BEE.dll,export,5266 1491 00043DD0 ?CloneStream@BEE_AudioStreamGroup@@UEBAPEAVTDB_StreamBase@@AEBUTDB_CloneStreamParams@@@Z
+BEE.dll,export,5447 1546 004AB320 ?Conform@BEE_ItemRenderOptions@@UEAAXPEBVBEE_Item@@_N@Z
+BEE.dll,export,5448 1547 00045320 ?Conform@BEE_RenderOptions@@UEAAXPEBVBEE_Item@@_N@Z
+BEE.dll,export,5535 159E 00046F50 ?Create@BEE_AudioStreamGroup@@SAPEAVTDB_StreamBase@@AEBVTDB_MatchName@@PEAVTDB_StreamFactory@@_NI2@Z
+BEE.dll,export,5668 1623 00377880 ?CreateAudioWaveform@BEE_LayerMCVideoSource@bee@ae@@UEBA?AV?$InterfaceRef@UIAudioWaveform@AR@@@classref@dvacore@@XZ
+BEE.dll,export,5702 1645 00375080 ?CreateSourceForStream@BEE_LayerMCMediaInfo@bee@ae@@UEBAHVGuid@utility@dvacore@@_KAEBVBinaryData@MF@@AEBVFrameRate@dvamediatypes@@AEBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@444AEAV?$InterfaceRef@UISource@MF@@@classref@6@@Z
+BEE.dll,export,5732 1663 003778D0 ?DetermineSmartRenderSegmentsInRange@BEE_LayerMCVideoSource@bee@ae@@UEBAXAEBVTickTime@dvamediatypes@@0AEBUPixelFormat@5@_N2AEBUPrSDKGuid@@AEAV?$map@VTickTime@dvamediatypes@@USmartRenderSegment@MF@@U?$less@VTickTime@dvamediatypes@@@std@@U?$STLAllocator@U?$pair@$$CBVTickTime@dvamediatypes@@USmartRenderSegment@MF@@@std@@@allocator@dvacore@@@std@@@Z
+BEE.dll,export,5733 1664 003778E0 ?DetermineStillRangesInRange@BEE_LayerMCVideoSource@bee@ae@@UEBAXAEBVTickTime@dvamediatypes@@0AEAV?$vector@U?$pair@VTickTime@dvamediatypes@@V12@@std@@U?$STLAllocator@U?$pair@VTickTime@dvamediatypes@@V12@@std@@@allocator@dvacore@@@std@@@Z
+BEE.dll,export,5952 173F 00271220 ?FillInCanonicalUILayout@BEE_AudioStreamGroup@@MEBAXPEAV?$vector@PEBVTDB_StreamBase@@V?$U_Allocator@PEBVTDB_StreamBase@@@@@std@@@Z
+BEE.dll,export,6085 17C4 0004C3C0 ?FillInDisplayName@BEE_AudioStreamGroup@@UEBAXXZ
+BEE.dll,export,6332 18BB 003750E0 ?GetAltTime@BEE_LayerMCMediaInfo@bee@ae@@UEBA?AVTickTime@dvamediatypes@@XZ
+BEE.dll,export,6366 18DD 003778F0 ?GetAudio@BEE_LayerMCVideoSource@bee@ae@@UEAAHAEBVBinaryData@MF@@AEAVAudioBuffer@dvaaudiotoolkit@@AEBVTickTime@dvamediatypes@@_N@Z
+BEE.dll,export,6369 18E0 00377920 ?GetAudioFrameRate@BEE_LayerMCVideoSource@bee@ae@@UEBA?AVFrameRate@dvamediatypes@@XZ
+BEE.dll,export,6971 1B3A 00050800 ?GetDimension@BEE_AudioLevelsStreamTraits@@SAFXZ
+BEE.dll,export,7188 1C13 00050BF0 ?GetDisplayName@BEE_AudioLevelsStreamTraits@@SA?AV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@XZ
+BEE.dll,export,7378 1CD1 00377AD0 ?GetDuration@BEE_LayerMCVideoSource@bee@ae@@UEBA?AVTickTime@dvamediatypes@@XZ
+BEE.dll,export,7604 1DB3 00052B40 ?GetEnglishDisplayName@BEE_AudioLevelsStreamTraits@@SA?AV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@XZ
+BEE.dll,export,7605 1DB4 00052B80 ?GetEnglishDisplayName@BEE_AudioStreamGroup@@UEBA?BV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@XZ
+BEE.dll,export,8064 1F7F 00053FA0 ?GetHideDimensionLock@BEE_AudioLevelsStreamTraits@@SA_NXZ
+BEE.dll,export,8076 1F8B 00377CF0 ?GetIdentifierForSourceVideo@BEE_LayerMCVideoSource@bee@ae@@UEAA?AVGuid@utility@dvacore@@AEBVTickTime@dvamediatypes@@AEBUFrameFormat@MF@@AEBVBinaryData@MF@@@Z
+BEE.dll,export,8289 2060 00054140 ?GetInterpMask@BEE_AudioLevelsStreamTraits@@SAGXZ
+BEE.dll,export,8697 21F8 00054930 ?GetMaxValue@BEE_AudioLevelsStreamTraits@@SANXZ
+BEE.dll,export,8973 230C 00054B20 ?GetMinValue@BEE_AudioLevelsStreamTraits@@SANXZ
+BEE.dll,export,9145 23B8 00375530 ?GetOrigTime@BEE_LayerMCMediaInfo@bee@ae@@UEBA?AVTickTime@dvamediatypes@@XZ
+BEE.dll,export,9355 248A 00377ED0 ?GetPosterFrameTime@BEE_LayerMCVideoSource@bee@ae@@UEAA?AVTickTime@dvamediatypes@@XZ
+BEE.dll,export,9711 25EE 00407300 ?GetSoundFormat@BEE_Project@@QEBAAEBUSND_FormatInfo@@XZ
+BEE.dll,export,9736 2607 00377FA0 ?GetSourceVideo@BEE_LayerMCVideoSource@bee@ae@@UEAAHAEBVTickTime@dvamediatypes@@AEBUFrameFormat@MF@@AEBVBinaryData@7@_NAEAV?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@@Z
+BEE.dll,export,9883 269A 00377FE0 ?GetStillRangeForTime@BEE_LayerMCVideoSource@bee@ae@@UEBAHAEBVTickTime@dvamediatypes@@AEAU?$pair@VTickTime@dvamediatypes@@V12@@std@@@Z
+BEE.dll,export,10408 28A7 00056FB0 ?GetValueDesc@BEE_AudioLevelsStreamTraits@@SA?BVTDB_ValueDesc@@XZ
+BEE.dll,export,10563 2942 00378080 ?GetVideo@BEE_LayerMCVideoSource@bee@ae@@UEAAHAEBVTickTime@dvamediatypes@@AEBVBinaryData@MF@@00V?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@W4RenderQuality@5@W4FieldType@5@_N555N@Z
+BEE.dll,export,10565 2944 00378110 ?GetVideoFrameRate@BEE_LayerMCVideoSource@bee@ae@@UEBA?AVFrameRate@dvamediatypes@@XZ
+BEE.dll,export,10566 2945 00378150 ?GetVideoWithMatrix@BEE_LayerMCVideoSource@bee@ae@@UEAAHAEBVTickTime@dvamediatypes@@AEBVBinaryData@MF@@00V?$InterfaceRef@UIVideoFrame@MF@@@classref@dvacore@@W4RenderQuality@5@W4FieldType@5@_N555NUTransformMatrixRec@BE@@V?$RectT@H@geom@dvacore@@@Z
+BEE.dll,export,10972 2ADB 00058390 ?HasMaxValue@BEE_AudioLevelsStreamTraits@@SA_NXZ
+BEE.dll,export,11269 2C04 00058640 ?HasMinValue@BEE_AudioLevelsStreamTraits@@SA_NXZ
+BEE.dll,export,11359 2C5E 00058740 ?HasMismatchedFrameRate@BEE_SamuraiSequences@@QEBA_NXZ
+BEE.dll,export,11403 2C8A 004AD380 ?IdenticalConformed@BEE_ItemRenderOptions@@QEBA_NQEAVBEE_Item@@AEBV1@@Z
+BEE.dll,export,11439 2CAE 003781D0 ?InitiateAsyncIO@BEE_LayerMCVideoSource@bee@ae@@UEAAHAEBVTickTime@dvamediatypes@@AEBUFrameFormat@MF@@AEBVBinaryData@7@@Z
+BEE.dll,export,12059 2F1A 00375A80 ?OpenPreferences@BEE_LayerMCMediaInfo@bee@ae@@UEAAHAEAVBinaryData@MF@@AEAV?$map@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@U?$less@V?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@@2@U?$STLAllocator@U?$pair@$$CBV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@std@@V12@@std@@@allocator@dvacore@@@std@@_KV?$InterfaceRef@UISequence@BE@@@classref@dvacore@@AEBVTickTime@dvamediatypes@@2AEAV?$basic_string@_WU?$char_traits@_W@std@@U?$STLAllocator@_W@allocator@dvacore@@@7@@Z
+BEE.dll,export,12379 305A 00378250 ?SelectBestFrameFormat@BEE_LayerMCVideoSource@bee@ae@@UEBAHAEBVTickTime@dvamediatypes@@AEAUFrameFormat@MF@@AEBVBinaryData@7@@Z
+BEE.dll,export,12697 3198 0040C200 ?SetSoundFormat@BEE_Project@@QEAAXAEBUSND_FormatInfo@@@Z
+BEE.dll,export,12731 31BA 00375F50 ?SetTimeInfo@BEE_LayerMCMediaInfo@bee@ae@@UEAAHAEBVBinaryData@MF@@AEBVTickTime@dvamediatypes@@1AEBV?$basic_string@EU?$char_traits@E@std@@U?$STLAllocator@E@allocator@dvacore@@@std@@22AEBVFrameRate@7@_N4@Z
+BEE.dll,export,12988 32BB 0005E8D0 ?ShouldWriteForVersion@BEE_AudioStreamGroup@@UEBA_NPEBVSLU_File@@@Z
+BEE.dll,export,13400 3457 0005EA20 ?UserCanHideAndShowChildren@BEE_AudioStreamGroup@@UEBA_NAEBVTDB_MatchName@@@Z
+BEE.dll,export,13496 34B7 000F0BB0 ?VerifyRotoBrushFrameRateMatches@BEE_SamuraiSequences@@QEAAXPEBVBEE_AVLayer@@@Z
+BEE.dll,import,DEE PSLGetImageFrameRate
+BEE.dll,import,290 ?T_FrameRate2Duration@@YAHHPEAUT_Time@@@Z
+BEE.dll,import,5D ?ConformRenderRequestForRenderTarget@RG_CompositeNodeBase@@UEBA?AVRG_RenderRequest@@AEBV2@@Z
+BEE.dll,import,61 ?ConformRenderRequestForRenderTargetForSource@RG_CompositeNodeBase@@UEBA?AVRG_RenderRequest@@AEBV2@@Z
+BEE.dll,import,60 ?ConformRenderRequestForRenderTargetForDest@RG_CompositeNodeBase@@UEBA?AVRG_RenderRequest@@AEBV2@@Z
+BEE.dll,import,5F ?ConformRenderRequestForRenderTarget@RG_RenderNode@@UEBA?AVRG_RenderRequest@@AEBV2@@Z
+BEE.dll,import,62 ?ConformRenderRequestForRenderTargetForSource@RG_XformNode@@UEBA?AVRG_RenderRequest@@AEBV2@@Z
+BEE.dll,import,12C ?PIN_AddSoundChunk@@YAHPEAVPIN_OutSpec@@PEBUT_Time@@PEAPEAUSND_World@@@Z
+BEE.dll,import,16E ?PIN_GetAltDisplaySoundInfo@@YAHPEBVPIN_SeqSpec@@PEAUSND_FormatInfo@@@Z
+BEE.dll,import,1FA ?PIN_SetDefaultSoundFormat@@YAHAEBUSND_FormatInfo@@@Z
+BEE.dll,import,1B9 ?PIN_GetSound@@YAHPEBVPIN_SeqSpec@@PEBUPIN_GetSoundPB@@PEAPEAUSND_World@@@Z
+BEE.dll,import,225 ?PIN_UpdateSoundFormat@@YAHPEAVPIN_SeqSpec@@@Z
+BEE.dll,import,26 ?SND_RenderTimeRemapSound@@YAHHHHPEAUTDB_AdaptiveSampleStream@@HHPEAXPEAPEAPEAUSND_World@@@Z
+BEE.dll,import,2C ?SND_SetupTimeRemapSound@@YAHHPEBUSND_FormatInfo@@HHPEBVTDB_Stream@@PEAUTDB_AdaptiveSampleStream@@PEAH3PEAX@Z
+BEE.dll,dependent,Dump of file C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\BEE.dll
+BEE.dll,dependent,dvacore.dll
+BEE.dll,dependent,dvamediatypes.dll
+BEE.dll,dependent,MediaFoundation.dll
+BEE.dll,dependent,VideoFrame.dll
+BEE.dll,dependent,TDB.dll

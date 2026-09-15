@@ -1,0 +1,28 @@
+domain,product_surfaces,current_level,priority,next_evidence,target_level,level_gap,meets_1_0_target
+project-state,"Project,Comp,Layer,Undo",L3,high,AEP identity experiments; undo/copy/paste,L3,0,True
+state-identity,"Items,Layers,Streams,Effects",L4,high,GUID/receipt runtime probes,L5,1,False
+evaluation,"Expressions,Effects,Preview",L5,critical,replicate EXP-CORE-001; correlate semantic edits with BEE/RG trace and receipt/GUID transitions,L5,0,True
+render-graph,"Preview,Render Queue,Effects",L4,critical,RG node/runtime trace correlation,L5,1,False
+cache,"Preview,Effects,Expressions,Object Matte",L4,critical,disk format and cache-key experiments,L5,1,False
+temporal,"Motion blur,Frame blending,Expressions",L3,high,sampling and temporal-footprint probes,L3,0,True
+image-pipeline,"Compositing,Effects,Masks",L3,high,ROI/kernel/numeric corpus,L3,0,True
+color-pipeline,"Footage,Preview,Render",L3,high,CPU/GPU transform parity; HDR/graphics-white probes; source-vs-display boundary tracing,L3,0,True
+expression-engine,"Expressions,Properties",L3,high,preprocessor/code/value cache experiments,L3,0,True
+threading-mfr,"Effects,Render,Preview",L4,high,selector concurrency probes,L3,0,True
+memory,"Preview,Render,Cache",L2,medium,OS/GPU/MediaCore pressure trace correlation; guard/pin lifetime; purge-domain ordering,L2,0,True
+gpu,"Effects,Preview,3D",L3,high,CPU/GPU parity fixture; queue/fence completion timing; cache identity correlation,L3,0,True
+three-d,"3D layers,Cameras,Lights,Materials",L3,high,resource-cache invalidation matrix; Advanced3D quality/camera/light/material runtime correlation,L3,0,True
+media,"Import,Footage,Audio,Export",L3,high,trace decode identity/cache filesystem; AEIO-vs-MediaCore routing; source-to-BEE handoff,L3,0,True
+audio,"Audio layers,Preview,Render",L2,medium,BEE-to-AudioRenderer handoff; prefetch/cancellation traces; waveform-vs-sample cache experiments,L2,0,True
+persistence,"AEP,AEPX,FFX,Preferences",L3,high,chunk dictionary and preset embedding,L3,0,True
+plugin-host,"Effects,AEGP,AEIO,Artisans",L5,critical,EXP-PLUGIN-001 observed 48-family x selector-1..32 runtime negotiation matrix; 1536/1536 attempts; 26 acceptance patterns,L5,0,True
+ui-shell,"Panels,Workspaces,Guides,Effect Controls",L2,medium,view-state persistence experiments; display-cache invalidation; panel/render synchronization traces,L2,0,True
+text,"Text layers,Fonts,Text animators",L3,high,TXT/BEE render-GUID tracing; glyph/reflow cache probes; font substitution determinism,L3,0,True
+shapes-vector,"Shape layers,SVG paste",L3,high,operator cache variants; AGM/GPU boundary; bounds reuse experiments,L3,0,True
+tracking,"Mask tracker,Stabilizer,Motion tracking",L2,medium,AEP tracker-stream diffs; analysis request interval/ROI traces; Mask Tracker resolution invariance,L2,0,True
+ai-analysis,"Object Matte,Roto Brush,AI features",L4,high,26.5 runtime/cache filesystem trace; model-version invalidation; AE/Premiere shared substrate,L3,0,True
+automation,"Scripting,Commands,Panels",L2,medium,"command IDs, Reflection and mutation semantics",L2,0,True
+headless,"aerender,Render Queue",L2,medium,fresh-vs-reuse module inventory; deterministic hash tests; cache/plugin/GPU policy diffs,L2,0,True
+interop,"AME,Dynamic Link,Illustrator,Substance",L2,medium,Dynamic Link request/content invalidation traces; AME handoff identity; cross-process cache reuse,L2,0,True
+observability,"Logs,Trace DB,Debug DB,Crash data",L5,critical,provider-specific AE host traces and category-level mutation,L5,0,True
+archaeology,All product eras,L4,high,versioned feature/ABI/file timeline,L3,0,True
