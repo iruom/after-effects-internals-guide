@@ -14,11 +14,13 @@
 
 `plugin\AEGP\AEIGReceiptArtie.aex`
 
-SHA-256: `9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98`
+SHA-256: `E3546DB78AA3454FEE5EF6C5A14A3B1152111D2A543E249C3DBB1036AE3DFF33`
 
 Adobe SDK 25.6 の Artie sample を基にした研究用 Artisan です。通常作業へ常設しないでください。
 
 ## 推奨実行手順
+
+現在phaseだけ確認したい場合は、1つ上の `AEIG-L5-STATUS.cmd` を実行できます。STATUSはAEの起動・終了やprobe installを行わず、現在地だけを表示します。
 
 1. 通常のAE作業を保存し、After Effects / AfterFX.com / aerender を自分で終了します。
 2. 1つ上の `AEIG-L5-PREPARE.cmd` を実行します。safety preflight → 過去run archive → clean preflight → temporary probe install を順番に行います。
@@ -50,7 +52,7 @@ Mechanical capture completeness は「予測が当たったか」と分離しま
 
 ## Trace safety
 
-Artisanは対象RenderTexture windowだけで dvacore master/category trace volumeとstderr captureを一時変更し、終了時に保存値へ戻します。対象語彙は `BEE_Eval`, `BEE_Cache`, `BEE_CacheLog`, `BEE_WorkQueue`, `MixHashGuid`, `RenderNode.RG_CacheNodeBase`, `RenderNode.RG_XformNode`, `TDB_StreamBase`, `DiskCache` です。
+Artisanは各 `Artie_Render()` callback 全体をtrace windowとして囲み、dvacore master/category trace volumeとstderr captureを一時変更し、終了時に保存値へ戻します。別ファイル `artisan-stage.tsv` には Render→Camera→Scene→Receipt→Texture→Paint の到達段階だけを記録し、canonical trace schemaとは分離します。対象語彙は `BEE_Eval`, `BEE_Cache`, `BEE_CacheLog`, `BEE_WorkQueue`, `MixHashGuid`, `RenderNode.RG_CacheNodeBase`, `RenderNode.RG_XformNode`, `TDB_StreamBase`, `DiskCache` です。
 
 ## Acceptance and release
 

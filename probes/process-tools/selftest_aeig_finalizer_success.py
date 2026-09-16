@@ -9,7 +9,7 @@ MODE=args.mode; REFUTE_PRED004=MODE=="refute-pred004"
 CLONE=ROOT/"scratch"/("finalizer-refutation-selftest" if REFUTE_PRED004 else "finalizer-success-selftest")
 OUT=DATA/("aeig-finalizer-refutation-selftest.json" if REFUTE_PRED004 else "aeig-finalizer-success-selftest.json")
 PAGE=DOCS/("finalizer-refutation-selftest.md" if REFUTE_PRED004 else "finalizer-success-selftest.md")
-EXPECTED_AEX="9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98"
+EXPECTED_AEX="E3546DB78AA3454FEE5EF6C5A14A3B1152111D2A543E249C3DBB1036AE3DFF33"
 
 def digest(p):
     if not p.exists(): return "MISSING"
@@ -43,6 +43,14 @@ shutil.copytree(TOOLS,CLONE/"probes"/"process-tools")
 shutil.copytree(ROOT/"experiments"/"user-run",CLONE/"experiments"/"user-run")
 shutil.copytree(ROOT/"experiments"/"observatory"/"manifests",
                 CLONE/"experiments"/"observatory"/"manifests")
+for exp_doc in (ROOT/"experiments").glob("*.md"):
+    shutil.copy2(exp_doc,CLONE/"experiments"/exp_doc.name)
+if (ROOT/"research"/"findings").exists():
+    shutil.copytree(ROOT/"research"/"findings",CLONE/"research"/"findings")
+(CLONE/"research").mkdir(parents=True,exist_ok=True)
+shutil.copy2(ROOT/"research"/"bug-quirks.csv",CLONE/"research"/"bug-quirks.csv")
+(CLONE/".github"/"workflows").mkdir(parents=True,exist_ok=True)
+shutil.copy2(ROOT/".github"/"workflows"/"docs.yml",CLONE/".github"/"workflows"/"docs.yml")
 for name in ("README.md","ROADMAP.md","mkdocs.yml","requirements-docs.txt"):
     shutil.copy2(ROOT/name,CLONE/name)
 

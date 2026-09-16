@@ -4,8 +4,8 @@ last_verified: 2026-09-16
 ---
 # AEIG Page Depth Audit
 
-Scored active article/overview pages: **154**. Median words: **547**.
-Depth tiers: `{'deep': 63, 'developed': 91}`.
+Scored active article/overview pages: **156**. Median words: **547**.
+Depth tiers: `{'deep': 64, 'developed': 92}`.
 
 A page is not promoted by word count alone. The score checks implementation/model detail, evidence, version lineage, API/host context, failure/bug knowledge, experiments, explicit unknowns/falsification, and cross-links; content volume contributes at most two points.
 
@@ -18,6 +18,7 @@ A page is not promoted by word count alone. The score checks implementation/mode
 | `docs/cache-system/guid-mixing.md` | 6/10 | 387 | developed | version, unknowns, crosslinks |
 | `docs/audio-system/overview.md` | 6/10 | 395 | developed | version, experiment, crosslinks |
 | `docs/render-graph/request-architecture-history.md` | 6/10 | 397 | developed | failure_bug, unknowns, crosslinks |
+| `docs/reference/aeig-1.0-final-operator-run.md` | 6/10 | 414 | developed | api_context, failure_bug, unknowns |
 | `docs/host-integration/pica-sweetpea/suite-versioning.md` | 6/10 | 472 | developed | experiment, unknowns, crosslinks |
 | `docs/cache-system/expression-cache.md` | 6/10 | 474 | developed | experiment, unknowns, crosslinks |
 | `docs/host-integration/premiere-pro/memory-management-analogs.md` | 6/10 | 474 | developed | version, unknowns, crosslinks |
@@ -52,7 +53,6 @@ A page is not promoted by word count alone. The score checks implementation/mode
 | `docs/host-integration/cpp-sdk/performance-and-escape-hatches.md` | 7/10 | 552 | developed | unknowns, crosslinks |
 | `docs/render-graph/async-render-requests.md` | 7/10 | 554 | developed | evidence, version |
 | `docs/temporal-system/motion-blur.md` | 7/10 | 569 | developed | version, crosslinks |
-| `docs/persistence/aep.md` | 7/10 | 571 | developed | experiment, crosslinks |
 
 ## Section health
 
@@ -72,11 +72,12 @@ A page is not promoted by word count alone. The score checks implementation/mode
 | `image-pipeline` | 7 | 8.0 | 661 | 0 |
 | `temporal-system` | 4 | 8.0 | 552 | 0 |
 | `three-d-system` | 1 | 8.0 | 418 | 0 |
-| `ui-system` | 3 | 8.0 | 644 | 0 |
+| `ui-system` | 4 | 8.0 | 734 | 0 |
 | `vector-shape-system` | 2 | 8.0 | 536 | 0 |
 | `color-pipeline` | 2 | 8.5 | 689 | 0 |
 | `media-system` | 4 | 8.5 | 585 | 0 |
 | `observability` | 6 | 8.5 | 325 | 0 |
+| `reference` | 6 | 8.5 | 440 | 0 |
 | `state-model` | 6 | 8.5 | 650 | 0 |
 | `troubleshooting` | 2 | 8.5 | 474 | 0 |
 | `ai-analysis` | 5 | 9.0 | 641 | 0 |
@@ -86,7 +87,6 @@ A page is not promoted by word count alone. The score checks implementation/mode
 | `headless-system` | 2 | 9.0 | 465 | 0 |
 | `memory-system` | 2 | 9.0 | 712 | 0 |
 | `mfr` | 2 | 9.0 | 732 | 0 |
-| `reference` | 5 | 9.0 | 467 | 0 |
 | `tracking-analysis` | 1 | 9.0 | 549 | 0 |
 | `gpu-system` | 1 | 10.0 | 749 | 0 |
 | `interop` | 1 | 10.0 | 627 | 0 |

@@ -1,0 +1,27 @@
+family,component,ae_specific,priority,evidence_target
+shell,application-window,false,P1,Spectrum+AE observation
+shell,workspace,true,P1,AE docs+observation
+shell,panel,true,P0,AE docs+observation
+shell,panel-tab,true,P0,AE observation
+shell,docking-indicator,true,P1,interaction capture
+controls,button,false,P0,Spectrum+AE observation
+controls,icon-button,false,P0,Spectrum+AE observation
+controls,text-field,false,P0,Spectrum+AE observation
+controls,numeric-field,true,P0,AE interaction capture
+controls,slider,false,P0,Spectrum+AE observation
+controls,scrubber,true,P0,AE interaction capture
+controls,checkbox,false,P0,Spectrum+AE observation
+controls,dropdown,false,P0,Spectrum+AE observation
+controls,disclosure,false,P0,Spectrum+AE observation
+editors,property-row,true,P0,AE observation
+editors,effect-parameter-row,true,P0,Effect Controls observation
+editors,timeline-layer-row,true,P0,Timeline observation
+editors,timeline-switch,true,P0,Timeline observation
+editors,keyframe,true,P0,Timeline+Graph Editor observation
+editors,graph-editor-control,true,P1,Graph Editor observation
+viewer,viewer-toolbar,true,P1,Viewer observation
+viewer,overlay-control,true,P1,Viewer observation
+menus,context-menu,false,P1,AE observation
+feedback,tooltip,false,P1,Spectrum+AE observation
+feedback,focus-ring,false,P0,Spectrum+AE observation
+feedback,drag-preview,true,P1,interaction capture

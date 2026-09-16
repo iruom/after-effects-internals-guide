@@ -4,7 +4,7 @@ ROOT=Path(r"D:\Developer\After Effects Internals Guide")
 RUNS=ROOT/"experiments"/"observatory"/"runs"
 TOOLS=ROOT/"probes"/"process-tools"
 PKG=ROOT/"experiments"/"user-run"/"AEIG-1.0-L5"
-EXPECTED_AEX="9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98"
+EXPECTED_AEX="E3546DB78AA3454FEE5EF6C5A14A3B1152111D2A543E249C3DBB1036AE3DFF33"
 EXPECTED={
  "EXP-CACHE-002":["receipt-matrix.tsv","fixture-script.log","fixture-output-A.avi","fixture-output-B.avi","environment.txt"],
  "EXP-PLUGIN-001":["suite-acquisition.tsv"],

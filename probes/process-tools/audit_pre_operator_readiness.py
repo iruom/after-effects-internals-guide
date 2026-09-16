@@ -23,6 +23,11 @@ def add(name,ok,detail,scope="repository"):
 def rows(path):
     with path.open(encoding="utf-8-sig",newline="") as f: return list(csv.DictReader(f))
 def truth(v): return str(v).lower() in {"true","1","yes"}
+def doc_status(path):
+    if not path.exists(): return "missing"
+    for line in path.read_text(encoding="utf-8-sig",errors="replace").splitlines()[:12]:
+        if line.startswith("status:"): return line.split(":",1)[1].strip()
+    return "unknown"
 
 rc=run("verify_aeig_static_rc.py"); add("static-rc",rc.returncode==0,(rc.stdout+rc.stderr).strip().replace("\n"," | "))
 pkg=run("audit_aeig_l5_package.py"); add("canonical-package",pkg.returncode==0,(pkg.stdout+pkg.stderr).strip().replace("\n"," | ")[-900:])
@@ -52,8 +57,9 @@ rr=rows(DATA/"aeig-release-readiness.csv") if (DATA/"aeig-release-readiness.csv"
 blockers={r["check"] for r in rr if r.get("status")=="BLOCKER"}; warns={r["check"] for r in rr if r.get("status")=="WARN"}
 add("expected-release-blockers",blockers=={"domain-targets","predictive-validation"} and not warns,
     f"blockers={sorted(blockers)} warnings={sorted(warns)} audit_exit={release.returncode}")
-add("not-released",not (ROOT/"VERSION").exists() and not (DOCS/"aeig-1.0-release.md").exists(),
-    f"VERSION={(ROOT/'VERSION').exists()} release_page={(DOCS/'aeig-1.0-release.md').exists()}")
+release_page=DOCS/"aeig-1.0-release.md"; release_status=doc_status(release_page)
+add("not-released",not (ROOT/"VERSION").exists() and release_status!="release",
+    f"VERSION={(ROOT/'VERSION').exists()} release_page_status={release_status}")
 
 selftest=run("selftest_aeig_release_pipeline.py"); add("release-pipeline-selftest",selftest.returncode==0,(selftest.stdout+selftest.stderr).strip().replace("\n"," | ")[-900:])
 promotest=run("selftest_aeig_promotion_success.py"); add("promotion-gate-selftest",promotest.returncode==0,(promotest.stdout+promotest.stderr).strip().replace("\n"," | ")[-900:])

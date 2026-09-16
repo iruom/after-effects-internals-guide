@@ -4,7 +4,7 @@ import hashlib, json, py_compile, shutil, subprocess, sys, tempfile
 ROOT = Path(r"D:\Developer\After Effects Internals Guide")
 PKG = ROOT / "experiments" / "user-run" / "AEIG-1.0-L5"
 AEX = PKG / "plugin" / "AEGP" / "AEIGReceiptArtie.aex"
-EXPECTED = "9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98"
+EXPECTED = "E3546DB78AA3454FEE5EF6C5A14A3B1152111D2A543E249C3DBB1036AE3DFF33"
 REQUIRED = [
     "00_PREPARE_RESULTS.cmd", "INSTALL_26_3.cmd", "01_RUN_IN_AE.jsx",
     "REMOVE_26_3.cmd", "02_VERIFY_RESULTS.cmd", "README.md",
@@ -69,8 +69,9 @@ if prep_tool.exists():
 
 # Outer wrappers are part of the release handoff contract.
 PREP=ROOT / "experiments" / "user-run" / "AEIG-L5-PREPARE.cmd"
+STATUS=ROOT / "experiments" / "user-run" / "AEIG-L5-STATUS.cmd"
 FINISH=ROOT / "experiments" / "user-run" / "AEIG-L5-FINISH.cmd"
-for wrapper in (PREP, FINISH):
+for wrapper in (PREP, STATUS, FINISH):
     if not wrapper.exists(): errors.append(f"missing wrapper: {wrapper.relative_to(ROOT)}")
 if PREP.exists():
     t=PREP.read_text(encoding="utf-8-sig",errors="replace")
@@ -82,6 +83,9 @@ if PREP.exists():
     if min(p0,allow,archive,p1,install)<0 or not (p0<=allow<archive<p1<install):
         errors.append("PREP wrapper order/safety contract invalid")
     if "AEIG_NO_PAUSE=1" not in t: errors.append("PREP wrapper missing noninteractive child mode")
+if STATUS.exists():
+    t=STATUS.read_text(encoding="utf-8-sig",errors="replace")
+    if "status_aeig_l5_operator_run.py" not in t: errors.append("STATUS wrapper contract invalid")
 if FINISH.exists():
     t=FINISH.read_text(encoding="utf-8-sig",errors="replace")
     ordered=["REMOVE_26_3.cmd","complete_aeig_1_0_after_operator_run.py"]
@@ -107,7 +111,8 @@ if verify_cmd.exists() and "finalize_aeig_l5_user_run.py" not in verify_cmd.read
     errors.append("02_VERIFY_RESULTS contract: finalizer is not invoked")
 
 old_hashes = ["8FAD5221BC5AA270CFF9505F6E3F2ABF7916F4B4DFE7820BA653DFDA759E9FEE",
-              "9D74BE748771D60A63CF3770E346DC7D69348BB5C8B007235CB325FBAF5D9AAB"]
+              "9D74BE748771D60A63CF3770E346DC7D69348BB5C8B007235CB325FBAF5D9AAB",
+              "9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98"]
 text_ext = {".md", ".json", ".py", ".cmd", ".jsx", ".txt", ".csv", ".tsv", ".h", ".cpp"}
 for base in [PKG, ROOT / "experiments" / "observatory" / "manifests", TOOLS]:
     for p in base.rglob("*"):

@@ -10,7 +10,7 @@ RUNS=ROOT/"experiments"/"observatory"/"runs"
 AE=Path(r"D:\Adobe\Adobe After Effects 2026\Support Files\AfterFX.exe")
 DST=Path(r"D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\AEIG-Probes\AEIGReceiptArtie.aex")
 AEX=PKG/"plugin"/"AEGP"/"AEIGReceiptArtie.aex"
-EXPECTED="9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98"
+EXPECTED="E3546DB78AA3454FEE5EF6C5A14A3B1152111D2A543E249C3DBB1036AE3DFF33"
 DATA=ROOT/"datasets"
 SESSION=DATA/"aeig-l5-operator-session.env"
 FINGER=DATA/"aeig-static-rc-fingerprint.txt"
@@ -42,7 +42,7 @@ mutable=[]
 for exp,names in {
  'EXP-CACHE-002':['receipt-matrix.tsv','fixture-script.log','fixture-output-A.avi','fixture-output-B.avi','environment.txt'],
  'EXP-PLUGIN-001':['suite-acquisition.tsv'],
- 'EXP-RG-001':['host-trace.log','trace-control.tsv','current-pass.txt'],
+ 'EXP-RG-001':['host-trace.log','trace-control.tsv','artisan-stage.tsv','current-pass.txt'],
  'EXP-SCRIPT-001':['runtime-reflection.tsv'],
 }.items():
     d=RUNS/exp

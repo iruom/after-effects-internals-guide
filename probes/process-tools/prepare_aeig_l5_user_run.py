@@ -39,7 +39,7 @@ aex_hash=sha256(aex)
 targets={
  "EXP-CACHE-002":["receipt-matrix.tsv","fixture-script.log","fixture-output-A.avi","fixture-output-B.avi","environment.txt","analysis-summary.md","sha256.txt"],
  "EXP-PLUGIN-001":["suite-acquisition.tsv","analysis-summary.md","sha256.txt","environment.txt"],
- "EXP-RG-001":["host-trace.log","trace-control.tsv","current-pass.txt","analysis-summary.md","sha256.txt","environment.txt"],
+ "EXP-RG-001":["host-trace.log","trace-control.tsv","artisan-stage.tsv","current-pass.txt","analysis-summary.md","sha256.txt","environment.txt"],
  "EXP-SCRIPT-001":["runtime-reflection.tsv","analysis-summary.md","sha256.txt","environment.txt"],
 }
 moved=[]
@@ -70,7 +70,8 @@ summary=ROOT/"docs"/"reference"/"l5-user-run-finalization.md"
 if summary.exists():
     derived_archive.mkdir(parents=True,exist_ok=True)
     dst=derived_archive/"l5-user-run-finalization.md"
-    shutil.move(str(summary),str(dst)); derived_moved.append((summary,dst))
+    shutil.copy2(str(summary),str(dst)); derived_moved.append((summary,dst))
+summary.write_text("---\nstatus: reference-generated\nlast_verified: "+datetime.now().date().isoformat()+"\n---\n# L5 User-Run Finalization\n\nThis record is reserved for the canonical AEIG 1.0 L5 operator observation.\nBefore a complete operator capture it remains a pre-release record so the documentation tree and site navigation are structurally frozen.\n\nThe finalizer overwrites this same path after verification; it does not create a new documentation page.\nCurrent release readiness is tracked in `docs/reference/release-readiness.md` and the operator procedure in `docs/reference/aeig-1.0-final-operator-run.md`.\n",encoding="utf-8")
 
 print("archive_stamp",stamp)
 print("raw_archived",len(moved))

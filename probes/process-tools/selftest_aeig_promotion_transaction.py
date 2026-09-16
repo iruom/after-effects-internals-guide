@@ -43,8 +43,14 @@ shutil.copytree(TOOLS,CLONE/"probes"/"process-tools")
 shutil.copytree(ROOT/"experiments"/"user-run",CLONE/"experiments"/"user-run")
 shutil.copytree(ROOT/"experiments"/"observatory"/"manifests",
                 CLONE/"experiments"/"observatory"/"manifests")
+for exp_doc in (ROOT/"experiments").glob("*.md"):
+    shutil.copy2(exp_doc,CLONE/"experiments"/exp_doc.name)
 if (ROOT/"research"/"findings").exists():
     shutil.copytree(ROOT/"research"/"findings",CLONE/"research"/"findings")
+(CLONE/"research").mkdir(parents=True,exist_ok=True)
+shutil.copy2(ROOT/"research"/"bug-quirks.csv",CLONE/"research"/"bug-quirks.csv")
+(CLONE/".github"/"workflows").mkdir(parents=True,exist_ok=True)
+shutil.copy2(ROOT/".github"/"workflows"/"docs.yml",CLONE/".github"/"workflows"/"docs.yml")
 for name in ("README.md","ROADMAP.md","mkdocs.yml","requirements-docs.txt"):
     shutil.copy2(ROOT/name,CLONE/name)
 
@@ -73,7 +79,7 @@ steps=[]
 for name in ("freeze_aeig_static_rc.py","compute_static_rc_fingerprint.py",
              "verify_aeig_static_rc.py","promote_aeig_1_0.py"):
     p=run(CLONE,name); steps.append({"script":name,"exit":p.returncode,
-        "tail":(p.stdout+p.stderr)[-3000:]})
+        "tail":(p.stdout+p.stderr)[-16000:]})
     if p.returncode: break
 
 version=(CLONE/"VERSION").read_text(encoding="utf-8-sig").strip() if (CLONE/"VERSION").exists() else ""

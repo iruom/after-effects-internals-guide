@@ -106,6 +106,9 @@ readme.write_text(s,encoding="utf-8")
 
 run("report_prediction_status.py")
 release_page=ROOT/"docs"/"reference"/"aeig-1.0-release.md"
+release_page_backup=hist/f"aeig-1.0-release-pre-1.0-{stamp}.md"
+release_page_existed=release_page.exists()
+if release_page_existed: shutil.copy2(release_page,release_page_backup)
 release_page.write_text("\n".join([
  "---","status: release",f"last_verified: {RELEASE_DATE}","version: AEIG-1.0","---",
  "# AEIG 1.0 Release Evidence","",
@@ -127,7 +130,8 @@ if final_rc.returncode:
     shutil.copy2(readme_backup,readme)
     shutil.copy2(index_backup,index_path)
     (ROOT/"VERSION").unlink(missing_ok=True)
-    release_page.unlink(missing_ok=True)
+    if release_page_existed: shutil.copy2(release_page_backup,release_page)
+    else: release_page.unlink(missing_ok=True)
     run("report_roadmap_progress.py")
     run("report_prediction_status.py")
     raise SystemExit("static RC changed during promotion; release state rolled back")
@@ -138,7 +142,8 @@ if integrity.returncode or final_release.returncode:
     shutil.copy2(readme_backup,readme)
     shutil.copy2(index_backup,index_path)
     (ROOT/"VERSION").unlink(missing_ok=True)
-    release_page.unlink(missing_ok=True)
+    if release_page_existed: shutil.copy2(release_page_backup,release_page)
+    else: release_page.unlink(missing_ok=True)
     run("report_roadmap_progress.py")
     run("report_prediction_status.py")
     run("audit_release_readiness.py")

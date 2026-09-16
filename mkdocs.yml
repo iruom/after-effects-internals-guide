@@ -198,6 +198,7 @@ nav:
             - "UXP in After Effects: Runtime Presence Is Not Public Host API": host-integration/uxp-cep/uxp-after-effects-status.md
     - "UI System":
         - "Async Custom-UI Rendering": ui-system/async-custom-ui-rendering.md
+        - "Spectrum and the After Effects UI System": ui-system/spectrum-and-ae-ui.md
         - "UI System": ui-system/overview.md
         - "View State and Render Boundary": ui-system/view-state-and-render-boundary.md
     - "Product Shell":
@@ -249,6 +250,8 @@ nav:
         - "PF Effect API Version Lineage": archaeology/pf-api-version-lineage.md
         - "SmartFX Archaeology: From AE 7/9 to the Modern Render Graph": archaeology/ae9-smartfx.md
     - "Reference":
+        - "AEIG 1.0 Final Operator Run": reference/aeig-1.0-final-operator-run.md
+        - "AEIG 1.0 Release Evidence": reference/aeig-1.0-release.md
         - "AEIG 1.0 Release Readiness": reference/release-readiness.md
         - "AEIG 1.0 Static RC Snapshot": reference/static-rc-snapshot.md
         - "AEIG 1.0 Static RC Status": reference/static-rc-status.md

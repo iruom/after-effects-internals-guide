@@ -9,7 +9,7 @@ Checks: **16** — PASS 13, BLOCKER 2, WARN 0, INFO 1.
 | Check | Status | Detail |
 |---|---|---|
 | `bug-quirk-registry` | **PASS** | BUG/QUIRK REGISTRY: PASS / entries 32 fixed 15 nonfixed 17 / sources {'adobe-fixed-issue': 14, 'adobe-known-issue': 2, 'adobe-sdk-known-issue': 1, 'sdk-contract-warning': 7, 'sdk-contract-quirk': 1, 'aeig-finding': 1, 'sdk-sample-pitfall': 2, 'sdk-contract-lifecycle': 1, 'sdk-contract-pitfall': 1, 'historical-abi-bug': 1, 'historical-compat-quirk': 1} / statuses {'fixed': 15, 'known/mitigated': 1, 'active-risk': 1, 'active-contract': 9, 'historical-pitfall': 1, 'sample-pitfall': 2, 'historical': 1, 'historical-compat': 1, 'known': 1} / wrote D:\Developer\After Effects Internals Guide\datasets\aeig-bug-quirk-registry.csv / wrote D:\Developer\After Effects Internals Guide\docs\reference\bug-quirk-registry.md |
-| `page-depth-audit` | **PASS** | scored=160 below_developed=0 tiers={'deep': 67, 'developed': 93} |
+| `page-depth-audit` | **PASS** | scored=162 below_developed=0 tiers={'deep': 68, 'developed': 94} |
 | `domain-targets` | **BLOCKER** | 24/27 domains meet target; unmet=state-identity,render-graph,cache |
 | `finding-registry` | **PASS** | findings=127 duplicate_rows=0 missing_frontmatter=0 |
 | `observatory-manifests` | **PASS** | valid=7 invalid=0 |
@@ -18,12 +18,12 @@ Checks: **16** — PASS 13, BLOCKER 2, WARN 0, INFO 1.
 | `api-guide-relations` | **PASS** | reviewed=113 open=0 |
 | `master-surface-registry` | **PASS** | rows=53728 classes=13 missing= blanks={'name': 0, 'support_class': 0, 'host_scope': 0, 'source': 0} |
 | `predictive-validation` | **BLOCKER** | prospective=7 locked=7 confirmed=2 unresolved=5 refuted_unrevised=0 |
-| `l5-user-run-package` | **PASS** | package_files=7/7 / aex_sha256=9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98 / python_compile=26/26 / manifest_json=ok / jsx_syntax=ok / AEIG-L5 package audit: GREEN |
-| `static-rc-freeze` | **PASS** | AEIG static RC verification: PASS / artifacts 65 predictions 7 / fingerprint F46DC6B04AE8237045FB485F381CA559BD7379515D7E282D0218C050A4B3883E |
+| `l5-user-run-package` | **PASS** | package_files=7/7 / aex_sha256=E3546DB78AA3454FEE5EF6C5A14A3B1152111D2A543E249C3DBB1036AE3DFF33 / python_compile=26/26 / manifest_json=ok / jsx_syntax=ok / AEIG-L5 package audit: GREEN |
+| `static-rc-freeze` | **PASS** | AEIG static RC verification: PASS / artifacts 68 predictions 7 / fingerprint 4254DD9C5960FE7716F06737C187F628C03C06A68D9C4D1D88E19C95F2888735 |
 | `seed-pages` | **PASS** | seed_pages=0 |
 | `doc-todo-markers` | **PASS** | docs_with_todo_like_markers=0 |
 | `markdown-local-links` | **PASS** | checked=0 broken=0 |
-| `inline-artifact-references` | **PASS** | checked=700 unresolved=0 |
+| `inline-artifact-references` | **PASS** | checked=715 unresolved=0 |
 
 ## Blocking rule
 AEIG 1.0 cannot be declared complete while any `BLOCKER` remains.

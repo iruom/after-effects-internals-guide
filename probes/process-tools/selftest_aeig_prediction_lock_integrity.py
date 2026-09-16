@@ -22,6 +22,11 @@ if CLONE.exists(): shutil.rmtree(CLONE)
 (CLONE/"datasets").mkdir(parents=True)
 shutil.copytree(TOOLS,CLONE/"probes"/"process-tools")
 shutil.copytree(ROOT/"experiments"/"user-run",CLONE/"experiments"/"user-run")
+shutil.copytree(ROOT/"docs",CLONE/"docs")
+(CLONE/"research").mkdir(parents=True,exist_ok=True)
+shutil.copy2(ROOT/"research"/"bug-quirks.csv",CLONE/"research"/"bug-quirks.csv")
+(CLONE/".github"/"workflows").mkdir(parents=True,exist_ok=True)
+shutil.copy2(ROOT/".github"/"workflows"/"docs.yml",CLONE/".github"/"workflows"/"docs.yml")
 for p in DATA.iterdir():
     if p.is_file(): shutil.copy2(p,CLONE/"datasets"/p.name)
 for name in ("ROADMAP.md","mkdocs.yml","requirements-docs.txt"):

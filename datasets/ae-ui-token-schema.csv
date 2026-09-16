@@ -1,0 +1,15 @@
+namespace,category,examples,provenance_rule
+spectrum,color,background/text/border,public Spectrum source required
+spectrum,spacing,component-gap/padding,public Spectrum source required
+spectrum,typography,font-size/line-height/weight,public Spectrum source required
+spectrum,motion,duration/easing,public Spectrum source required
+ae.observed,color,panel-bg/selection/hover,AE version+theme+capture required
+ae.observed,geometry,row-height/control-height/radius,AE version+DPI+scale required
+ae.observed,typography,font-size/weight/baseline,AE version+DPI+scale required
+ae.observed,motion,hover/press/expand/drag,interaction capture required
+ae.semantic,color,surface/text/accent/selection,mapping to observed or Spectrum token required
+ae.semantic,geometry,density/hit-target/indent,mapping to observed token required
+ae.semantic,interaction,hover/pressed/focused/editing,behavioral evidence required
+ae.component,geometry,timeline-row/effect-row/panel-tab,component observation required
+ae.component,interaction,scrub/drag/drop/dock,interaction trace required
+prototype,any,temporary design approximation,must never be promoted without evidence

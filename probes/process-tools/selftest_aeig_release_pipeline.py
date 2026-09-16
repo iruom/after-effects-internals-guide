@@ -26,6 +26,11 @@ def run(name):
                           encoding="utf-8",errors="replace")
 
 def snap(): return {str(p):digest(p) for p in protected}
+def doc_status(path):
+    if not path.exists(): return "missing"
+    for line in path.read_text(encoding="utf-8-sig",errors="replace").splitlines()[:12]:
+        if line.startswith("status:"): return line.split(":",1)[1].strip()
+    return "unknown"
 
 rc0=run("verify_aeig_static_rc.py")
 if rc0.returncode:
@@ -55,7 +60,7 @@ checks={
  "protected_state_unchanged": not changed,
  "static_rc_still_valid": rc.returncode == 0,
  "version_not_created": not (ROOT/"VERSION").exists(),
- "release_page_not_created": not (DOCS/"aeig-1.0-release.md").exists(),
+ "release_page_not_promoted": doc_status(DOCS/"aeig-1.0-release.md")!="release",
 }
 passed=all(checks.values())
 payload={"status":"PASS" if passed else "FAIL","date":date.today().isoformat(),"checks":checks,

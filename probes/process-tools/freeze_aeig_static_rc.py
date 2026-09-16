@@ -42,16 +42,17 @@ tool_names=[
  'prepare_aeig_l5_user_run.py','build_master_surface_registry.py','preflight_aeig_l5_operator_run.py',
  'compute_static_rc_fingerprint.py','report_static_rc_fingerprint.py','report_static_release_candidate.py',
  'report_static_rc_identity.py','report_static_rc_status.py','generate_site_config.py',
- 'audit_page_depth.py','build_bug_quirk_registry.py',
+ 'audit_page_depth.py','build_bug_quirk_registry.py','patch_artie_observation_v2.py',
 ]
 for n in tool_names: add(ROOT/'probes'/'process-tools'/n,'l5-analysis-or-promotion-tool')
-for n in ['AEIG-L5-PREPARE.cmd','AEIG-L5-FINISH.cmd']:
+for n in ['AEIG-L5-PREPARE.cmd','AEIG-L5-STATUS.cmd','AEIG-L5-FINISH.cmd']:
     add(ROOT/'experiments'/'user-run'/n,'canonical-operator-wrapper')
 for n in [
  'ae-api-completeness-classification.csv','ae-api-guide-relation-classification.csv',
  'ae-master-surface-registry.csv','aeig-corpus-coverage-manifest.csv',
  'ae-plugin-capability-frontier.csv','ae-suite-negotiation-matrix.csv']:
     add(DATA/n,'static-evidence-index')
+add(ROOT/'docs'/'reference'/'aeig-1.0-final-operator-run.md','canonical-operator-runbook')
 add(ROOT/'research'/'bug-quirks.csv','documentation-quality-source')
 add(DATA/'aeig-bug-quirk-registry.csv','documentation-quality-index')
 add(LOCK,'prospective-prediction-lock')

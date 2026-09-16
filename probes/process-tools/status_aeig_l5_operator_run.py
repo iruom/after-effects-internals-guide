@@ -6,7 +6,7 @@ ROOT = Path(r"D:\Developer\After Effects Internals Guide")
 RUNS = ROOT / "experiments" / "observatory" / "runs"
 DATA = ROOT / "datasets"
 DST = Path(r"D:\Adobe\Adobe After Effects 2026\Support Files\Plug-ins\AEIG-Probes\AEIGReceiptArtie.aex")
-EXPECTED_AEX="9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98"
+EXPECTED_AEX="E3546DB78AA3454FEE5EF6C5A14A3B1152111D2A543E249C3DBB1036AE3DFF33"
 
 def exists(exp, name):
     return (RUNS / exp / name).exists()

@@ -4,7 +4,7 @@ from aeig_operator_session import read_kv, evaluate_session, evaluate_raw_times
 ROOT=Path(r"D:\Developer\After Effects Internals Guide")
 RUNS=ROOT/"experiments"/"observatory"/"runs"
 DATA=ROOT/"datasets"
-EXPECTED_AEX="9768BC9B463F6377E1AE246303D6AEDD8BF11725E8D96034DF14E85F1AD9BE98"
+EXPECTED_AEX="E3546DB78AA3454FEE5EF6C5A14A3B1152111D2A543E249C3DBB1036AE3DFF33"
 checks={
  "session":DATA/"aeig-l5-operator-session.env",
  "fixture_log":RUNS/"EXP-CACHE-002"/"fixture-script.log",
@@ -49,7 +49,8 @@ for k in ("output_A","output_B"):
     if not state[k]["exists"]: issues.append(f"missing rendered output: {k}")
     elif state[k]["bytes"]<=0: issues.append(f"rendered output is empty: {k}")
 raw_time=evaluate_raw_times({k:p for k,p in checks.items() if k!="session"},session_eval["issued_unix_ms"],2000)
-if session_eval["issued_unix_ms"]>0 and not raw_time["all_after_issue"]: issues.append("one or more raw artifacts predate the prepared operator session")
+stale=[k for k,v in raw_time.get("files",{}).items() if v.get("exists") and not v.get("after_session_issue")]
+if session_eval["issued_unix_ms"]>0 and stale: issues.append("raw artifacts predate the prepared operator session: "+",".join(stale))
 if checks["current_pass"].exists() and checks["current_pass"].read_text(encoding="utf-8-sig",errors="replace").strip()!="DONE": issues.append("current-pass marker did not reach DONE")
 env=read_kv(checks["environment"])
 if session_eval["session_id"] and env.get("aeig.session_id")!=session_eval["session_id"]: issues.append("environment session ID does not match prepared session")

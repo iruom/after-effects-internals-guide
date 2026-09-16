@@ -18,7 +18,7 @@ DIMENSIONS={
  "unknowns": r"(?i)\b(unknown|open question|hypothesis|unresolved|provisional|not yet|frontier|limitation|falsif)\b",
  "crosslinks": r"\[[^\]]+\]\([^)]+\)|`(?:docs|datasets|research|experiments|probes)/[^`]+`",
 }
-NON_ARTICLE={"generated","reference-generated","index","seed-map"}
+NON_ARTICLE={"generated","reference-generated","release","index","seed-map"}
 def frontmatter(text):
     m=re.match(r"^---\s*\n(.*?)\n---\s*\n",text,re.S)
     meta={}
