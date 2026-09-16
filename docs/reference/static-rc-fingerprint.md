@@ -4,8 +4,8 @@ last_verified: 2026-09-16
 ---
 # AEIG Static RC Fingerprint
 
-Frozen artifacts: **62**.
-Canonical aggregate SHA-256: `FF82E573AB0061FC2EBDD0C04D8EEBCF3AD692806FDE101A1149A2B88F04D90E`.
+Frozen artifacts: **65**.
+Canonical aggregate SHA-256: `A76434C8AD561C2E6DF690A3C268B9043DB0027DB23DC922AFCEC662044E0D8B`.
 
 The fingerprint is calculated from sorted `path / role / bytes / sha256` rows in
 `datasets/aeig-static-rc-manifest.csv`.

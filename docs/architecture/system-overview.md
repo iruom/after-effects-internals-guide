@@ -102,7 +102,7 @@ Every detailed page should therefore state version/evidence scope. "Observed in 
 The diagram combines multiple evidence classes. Public SDK behavior is a support contract; distributed headers reveal additional structure; binary imports/exports reveal runtime-visible relationships; trace/debug vocabulary exposes observation points; controlled experiments establish behavior. None alone is permission to invent private source-level semantics.
 
 ## Cross-links
-Start with `docs/foundations/scope-and-coverage-model.md`, `docs/evaluation/overview.md`, `docs/cache-system/state-identity.md`, `docs/render-graph/render-graph-model.md`, `docs/media-system/runtime-architecture.md`, `docs/audio-system/runtime-architecture.md`, `docs/threading-system/overview.md`, and `docs/persistence/aep-binary-model.md`.
+Start with `docs/foundations/scope-and-coverage-model.md`, `docs/evaluation/evaluation-model.md`, `docs/cache-system/state-identity.md`, `docs/render-graph/render-graph-model.md`, `docs/media-system/runtime-architecture.md`, `docs/audio-system/runtime-architecture.md`, `docs/threading-system/overview.md`, and `docs/persistence/aep-binary-model.md`.
 
 ## Unknown frontier
 AEIG does not possess Adobe private source code. Exact private object layouts, graph construction heuristics, scheduler policy, cache-key representation and many first-party-only bridges remain open unless independently observed. The purpose of this overview is to make those unknowns localizable and testable, not to hide them behind a plausible diagram.

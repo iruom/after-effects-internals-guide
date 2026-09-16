@@ -75,6 +75,11 @@ add("canonical-user-run-package","BLOCKER" if pr.returncode else "PASS",
 req=ROOT/"requirements-docs.txt"
 add("docs-build-dependencies","PASS" if req.exists() else "BLOCKER",
     f"requirements-docs.txt={'present' if req.exists() else 'missing'}; mkdocs_local={'yes' if shutil.which('mkdocs') else 'no'}")
+sitegen=ROOT/"probes"/"process-tools"/"generate_site_config.py"
+sg=subprocess.run([sys.executable,str(sitegen),"--check"],capture_output=True,text=True,encoding="utf-8",errors="replace")
+assets=[ROOT/"docs"/"stylesheets"/"extra.css", ROOT/".github"/"workflows"/"docs.yml"]
+add("docs-site-config","BLOCKER" if sg.returncode or any(not x.exists() for x in assets) else "PASS",
+    (sg.stdout+sg.stderr).strip().replace("\n"," | ")+f"; assets={sum(x.exists() for x in assets)}/{len(assets)}")
 venv_py=ROOT/"scratch"/".venv-docs"/"Scripts"/"python.exe"
 if venv_py.exists():
     site=ROOT/"scratch"/"site-strict-audit"

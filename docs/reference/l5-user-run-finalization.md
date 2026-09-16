@@ -12,8 +12,8 @@ Prospective predictions: confirmed **2**, pending **5**, refuted-unrevised **0**
 
 | Domain | Evidence ready | Model revision required | Reason |
 |---|---|---|---|
-| `state-identity` | False | False | receipt_captured=False; prefix_ok=False; identity_trace={'A': False, 'B': False}; identity_count_diff=False |
-| `cache` | False | False | receipt_captured=False; receipt_stable=False; cache_trace={'A': False, 'B': False} |
+| `state-identity` | False | False | receipt_captured=False; prefix_ok=False; identity_complete={'A': False, 'B': False}; identity_footprint_diff=False |
+| `cache` | False | False | receipt_captured=False; receipt_stable=False; cache_trace={'A': False, 'B': False}; workqueue={'A': False, 'B': False} |
 | `render-graph` | False | False | rg_trace={'A': False, 'B': False}; mutation_count_diff=False |
 | `plugin-host` | False | False | attempts=1536 labels=48 patterns=26 |
 

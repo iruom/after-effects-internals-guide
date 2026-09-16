@@ -49,4 +49,4 @@ The experiment should distinguish “effect no longer has instances” from “b
 ## Unknowns
 AE's current policy for when a particular third-party effect module becomes purge-eligible is not a public stable contract. SweetPea defines the architecture and purge mechanisms; concrete AE heuristics require version-scoped runtime observation.
 
-Cross-links: `suite-acquisition.md`, `plugin-runtime.md`, `../../memory-system/overview.md`, and `../../cache-system/cache-architecture.md`.
+Cross-links: `suite-versioning.md`, `runtime-architecture.md`, `../../memory-system/overview.md`, and `../../cache-system/cache-architecture.md`.

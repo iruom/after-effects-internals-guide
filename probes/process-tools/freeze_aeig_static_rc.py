@@ -41,7 +41,7 @@ tool_names=[
  'report_roadmap_progress.py','promote_aeig_1_0.py','verify_aeig_static_rc.py','freeze_aeig_static_rc.py',
  'prepare_aeig_l5_user_run.py','build_master_surface_registry.py','preflight_aeig_l5_operator_run.py',
  'compute_static_rc_fingerprint.py','report_static_rc_fingerprint.py','report_static_release_candidate.py',
- 'report_static_rc_identity.py','report_static_rc_status.py',
+ 'report_static_rc_identity.py','report_static_rc_status.py','generate_site_config.py',
  'audit_page_depth.py','build_bug_quirk_registry.py',
 ]
 for n in tool_names: add(ROOT/'probes'/'process-tools'/n,'l5-analysis-or-promotion-tool')
@@ -55,7 +55,7 @@ for n in [
 add(ROOT/'research'/'bug-quirks.csv','documentation-quality-source')
 add(DATA/'aeig-bug-quirk-registry.csv','documentation-quality-index')
 add(LOCK,'prospective-prediction-lock')
-for n in ['ROADMAP.md','mkdocs.yml','requirements-docs.txt']:
+for n in ['ROADMAP.md','mkdocs.yml','requirements-docs.txt','.github/workflows/docs.yml','docs/stylesheets/extra.css']:
     add(ROOT/n,'release-configuration')
 rows=[]
 for p,role in items:

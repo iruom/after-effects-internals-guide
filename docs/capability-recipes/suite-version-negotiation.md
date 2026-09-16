@@ -72,4 +72,4 @@ For every used suite record: name string, selector, C table type/generation, ear
 ## Unknown frontier
 Static headers and runtime selector acceptance do not reveal undocumented field semantics of unknown newer tables. The current 48-family runtime capture is one AE 26.3 environment, not a universal matrix for every host/build. Repeat across host versions and sibling Adobe hosts before generalizing.
 
-Related: `docs/host-integration/pica-sweetpea/overview.md`, `docs/archaeology/pf-api-version-lineage.md`, `datasets/ae-suite-negotiation-matrix.csv`.
+Related: `docs/host-integration/pica-sweetpea/suite-versioning.md`, `docs/archaeology/pf-api-version-lineage.md`, `datasets/ae-suite-negotiation-matrix.csv`.

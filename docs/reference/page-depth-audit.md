@@ -4,8 +4,8 @@ last_verified: 2026-09-16
 ---
 # AEIG Page Depth Audit
 
-Scored active article/overview pages: **153**. Median words: **545**.
-Depth tiers: `{'deep': 62, 'developed': 91}`.
+Scored active article/overview pages: **154**. Median words: **547**.
+Depth tiers: `{'deep': 63, 'developed': 91}`.
 
 A page is not promoted by word count alone. The score checks implementation/model detail, evidence, version lineage, API/host context, failure/bug knowledge, experiments, explicit unknowns/falsification, and cross-links; content volume contributes at most two points.
 
@@ -75,6 +75,7 @@ A page is not promoted by word count alone. The score checks implementation/mode
 | `ui-system` | 3 | 8.0 | 644 | 0 |
 | `vector-shape-system` | 2 | 8.0 | 536 | 0 |
 | `color-pipeline` | 2 | 8.5 | 689 | 0 |
+| `media-system` | 4 | 8.5 | 585 | 0 |
 | `observability` | 6 | 8.5 | 325 | 0 |
 | `state-model` | 6 | 8.5 | 650 | 0 |
 | `troubleshooting` | 2 | 8.5 | 474 | 0 |
@@ -83,7 +84,6 @@ A page is not promoted by word count alone. The score checks implementation/mode
 | `capability-recipes` | 11 | 9.0 | 551 | 0 |
 | `evaluation` | 4 | 9.0 | 764 | 0 |
 | `headless-system` | 2 | 9.0 | 465 | 0 |
-| `media-system` | 3 | 9.0 | 545 | 0 |
 | `memory-system` | 2 | 9.0 | 712 | 0 |
 | `mfr` | 2 | 9.0 | 732 | 0 |
 | `reference` | 5 | 9.0 | 467 | 0 |

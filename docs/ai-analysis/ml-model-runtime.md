@@ -46,7 +46,7 @@ Bundled FastMask model files use `.mlem`. Their leading bytes are not raw ONNX s
 ## Public API boundary
 The installed model registry is an internal product artifact, not a documented third-party After Effects SDK for registering arbitrary inference models. Model keys, bundle types and `.mlem` containers may change without plug-in compatibility guarantees.
 
-Third-party code should therefore use the registry as archaeology/observability evidence only. A product integration must not modify `model_metadata.json`, replace bundled model files or assume on-demand delivery endpoints are stable extension APIs.
+Third-party code should therefore use the registry as archaeology/observability evidence only. A product integration must not modify `installed:MLModels/model_metadata.json`, replace bundled model files or assume on-demand delivery endpoints are stable extension APIs.
 
 ## Runtime policy dimensions
 Model **identity**, **delivery**, **residency**, **device eligibility**, **inference-session lifetime** and **analysis-result residency** are separate. A model may be registered but not downloaded; downloaded but not loaded; loaded on CPU versus GPU; evicted while a propagated matte remains reusable from disk.

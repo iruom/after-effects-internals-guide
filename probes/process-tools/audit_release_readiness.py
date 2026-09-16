@@ -98,7 +98,7 @@ add("doc-todo-markers","WARN" if todo else "PASS",f"docs_with_todo_like_markers=
 # Relative markdown-link integrity inside docs/README/ROADMAP.
 link_re=re.compile(r"\[[^\]]*\]\(([^)]+)\)")
 broken=[]; checked=0
-sources=[ROOT/"README.md",ROOT/"ROADMAP.md"]+list(DOCS.rglob("*.md"))
+sources=[ROOT/"README.md",ROOT/"ROADMAP.md"]+[p for p in DOCS.rglob("*.md") if p != STATUS]
 for src in sources:
     text=src.read_text(encoding="utf-8-sig",errors="replace")
     for target in link_re.findall(text):
@@ -112,7 +112,7 @@ add("markdown-local-links","BLOCKER" if broken else "PASS",f"checked={checked} b
 # AEIG commonly references artifacts in inline-code rather than markdown links.
 # Build one bounded repository index instead of recursively scanning the entire repo
 # for every fallback lookup. Excluding scratch also avoids generated-site noise.
-code_ref_re=re.compile(r"`([^`]+\.(?:md|csv|json|py))`")
+code_ref_re=re.compile(r"`([^`\s]+\.(?:md|csv|json|py))`")
 index_roots=[DOCS,DATA,FIND,ROOT/"experiments",ROOT/"probes",ROOT/"raw-evidence"]
 repo_files=[]
 for base in index_roots:

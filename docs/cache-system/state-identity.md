@@ -71,4 +71,4 @@ Undo/redo is especially useful: when semantic state returns to an earlier value,
 ## Unknown frontier
 Still unresolved: whether BEE/TDB Render GUIDs are deterministic solely from semantic state or incorporate generation/process salt, exact relation between RG cache-node keys and BEE GUIDs, whether Canvas receipts embed or reference a render GUID, and which render-context dimensions are mixed at which layer.
 
-Related: `docs/evaluation/dirty-invalidation.md`, `docs/state-model/object-identity.md`, `docs/temporal-system/temporal-dependencies.md`, `docs/host-integration/cpp-sdk/host-compatible-hash-state.md`.
+Related: `docs/evaluation/dirty-invalidation.md`, `docs/state-model/object-identity.md`, `docs/temporal-system/temporal-dependencies.md`, `docs/capability-recipes/host-compatible-hash-state.md`.

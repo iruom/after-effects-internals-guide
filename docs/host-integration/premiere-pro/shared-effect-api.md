@@ -61,4 +61,4 @@ For a portable sample/effect:
 ## Evidence rule
 Premiere documentation is **cross-host evidence**, not direct evidence of AE internals. A behavior becomes an AE fact only when the shared substrate is established and AE-side documentation/runtime/experiment corroborates it.
 
-Cross-links: `render-graph-analogs.md`, `threading-async.md`, `memory-management-analogs.md`, `../cpp-sdk/cross-host-semantics.md`, `../../foundations/cross-host-triangulation.md`.
+Cross-links: `render-graph-analogs.md`, `threading-async.md`, `memory-management-analogs.md`, `../cpp-sdk/premiere-other-hosts/index.md`, `../../foundations/cross-host-triangulation.md`.

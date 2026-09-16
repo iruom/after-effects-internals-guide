@@ -42,7 +42,7 @@ For CI/render-farm correctness, fresh-process execution is usually the cleaner b
 ## Evidence and cross-links
 Primary contract: Adobe Help `Automated rendering and network rendering in After Effects`. Local runtime evidence: `datasets/ae-2025-headless-entrypoint.csv` and headless/plugin-loading experiments.
 
-Related: `docs/headless-system/overview.md`, `docs/host-integration/command-line/overview.md`, cache/persistence pages and Observatory environment-capture conventions.
+Related: `docs/headless-system/overview.md`, `docs/host-integration/command-line/index.md`, cache/persistence pages and Observatory environment-capture conventions.
 
 ## Unknown frontier
 AEIG does not claim a complete inventory of which private services, extension hosts or background subsystems are suppressed or altered in every headless mode/release. Capability availability remains version- and host-context-specific and should be observed rather than guessed.

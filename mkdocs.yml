@@ -1,14 +1,363 @@
 site_name: After Effects Internals Guide
-site_description: Unofficial architecture and implementation archaeology guide for Adobe After Effects
+site_description: Evidence-graded architecture and implementation archaeology guide for Adobe After Effects
+site_url: https://ken-eizo.github.io/after-effects-internals-guide/
+repo_url: https://github.com/ken-eizo/after-effects-internals-guide
+repo_name: ken-eizo/after-effects-internals-guide
+edit_uri: edit/main/docs/
 docs_dir: docs
+copyright: Unofficial research project. Adobe and After Effects are trademarks of Adobe.
+
+nav:
+    - Home: index.md
+    - "Foundations":
+        - "Cross-Host Triangulation": foundations/cross-host-triangulation.md
+        - "Evidence Model": foundations/evidence-model.md
+        - "Independent Reimplementation Triangulation": foundations/independent-reimplementation-triangulation.md
+        - "Methodology": foundations/methodology.md
+        - "Scope and Coverage Model": foundations/scope-and-coverage-model.md
+        - "Terminology": foundations/terminology.md
+        - "Version Model": foundations/version-model.md
+    - "Architecture":
+        - "Product-System Atlas": architecture/product-system-atlas.md
+        - "Project State vs Render State": architecture/project-vs-render-state.md
+        - "Subsystem Boundaries": architecture/subsystem-boundaries.md
+        - "System Overview": architecture/system-overview.md
+    - "State Model":
+        - "GUIDs and Receipts": state-model/guid-receipts.md
+        - "Object Identity": state-model/object-identity.md
+        - "Opaque Handles Are Not Stable Identities": state-model/handle-lifetimes.md
+        - "Receipt Taxonomy": state-model/receipt-taxonomy.md
+        - "Snapshots and Synchronization": state-model/snapshots.md
+        - "Streams and Properties": state-model/streams-properties.md
+    - "Evaluation":
+        - "BEE Evaluation Runtime": evaluation/bee.md
+        - "Collateral Dependencies": evaluation/collateral-dependencies.md
+        - "Dirty Propagation and Invalidation": evaluation/dirty-invalidation.md
+        - "Evaluation Model": evaluation/evaluation-model.md
+        - "Evaluation Work Queues": evaluation/work-queues.md
+        - "Speculative Evaluation": evaluation/speculative-evaluation.md
+    - "Render Graph":
+        - "Async Render Requests and Obsolescence": render-graph/async-render-requests.md
+        - "Frame Checkout and Dependency Materialization": render-graph/frame-checkout.md
+        - "Layer Input Stage as a Render-Graph Address": render-graph/layer-input-stage.md
+        - "Layer Pipeline Stages": render-graph/layer-pipeline-stages.md
+        - "Render Context: Request-Scoped Topology, Time, Geometry and Cache State": render-graph/render-context.md
+        - "Render Graph Model": render-graph/render-graph-model.md
+        - "Render Nodes": render-graph/render-nodes.md
+        - "Render Request Architecture History": render-graph/request-architecture-history.md
+        - "Render Request Sufficiency": render-graph/render-request-sufficiency.md
+        - "Render Tasks, Work Queues, and Executors": render-graph/render-tasks.md
+    - "Cache System":
+        - "Bounds Cache": cache-system/bounds-cache.md
+        - "Cache Architecture": cache-system/cache-architecture.md
+        - "Cache State Identity": cache-system/state-identity.md
+        - "Compute Cache: Cached Computation as a Host-Scheduled Single-Flight System": cache-system/compute-cache.md
+        - "Disk Cache": cache-system/disk-cache.md
+        - "Expression Cache as Part of AE's Cache System": cache-system/expression-cache.md
+        - "GUID Mixing and Extra Render Dependencies": cache-system/guid-mixing.md
+        - "Temporal Cache Validity": cache-system/temporal-validity.md
+    - "Temporal System":
+        - "Motion Blur as a Temporal Sampling Contract": temporal-system/motion-blur.md
+        - "Smart Time Cache": temporal-system/smart-time-cache.md
+        - "Temporal Dependencies": temporal-system/temporal-dependencies.md
+        - "Time Model": temporal-system/time-model.md
+    - "Image Pipeline":
+        - "Alpha and Zero-Alpha RGB": image-pipeline/alpha-zero-rgb.md
+        - "Auxiliary / Multi-Channel Image Data": image-pipeline/auxiliary-channels.md
+        - "Convolution Kernels: Exposed Surface vs Implemented Surface": image-pipeline/convolution-kernels.md
+        - "Numerical Behavior": image-pipeline/numerical-behavior.md
+        - "Pixel Formats, Layout, and Residency": image-pipeline/pixel-formats.md
+        - "ROI and Bounds": image-pipeline/roi-bounds.md
+        - "Sampling and Resampling Internals": image-pipeline/sampling.md
+    - "Color Pipeline":
+        - "Color Pipeline": color-pipeline/overview.md
+        - "Runtime Color Architecture": color-pipeline/runtime-architecture.md
+    - "GPU System":
+        - "GPU System": gpu-system/overview.md
+    - "Memory System":
+        - "Memory Pressure and Residency Architecture": memory-system/runtime-architecture.md
+        - "Memory System": memory-system/overview.md
+    - "Media System":
+        - "Adobe Media Accelerator Identity Pattern": media-system/adobe-media-accelerator-identity.md
+        - "Media Identity: Asset, Content State, Request, and Frame": media-system/media-identity.md
+        - "Media Runtime Architecture": media-system/runtime-architecture.md
+        - "Media System": media-system/overview.md
+    - "Audio System":
+        - "Audio Runtime Architecture": audio-system/runtime-architecture.md
+        - "Audio System": audio-system/overview.md
+    - "Text System":
+        - "Text System": text-system/overview.md
+    - "Vector / Shape System":
+        - "Vector / Shape Runtime Architecture": vector-shape-system/runtime-architecture.md
+        - "Vector and Shape System": vector-shape-system/overview.md
+    - "3D System":
+        - "3D System": three-d-system/overview.md
+    - "Animation System":
+        - "Keyframe API History and Coordinate Semantics": animation-system/keyframe-api-history.md
+        - "Spatial Interpolation and Arc-Length Parameterization": animation-system/spatial-interpolation.md
+    - "Expression Engine":
+        - "Expression Caching and Runtime Reuse": expression-engine/caching.md
+        - "Expression Engine Architecture": expression-engine/architecture.md
+        - "Expression Preprocessing": expression-engine/preprocessing.md
+    - "Tracking & Analysis":
+        - "Tracking and Analysis": tracking-analysis/overview.md
+    - "AI / Analysis":
+        - "AI / Learned Analysis Systems": ai-analysis/overview.md
+        - "FastMask / Roto Brush Temporal-Memory Lineage": ai-analysis/fastmask-lineage.md
+        - "ML Model Registry and Runtime Policy": ai-analysis/ml-model-runtime.md
+        - "Object Matte / Object Selection Internals": ai-analysis/object-matte.md
+        - "Object Selection / Pre-Segmentation Pipeline": ai-analysis/object-selection-pipeline.md
+    - "Multi-Frame Rendering":
+        - "MFR State Ownership: Where Mutable Data Belongs": mfr/state-ownership.md
+        - "Multi-Frame Rendering": mfr/overview.md
+    - "Threading System":
+        - "Effect Selector Concurrency": threading-system/effect-selector-concurrency.md
+        - "Threading and Concurrency System": threading-system/overview.md
+    - "Host Integration":
+        - "AE vs Premiere: Same Problems, Different Architecture": host-integration/ae-vs-premiere-same-problems-different-architecture.md
+        - "Plug-in Capability Frontier": host-integration/capability-frontier.md
+        - "Aegp":
+            - "AEGP Surface": host-integration/aegp/index.md
+        - "Aeio":
+            - "AEIO Surface": host-integration/aeio/index.md
+            - "AEIO Architecture and Legacy I/O Contract": host-integration/aeio/overview.md
+        - "Artisans":
+            - "Artisan Surface": host-integration/artisans/index.md
+            - "Artisan Render Context and Interactive Policy": host-integration/artisans/render-context-and-interactive-policy.md
+        - "Cep":
+            - "CC 2015 Panel SDK Lineage": host-integration/cep/cc2015-panel-sdk.md
+        - "Command Line":
+            - "Command Line Surface": host-integration/command-line/index.md
+        - "C++ SDK":
+            - "C++ SDK Surface": host-integration/cpp-sdk/index.md
+            - "25.6 Windows/macOS Header Parity": host-integration/cpp-sdk/platform-header-parity.md
+            - "AEGP Coordinates at the BEE/TDB Boundary": host-integration/cpp-sdk/aegp-internal-coordinate-bridges.md
+            - "Guide Gap Matrix": host-integration/cpp-sdk/guide-gap-matrix.md
+            - "Host Reimplementation Failure Patterns": host-integration/cpp-sdk/host-reimplementation-failure-patterns.md
+            - "Independent Effect-API Reimplementations": host-integration/cpp-sdk/independent-abi-reimplementations.md
+            - "Performance Contracts and Escape Hatches": host-integration/cpp-sdk/performance-and-escape-hatches.md
+            - "SDK Distribution Archaeology": host-integration/cpp-sdk/sdk-distribution-archaeology.md
+            - "SDK Sample Pitfalls and Fossilized Defects": host-integration/cpp-sdk/sample-pitfalls.md
+            - "State API Evolution: From Conservative Dirty Checks to Dependency Receipts": host-integration/cpp-sdk/state-api-evolution.md
+            - "Suite Versioning and ABI": host-integration/cpp-sdk/suite-versioning-and-abi.md
+            - "AEGPs":
+                - "C++ SDK - AEGPs": host-integration/cpp-sdk/aegps/index.md
+            - "AEIOs":
+                - "C++ SDK - AEIOs": host-integration/cpp-sdk/aeios/index.md
+            - "Artisans":
+                - "C++ SDK - Artisans": host-integration/cpp-sdk/artisans/index.md
+            - "Audio":
+                - "C++ SDK - Audio": host-integration/cpp-sdk/audio/index.md
+            - "Effect Basics":
+                - "C++ SDK - Effect Basics": host-integration/cpp-sdk/effect-basics/index.md
+            - "Effect Details":
+                - "C++ SDK - Effect Details": host-integration/cpp-sdk/effect-details/index.md
+            - "Effect UI & Events":
+                - "C++ SDK - Effect UI and Events": host-integration/cpp-sdk/effect-ui-events/index.md
+            - "Introduction":
+                - "C++ SDK - Introduction": host-integration/cpp-sdk/introduction/index.md
+            - "Premiere / Other Hosts":
+                - "C++ SDK - Premiere Pro and Other Hosts": host-integration/cpp-sdk/premiere-other-hosts/index.md
+            - "Smartfx":
+                - "C++ SDK - SmartFX": host-integration/cpp-sdk/smartfx/index.md
+        - "Expressions":
+            - "Expressions Surface": host-integration/expressions/index.md
+        - "PICA / SweetPea":
+            - "PICA / Sweet Pea Runtime Architecture": host-integration/pica-sweetpea/runtime-architecture.md
+            - "PICA Property and File Discovery": host-integration/pica-sweetpea/property-and-file-discovery.md
+            - "Suite Versioning and Internal Versions": host-integration/pica-sweetpea/suite-versioning.md
+            - "SweetPea/PICA Plug-in Runtime Cache and Module Lifetime": host-integration/pica-sweetpea/plugin-runtime-cache.md
+        - "Premiere Pro Comparison":
+            - "Opaque Effect Data as a Shared-State Design": host-integration/premiere-pro/opaque-effect-data.md
+            - "Premiere 26 SDK Modernization Clues": host-integration/premiere-pro/sdk26-modernization.md
+            - "Premiere Async File I/O as a Modern MediaCore Boundary": host-integration/premiere-pro/async-file-io.md
+            - "Premiere Cache Model as a Comparison Surface": host-integration/premiere-pro/cache-model-analogs.md
+            - "Premiere GPU and Memory Contract": host-integration/premiere-pro/gpu-memory-contract.md
+            - "Premiere Memory-Management Analogs": host-integration/premiere-pro/memory-management-analogs.md
+            - "Premiere PPix Cache: Identity, Dependencies, and Purge Protection": host-integration/premiere-pro/ppix-cache.md
+            - "Premiere Pro as a Cross-Host Probe for the AE Effect API": host-integration/premiere-pro/shared-effect-api.md
+            - "Premiere Render-Graph Analogs": host-integration/premiere-pro/render-graph-analogs.md
+            - "Premiere Sequence Render and Media Prefetch": host-integration/premiere-pro/sequence-render-prefetch.md
+            - "Premiere Smart Rendering: Segment Reuse Instead of Pixel Recompute": host-integration/premiere-pro/smart-rendering.md
+            - "Premiere Threading and Async Contracts as a Comparison Surface": host-integration/premiere-pro/threading-async.md
+        - "Scripting":
+            - "Scripting Surface": host-integration/scripting/index.md
+            - "Menu Commands":
+                - "Scripting - Menu Commands": host-integration/scripting/menu-commands/index.md
+            - "Object Model":
+                - "Scripting - Object Model": host-integration/scripting/object-model/index.md
+            - "Properties":
+                - "Scripting - Properties": host-integration/scripting/properties/index.md
+            - "Reflection":
+                - "Scripting - Reflection": host-integration/scripting/reflection/index.md
+        - "Smartfx":
+            - "SmartFX Surface": host-integration/smartfx/index.md
+        - "UXP / CEP":
+            - "UXP and CEP Surfaces": host-integration/uxp-cep/index.md
+            - "CEP Runtime and Host Bridge": host-integration/uxp-cep/cep-runtime.md
+            - "UXP in After Effects: Runtime Presence Is Not Public Host API": host-integration/uxp-cep/uxp-after-effects-status.md
+    - "UI System":
+        - "Async Custom-UI Rendering": ui-system/async-custom-ui-rendering.md
+        - "UI System": ui-system/overview.md
+        - "View State and Render Boundary": ui-system/view-state-and-render-boundary.md
+    - "Product Shell":
+        - "Product Shell, Panels, Commands and View State": product-shell/overview.md
+    - "Headless / Command Line":
+        - "Headless and Command-Line Host": headless-system/overview.md
+        - "Headless Runtime Architecture": headless-system/runtime-architecture.md
+    - "Inter-Application Interop":
+        - "Inter-Application and Format Interop": interop/overview.md
+    - "Persistence":
+        - "AEP Binary Model and Semantic Graph": persistence/aep-binary-model.md
+        - "AEP Binary Project Format": persistence/aep.md
+        - "AEPX: XML Project Surface, Not a Complete Project Schema": persistence/aepx.md
+        - "Cache Formats": persistence/cache-formats.md
+        - "FFX Preset Format": persistence/ffx.md
+        - "Preferences as Versioned Persistent Runtime Configuration": persistence/preferences.md
+        - "Pseudo Effects": persistence/pseudo-effects.md
+        - "Sequence Data: Instance State, Serialization, and Render-Side Copies": persistence/sequence-data.md
+    - "Observability":
+        - "Debug Database": observability/debug-database.md
+        - "GPU Tracing": observability/gpu-tracing.md
+        - "Logging and Tracing": observability/logging.md
+        - "Module Inventory": observability/module-inventory.md
+        - "Process Tracing": observability/process-tracing.md
+        - "Trace Database": observability/trace-database.md
+    - "Troubleshooting":
+        - "Internal Failure Model": troubleshooting/failure-model.md
+        - "Mining Fixed Issues for Internal Architecture": troubleshooting/fixed-issue-architecture-mining.md
+    - "Capability Recipes":
+        - "Capability Recipes": capability-recipes/index.md
+        - "Ask Whether an Item Changed Since an Edit Generation": capability-recipes/item-change-since-timestamp.md
+        - "Choose CEP vs UXP for AE Extension UI": capability-recipes/cep-vs-uxp-extension-plane.md
+        - "Choose Fresh vs Reused Headless Host State": capability-recipes/headless-fresh-vs-reuse.md
+        - "Construct Host-Compatible Hash State": capability-recipes/host-compatible-hash-state.md
+        - "Deduplicate Expensive Computation Across Render Threads": capability-recipes/compute-cache-deduplicate-work.md
+        - "Recipe: Escape Native Plug-in API Limits with the Extension Plane": capability-recipes/ui-automation-extension-plane.md
+        - "Recipe: Keep a Stable Reference to AE Objects": capability-recipes/stable-object-references.md
+        - "Recipe: Make Non-Parameter State Cache-Safe": capability-recipes/cache-safe-extra-dependencies.md
+        - "Recipe: Negotiate Suite Versions Safely": capability-recipes/suite-version-negotiation.md
+        - "Recipe: Observe Internal Rendering Without Depending on Private ABI": capability-recipes/observe-internals-safely.md
+        - "Recipe: Render a Layer at a Specific Effect Stage": capability-recipes/effect-prefix-rendering.md
+    - "Architecture Archaeology":
+        - "Architecture Timeline": archaeology/timeline.md
+        - "CC 2015 / 13.5 Re-architecture": archaeology/cc2015-rearchitecture.md
+        - "Disk Playback Era: From Persistent Cache to Active Preview Residency": archaeology/disk-playback-era.md
+        - "Multi-Frame Rendering Era": archaeology/mfr-era.md
+        - "Official API Version Lineage": archaeology/official-api-version-lineage.md
+        - "Patent Archaeology Map": archaeology/patent-map.md
+        - "PF Effect API Version Lineage": archaeology/pf-api-version-lineage.md
+        - "SmartFX Archaeology: From AE 7/9 to the Modern Render Graph": archaeology/ae9-smartfx.md
+    - "Reference":
+        - "AEIG 1.0 Release Readiness": reference/release-readiness.md
+        - "AEIG 1.0 Static RC Snapshot": reference/static-rc-snapshot.md
+        - "AEIG 1.0 Static RC Status": reference/static-rc-status.md
+        - "AEIG 1.0 Static Release Candidate": reference/aeig-1.0-static-rc.md
+        - "AEIG 1.0 Static Release Candidate": reference/static-release-candidate.md
+        - "AEIG Bug / Quirk / Regression Registry": reference/bug-quirk-registry.md
+        - "AEIG Page Depth Audit": reference/page-depth-audit.md
+        - "AEIG Static RC Fingerprint": reference/static-rc-fingerprint.md
+        - "AEIG Unknown Frontier": reference/unknown-frontier.md
+        - "after-effects-sys Binding Corroboration": reference/binding-corroboration-status.md
+        - "Analyzer Self-Test": reference/analyzer-selftest.md
+        - "API / Capability Atlas": reference/api-capability-atlas.md
+        - "API Completeness Status": reference/api-completeness-status.md
+        - "Capability Frontier Status": reference/capability-frontier-status.md
+        - "Core L5 Operator Evidence Map": reference/l5-operator-evidence-map.md
+        - "Corpus Coverage Status": reference/corpus-coverage-status.md
+        - "Debug / Trace Lineage Status": reference/debug-trace-lineage-status.md
+        - "Debug Database Keys": reference/debug-database-keys.md
+        - "Finalizer Refutation-Path Self-Test": reference/finalizer-refutation-selftest.md
+        - "Finalizer Success-Path Self-Test": reference/finalizer-success-selftest.md
+        - "Finding Reference Status": reference/finding-reference-status.md
+        - "Guide/Header Relation Status": reference/api-guide-relation-status.md
+        - "L5 Outcome Decision Table": reference/l5-outcome-decision-table.md
+        - "L5 User-Run Finalization": reference/l5-user-run-finalization.md
+        - "Master Registry Filtering and Normalization": reference/master-surface-registry-filtering-note.md
+        - "Master Surface Registry": reference/master-surface-registry.md
+        - "Official Guide API-Version Snapshot Lineage": reference/official-guide-snapshot-lineage.md
+        - "Pre-Operator Readiness": reference/pre-operator-readiness.md
+        - "Prediction Lock Integrity Self-Test": reference/prediction-lock-selftest.md
+        - "Prediction Status": reference/prediction-status.md
+        - "Promotion Transaction Self-Test": reference/promotion-transaction-selftest.md
+        - "Querying the Master Surface Registry": reference/master-surface-query.md
+        - "Release Pipeline Self-Test": reference/release-pipeline-selftest.md
+        - "Repository Integrity": reference/repository-integrity.md
+        - "Roadmap Status": reference/roadmap-status.md
+        - "Runtime Export Atlas Status": reference/runtime-export-atlas-status.md
+        - "SDK Lineage Status": reference/sdk-lineage-status.md
+        - "Static RC Identity": reference/static-rc-identity.md
+        - "Trace Categories": reference/trace-categories.md
+        - "Version Matrix": reference/version-matrix.md
+
 theme:
-  name: material
-  features:
-    - navigation.sections
-    - navigation.indexes
-    - content.code.copy
+    name: material
+    language: en
+    icon:
+        repo: fontawesome/brands/github
+    features:
+        - announce.dismiss
+        - content.action.edit
+        - content.action.view
+        - content.code.copy
+        - navigation.footer
+        - navigation.indexes
+        - navigation.sections
+        - search.highlight
+        - search.suggest
+        - toc.follow
+    palette:
+        - media: "(prefers-color-scheme: dark)"
+          primary: black
+          scheme: slate
+          toggle:
+              icon: material/brightness-4
+              name: Switch to light mode
+        - media: "(prefers-color-scheme: light)"
+          primary: white
+          scheme: default
+          toggle:
+              icon: material/brightness-7
+              name: Switch to dark mode
+
+plugins:
+    - search:
+          separator: '[\s\-,\.:!=\[\]()"/]+'
+    - git-revision-date-localized:
+          enable_git_follow: false
+          strict: false
+          type: date
+    - print-site:
+          add_cover_page: true
+          add_print_site_banner: true
+          print_page_title: Offline Docs
+
 markdown_extensions:
-  - admonition
-  - tables
-  - toc:
-      permalink: true
+    - admonition
+    - attr_list
+    - def_list
+    - footnotes
+    - md_in_html
+    - tables
+    - pymdownx.details
+    - pymdownx.highlight:
+          line_spans: __span
+          pygments_lang_class: true
+    - pymdownx.inlinehilite
+    - pymdownx.superfences
+    - pymdownx.tabbed:
+          alternate_style: true
+    - pymdownx.tasklist:
+          custom_checkbox: true
+    - toc:
+          title: Page Contents
+          permalink: true
+          toc_depth: 3
+
+extra_css:
+    - stylesheets/extra.css
+
+extra:
+    social:
+        - icon: fontawesome/brands/github
+          link: https://github.com/ken-eizo/after-effects-internals-guide

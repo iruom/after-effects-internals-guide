@@ -49,4 +49,4 @@ For research, search a concept such as render identity across public hash/receip
 ## Unknown frontier
 The registry is corpus-scoped. Non-distributed private source, encrypted/stripped symbols, dynamically generated names and uncollected versions remain outside it unless another evidence source adds them.
 
-Cross-links: `master-surface-registry-filtering-note.md`, `corpus-coverage-status.md`, `../foundations/evidence-policy.md`, and `../../datasets/ae-master-surface-registry.csv`.
+Cross-links: `master-surface-registry-filtering-note.md`, `corpus-coverage-status.md`, `../foundations/evidence-model.md`, and `../../datasets/ae-master-surface-registry.csv`.

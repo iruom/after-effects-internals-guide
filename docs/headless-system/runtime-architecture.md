@@ -74,4 +74,4 @@ Repeat with one deliberate cache purge and one full process restart. This separa
 ## Unknown frontier
 Still unresolved: exact service/module suppression policy in each render-engine mode, whether every UI/extension subsystem initializes under `-reuse`, process-local lifetime of BEE/TDB/RG caches across consecutive aerender jobs, and differences between aerender reuse and Dynamic Link/Media Encoder hosting.
 
-Related: `docs/host-integration/cpp-sdk/implementation.md`, `docs/memory-system/runtime-architecture.md`, `docs/render-graph/render-tasks.md`.
+Related: `docs/host-integration/cpp-sdk/index.md`, `docs/memory-system/runtime-architecture.md`, `docs/render-graph/render-tasks.md`.

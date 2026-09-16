@@ -12,17 +12,25 @@ The target architecture connects:
 
 Detailed exit conditions and milestones live in `ROADMAP.md`. Machine-generated current progress lives in `docs/reference/roadmap-status.md`.
 
+## Guide site
+The documentation site uses the same MkDocs Material family as the official After Effects C++ SDK Guide, with AEIG-specific architecture navigation, full-text search, light/dark modes, edit/view actions, and an offline printable view.
+
+- Published site: https://ken-eizo.github.io/after-effects-internals-guide/
+- Local preview: `mkdocs serve` after `pip install -r requirements-docs.txt`
+- Strict build: `mkdocs build --strict`
+- Regenerate navigation: `python probes/process-tools/generate_site_config.py`
+
 ## Core rule
 Every claim must be classified as official contract, distributed implementation artifact, locally observed artifact, reproducible experiment, independently inspectable reimplementation, third-party evidence, or explicit hypothesis.
 
 ## Coverage model
 Every major domain is tracked across five axes: **Product Surface -> Internal Domain -> Evidence Surface -> Experiment -> Version Lineage**. See `docs/foundations/scope-and-coverage-model.md` and `datasets/aeig-domain-coverage.csv`.
-As of 2026-09-15, **23/27** tracked domains meet the AEIG 1.0 minimum. Distribution: L2=7, L3=11, L4=7, L5=2. All L1 blind spots are closed; the remaining minimum-target gaps are `state-identity`, `cache`, `render-graph`, and `plugin-host`, each at L4 -> L5.
+As of 2026-09-16, **24/27** tracked domains meet the AEIG 1.0 minimum. Distribution: L2=7, L3=11, L4=6, L5=3. All L1 blind spots are closed; the remaining minimum-target gaps are `state-identity`, `render-graph`, and `cache`, each at L4 -> L5.
 
 The C++ API Atlas currently contains **5,023 identifiers** with **0 surface-classification gaps** and **0 unreviewed Guide/Header relation rows**. Documentation aliases, stale signatures, cross-host-only entries, historical removals and header-only contracts are retained as distinct classes rather than forced into one API list.
 
 ## Current priorities
-1. Run the canonical `experiments/user-run/AEIG-1.0-L5` package once in a disposable full AE session to close the four remaining core L5 gates.
+1. Run the canonical `experiments/user-run/AEIG-1.0-L5` package once in a disposable full AE session to close the three remaining core L5 gates and resolve the five pending locked predictions.
 2. Correlate effect-prefix receipts with BEE/TDB/MixHashGuid/RG traces before promoting state/cache claims.
 3. Complete runtime Scripting Reflection differential from the same user-run capture.
 4. Continue historical SDK recovery between CS6 and 23.x and preserve ABI/semantic drift separately.
