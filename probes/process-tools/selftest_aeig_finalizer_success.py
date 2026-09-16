@@ -9,7 +9,7 @@ MODE=args.mode; REFUTE_PRED004=MODE=="refute-pred004"
 CLONE=ROOT/"scratch"/("finalizer-refutation-selftest" if REFUTE_PRED004 else "finalizer-success-selftest")
 OUT=DATA/("aeig-finalizer-refutation-selftest.json" if REFUTE_PRED004 else "aeig-finalizer-success-selftest.json")
 PAGE=DOCS/("finalizer-refutation-selftest.md" if REFUTE_PRED004 else "finalizer-success-selftest.md")
-EXPECTED_AEX="E3546DB78AA3454FEE5EF6C5A14A3B1152111D2A543E249C3DBB1036AE3DFF33"
+EXPECTED_AEX="884E9CB19AF32AFA1DBFB11A4777E66107C71B13C16A759FBB9B299572382792"
 
 def digest(p):
     if not p.exists(): return "MISSING"

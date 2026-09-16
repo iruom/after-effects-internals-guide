@@ -4,6 +4,9 @@ var SCRIPT = "D:/Developer/After Effects Internals Guide/experiments/observatory
 var LOGPATH = CACHE + "fixture-script.log";
 var RECEIPT = CACHE + "receipt-matrix.tsv";
 var PASSFILE = RG + "current-pass.txt";
+var HOSTTRACE = RG + "host-trace.log";
+var TRACECONTROL = RG + "trace-control.tsv";
+var ARTSTAGE = RG + "artisan-stage.tsv";
 var REFLECT = SCRIPT + "runtime-reflection.tsv";
 var ENV = CACHE + "environment.txt";
 var SESSION = "D:/Developer/After Effects Internals Guide/datasets/aeig-l5-operator-session.env";
@@ -84,6 +87,10 @@ try {
   var e2=fx.addProperty("ADBE Fill"); dumpReflect(e2,"Fill"); log("fx2="+e2.matchName);
   var e3=fx.addProperty("ADBE Tint"); dumpReflect(e3,"Tint"); log("fx3="+e3.matchName);
   log("numEffects="+fx.numProperties);
+  renderPass(comp,"WARMUP",CACHE+"fixture-output-WARMUP.avi");
+  try{ (new File(CACHE+"fixture-output-WARMUP.avi")).remove(); }catch(e){}
+  writeText(RECEIPT,""); writeText(HOSTTRACE,""); writeText(TRACECONTROL,""); writeText(ARTSTAGE,"");
+  log("CANONICAL_CAPTURE_RESET_AFTER_WARMUP");
   renderPass(comp,"A",CACHE+"fixture-output-A.avi");
   layer=comp.layer("AEIG_SOLID"); fx=layer.property("ADBE Effect Parade"); e1=fx.property(1);
   e1.property(1).setValue(75);
