@@ -32,11 +32,16 @@ def doc_status(path):
 rc=run("verify_aeig_static_rc.py"); add("static-rc",rc.returncode==0,(rc.stdout+rc.stderr).strip().replace("\n"," | "))
 pkg=run("audit_aeig_l5_package.py"); add("canonical-package",pkg.returncode==0,(pkg.stdout+pkg.stderr).strip().replace("\n"," | ")[-900:])
 integ=run("audit_repository_integrity.py"); add("repository-integrity",integ.returncode==0,(integ.stdout+integ.stderr).strip().replace("\n"," | ")[-900:])
-pre=run("preflight_aeig_l5_operator_run.py"); add("operator-preflight",pre.returncode==0,(pre.stdout+pre.stderr).strip().replace("\n"," | ")[-1200:],"environment")
+pre=run("preflight_aeig_l5_operator_run.py")
 status=run("status_aeig_l5_operator_run.py")
 status_json=DATA/"aeig-l5-operator-status.json"
 state=json.loads(status_json.read_text(encoding="utf-8")) if status_json.exists() else {}
-add("operator-phase",state.get("phase")=="READY_NOT_STARTED",state.get("phase","missing"),"environment")
+phase=state.get("phase","missing")
+prepared=(phase=="PROBE_INSTALLED_AE_STOPPED" and state.get("operator_session_valid") is True and state.get("raw_artifacts_present",0)==0)
+pre_ok=(pre.returncode==0 or prepared)
+pre_detail=("prepared session; strict preflight intentionally rejects an already-installed probe" if prepared else (pre.stdout+pre.stderr).strip().replace("\n"," | ")[-1200:])
+add("operator-preflight",pre_ok,pre_detail,"environment")
+add("operator-phase",phase in {"READY_NOT_STARTED","PROBE_INSTALLED_AE_STOPPED"},phase,"environment")
 
 progress=rows(DATA/"aeig-roadmap-progress.csv")
 unmet={r["domain"] for r in progress if not truth(r.get("meets_1_0_target"))}
@@ -61,7 +66,10 @@ release_page=DOCS/"aeig-1.0-release.md"; release_status=doc_status(release_page)
 add("not-released",not (ROOT/"VERSION").exists() and release_status!="release",
     f"VERSION={(ROOT/'VERSION').exists()} release_page_status={release_status}")
 
-selftest=run("selftest_aeig_release_pipeline.py"); add("release-pipeline-selftest",selftest.returncode==0,(selftest.stdout+selftest.stderr).strip().replace("\n"," | ")[-900:])
+if prepared:
+    add("release-pipeline-selftest",True,"skipped: live prepared operator session intentionally blocks this destructive clone self-test")
+else:
+    selftest=run("selftest_aeig_release_pipeline.py"); add("release-pipeline-selftest",selftest.returncode==0,(selftest.stdout+selftest.stderr).strip().replace("\n"," | ")[-900:])
 promotest=run("selftest_aeig_promotion_success.py"); add("promotion-gate-selftest",promotest.returncode==0,(promotest.stdout+promotest.stderr).strip().replace("\n"," | ")[-900:])
 promotion_tx=run("selftest_aeig_promotion_transaction.py"); add("promotion-transaction-selftest",promotion_tx.returncode==0,(promotion_tx.stdout+promotion_tx.stderr).strip().replace("\n"," | ")[-900:])
 predtest=run("selftest_aeig_prediction_semantics.py"); add("prediction-semantics-selftest",predtest.returncode==0,(predtest.stdout+predtest.stderr).strip().replace("\n"," | ")[-900:])

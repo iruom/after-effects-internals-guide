@@ -19,7 +19,7 @@ Checks: **16** — PASS 13, BLOCKER 2, WARN 0, INFO 1.
 | `master-surface-registry` | **PASS** | rows=53728 classes=13 missing= blanks={'name': 0, 'support_class': 0, 'host_scope': 0, 'source': 0} |
 | `predictive-validation` | **BLOCKER** | prospective=7 locked=7 confirmed=2 unresolved=5 refuted_unrevised=0 |
 | `l5-user-run-package` | **PASS** | package_files=7/7 / aex_sha256=884E9CB19AF32AFA1DBFB11A4777E66107C71B13C16A759FBB9B299572382792 / python_compile=26/26 / manifest_json=ok / jsx_syntax=ok / AEIG-L5 package audit: GREEN |
-| `static-rc-freeze` | **PASS** | AEIG static RC verification: PASS / artifacts 70 predictions 7 / fingerprint EE8C24873028F1D5BBF34899E2D8D934AE2DFC4DEAB52F758F3EA1B8CCB365A6 |
+| `static-rc-freeze` | **PASS** | AEIG static RC verification: PASS / artifacts 70 predictions 7 / fingerprint 79E7481B91E14E18C9EC3D5049827774B400EA882A761CA7DF2F641994BFCE95 |
 | `seed-pages` | **PASS** | seed_pages=0 |
 | `doc-todo-markers` | **PASS** | docs_with_todo_like_markers=0 |
 | `markdown-local-links` | **PASS** | checked=0 broken=0 |
